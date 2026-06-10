@@ -1,9 +1,3 @@
-
-Tie tam nesmú byť.
-
-Otvor `.github/workflows/update-data.yml`, vymaž všetko a vlož presne toto:
-
-```yaml
 name: Update Tennis Databases
 
 on:
