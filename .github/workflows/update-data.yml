@@ -1,60 +1,64 @@
+
+Tie tam nesmú byť.
+
+Otvor `.github/workflows/update-data.yml`, vymaž všetko a vlož presne toto:
+
+```yaml
 name: Update Tennis Databases
 
 on:
-schedule:
-- cron: '0 5 * * 6'
-workflow_dispatch:
+  schedule:
+    - cron: "0 5 * * 6"
+  workflow_dispatch:
 
 jobs:
-update:
-runs-on: ubuntu-latest
+  update:
+    runs-on: ubuntu-latest
 
-```
-steps:
-  - name: Checkout repository
-    uses: actions/checkout@v4
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-  - name: Set up Python
-    uses: actions/setup-python@v5
-    with:
-      python-version: "3.11"
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
 
-  - name: Install dependencies
-    run: |
-      pip install -r requirements.txt
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
 
-  - name: Update rankings
-    run: python update_rankings.py
+      - name: Update rankings
+        run: python update_rankings.py
 
-  - name: Update ATP database
-    run: python update.py
+      - name: Update ATP database
+        run: python update.py
 
-  - name: Retry failed ATP players
-    run: |
-      if [ -f failed_players.csv ]; then
-        python retry_failed.py
-      fi
+      - name: Retry failed ATP players
+        run: |
+          if [ -f failed_players.csv ]; then
+            python retry_failed.py
+          fi
 
-  - name: Update WTA database
-    run: python update_wta.py
+      - name: Update WTA database
+        run: python update_wta.py
 
-  - name: Retry failed WTA players
-    run: |
-      if [ -f wta_failed_players.csv ]; then
-        python retry_failed_wta.py
-      fi
+      - name: Retry failed WTA players
+        run: |
+          if [ -f wta_failed_players.csv ]; then
+            python retry_failed_wta.py
+          fi
 
-  - name: Commit updated files
-    run: |
-      git config --global user.name "github-actions"
-      git config --global user.email "github-actions@github.com"
+      - name: Commit updated files
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
 
-      git add data/*.csv
-      git add atp_players.csv atp_top100.csv
-      git add wta_players.csv wta_top100.csv
+          git add data/*.csv
+          git add atp_players.csv atp_top100.csv
+          git add wta_players.csv wta_top100.csv
 
-      git diff --staged --quiet || git commit -m "Automatic weekly update"
+          git diff --staged --quiet || git commit -m "Automatic weekly update"
 
-  - name: Push changes
-    run: git push
-```
+      - name: Push changes
+        run: git push
