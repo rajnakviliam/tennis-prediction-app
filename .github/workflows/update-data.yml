@@ -20,10 +20,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install -r requirements.txt
-
-      - name: Update rankings
-        run: python update_rankings.py
+          pip install -r requirements.txt      
 
       - name: Update ATP database
         run: python update.py
