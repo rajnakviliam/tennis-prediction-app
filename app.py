@@ -20,9 +20,14 @@ wta_time = Path(WTA_FILE).stat().st_mtime
 last_update = max(atp_time, wta_time)
 
 from datetime import datetime
+atp_rows = sum(1 for _ in open(ATP_FILE, encoding="utf-8-sig")) - 1
+wta_rows = sum(1 for _ in open(WTA_FILE, encoding="utf-8-sig")) - 1
+
 st.caption(
-    f"📅 Posledná aktualizácia databázy: "
-    f"{datetime.fromtimestamp(last_update).strftime('%d.%m.%Y %H:%M')}"
+    f"📅 Posledná aktualizácia: "
+    f"{datetime.fromtimestamp(last_update).strftime('%d.%m.%Y %H:%M')} | "
+    f"ATP: {atp_rows:,}".replace(",", " ") + " | "
+    f"WTA: {wta_rows:,}".replace(",", " ")
 )
 
 
