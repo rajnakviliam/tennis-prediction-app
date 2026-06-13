@@ -15,6 +15,16 @@ TOLERANCES = [0.3, 0.4, 0.5, 0.6, 0.7, 0.8]
 st.set_page_config(page_title="Tennis Prediction", layout="wide")
 st.title("🎾 Tennis Prediction")
 
+atp_time = Path(ATP_FILE).stat().st_mtime
+wta_time = Path(WTA_FILE).stat().st_mtime
+last_update = max(atp_time, wta_time)
+
+from datetime import datetime
+st.caption(
+    f"📅 Posledná aktualizácia databázy: "
+    f"{datetime.fromtimestamp(last_update).strftime('%d.%m.%Y %H:%M')}"
+)
+
 
 def load_settings():
     if Path(SETTINGS_FILE).exists():
