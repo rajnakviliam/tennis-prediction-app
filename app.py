@@ -15,17 +15,16 @@ TOLERANCES = [0.3, 0.4, 0.5, 0.6, 0.7, 0.8]
 st.set_page_config(page_title="Tennis Prediction", layout="wide")
 st.title("🎾 Tennis Prediction")
 
-atp_time = Path(ATP_FILE).stat().st_mtime
-wta_time = Path(WTA_FILE).stat().st_mtime
-last_update = max(atp_time, wta_time)
+if Path("last_update.txt").exists():
+    last_update_text = Path("last_update.txt").read_text(encoding="utf-8").strip()
+else:
+    last_update_text = "neznáme"
 
-from datetime import datetime
 atp_rows = sum(1 for _ in open(ATP_FILE, encoding="utf-8-sig")) - 1
 wta_rows = sum(1 for _ in open(WTA_FILE, encoding="utf-8-sig")) - 1
 
 st.caption(
-    f"📅 Posledná aktualizácia: "
-    f"{datetime.fromtimestamp(last_update).strftime('%d.%m.%Y %H:%M')} | "
+    f"📅 Posledná aktualizácia: {last_update_text} | "
     f"ATP: {atp_rows:,}".replace(",", " ") + " | "
     f"WTA: {wta_rows:,}".replace(",", " ")
 )
