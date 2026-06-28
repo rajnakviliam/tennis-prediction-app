@@ -13,5 +13,12 @@ git add data/atp_matches_database.csv data/wta_matches_database.csv last_update.
 
 if ! git diff --cached --quiet; then
   git commit -m "Weekly ATP and WTA database update"
+
+  echo "Synchronizing with GitHub..."
+  git pull --rebase origin main
+
+  echo "Pushing changes..."
   git push
+else
+  echo "No changes."
 fi
