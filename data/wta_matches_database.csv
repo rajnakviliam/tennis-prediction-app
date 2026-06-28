@@ -1,4 +1,8 @@
 ﻿Player;Date;Tournament;Surface;Level;Result;Round;Score;Opponent;A%;DF%;vA%;Pts/SG;MatchID;Year;IsTop100
+Ajla Tomljanovic;2026-06-22;WTA Eastbourne;Grass;W;L;R16;6-2 5-7 6-4;Tereza Valentova;2,91;6,8;4,35;6,87;2026-710-292;2026;False
+Ajla Tomljanovic;2026-06-22;WTA Eastbourne;Grass;W;W;Q1;6-2 6-4;Camila Osorio;0,0;6,25;4,62;5,33;2026-710-253;2026;False
+Ajla Tomljanovic;2026-06-22;WTA Eastbourne;Grass;W;W;Q2;6-1 7-5;Veronika Erjavec;3,51;10,53;2,17;5,7;2026-710-264;2026;False
+Ajla Tomljanovic;2026-06-22;WTA Eastbourne;Grass;W;W;R32;6-2 6-7(5) 7-5;Elisabetta Cocciaretto;1,98;7,92;3,85;6,31;2026-710-282;2026;False
 Ajla Tomljanovic;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;W;R32;6-3 6-1;Jessica Bouzas Maneiro;0,0;6,0;0,0;6,25;2026-822-288;2026;False
 Ajla Tomljanovic;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;W;R16;4-6 6-4 7-5;Dayana Yastremska;1,69;5,93;4,63;7,38;2026-822-294;2026;False
 Ajla Tomljanovic;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;W;R32;6-3 6-1;Jessica Bouzas Maneiro;0,0;6,0;0,0;6,25;2026-822-283;2026;False
@@ -500,9 +504,14 @@ Akasha Urhobo;2025-01-27;W75 Rome GA;Hard;75;L;R16;6-2 6-1;Victoria Mboko;0,0;2,
 Akasha Urhobo;2025-01-27;W75 Rome GA;Hard;75;W;R32;7-5 3-6 6-2;Malaika Rapolu;0,96;4,81;0,0;7,43;2025-W-ITF-USA-2025-004-106;2025;False
 Akasha Urhobo;2024-10-28;Merida;Hard;I;L;R32;7-5 6-2;Renata Zarazua;0,0;5,0;0,0;6,0;2024-2085-285;2024;False
 Akasha Urhobo;2022-08-22;Cleveland;Hard;I;L;Q1;6-4 6-3;Laura Siegemund;1,72;6,9;0,0;5,8;2022-2040-259;2022;False
+Alexandra Eala;2026-06-21;WTA Bad Homburg;Grass;W;L;R32;6-3 6-3;Elise Mertens;2,94;4,41;17,54;7,56;2026-2017-272;2026;True
 Alexandra Eala;2026-06-15;WTA Berlin;Grass;W;W;QF;6-3 6-4;Elina Svitolina;5,26;3,51;5,97;5,7;2026-2012-297;2026;True
 Alexandra Eala;2026-06-15;WTA Berlin;Grass;W;W;R16;7-5 6-4;Elena Rybakina;5,97;4,48;18,84;6,09;2026-2012-289;2026;True
 Alexandra Eala;2026-06-15;WTA Berlin;Grass;W;W;R32;7-5 6-4;Donna Vekic;10,53;2,63;8,57;6,91;2026-2012-274;2026;True
+Alexandra Eala;2026-06-15;Berlin;Grass;P;L;SF;6-2 6-4;Linda Noskova;4,08;6,12;16,67;5,44;2026-2012-298;2026;True
+Alexandra Eala;2026-06-15;Berlin;Grass;P;W;QF;6-3 6-4;Elina Svitolina;5,26;3,51;5,97;5,7;2026-2012-294;2026;True
+Alexandra Eala;2026-06-15;Berlin;Grass;P;W;R16;7-5 6-4;Elena Rybakina;5,97;4,48;18,84;6,09;2026-2012-286;2026;True
+Alexandra Eala;2026-06-15;Berlin;Grass;P;W;R32;7-5 6-4;Donna Vekic;10,53;2,63;8,57;6,91;2026-2012-271;2026;True
 Alexandra Eala;2026-06-08;WTA Queens;Grass;W;L;R16;6-2 6-2;Iva Jovic;2,0;2,0;8,33;6,25;2026-1111-299;2026;True
 Alexandra Eala;2026-06-08;WTA Queens;Grass;W;W;R32;6-3 6-2;Shuai Zhang;4,84;1,61;3,7;6,89;2026-1111-284;2026;True
 Alexandra Eala;2026-06-08;WTA Queens;Grass;W;L;R16;6-2 6-2;Iva Jovic;2,0;2,0;8,33;6,25;2026-1111-291;2026;True
@@ -747,6 +756,7 @@ Alexandra Shubladze;2025-06-02;W15 Kursumlijska Banja;Clay;15;W;R32;6-2 6-1;Drag
 Alexandra Shubladze;2025-06-02;W15 Kursumlijska Banja;Clay;15;W;SF;6-3 6-2;Lucie Havlickova;0,0;14,81;6,06;6,75;2025-W-ITF-SRB-2025-007-402;2025;False
 Alexandra Shubladze;2025-05-05;W50 Lopota;Hard;50;L;R32;1-6 6-3 6-2;Tiphanie Fiquet;0,0;6,06;1,04;5,5;2025-W-ITF-GEO-2025-002-103;2025;False
 Aliaksandra Sasnovich;2026-06-15;WTA Berlin;Grass;W;L;Q1;6-7(3) 6-4 7-6(4);Magdalena Frech;3,51;4,39;5,26;6,71;2026-2012-260;2026;False
+Aliaksandra Sasnovich;2026-06-15;Berlin;Grass;P;L;Q1;6-7(3) 6-4 7-6(4);Magdalena Frech;3,51;4,39;5,26;6,71;2026-2012-259;2026;False
 Aliaksandra Sasnovich;2026-06-08;WTA Queens;Grass;W;L;Q1;5-7 7-6(7) 7-6(4);Storm Hunter;3,88;3,88;3,7;7,17;2026-1111-262;2026;False
 Aliaksandra Sasnovich;2026-06-08;WTA Queens;Grass;W;L;Q1;5-7 7-6(7) 7-6(4);Storm Hunter;3,88;3,88;3,7;7,17;2026-1111-258;2026;False
 Aliaksandra Sasnovich;2026-06-08;Queen's Club;Grass;P;L;Q1;5-7 7-6(7) 7-6(4);Storm Hunter;3,88;3,88;3,7;7,17;2026-1111-256;2026;False
@@ -1269,9 +1279,12 @@ Aliaksandra Sasnovich;2016-01-18;Australian Open;Hard;G;W;R128;6-3 7-6;Evgeniya 
 Aliaksandra Sasnovich;2016-01-11;Sydney;Hard;P;L;Q1;6-1 6-1;Yulia Putintseva;0,0;11,11;2,38;6,43;2016-M001-254;2016;False
 Aliaksandra Sasnovich;2016-01-04;Brisbane;Hard;P;L;Q1;6-3 6-4;Kristina Kucova;3,51;3,51;0,0;6,33;2016-M020-250;2016;False
 Aliaksandra Sasnovich;2015-07-20;Bad Gastein;Clay;I;L;R32;6-4 6-4;Sara Errani;0,0;7,94;1,47;6,3;2015-W-INT-AUT-01A-2015-001;2015;False
-Alina Charaeva;2026-06-15;WTA Figueira Da Foz 125;Hard;W;W;QF;5-7 6-2 7-5;Susan Bandecchi;7,41;8,64;1,0;5,06;2026-1177-298;2026;False
 Alina Charaeva;2026-06-15;WTA Figueira Da Foz 125;Hard;W;W;R16;6-2 6-2;Anastasia Kulikova;11,11;11,11;1,92;5,62;2026-1177-291;2026;False
 Alina Charaeva;2026-06-15;WTA Figueira Da Foz 125;Hard;W;W;R32;6-0 6-0;Manon Leonard;18,18;3,03;0,0;5,5;2026-1177-277;2026;False
+Alina Charaeva;2026-06-15;Figueira Da Foz 125;Hard;C;L;SF;6-3 6-7(5) 7-6(4);Ayla Aksu;7,58;6,06;1,74;8,25;2026-1177-298;2026;False
+Alina Charaeva;2026-06-15;Figueira Da Foz 125;Hard;C;W;QF;5-7 6-2 7-5;Susan Bandecchi;7,41;8,64;1,0;5,06;2026-1177-295;2026;False
+Alina Charaeva;2026-06-15;Figueira Da Foz 125;Hard;C;W;R16;6-2 6-2;Anastasia Kulikova;11,11;11,11;1,92;5,62;2026-1177-288;2026;False
+Alina Charaeva;2026-06-15;Figueira Da Foz 125;Hard;C;W;R32;6-0 6-0;Manon Leonard;18,18;3,03;0,0;5,5;2026-1177-274;2026;False
 Alina Charaeva;2026-06-08;WTA Queens;Grass;W;L;Q2;6-3 4-6 6-4;Polina Kudermetova;9,52;7,62;2,33;7,5;2026-1111-274;2026;False
 Alina Charaeva;2026-06-08;WTA Queens;Grass;W;W;Q1;6-2 7-6(6);Talia Gibson;8,24;7,06;16,07;8,5;2026-1111-267;2026;False
 Alina Charaeva;2026-06-08;WTA Queens;Grass;W;L;Q2;6-3 4-6 6-4;Polina Kudermetova;9,52;7,62;2,33;7,5;2026-1111-270;2026;False
@@ -1379,6 +1392,8 @@ Alina Charaeva;2021-03-15;St. Petersburg;Hard;P;L;Q2;4-6 6-1 6-2;Jaqueline Crist
 Alina Charaeva;2021-03-15;St. Petersburg;Hard;P;W;Q1;6-3 6-0;Sofya Lansere;1,85;5,56;3,45;7,71;2021-1086-861;2021;False
 Alina Korneeva;2026-06-15;WTA Figueira Da Foz 125;Hard;W;L;R16;7-6(4) 5-7 6-4;Martyna Kubka;6,03;5,17;3,2;6,82;2026-1177-296;2026;True
 Alina Korneeva;2026-06-15;WTA Figueira Da Foz 125;Hard;W;W;R32;6-2 6-4;Fangran Tian;9,62;3,85;0,0;5,78;2026-1177-288;2026;True
+Alina Korneeva;2026-06-15;Figueira Da Foz 125;Hard;C;L;R16;7-6(4) 5-7 6-4;Martyna Kubka;6,03;5,17;3,2;6,82;2026-1177-293;2026;True
+Alina Korneeva;2026-06-15;Figueira Da Foz 125;Hard;C;W;R32;6-2 6-4;Fangran Tian;9,62;3,85;0,0;5,78;2026-1177-285;2026;True
 Alina Korneeva;2026-06-08;WTA Ilkley 125;Grass;W;L;R32;6-4 7-5;Celine Naef;0,0;7,25;1,61;6,27;2026-1127-288;2026;True
 Alina Korneeva;2026-06-08;WTA Ilkley 125;Grass;W;L;R32;6-4 7-5;Celine Naef;0,0;7,25;1,61;6,27;2026-1127-276;2026;True
 Alina Korneeva;2026-06-08;Ilkley 125;Grass;C;L;R32;6-4 7-5;Celine Naef;0,0;7,25;1,61;6,27;2026-1127-273;2026;True
@@ -1477,7 +1492,9 @@ Alina Korneeva;2023-10-09;Hong Kong;Hard;I;L;R16;6-3 7-5;Linda Fruhvirtova;4,55;
 Alina Korneeva;2023-10-09;Hong Kong;Hard;I;W;R32;6-4 2-6 6-3;Valeria Savinykh;7,41;3,7;2,3;5,79;2023-1074-283;2023;True
 Alina Korneeva;2023-10-09;Hong Kong;Hard;I;W;Q1;7-5 6-0;Amina Anshba;5,88;1,96;1,45;5,67;2023-1074-265;2023;True
 Alina Korneeva;2023-10-09;Hong Kong;Hard;I;W;Q2;6-3 6-4;Conny Perrin;4,76;3,17;6,25;6,3;2023-1074-269;2023;True
+Alycia Parks;2026-06-22;WTA Eastbourne;Grass;W;L;Q1;4-6 6-3 7-5;Emiliana Arango;6,86;6,86;1,16;6,38;2026-710-262;2026;True
 Alycia Parks;2026-06-15;WTA Berlin;Grass;W;L;Q1;4-6 6-4 6-2;Tessa Johanna Brockmann;8,97;7,69;5,26;5,57;2026-2012-263;2026;True
+Alycia Parks;2026-06-15;Berlin;Grass;P;L;Q1;4-6 6-4 6-2;Tessa Johanna Brockmann;8,97;7,69;5,26;5,57;2026-2012-262;2026;True
 Alycia Parks;2026-06-08;WTA Queens;Grass;W;L;Q1;5-7 6-4 6-4;Maddison Inglis;18,63;9,8;0,0;6,38;2026-1111-260;2026;True
 Alycia Parks;2026-06-08;WTA Queens;Grass;W;L;Q1;5-7 6-4 6-4;Maddison Inglis;18,63;9,8;0,0;6,38;2026-1111-256;2026;True
 Alycia Parks;2026-06-08;Queen's Club;Grass;P;L;Q1;5-7 6-4 6-4;Maddison Inglis;18,63;9,8;0,0;6,38;2026-1111-254;2026;True
@@ -2450,6 +2467,7 @@ Anastasia Pavlyuchenkova;2015-03-02;Monterrey;Hard;I;W;R32;4-6 6-3 6-0;Anna Karo
 Anastasia Pavlyuchenkova;2015-02-16;Dubai;Hard;P;L;R64;6-2 6-4;Karolina Pliskova;5,17;12,07;6,45;6,44;2015-W-PR-UAE-01A-2015-015;2015;False
 Anastasia Pavlyuchenkova;2015-01-19;Australian Open;Hard;G;L;R128;4-6 6-3 6-3;Yanina Wickmayer;5,68;10,23;5,21;6,29;2015-W-SL-AUS-01A-2015-044;2015;False
 Anastasia Potapova;2026-06-15;WTA Berlin;Grass;W;L;R32;6-1 0-0 RET;Ekaterina Alexandrova;4,35;8,7;9,52;7,67;2026-2012-287;2026;True
+Anastasia Potapova;2026-06-15;Berlin;Grass;P;L;R32;6-1 0-0 RET;Ekaterina Alexandrova;4,35;8,7;9,52;7,67;2026-2012-284;2026;True
 Anastasia Potapova;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;W;R32;6-7(5) 6-4 6-4;Suzan Lamens;2,7;3,6;2,75;6,94;2026-822-288;2026;True
 Anastasia Potapova;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;W;R32;6-7(5) 6-4 6-4;Suzan Lamens;2,7;3,6;2,75;6,94;2026-822-282;2026;True
 Anastasia Potapova;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R16;6-1 2-0 RET;Zeynep Sonmez;0,0;6,25;5,56;6,4;2026-822-291;2026;True
@@ -2815,7 +2833,12 @@ Anastasia Potapova;2017-10-16;Moscow;Hard;I;L;Q1;6-3 6-1;Arina Rodionova;3,7;9,2
 Anastasia Potapova;2017-07-17;Gstaad;Clay;I;L;Q1;6-4 6-2;Antonia Lottner;5,0;13,33;3,28;6,67;2017-1094-248;2017;True
 Anastasia Potapova;2017-03-20;Miami;Hard;PM;L;Q2;6-3 6-1;Jana Cepelova;0,0;9,09;1,92;6,88;2017-M007-138;2017;True
 Anastasia Potapova;2017-03-20;Miami;Hard;PM;W;Q1;6-4 0-6 7-6(2);Maria Sakkari;1,15;5,75;2,2;6,21;2017-M007-122;2017;True
+Anastasia Zakharova;2026-06-22;WTA Eastbourne;Grass;W;L;R16;6-2 6-1;Tatjana Maria;0,0;7,5;13,21;5,71;2026-710-293;2026;True
+Anastasia Zakharova;2026-06-22;WTA Eastbourne;Grass;W;W;Q1;6-4 5-7 7-6(7);Lilli Tagger;1,75;1,75;6,67;6,71;2026-710-254;2026;True
+Anastasia Zakharova;2026-06-22;WTA Eastbourne;Grass;W;W;Q2;7-6(8) 2-6 7-6(7);Oksana Selekhmeteva;0,0;2,34;5,79;8,0;2026-710-265;2026;True
+Anastasia Zakharova;2026-06-22;WTA Eastbourne;Grass;W;W;R32;6-4 3-6 6-3;Yuliia Starodubtseva;1,06;1,06;5,68;6,71;2026-710-284;2026;True
 Anastasia Zakharova;2026-06-15;WTA Nottingham;Grass;W;L;Q1;7-6(5) 6-2;Hannah Klugman;0,0;4,17;15,38;7,2;2026-1080-255;2026;True
+Anastasia Zakharova;2026-06-15;Nottingham;Grass;I;L;Q1;7-6(5) 6-2;Hannah Klugman;0,0;4,17;15,38;7,2;2026-1080-254;2026;True
 Anastasia Zakharova;2026-05-17;Strasbourg;Clay;P;L;Q2;6-4 6-2;Daria Kasatkina;0,0;5,36;0,0;6,22;2026-406-266;2026;True
 Anastasia Zakharova;2026-05-17;Strasbourg;Clay;P;W;Q1;4-6 6-3 6-3;Elsa Jacquemot;0,0;4,3;8,24;6,64;2026-406-259;2026;True
 Anastasia Zakharova;2026-05-11;Paris 125;Clay;C;L;QF;6-4 6-1;Madison Keys;3,51;3,51;2,04;6,33;2026-2057-297;2026;True
@@ -3239,8 +3262,12 @@ Angela Fita Boluda;2023-05-22;Rabat;Clay;I;W;Q1;6-4 6-1;Andrea Gamiz;4,88;9,76;0
 Angela Fita Boluda;2023-05-01;Reus 125;Clay;C;L;R32;6-1 7-5;Elizabeth Mandlik;1,39;4,17;0,0;7,2;2023-2081-279;2023;False
 Angela Fita Boluda;2023-04-24;Madrid;Clay;PM;L;Q1;6-4 6-2;Kamilla Rakhimova;7,02;5,26;1,64;6,33;2023-1038-147;2023;False
 Angela Fita Boluda;2022-06-06;Valencia 125;Clay;C;L;R32;6-4 3-6 6-3;Katarina Zavatska;3,37;5,62;0,98;6,36;2022-2061-284;2022;False
+Anhelina Kalinina;2026-06-22;WTA Eastbourne;Grass;W;L;R16;6-4 6-3;Mccartney Kessler;2,67;9,33;4,92;7,5;2026-710-287;2026;True
+Anhelina Kalinina;2026-06-22;WTA Eastbourne;Grass;W;W;R32;7-6(1) 7-5;Daria Snigur;2,53;8,86;3,57;6,58;2026-710-272;2026;True
 Anhelina Kalinina;2026-06-15;WTA Berlin;Grass;W;L;Q2;6-4 7-5;Diane Parry;1,3;3,9;11,69;7,0;2026-2012-266;2026;True
 Anhelina Kalinina;2026-06-15;WTA Berlin;Grass;W;W;Q1;6-4 6-3;Lulu Sun;3,23;6,45;6,12;6,2;2026-2012-255;2026;True
+Anhelina Kalinina;2026-06-15;Berlin;Grass;P;L;Q2;6-4 7-5;Diane Parry;1,3;3,9;11,69;7,0;2026-2012-265;2026;True
+Anhelina Kalinina;2026-06-15;Berlin;Grass;P;W;Q1;6-4 6-3;Lulu Sun;3,23;6,45;6,12;6,2;2026-2012-254;2026;True
 Anhelina Kalinina;2026-05-18;Rabat;Clay;I;L;F;6-2 3-0 RET;Petra Marcinko;3,45;3,45;2,63;5,8;2026-1005-300;2026;True
 Anhelina Kalinina;2026-05-18;Rabat;Clay;I;W;QF;6-4 7-5;Anna Bondar;1,25;5,0;3,95;7,27;2026-1005-296;2026;True
 Anhelina Kalinina;2026-05-18;Rabat;Clay;I;W;R16;6-3 7-6(3);Yuliia Starodubtseva;0,0;4,94;0,0;7,36;2026-1005-291;2026;True
@@ -3542,9 +3569,13 @@ Anhelina Kalinina;2017-07-17;Bucharest;Clay;I;W;Q1;6-4 6-2;Martina Di Giuseppe;1
 Anhelina Kalinina;2017-07-17;Bucharest;Clay;I;W;Q2;6-3 6-4;Fanny Stollar;0,0;5,13;8,33;8,67;2017-1079-245;2017;True
 Anhelina Kalinina;2016-09-26;Tashkent;Hard;I;L;Q2;6-3 6-2;Sabina Sharipova;0,0;2,0;5,0;6,25;2016-0825-251;2016;True
 Anhelina Kalinina;2016-09-26;Tashkent;Hard;I;W;Q1;6-0 7-5;Dalila Jakupovic;5,41;6,76;1,79;8,22;2016-0825-243;2016;True
+Ann Li;2026-06-21;WTA Bad Homburg;Grass;W;L;R32;6-1 6-7(5) 6-1;Ekaterina Alexandrova;11,96;3,26;10,0;7,67;2026-2017-271;2026;True
 Ann Li;2026-06-15;WTA Nottingham;Grass;W;L;QF;6-3 2-6 6-3;Viktorija Golubic;8,86;3,8;2,2;6,08;2026-1080-297;2026;True
 Ann Li;2026-06-15;WTA Nottingham;Grass;W;W;R16;5-7 6-2 6-2;Taylah Preston;9,18;4,08;3,49;7,0;2026-1080-290;2026;True
 Ann Li;2026-06-15;WTA Nottingham;Grass;W;W;R32;4-6 7-6(3) 6-4;Kimberly Birrell;15,0;4,0;3,06;6,25;2026-1080-276;2026;True
+Ann Li;2026-06-15;Nottingham;Grass;I;L;QF;6-3 2-6 6-3;Viktorija Golubic;8,86;3,8;2,2;6,08;2026-1080-294;2026;True
+Ann Li;2026-06-15;Nottingham;Grass;I;W;R16;5-7 6-2 6-2;Taylah Preston;9,18;4,08;3,49;7,0;2026-1080-287;2026;True
+Ann Li;2026-06-15;Nottingham;Grass;I;W;R32;4-6 7-6(3) 6-4;Kimberly Birrell;15,0;4,0;3,06;6,25;2026-1080-273;2026;True
 Ann Li;2026-05-17;Strasbourg;Clay;P;L;SF;6-1 6-3;Emma Navarro;2,04;2,04;0,0;6,12;2026-406-298;2026;True
 Ann Li;2026-05-17;Strasbourg;Clay;P;W;QF;6-3 7-5;Marie Bouzkova;2,78;4,17;1,59;6,55;2026-406-294;2026;True
 Ann Li;2026-05-17;Strasbourg;Clay;P;W;R16;4-6 6-4 6-3;Ekaterina Alexandrova;11,9;1,19;3,09;6,0;2026-406-286;2026;True
@@ -3796,9 +3827,14 @@ Ann Li;2018-11-12;Houston;Hard;C;W;Q1;6-3 6-1;Ana Veselinovic;5,88;5,88;0,0;6,38
 Ann Li;2018-11-12;Houston;Hard;C;W;Q2;4-6 6-3 6-3;Sanaz Marand;2,6;0,0;0,0;5,5;2018-2001-249;2018;True
 Ann Li;2018-03-19;Miami;Hard;PM;L;Q1;6-2 7-5;Sofia Kenin;4,69;6,25;4,84;6,4;2018-M007-108;2018;True
 Ann Li;2018-03-05;Indian Wells;Hard;PM;L;Q1;6-3 6-0;Monica Niculescu;1,92;7,69;0,0;6,5;2018-M006-126;2018;True
+Anna Blinkova;2026-06-21;WTA Bad Homburg;Grass;W;L;Q2;3-6 7-5 6-4;Solana Sierra;1,79;4,46;0,99;7,47;2026-2017-269;2026;False
+Anna Blinkova;2026-06-21;WTA Bad Homburg;Grass;W;W;Q1;7-6(4) 6-2;Julia Avdeeva;1,49;4,48;5,95;6,7;2026-2017-264;2026;False
 Anna Blinkova;2026-06-15;WTA Nottingham;Grass;W;L;R32;4-6 6-3 6-3;Taylah Preston;1,15;3,45;2,17;6,21;2026-1080-275;2026;False
 Anna Blinkova;2026-06-15;WTA Nottingham;Grass;W;W;Q1;6-3 6-2;Daria Kasatkina;0,0;6,45;0,0;7,75;2026-1080-258;2026;False
 Anna Blinkova;2026-06-15;WTA Nottingham;Grass;W;W;Q2;5-7 6-2 6-2;Anna Bondar;4,9;6,86;7,14;7,29;2026-1080-267;2026;False
+Anna Blinkova;2026-06-15;Nottingham;Grass;I;L;R32;4-6 6-3 6-3;Taylah Preston;1,15;3,45;2,17;6,21;2026-1080-272;2026;False
+Anna Blinkova;2026-06-15;Nottingham;Grass;I;W;Q1;6-3 6-2;Daria Kasatkina;0,0;6,45;0,0;7,75;2026-1080-257;2026;False
+Anna Blinkova;2026-06-15;Nottingham;Grass;I;W;Q2;5-7 6-2 6-2;Anna Bondar;4,9;6,86;7,14;7,29;2026-1080-266;2026;False
 Anna Blinkova;2026-06-08;WTA Queens;Grass;W;L;R32;6-0 6-3;Emma Raducanu;5,0;2,5;5,0;5,71;2026-1111-288;2026;False
 Anna Blinkova;2026-06-08;WTA Queens;Grass;W;W;Q1;6-1 6-3;Jodie Burrage;4,0;0,0;6,98;6,25;2026-1111-258;2026;False
 Anna Blinkova;2026-06-08;WTA Queens;Grass;W;W;Q2;6-2 6-4;Donna Vekic;1,56;6,25;9,09;7,11;2026-1111-270;2026;False
@@ -4230,9 +4266,13 @@ Anna Blinkova;2016-10-17;Moscow;Hard;P;W;Q1;6-0 6-4;Elitsa Kostova;3,85;1,92;0,0
 Anna Blinkova;2016-10-17;Moscow;Hard;P;W;Q2;6-2 6-3;Cagla Buyukakcay;1,96;3,92;3,33;6,38;2016-M014-244;2016;False
 Anna Blinkova;2016-10-17;Moscow;Hard;P;W;Q3;6-2 6-1;Nadia Podoroska;1,75;5,26;0,0;8,14;2016-M014-251;2016;False
 Anna Blinkova;2016-04-25;Rabat;Clay;I;L;R32;6-4 6-2;Timea Bacsinszky;1,96;5,88;0,0;5,67;2016-1005-285;2016;False
+Anna Bondar;2026-06-22;WTA Eastbourne;Grass;W;L;R32;7-6(4) 3-2 RET;Panna Udvardy;6,25;6,25;6,06;6,0;2026-710-280;2026;True
 Anna Bondar;2026-06-15;WTA Nottingham;Grass;W;L;R32;6-7(6) 6-3 6-2;Emma Navarro;7,62;5,71;4,88;7,5;2026-1080-277;2026;True
 Anna Bondar;2026-06-15;WTA Nottingham;Grass;W;L;Q2;5-7 6-2 6-2;Anna Blinkova;7,14;3,57;4,9;6,0;2026-1080-267;2026;True
 Anna Bondar;2026-06-15;WTA Nottingham;Grass;W;W;Q1;6-3 6-4;Emiliana Arango;1,54;1,54;7,55;6,5;2026-1080-257;2026;True
+Anna Bondar;2026-06-15;Nottingham;Grass;I;L;R32;6-7(6) 6-3 6-2;Emma Navarro;7,62;5,71;4,88;7,5;2026-1080-274;2026;True
+Anna Bondar;2026-06-15;Nottingham;Grass;I;L;Q2;5-7 6-2 6-2;Anna Blinkova;7,14;3,57;4,9;6,0;2026-1080-266;2026;True
+Anna Bondar;2026-06-15;Nottingham;Grass;I;W;Q1;6-3 6-4;Emiliana Arango;1,54;1,54;7,55;6,5;2026-1080-256;2026;True
 Anna Bondar;2026-05-18;Rabat;Clay;I;L;QF;6-4 7-5;Anhelina Kalinina;3,95;3,95;1,25;6,91;2026-1005-296;2026;True
 Anna Bondar;2026-05-18;Rabat;Clay;I;W;R16;7-6(6) 1-6 6-0;Emiliana Arango;4,81;0,96;1,27;8,67;2026-1005-290;2026;True
 Anna Bondar;2026-05-18;Rabat;Clay;I;W;R32;1-1 RET;Polona Hercog;14,29;0,0;0,0;3,5;2026-1005-278;2026;True
@@ -4527,7 +4567,10 @@ Anna Bondar;2018-07-16;Bucharest;Clay;I;W;Q1;6-2 6-1;Deborah Chiesa;6,0;0,0;1,92
 Anna Bondar;2018-07-16;Bucharest;Clay;I;W;Q2;6-2 7-6(4);Jaqueline Cristian;14,29;2,86;6,1;7,0;2018-1079-250;2018;True
 Anna Bondar;2018-02-19;Budapest;Hard;I;L;Q1;7-6(5) 6-1;Viktoria Hruncakova;5,71;4,29;10,29;7,78;2018-1097-244;2018;True
 Anna Bondar;2018-02-08;Fed Cup G1 RR: HUN vs SLO;Hard;D;L;RR;6-4 6-2;Nina Potocnik;0,0;1,82;1,85;6,11;2018-W-FC-2018-G1-EPA-C-M-HUN-SLO-01-001;2018;True
+Anna Kalinskaya;2026-06-21;WTA Bad Homburg;Grass;W;L;R16;7-5 6-2;Elena Gabriela Ruse;5,88;11,76;15,0;6,8;2026-2017-292;2026;True
+Anna Kalinskaya;2026-06-21;WTA Bad Homburg;Grass;W;W;R32;6-4 6-1;Sinja Kraus;8,89;2,22;3,51;5,62;2026-2017-283;2026;True
 Anna Kalinskaya;2026-06-15;WTA Berlin;Grass;W;L;R32;6-1 4-1 RET;Elina Svitolina;2,94;11,76;12,9;5,67;2026-2012-276;2026;True
+Anna Kalinskaya;2026-06-15;Berlin;Grass;P;L;R32;6-1 4-1 RET;Elina Svitolina;2,94;11,76;12,9;5,67;2026-2012-273;2026;True
 Anna Kalinskaya;2026-05-05;Rome;Clay;PM;L;R16;6-1 6-2;Jelena Ostapenko;4,26;8,51;18,6;6,71;2026-709-292;2026;True
 Anna Kalinskaya;2026-05-05;Rome;Clay;PM;W;R32;6-4 6-3;Belinda Bencic;1,47;7,35;1,79;6,8;2026-709-283;2026;True
 Anna Kalinskaya;2026-05-05;Rome;Clay;PM;W;R64;4-6 7-6(4) 7-5;Katerina Siniakova;0,77;6,92;1,43;7,65;2026-709-264;2026;True
@@ -4985,9 +5028,13 @@ Anouk Koevermans;2024-04-15;Oeiras 125;Clay;C;L;R32;6-1 6-4;Tena Lukas;10,42;12,
 Anouk Koevermans;2024-04-15;Oeiras 125;Clay;C;W;Q1;6-3 5-7 7-5;Marina Stakusic;1,83;8,26;1,96;6,81;2024-1106-263;2024;False
 Anouk Koevermans;2024-04-15;Oeiras 125;Clay;C;W;Q2;6-4 3-6 6-3;Varvara Lepchenko;0,96;8,65;3,49;7,43;2024-1106-268;2024;False
 Anouk Koevermans;2023-06-12;s Hertogenbosch;Grass;I;L;Q1;6-0 6-3;Priscilla Hon;2,08;22,92;4,35;6,0;2023-822-263;2023;False
+Antonia Ruzic;2026-06-22;WTA Eastbourne;Grass;W;L;R32;7-6(6) 4-6 7-6(4);Petra Marcinko;1,47;9,56;3,08;8,0;2026-710-275;2026;True
 Antonia Ruzic;2026-06-15;WTA Nottingham;Grass;W;L;R32;6-3 6-0;Caty Mcnally;0,0;2,08;12,24;6,0;2026-1080-287;2026;True
 Antonia Ruzic;2026-06-15;WTA Nottingham;Grass;W;W;Q1;6-3 6-4;Kaja Juvan;0,0;1,79;6,56;5,6;2026-1080-264;2026;True
 Antonia Ruzic;2026-06-15;WTA Nottingham;Grass;W;W;Q2;6-3 6-7(6) 7-5;Taylah Preston;4,81;1,92;0,0;6,12;2026-1080-270;2026;True
+Antonia Ruzic;2026-06-15;Nottingham;Grass;I;L;R32;6-3 6-0;Caty Mcnally;0,0;2,08;12,24;6,0;2026-1080-284;2026;True
+Antonia Ruzic;2026-06-15;Nottingham;Grass;I;W;Q1;6-3 6-4;Kaja Juvan;0,0;1,79;6,56;5,6;2026-1080-263;2026;True
+Antonia Ruzic;2026-06-15;Nottingham;Grass;I;W;Q2;6-3 6-7(6) 7-5;Taylah Preston;4,81;1,92;0,0;6,12;2026-1080-269;2026;True
 Antonia Ruzic;2026-06-08;WTA Queens;Grass;W;L;R32;6-3 6-4;Iva Jovic;2,04;2,04;1,82;5,44;2026-1111-285;2026;True
 Antonia Ruzic;2026-06-08;WTA Queens;Grass;W;W;Q1;6-3 6-4;Aoi Ito;0,0;1,72;0,0;6,44;2026-1111-263;2026;True
 Antonia Ruzic;2026-06-08;WTA Queens;Grass;W;W;Q2;6-3 4-6 7-5;Storm Hunter;2,68;4,46;2,22;7,0;2026-1111-272;2026;True
@@ -5497,6 +5544,9 @@ Arantxa Rus;2016-04-16;Fed Cup WG SF: FRA vs NED;Clay;D;L;RR;6-3 6-4;Caroline Ga
 Arantxa Rus;2015-07-13;Bastad;Clay;I;L;R32;7-5 4-6 6-4;Evgeniya Rodina;6,59;4,4;0,79;5,69;2015-W-INT-SWE-01A-2015-006;2015;False
 Aryna Sabalenka;2026-06-15;WTA Berlin;Grass;W;W;QF;2-6 7-6(2) 6-4;Nikola Bartunkova;10,0;8,0;8,42;6,67;2026-2012-300;2026;True
 Aryna Sabalenka;2026-06-15;WTA Berlin;Grass;W;W;R16;6-4 6-4;Ekaterina Alexandrova;5,08;5,08;10,14;5,9;2026-2012-296;2026;True
+Aryna Sabalenka;2026-06-15;Berlin;Grass;P;L;SF;6-4 6-7(4) 6-0;Jessica Pegula;8,49;4,72;5,43;7,57;2026-2012-299;2026;True
+Aryna Sabalenka;2026-06-15;Berlin;Grass;P;W;QF;2-6 7-6(2) 6-4;Nikola Bartunkova;10,0;8,0;8,42;6,67;2026-2012-297;2026;True
+Aryna Sabalenka;2026-06-15;Berlin;Grass;P;W;R16;6-4 6-4;Ekaterina Alexandrova;5,08;5,08;10,14;5,9;2026-2012-293;2026;True
 Aryna Sabalenka;2026-05-05;Rome;Clay;PM;L;R32;2-6 6-3 7-5;Sorana Cirstea;2,17;1,09;3,23;6,57;2026-709-285;2026;True
 Aryna Sabalenka;2026-05-05;Rome;Clay;PM;W;R64;6-2 6-3;Barbora Krejcikova;0,0;3,85;7,02;5,78;2026-709-269;2026;True
 Aryna Sabalenka;2026-04-21;Madrid;Clay;PM;L;QF;2-6 6-2 7-6(6);Hailey Baptiste;5,15;4,12;10,71;6,93;2026-1038-297;2026;True
@@ -6270,6 +6320,7 @@ Ashlyn Krueger;2021-08-30;US Open;Hard;G;L;R128;7-5 6-7(3) 6-3;Anna Karolina Sch
 Ashlyn Krueger;2021-08-02;San Jose;Hard;W;L;Q2;6-1 4-6 6-1;Na Lae Han;4,94;2,47;2,0;6,75;2021-703-868;2021;False
 Ashlyn Krueger;2021-08-02;San Jose;Hard;W;W;Q1;6-1 7-6(2);Valeria Savinykh;2,82;5,63;0,0;7,1;2021-703-862;2021;False
 Ashlyn Krueger;2021-03-08;Guadalajara;Hard;I;L;Q1;6-2 6-3;Harriet Dart;1,49;11,94;6,9;7,44;2021-2002-854;2021;False
+Barbora Krejcikova;2026-06-22;WTA Eastbourne;Grass;W;L;R32;6-3 7-6(6);Kimberly Birrell;9,88;4,94;6,06;7,36;2026-710-274;2026;True
 Barbora Krejcikova;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;W;R32;6-1 6-2;Renata Zarazua;10,87;4,35;1,89;5,75;2026-822-292;2026;True
 Barbora Krejcikova;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;W;R32;6-1 6-2;Renata Zarazua;10,87;4,35;1,89;5,75;2026-822-286;2026;True
 Barbora Krejcikova;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;W;QF;6-1 6-2;Elena Gabriela Ruse;14,29;7,14;2,22;5,25;2026-822-299;2026;True
@@ -6599,6 +6650,7 @@ Barbora Krejcikova;2016-02-29;Kuala Lumpur;Hard;I;W;Q2;6-3 6-2;Kai Lin Zhang;4,0
 Barbora Krejcikova;2016-02-22;Doha;Hard;P;L;Q1;6-3 6-2;Stefanie Voegele;0,0;7,84;3,77;6,38;2016-1003-228;2016;True
 Barbora Krejcikova;2016-02-08;St. Petersburg;Hard;P;L;Q1;5-7 6-3 6-3;Tereza Martincova;2,35;9,41;1,28;5,67;2016-1086-256;2016;True
 Beatriz Haddad Maia;2026-06-15;WTA Figueira Da Foz 125;Hard;W;L;R32;7-5 7-5;Sachia Vickery;3,12;4,69;4,49;5,33;2026-1177-273;2026;False
+Beatriz Haddad Maia;2026-06-15;Figueira Da Foz 125;Hard;C;L;R32;7-5 7-5;Sachia Vickery;3,12;4,69;4,49;5,33;2026-1177-270;2026;False
 Beatriz Haddad Maia;2026-06-08;WTA Queens;Grass;W;L;Q1;7-5 6-0;Heather Watson;3,7;14,81;11,54;6,0;2026-1111-264;2026;False
 Beatriz Haddad Maia;2026-06-08;WTA Queens;Grass;W;L;Q1;7-5 6-0;Heather Watson;3,7;14,81;11,54;6,0;2026-1111-260;2026;False
 Beatriz Haddad Maia;2026-06-08;Queen's Club;Grass;P;L;Q1;7-5 6-0;Heather Watson;3,7;14,81;11,54;6,0;2026-1111-258;2026;False
@@ -7668,6 +7720,7 @@ Bianca Andreescu;2017-02-09;Fed Cup G1 RR: CAN vs PAR;Hard;D;W;RR;6-1 6-1;Veroni
 Bianca Andreescu;2017-02-09;Fed Cup G1 RR: CAN vs VEN;Hard;D;W;RR;6-4 6-0;Andrea Gamiz;6,9;6,9;0,0;7,25;2017-W-FC-2017-G1-AM-A-M-CAN-VEN-01-002;2017;False
 Bianca Andreescu;2016-07-25;Montreal;Hard;P;L;Q2;6-2 6-1;Kateryna Bondarenko;0,0;12,24;5,13;6,12;2016-0806-235;2016;False
 Bianca Andreescu;2016-07-25;Montreal;Hard;P;W;Q1;7-6(3) 7-5;Samantha Crawford;0,0;9,88;5,06;6,75;2016-0806-220;2016;False
+Camila Osorio;2026-06-22;WTA Eastbourne;Grass;W;L;Q1;6-2 6-4;Ajla Tomljanovic;4,62;10,77;0,0;7,22;2026-710-253;2026;True
 Camila Osorio;2026-05-18;Rabat;Clay;I;L;QF;7-5 6-3;Panna Udvardy;0,0;9,68;4,0;6,2;2026-1005-297;2026;True
 Camila Osorio;2026-05-18;Rabat;Clay;I;W;R16;6-3 3-6 6-0;Janice Tjen;2,35;8,24;0,0;7,08;2026-1005-293;2026;True
 Camila Osorio;2026-05-18;Rabat;Clay;I;W;R32;6-0 6-4;Tereza Martincova;0,0;1,59;0,0;7,88;2026-1005-284;2026;True
@@ -8064,6 +8117,8 @@ Carol Young Suh Lee;2018-02-06;Fed Cup G2 RR: POC vs IRI;Hard;D;W;RR;6-1 6-0;Kim
 Carol Young Suh Lee;2017-07-21;Fed Cup G2 PM: POC vs SGP;Hard;D;W;RR;6-0 6-4;Lynelle En Tong Lim;3,77;7,55;0,0;6,62;2017-W-FC-2017-G2-AO-PP5-8-POC-SGP-01-001;2017;False
 Carole Monnet;2026-06-15;WTA Brescia 125;Clay;W;L;R16;6-3 6-1;Xiyu Wang;0,0;3,17;0,0;7,88;2026-1170-296;2026;False
 Carole Monnet;2026-06-15;WTA Brescia 125;Clay;W;W;R32;7-5 7-6(5);Martina Trevisan;3,06;12,24;0,0;8,17;2026-1170-287;2026;False
+Carole Monnet;2026-06-15;Brescia 125;Clay;C;L;R16;6-3 6-1;Xiyu Wang;0,0;3,17;0,0;7,88;2026-1170-293;2026;False
+Carole Monnet;2026-06-15;Brescia 125;Clay;C;W;R32;7-5 7-6(5);Martina Trevisan;3,06;12,24;0,0;8,17;2026-1170-284;2026;False
 Carole Monnet;2026-06-08;WTA Queens;Grass;W;L;Q1;6-3 6-4;Donna Vekic;0,0;5,17;5,36;6,44;2026-1111-259;2026;False
 Carole Monnet;2026-06-08;WTA Queens;Grass;W;L;Q1;6-3 6-4;Donna Vekic;0,0;5,17;5,36;6,44;2026-1111-255;2026;False
 Carole Monnet;2026-06-08;Queen's Club;Grass;P;L;Q1;6-3 6-4;Donna Vekic;0,0;5,17;5,36;6,44;2026-1111-253;2026;False
@@ -8497,8 +8552,13 @@ Caroline Dolehide;2017-06-12;Nottingham;Grass;I;L;Q2;6-7(5) 6-3 6-4;Elizaveta Ku
 Caroline Dolehide;2017-06-12;Nottingham;Grass;I;W;Q1;6-3 6-4;Alexandra Stevenson;1,72;1,72;3,23;6,44;2017-1080-241;2017;False
 Caroline Dolehide;2017-04-03;Charleston;Clay;P;L;Q1;6-3 6-3;Veronica Cepede Royg;4,0;6,0;1,85;5,56;2017-0804-202;2017;False
 Caroline Dolehide;2017-03-06;Indian Wells;Hard;PM;L;Q1;3-6 6-4 6-2;Tatjana Maria;2,3;4,6;7,69;6,21;2017-M006-125;2017;False
+Caty Mcnally;2026-06-22;WTA Eastbourne;Grass;W;L;QF;6-3 4-6 6-4;Petra Marcinko;2,94;7,84;4,82;7,29;2026-710-295;2026;True
+Caty Mcnally;2026-06-22;WTA Eastbourne;Grass;W;W;R16;6-3 6-0;Emiliana Arango;2,22;8,89;4,0;5,62;2026-710-289;2026;True
+Caty Mcnally;2026-06-22;WTA Eastbourne;Grass;W;W;R32;7-5 6-7(5) 6-3;Janice Tjen;0,8;6,4;2,5;7,81;2026-710-277;2026;True
 Caty Mcnally;2026-06-15;WTA Nottingham;Grass;W;L;R16;6-4 7-6(3);Karolina Pliskova;5,62;6,74;3,9;8,09;2026-1080-296;2026;True
 Caty Mcnally;2026-06-15;WTA Nottingham;Grass;W;W;R32;6-3 6-0;Antonia Ruzic;12,24;6,12;0,0;7,0;2026-1080-287;2026;True
+Caty Mcnally;2026-06-15;Nottingham;Grass;I;L;R16;6-4 7-6(3);Karolina Pliskova;5,62;6,74;3,9;8,09;2026-1080-293;2026;True
+Caty Mcnally;2026-06-15;Nottingham;Grass;I;W;R32;6-3 6-0;Antonia Ruzic;12,24;6,12;0,0;7,0;2026-1080-284;2026;True
 Caty Mcnally;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;W;R32;4-6 6-0 6-4;Emma Navarro;0,0;6,33;2,27;6,08;2026-822-290;2026;True
 Caty Mcnally;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;W;R16;6-4 6-3;Solana Sierra;1,61;3,23;2,78;6,2;2026-822-295;2026;True
 Caty Mcnally;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;W;R32;4-6 6-0 6-4;Emma Navarro;0,0;6,33;2,27;6,08;2026-822-285;2026;True
@@ -9012,7 +9072,11 @@ Claire Liu;2017-09-11;Quebec City;Hard;I;L;Q1;6-3 7-5;Gabriela Dabrowski;1,67;1,
 Claire Liu;2017-07-31;Stanford;Hard;P;L;R32;4-6 6-2 7-6(5);Nicole Gibbs;0,96;0,0;1,0;6,93;2017-0703-276;2017;False
 Claire Liu;2017-03-06;Indian Wells;Hard;PM;L;Q1;6-2 6-1;Anett Kontaveit;1,82;7,27;1,89;7,86;2017-M006-127;2017;False
 Claire Liu;2016-03-21;Miami;Hard;P;L;Q1;5-7 6-1 6-0;Donna Vekic;3,9;1,3;0,0;5,92;2016-M007-152;2016;False
+Clara Tauson;2026-06-21;WTA Bad Homburg;Grass;W;L;QF;1-6 6-2 6-4;Karolina Muchova;11,25;6,25;3,7;6,67;2026-2017-296;2026;True
+Clara Tauson;2026-06-21;WTA Bad Homburg;Grass;W;W;R16;5-7 6-4 6-2;Qinwen Zheng;13,79;3,45;11,24;5,8;2026-2017-290;2026;True
+Clara Tauson;2026-06-21;WTA Bad Homburg;Grass;W;W;R32;6-4 6-4;Diana Shnaider;9,52;7,94;2,08;6,3;2026-2017-278;2026;True
 Clara Tauson;2026-06-15;WTA Berlin;Grass;W;L;R32;6-3 6-4;Diane Parry;5,26;1,75;9,68;6,33;2026-2012-279;2026;True
+Clara Tauson;2026-06-15;Berlin;Grass;P;L;R32;6-3 6-4;Diane Parry;5,26;1,75;9,68;6,33;2026-2012-276;2026;True
 Clara Tauson;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R32;6-4 6-4;Mia Pohankova;1,69;8,47;15,28;5,9;2026-822-285;2026;True
 Clara Tauson;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R32;6-4 6-4;Mia Pohankova;1,69;8,47;15,28;5,9;2026-822-279;2026;True
 Clara Tauson;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R32;6-4 6-4;Mia Pohankova;1,69;8,47;15,28;5,9;2026-822-274;2026;True
@@ -9281,6 +9345,7 @@ Clara Tauson;2018-04-21;Fed Cup G2 PPO: DEN vs ISR;Clay;D;W;RR;6-2 6-1;Vlada Eks
 Clara Tauson;2018-04-20;Fed Cup G2 RR: DEN vs GRE;Clay;D;L;RR;6-7(3) 7-6(4) 6-0;Valentini Grammatikopoulou;0,0;6,19;0,0;7,53;2018-W-FC-2018-G2-EPA-A-M-DEN-GRE-01-001;2018;True
 Clara Tauson;2018-04-18;Fed Cup G2 RR: DEN vs EGY;Clay;D;W;RR;6-4 6-2;Lamis Alhussein Abdel Aziz;3,85;5,77;1,79;5,78;2018-W-FC-2018-G2-EPA-A-M-DEN-EGY-01-001;2018;True
 Coco Gauff;2026-06-15;WTA Berlin;Grass;W;L;R16;1-6 6-3 6-2;Paula Badosa;17,91;10,45;5,33;5,58;2026-2012-291;2026;True
+Coco Gauff;2026-06-15;Berlin;Grass;P;L;R16;1-6 6-3 6-2;Paula Badosa;17,91;10,45;5,33;5,58;2026-2012-288;2026;True
 Coco Gauff;2026-05-05;Rome;Clay;PM;L;F;6-4 6-7(3) 6-2;Elina Svitolina;0,88;6,19;1,55;7,53;2026-709-300;2026;True
 Coco Gauff;2026-05-05;Rome;Clay;PM;W;QF;4-6 6-2 6-4;Mirra Andreeva;2,15;4,3;2,88;6,64;2026-709-296;2026;True
 Coco Gauff;2026-05-05;Rome;Clay;PM;W;R16;5-7 7-5 6-2;Iva Jovic;1,08;1,08;2,91;5,81;2026-709-291;2026;True
@@ -9958,6 +10023,7 @@ Cristina Bucsa;2019-12-16;Limoges;Hard;I;L;Q1;6-1 6-4;Yanina Wickmayer;15,56;15,
 Cristina Bucsa;2019-07-01;Wimbledon;Grass;G;L;Q2;7-6(4) 6-4;Samantha Murray;0,0;1,32;1,33;6,91;2019-540-180;2019;True
 Cristina Bucsa;2019-07-01;Wimbledon;Grass;G;W;Q1;4-6 7-5 6-3;Whitney Osuigwe;1,83;3,67;0,0;7,27;2019-540-132;2019;True
 Dalma Galfi;2026-06-15;WTA Berlin;Grass;W;L;Q1;6-3 7-6(4);Suzan Lamens;6,9;1,15;0,0;7,91;2026-2012-264;2026;False
+Dalma Galfi;2026-06-15;Berlin;Grass;P;L;Q1;6-3 7-6(4);Suzan Lamens;6,9;1,15;0,0;7,91;2026-2012-263;2026;False
 Dalma Galfi;2026-06-08;WTA Ilkley 125;Grass;W;L;R16;6-4 6-4;Elizabeth Mandlik;4,69;4,69;1,43;6,4;2026-1127-293;2026;False
 Dalma Galfi;2026-06-08;WTA Ilkley 125;Grass;W;W;R32;7-6(6) 6-7(2) 7-5;Emerson Jones;9,85;2,27;0,83;7,33;2026-1127-281;2026;False
 Dalma Galfi;2026-06-08;Ilkley 125;Grass;C;L;R16;6-4 6-4;Elizabeth Mandlik;4,69;4,69;1,43;6,4;2026-1127-290;2026;False
@@ -10224,7 +10290,9 @@ Dalma Galfi;2017-01-09;Hobart;Hard;I;L;Q2;6-1 6-1;Elise Mertens;0,0;10,26;8,82;5
 Dalma Galfi;2017-01-09;Hobart;Hard;I;W;Q1;6-0 6-3;Tatjana Maria;15,38;5,13;3,57;5,57;2017-1050-240;2017;False
 Dalma Galfi;2017-01-02;Auckland;Hard;I;L;Q1;6-4 1-6 6-4;Anna Blinkova;5,56;4,44;1,33;6,43;2017-1049-228;2017;False
 Dalma Galfi;2016-06-06;'s Hertogenbosch;Grass;I;L;R32;6-4 6-4;Evgeniya Rodina;5,66;3,77;1,64;5,3;2016-M010-271;2016;False
+Daria Kasatkina;2026-06-22;WTA Eastbourne;Grass;W;L;R32;6-3 7-6(3);Mccartney Kessler;2,56;7,69;5,13;7,8;2026-710-273;2026;True
 Daria Kasatkina;2026-06-15;WTA Nottingham;Grass;W;L;Q1;6-3 6-2;Anna Blinkova;0,0;3,77;0,0;5,89;2026-1080-258;2026;True
+Daria Kasatkina;2026-06-15;Nottingham;Grass;I;L;Q1;6-3 6-2;Anna Blinkova;0,0;3,77;0,0;5,89;2026-1080-257;2026;True
 Daria Kasatkina;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R32;5-7 6-0 6-4;Robin Montgomery;2,2;12,09;6,02;6,5;2026-822-298;2026;True
 Daria Kasatkina;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R32;5-7 6-0 6-4;Robin Montgomery;2,2;12,09;6,02;6,5;2026-822-292;2026;True
 Daria Kasatkina;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R32;5-7 6-0 6-4;Robin Montgomery;2,2;12,09;6,02;6,5;2026-822-287;2026;True
@@ -10777,6 +10845,9 @@ Daria Kasatkina;2015-07-20;Bad Gastein;Clay;I;W;R16;3-6 6-4 6-3;Julia Goerges;1,
 Daria Kasatkina;2015-07-20;Bad Gastein;Clay;I;W;R32;6-3 6-1;Aleksandra Krunic;2,0;0,0;0,0;6,25;2015-W-INT-AUT-01A-2015-003;2015;True
 Daria Kasatkina;2015-07-13;Bucharest;Clay;I;L;R32;7-6(4) 6-4;Julia Goerges;4,0;1,33;10,0;6,82;2015-W-INT-ROU-01A-2015-012;2015;True
 Daria Kasatkina;2015-04-27;Marrakech;Clay;I;L;R32;6-4 6-1;Garbine Muguruza;0,0;2,0;2,04;5,56;2015-W-INT-MAR-01A-2015-001;2015;True
+Daria Snigur;2026-06-22;WTA Eastbourne;Grass;W;L;R32;7-6(1) 7-5;Anhelina Kalinina;3,57;5,95;2,53;7,0;2026-710-272;2026;True
+Daria Snigur;2026-06-22;WTA Eastbourne;Grass;W;W;Q1;6-3 6-1;Sofia Kenin;12,82;5,13;1,92;4,88;2026-710-260;2026;True
+Daria Snigur;2026-06-22;WTA Eastbourne;Grass;W;W;Q2;6-4 6-2;Petra Marcinko;1,89;0,0;3,23;5,89;2026-710-268;2026;True
 Daria Snigur;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;W;R32;6-1 7-6(2);Paula Badosa;0,0;7,14;3,77;7,78;2026-822-299;2026;True
 Daria Snigur;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;QF;6-4 6-4;Robin Montgomery;1,47;4,41;24,14;6,8;2026-822-300;2026;True
 Daria Snigur;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;W;R32;6-1 7-6(2);Paula Badosa;0,0;7,14;3,77;7,78;2026-822-288;2026;True
@@ -11131,9 +11202,13 @@ Darja Semenistaja;2023-06-12;Valencia 125;Clay;C;W;Q1;6-1 6-0;Sesil Karatantchev
 Darja Semenistaja;2023-06-12;Valencia 125;Clay;C;W;Q2;6-1 3-1 RET;Mona Barthel;7,69;0,0;6,25;4,33;2023-2061-266;2023;False
 Darja Semenistaja;2023-05-29;Roland Garros;Clay;G;L;Q1;6-0 6-2;Olivia Gadecki;0,0;1,72;6,98;8,29;2023-520-149;2023;False
 Darja Semenistaja;2022-04-15;BJK Cup QLS R1: CAN vs LAT;Hard;D;L;RR;6-1 6-2;Leylah Fernandez;0,0;2,17;2,7;6,57;2022-W-FC-2022-QLS-M-CAN-LAT-01-001;2022;False
-Darja Vidmanova;2026-06-15;WTA Figueira Da Foz 125;Hard;W;W;QF;4-6 6-3 6-2;Jil Teichmann;4,76;2,38;1,03;6,0;2026-1177-299;2026;False
 Darja Vidmanova;2026-06-15;WTA Figueira Da Foz 125;Hard;W;W;R16;6-3 6-4;Elena Micic;4,23;1,41;1,49;7,89;2026-1177-294;2026;False
 Darja Vidmanova;2026-06-15;WTA Figueira Da Foz 125;Hard;W;W;R32;6-4 1-6 6-4;Angelina Voloshchuk;8,99;5,62;0,0;6,36;2026-1177-284;2026;False
+Darja Vidmanova;2026-06-15;Figueira Da Foz 125;Hard;C;W;F;6-2 6-3;Ayla Aksu;5,88;3,92;1,52;6,38;2026-1177-300;2026;False
+Darja Vidmanova;2026-06-15;Figueira Da Foz 125;Hard;C;W;QF;4-6 6-3 6-2;Jil Teichmann;4,76;2,38;1,03;6,0;2026-1177-296;2026;False
+Darja Vidmanova;2026-06-15;Figueira Da Foz 125;Hard;C;W;R16;6-3 6-4;Elena Micic;4,23;1,41;1,49;7,89;2026-1177-291;2026;False
+Darja Vidmanova;2026-06-15;Figueira Da Foz 125;Hard;C;W;R32;6-4 1-6 6-4;Angelina Voloshchuk;8,99;5,62;0,0;6,36;2026-1177-281;2026;False
+Darja Vidmanova;2026-06-15;Figueira Da Foz 125;Hard;C;W;SF;6-4 6-3;Yeon Woo Ku;10,0;0,0;2,0;6,0;2026-1177-299;2026;False
 Darja Vidmanova;2026-06-08;WTA Ilkley 125;Grass;W;W;R16;6-2 6-1;Lucrezia Stefanini;2,22;0,0;0,0;6,43;2026-1127-294;2026;False
 Darja Vidmanova;2026-06-08;WTA Ilkley 125;Grass;W;W;R32;6-7(6) 7-6(10) 6-2;Linda Fruhvirtova;6,85;2,74;1,89;9,73;2026-1127-284;2026;False
 Darja Vidmanova;2026-06-08;Ilkley 125;Grass;C;L;SF;6-4 3-6 6-4;Ashlyn Krueger;4,49;5,62;7,22;6,36;2026-1127-299;2026;False
@@ -11214,6 +11289,8 @@ Darja Vidmanova;2025-05-26;W35 Santo Domingo;Clay;35;W;SF;6-2 6-0;Thaisa Grana P
 Darja Vidmanova;2020-08-31;Prague;Clay;C;L;R128;6-2 6-1;Nadia Podoroska;0,0;3,77;4,65;7,57;2020-2023-198;2020;False
 Dayana Yastremska;2026-06-15;WTA Nottingham;Grass;W;L;R16;6-1 6-2;Tatjana Maria;0,0;8,33;10,81;6,0;2026-1080-293;2026;True
 Dayana Yastremska;2026-06-15;WTA Nottingham;Grass;W;W;R32;6-4 7-6(2);Alicia Dudeney;3,17;1,59;2,44;5,73;2026-1080-282;2026;True
+Dayana Yastremska;2026-06-15;Nottingham;Grass;I;L;R16;6-1 6-2;Tatjana Maria;0,0;8,33;10,81;6,0;2026-1080-290;2026;True
+Dayana Yastremska;2026-06-15;Nottingham;Grass;I;W;R32;6-4 7-6(2);Alicia Dudeney;3,17;1,59;2,44;5,73;2026-1080-279;2026;True
 Dayana Yastremska;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;W;R32;6-1 6-2;Sara Bejlek;1,64;6,56;0,0;7,62;2026-822-293;2026;True
 Dayana Yastremska;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;W;R32;6-1 6-2;Sara Bejlek;1,64;6,56;0,0;7,62;2026-822-287;2026;True
 Dayana Yastremska;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R16;4-6 6-4 7-5;Ajla Tomljanovic;4,63;5,56;1,69;6,75;2026-822-294;2026;True
@@ -11609,6 +11686,9 @@ Dayana Yastremska;2017-04-10;Bogota;Clay;I;L;Q1;5-7 6-2 7-6(7);Montserrat Gonzal
 Dayana Yastremska;2016-11-14;Limoges;Hard;C;L;R32;6-4 7-5;Mandy Minella;1,35;2,7;1,2;6,73;2016-1072-277;2016;True
 Dayana Yastremska;2016-09-26;Tashkent;Hard;I;L;R32;7-5 6-2;Kurumi Nara;4,35;8,7;1,39;6,9;2016-0825-281;2016;True
 Dayana Yastremska;2016-04-18;Istanbul;Clay;I;L;R32;2-6 6-4 6-3;Nao Hibino;2,47;7,41;1,85;6,23;2016-1027-277;2016;True
+Despina Papamichail;2026-06-15;W75 Blois;Clay;75;L;QF;7-6(6) 7-5;Lucie Nguyen Tan;0,0;1,32;2,25;6,33;2026-W-ITF-FRA-2026-013-304;2026;False
+Despina Papamichail;2026-06-15;W75 Blois;Clay;75;W;R16;6-3 0-0 RET;Clara Burel;6,25;3,12;8,33;6,4;2026-W-ITF-FRA-2026-013-208;2026;False
+Despina Papamichail;2026-06-15;W75 Blois;Clay;75;W;R32;6-3 4-6 7-6(5);Astrid Cirotte;1,11;2,22;0,85;6,0;2026-W-ITF-FRA-2026-013-116;2026;False
 Despina Papamichail;2026-06-01;Bari 125;Clay;C;L;R32;7-5 6-3;Chloe Paquet;0,0;1,79;0,0;5,6;2026-2077-273;2026;False
 Despina Papamichail;2026-05-25;W75 Kursumlijska Banja;Clay;75;L;QF;6-2 6-2;Martha Matoula;0,0;5,17;0,0;7,25;2026-W-ITF-SRB-2026-004-302;2026;False
 Despina Papamichail;2026-05-25;W75 Kursumlijska Banja;Clay;75;W;R16;7-5 5-7 6-4;Andreea Prisacariu;0,0;0,92;0,0;6,41;2026-W-ITF-SRB-2026-004-203;2026;False
@@ -11826,7 +11906,9 @@ Despina Papamichail;2020-02-06;Fed Cup G1 RR: AUT vs GRE;Hard;D;L;RR;1-6 6-4 7-5
 Despina Papamichail;2020-02-05;Fed Cup G1 RR: EST vs GRE;Hard;D;L;RR;3-6 6-3 6-0;Anett Kontaveit;0,0;2,47;2,25;6,75;2020-W-FC-2020-G1-EPA-A-B-M-EST-GRE-01-002;2020;False
 Despina Papamichail;2019-10-14;Luxembourg;Hard;I;L;Q1;6-4 6-3;Marta Kostyuk;0,0;3,92;1,72;5,67;2019-0300-228;2019;False
 Despina Papamichail;2019-02-09;Fed Cup G1 PM: GRE vs TUR;Hard;D;W;RR;3-6 6-2 6-2;Ipek Soylu;2,7;2,7;0,0;5,69;2019-W-FC-2019-G1-EPA-B-PP5-8-GRE-TUR-01-001;2019;False
+Diana Shnaider;2026-06-21;WTA Bad Homburg;Grass;W;L;R32;6-4 6-4;Clara Tauson;2,08;8,33;9,52;9,6;2026-2017-278;2026;True
 Diana Shnaider;2026-06-15;WTA Berlin;Grass;W;L;R32;6-2 6-7(2) 6-3;Nikola Bartunkova;1,96;3,92;9,57;7,29;2026-2012-285;2026;True
+Diana Shnaider;2026-06-15;Berlin;Grass;P;L;R32;6-2 6-7(2) 6-3;Nikola Bartunkova;1,96;3,92;9,57;7,29;2026-2012-282;2026;True
 Diana Shnaider;2026-05-05;Rome;Clay;PM;L;R32;6-1 6-2;Naomi Osaka;0,0;5,13;4,88;5,57;2026-709-275;2026;True
 Diana Shnaider;2026-05-05;Rome;Clay;PM;W;R64;5-7 6-1 6-1;Talia Gibson;1,25;6,25;1,12;6,15;2026-709-248;2026;True
 Diana Shnaider;2026-04-21;Madrid;Clay;PM;L;R32;6-2 7-6(6);Belinda Bencic;1,23;1,23;6,94;8,1;2026-1038-283;2026;True
@@ -12039,10 +12121,16 @@ Diana Shnaider;2022-10-31;Midland 125;Hard;C;W;Q1;6-4 6-2;Catherine Harrison;5,7
 Diana Shnaider;2022-02-07;St. Petersburg;Hard;P;L;Q1;6-4 6-2;Irina Bara;1,64;6,56;1,54;6,78;2022-1086-248;2022;True
 Diana Shnaider;2021-10-18;Moscow;Hard;P;L;Q2;6-4 7-6(2);Oksana Selekhmeteva;0,0;5,33;0,0;6,82;2021-730-868;2021;True
 Diana Shnaider;2021-10-18;Moscow;Hard;P;W;Q1;6-4 6-2;Kamilla Rakhimova;1,69;3,39;1,75;6,56;2021-730-861;2021;True
+Diane Parry;2026-06-21;WTA Bad Homburg;Grass;W;L;Q2;6-4 7-6(5);Irina Camelia Begu;8,75;8,75;8,0;7,27;2026-2017-268;2026;True
+Diane Parry;2026-06-21;WTA Bad Homburg;Grass;W;W;Q1;6-2 6-1;Aoi Ito;1,89;7,55;2,33;6,62;2026-2017-263;2026;True
 Diane Parry;2026-06-15;WTA Berlin;Grass;W;L;R16;6-2 6-2;Linda Noskova;6,12;8,16;7,5;6,12;2026-2012-292;2026;True
 Diane Parry;2026-06-15;WTA Berlin;Grass;W;W;R32;6-3 6-4;Clara Tauson;9,68;4,84;5,26;6,2;2026-2012-279;2026;True
 Diane Parry;2026-06-15;WTA Berlin;Grass;W;W;Q1;6-3 6-4;Ella Seidel;6,9;8,62;6,45;5,8;2026-2012-256;2026;True
 Diane Parry;2026-06-15;WTA Berlin;Grass;W;W;Q2;6-4 7-5;Anhelina Kalinina;11,69;10,39;1,3;7,0;2026-2012-266;2026;True
+Diane Parry;2026-06-15;Berlin;Grass;P;L;R16;6-2 6-2;Linda Noskova;6,12;8,16;7,5;6,12;2026-2012-289;2026;True
+Diane Parry;2026-06-15;Berlin;Grass;P;W;R32;6-3 6-4;Clara Tauson;9,68;4,84;5,26;6,2;2026-2012-276;2026;True
+Diane Parry;2026-06-15;Berlin;Grass;P;W;Q1;6-3 6-4;Ella Seidel;6,9;8,62;6,45;5,8;2026-2012-255;2026;True
+Diane Parry;2026-06-15;Berlin;Grass;P;W;Q2;6-4 7-5;Anhelina Kalinina;11,69;10,39;1,3;7,0;2026-2012-265;2026;True
 Diane Parry;2026-05-17;Strasbourg;Clay;P;L;R16;6-2 7-5;Shuai Zhang;2,82;4,23;1,96;7,1;2026-406-289;2026;True
 Diane Parry;2026-05-17;Strasbourg;Clay;P;W;R32;6-4 7-6(4);Emma Raducanu;3,7;1,23;5,75;7,36;2026-406-276;2026;True
 Diane Parry;2026-05-11;Paris 125;Clay;C;W;F;3-6 3-3 RET;Madison Keys;7,41;0,0;10,2;6,75;2026-2057-300;2026;True
@@ -12398,6 +12486,7 @@ Dominika Salkova;2022-07-25;Prague;Hard;I;W;Q1;2-6 6-4 6-2;Astra Sharma;0,0;9,41
 Dominika Salkova;2022-07-25;Prague;Hard;I;W;Q2;6-7(3) 7-5 6-2;Natalia Vikhlyantseva;2,04;3,06;5,05;6,12;2022-1082-266;2022;False
 Dominika Salkova;2021-07-12;Prague;Hard;I;L;Q1;6-1 6-1;Urszula Radwanska;0,0;5,88;10,26;7,29;2021-1082-853;2021;False
 Donna Vekic;2026-06-15;WTA Berlin;Grass;W;L;R32;7-5 6-4;Alexandra Eala;8,57;0,0;10,53;6,36;2026-2012-274;2026;True
+Donna Vekic;2026-06-15;Berlin;Grass;P;L;R32;7-5 6-4;Alexandra Eala;8,57;0,0;10,53;6,36;2026-2012-271;2026;True
 Donna Vekic;2026-06-08;WTA Queens;Grass;W;L;Q2;6-2 6-4;Anna Blinkova;9,09;3,03;1,56;7,33;2026-1111-270;2026;True
 Donna Vekic;2026-06-08;WTA Queens;Grass;W;W;Q1;6-3 6-4;Carole Monnet;5,36;3,57;0,0;5,6;2026-1111-259;2026;True
 Donna Vekic;2026-06-08;WTA Queens;Grass;W;L;Q2;6-2 6-4;Anna Blinkova;9,09;3,03;1,56;7,33;2026-1111-266;2026;True
@@ -12901,8 +12990,13 @@ Donna Vekic;2015-03-09;Indian Wells;Hard;PM;L;R64;6-3 6-3;Zarina Diyas;1,85;9,26
 Donna Vekic;2015-03-09;Indian Wells;Hard;PM;W;R128;6-4 6-3;Louisa Chirico;6,52;8,7;1,75;5,11;2015-W-PM-USA-01A-2015-002;2015;True
 Donna Vekic;2015-02-09;Pattaya;Hard;I;L;R32;6-2 6-0;Shuai Zhang;4,08;14,29;4,76;7,0;2015-W-INT-THA-01A-2015-013;2015;True
 Donna Vekic;2015-01-19;Australian Open;Hard;G;L;R128;3-6 6-4 6-2;Mona Barthel;9,89;6,59;11,84;7,0;2015-W-SL-AUS-01A-2015-018;2015;True
+Ekaterina Alexandrova;2026-06-21;WTA Bad Homburg;Grass;W;L;QF;6-2 6-2;Naomi Osaka;0,0;8,51;18,42;5,88;2026-2017-294;2026;True
+Ekaterina Alexandrova;2026-06-21;WTA Bad Homburg;Grass;W;W;R16;6-3 6-4;Mirra Andreeva;1,54;3,08;5,71;6,5;2026-2017-286;2026;True
+Ekaterina Alexandrova;2026-06-21;WTA Bad Homburg;Grass;W;W;R32;6-1 6-7(5) 6-1;Ann Li;10,0;3,64;11,96;7,86;2026-2017-271;2026;True
 Ekaterina Alexandrova;2026-06-15;WTA Berlin;Grass;W;L;R16;6-4 6-4;Aryna Sabalenka;10,14;5,8;5,08;6,9;2026-2012-296;2026;True
 Ekaterina Alexandrova;2026-06-15;WTA Berlin;Grass;W;W;R32;6-1 0-0 RET;Anastasia Potapova;9,52;4,76;4,35;5,25;2026-2012-287;2026;True
+Ekaterina Alexandrova;2026-06-15;Berlin;Grass;P;L;R16;6-4 6-4;Aryna Sabalenka;10,14;5,8;5,08;6,9;2026-2012-293;2026;True
+Ekaterina Alexandrova;2026-06-15;Berlin;Grass;P;W;R32;6-1 0-0 RET;Anastasia Potapova;9,52;4,76;4,35;5,25;2026-2012-284;2026;True
 Ekaterina Alexandrova;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R32;6-4 7-6(5);Panna Udvardy;6,76;8,11;6,58;6,73;2026-822-300;2026;True
 Ekaterina Alexandrova;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R32;6-4 7-6(5);Panna Udvardy;6,76;8,11;6,58;6,73;2026-822-294;2026;True
 Ekaterina Alexandrova;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R32;6-4 7-6(5);Panna Udvardy;6,76;8,11;6,58;6,73;2026-822-289;2026;True
@@ -13391,6 +13485,12 @@ Ekaterina Alexandrova;2016-04-04;Katowice;Hard;I;W;Q1;6-2 6-3;Marina Melnikova;8
 Ekaterina Alexandrova;2016-04-04;Katowice;Hard;I;W;Q2;0-6 6-0 6-3;Valentyna Ivakhnenko;1,54;1,54;0,0;6,5;2016-1067-261;2016;True
 Ekaterina Alexandrova;2016-04-04;Katowice;Hard;I;W;Q3;6-3 6-1;Valeriya Strakhova;3,85;5,77;1,92;6,5;2016-1067-267;2016;True
 Ekaterina Alexandrova;2016-04-04;Katowice;Hard;I;W;R32;6-0 7-6(5);Klara Koukalova;14,04;7,02;0,0;6,33;2016-1067-280;2016;True
+Elena Gabriela Ruse;2026-06-21;WTA Bad Homburg;Grass;W;L;SF;6-4 6-4;Karolina Muchova;3,08;15,38;6,25;6,5;2026-2017-299;2026;True
+Elena Gabriela Ruse;2026-06-21;WTA Bad Homburg;Grass;W;W;Q1;7-5 6-4;Shuai Zhang;16,67;10,61;2,99;6,0;2026-2017-261;2026;True
+Elena Gabriela Ruse;2026-06-21;WTA Bad Homburg;Grass;W;W;Q2;3-6 6-1 6-4;Taylor Townsend;6,67;8,0;8,75;5,77;2026-2017-267;2026;True
+Elena Gabriela Ruse;2026-06-21;WTA Bad Homburg;Grass;W;W;QF;6-4 6-2;Emma Navarro;7,69;1,92;3,92;5,78;2026-2017-297;2026;True
+Elena Gabriela Ruse;2026-06-21;WTA Bad Homburg;Grass;W;W;R16;7-5 6-2;Anna Kalinskaya;15,0;10,0;5,88;6,0;2026-2017-292;2026;True
+Elena Gabriela Ruse;2026-06-21;WTA Bad Homburg;Grass;W;W;R32;6-1 6-3;Linda Noskova;27,66;8,51;6,38;5,88;2026-2017-282;2026;True
 Elena Gabriela Ruse;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;W;R32;6-4 7-6(5);Tamara Korpatsch;3,95;11,84;0,0;6,91;2026-822-290;2026;True
 Elena Gabriela Ruse;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;W;R32;6-4 7-6(5);Tamara Korpatsch;3,95;11,84;0,0;6,91;2026-822-284;2026;True
 Elena Gabriela Ruse;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;QF;6-1 6-2;Barbora Krejcikova;2,22;6,67;14,29;6,43;2026-822-299;2026;True
@@ -13691,6 +13791,7 @@ Elena Gabriela Ruse;2017-07-17;Bucharest;Clay;I;L;R16;6-3 6-4;Carla Suarez Navar
 Elena Gabriela Ruse;2017-07-17;Bucharest;Clay;I;W;R32;6-2 6-1;Isabella Shinikova;0,0;6,98;3,92;6,14;2017-1079-271;2017;True
 Elena Gabriela Ruse;2016-07-11;Bucharest;Clay;I;L;R32;6-3 6-4;Anastasija Sevastova;0,0;4,94;1,82;8,1;2016-1079-273;2016;True
 Elena Rybakina;2026-06-15;WTA Berlin;Grass;W;L;R16;7-5 6-4;Alexandra Eala;18,84;5,8;5,97;6,27;2026-2012-289;2026;True
+Elena Rybakina;2026-06-15;Berlin;Grass;P;L;R16;7-5 6-4;Alexandra Eala;18,84;5,8;5,97;6,27;2026-2012-286;2026;True
 Elena Rybakina;2026-06-08;WTA Queens;Grass;W;L;QF;7-5 2-6 6-4;Katie Boulter;9,18;6,12;1,53;6,53;2026-1111-300;2026;True
 Elena Rybakina;2026-06-08;Queen's Club;Grass;P;L;QF;7-5 2-6 6-4;Katie Boulter;9,18;6,12;1,53;6,53;2026-1111-297;2026;True
 Elena Rybakina;2026-06-08;Queen's Club;Grass;P;W;R16;6-7(4) 7-5 6-0;Tatjana Maria;8,6;4,3;5,05;6,2;2026-1111-293;2026;True
@@ -14135,9 +14236,13 @@ Elena Rybakina;2017-10-16;Moscow;Hard;I;L;R32;6-1 3-6 6-3;Irina Camelia Begu;2,3
 Elena Rybakina;2017-10-16;Moscow;Hard;I;W;Q1;6-1 6-4;Petra Krejsova;11,32;7,55;12,24;5,89;2017-M014-232;2017;True
 Elena Rybakina;2017-10-16;Moscow;Hard;I;W;Q2;4-6 7-6(4) 6-4;Tereza Martincova;3,88;2,91;0,83;6,44;2017-M014-245;2017;True
 Elena Rybakina;2017-10-16;Moscow;Hard;I;W;Q3;6-2 6-3;Alla Kudryavtseva;3,51;7,02;0,0;6,33;2017-M014-252;2017;True
+Elina Svitolina;2026-06-21;WTA Bad Homburg;Grass;W;W;R16;3-6 6-3 6-2;Liudmila Samsonova;4,04;3,03;7,59;7,62;2026-2017-288;2026;True
 Elina Svitolina;2026-06-15;WTA Berlin;Grass;W;L;QF;6-3 6-4;Alexandra Eala;5,97;10,45;5,26;7,44;2026-2012-297;2026;True
 Elina Svitolina;2026-06-15;WTA Berlin;Grass;W;W;R16;6-3 6-2;Eva Lys;12,5;3,12;0,0;7,11;2026-2012-290;2026;True
 Elina Svitolina;2026-06-15;WTA Berlin;Grass;W;W;R32;6-1 4-1 RET;Anna Kalinskaya;12,9;6,45;2,94;5,17;2026-2012-276;2026;True
+Elina Svitolina;2026-06-15;Berlin;Grass;P;L;QF;6-3 6-4;Alexandra Eala;5,97;10,45;5,26;7,44;2026-2012-294;2026;True
+Elina Svitolina;2026-06-15;Berlin;Grass;P;W;R16;6-3 6-2;Eva Lys;12,5;3,12;0,0;7,11;2026-2012-287;2026;True
+Elina Svitolina;2026-06-15;Berlin;Grass;P;W;R32;6-1 4-1 RET;Anna Kalinskaya;12,9;6,45;2,94;5,17;2026-2012-273;2026;True
 Elina Svitolina;2026-05-05;Rome;Clay;PM;W;F;6-4 6-7(3) 6-2;Coco Gauff;1,55;1,55;0,88;8,6;2026-709-300;2026;True
 Elina Svitolina;2026-05-05;Rome;Clay;PM;W;QF;2-6 6-4 6-4;Elena Rybakina;0,91;4,55;7,14;7,86;2026-709-294;2026;True
 Elina Svitolina;2026-05-05;Rome;Clay;PM;W;R16;6-2 6-3;Nikola Bartunkova;3,64;3,64;0,0;6,11;2026-709-287;2026;True
@@ -14673,6 +14778,7 @@ Elina Svitolina;2015-02-16;Dubai;Hard;P;L;R32;2-6 6-3 6-2;Petra Kvitova;6,58;5,2
 Elina Svitolina;2015-02-16;Dubai;Hard;P;W;R64;3-1 RET;Coco Vandeweghe;0,0;7,69;12,5;6,5;2015-W-PR-UAE-01A-2015-022;2015;True
 Elina Svitolina;2015-01-19;Australian Open;Hard;G;L;R32;4-6 6-2 6-0;Serena Williams;5,75;8,05;11,69;7,25;2015-W-SL-AUS-01A-2015-097;2015;True
 Elina Svitolina;2015-01-19;Australian Open;Hard;G;W;R64;7-6(3) 7-6(6);Nicole Gibbs;8,16;3,06;0,0;7,54;2015-W-SL-AUS-01A-2015-066;2015;True
+Elisabetta Cocciaretto;2026-06-22;WTA Eastbourne;Grass;W;L;R32;6-2 6-7(5) 7-5;Ajla Tomljanovic;3,85;9,62;1,98;6,5;2026-710-282;2026;True
 Elisabetta Cocciaretto;2026-05-05;Rome;Clay;PM;L;R32;6-1 6-0;Iga Swiatek;0,0;7,5;8,7;6,67;2026-709-274;2026;True
 Elisabetta Cocciaretto;2026-05-05;Rome;Clay;PM;W;R128;6-2 6-4;Sinja Kraus;1,72;3,45;1,56;6,44;2026-709-192;2026;True
 Elisabetta Cocciaretto;2026-05-05;Rome;Clay;PM;W;R64;6-3 6-3;Emma Navarro;1,43;2,86;0,0;7,78;2026-709-247;2026;True
@@ -14953,8 +15059,12 @@ Elisabetta Cocciaretto;2019-07-22;Palermo;Clay;I;L;R32;6-4 3-6 6-3;Viktoria Hrun
 Elisabetta Cocciaretto;2019-07-22;Palermo;Clay;I;W;Q1;3-6 6-3 7-6(2);Conny Perrin;0,0;2,48;0,95;8,07;2019-0466-244;2019;True
 Elisabetta Cocciaretto;2019-07-22;Palermo;Clay;I;W;Q2;6-3 3-6 6-4;Fanny Stollar;1,04;2,08;6,38;6,86;2019-0466-252;2019;True
 Elisabetta Cocciaretto;2019-05-13;Rome;Clay;P;L;R64;6-3 6-3;Amanda Anisimova;0,0;11,54;1,47;5,78;2019-M009-263;2019;True
+Elise Mertens;2026-06-21;WTA Bad Homburg;Grass;W;L;R16;6-3 6-3;Naomi Osaka;10,2;12,24;14,58;5,44;2026-2017-287;2026;True
+Elise Mertens;2026-06-21;WTA Bad Homburg;Grass;W;W;R32;6-3 6-3;Alexandra Eala;17,54;8,77;2,94;6,33;2026-2017-272;2026;True
 Elise Mertens;2026-06-15;WTA Berlin;Grass;W;L;R16;6-1 6-4;Nikola Bartunkova;6,35;11,11;3,08;7,88;2026-2012-295;2026;True
 Elise Mertens;2026-06-15;WTA Berlin;Grass;W;W;R32;1-6 6-3 6-0;Liudmila Samsonova;8,57;7,14;2,99;6,36;2026-2012-286;2026;True
+Elise Mertens;2026-06-15;Berlin;Grass;P;L;R16;6-1 6-4;Nikola Bartunkova;6,35;11,11;3,08;7,88;2026-2012-292;2026;True
+Elise Mertens;2026-06-15;Berlin;Grass;P;W;R32;1-6 6-3 6-0;Liudmila Samsonova;8,57;7,14;2,99;6,36;2026-2012-283;2026;True
 Elise Mertens;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;W;R32;6-1 6-2;Bianca Andreescu;2,5;7,5;0,0;5,0;2026-822-289;2026;True
 Elise Mertens;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;W;R32;6-1 6-2;Bianca Andreescu;2,5;7,5;0,0;5,0;2026-822-283;2026;True
 Elise Mertens;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R16;6-3 6-3;Elena Gabriela Ruse;3,33;3,33;6,67;6,67;2026-822-292;2026;True
@@ -15687,7 +15797,9 @@ Elizabeth Mandlik;2019-10-14;Luxembourg;Hard;I;L;Q1;6-3 6-2;Chloe Paquet;6,25;14
 Elizabeth Mandlik;2019-08-19;New York;Hard;I;L;Q3;4-6 6-4 6-3;Fiona Ferro;3,57;9,52;7,87;6,0;2019-2010-253;2019;False
 Elizabeth Mandlik;2019-08-19;New York;Hard;I;W;Q1;6-4 6-4;Jennifer Elie;5,33;9,33;2,08;7,5;2019-2010-230;2019;False
 Elizabeth Mandlik;2019-08-19;New York;Hard;I;W;Q2;6-3 0-6 6-2;Ying Ying Duan;8,54;9,76;2,94;7,45;2019-2010-245;2019;False
+Ella Seidel;2026-06-21;WTA Bad Homburg;Grass;W;L;Q1;6-2 6-1;Solana Sierra;2,33;6,98;13,21;6,14;2026-2017-265;2026;True
 Ella Seidel;2026-06-15;WTA Berlin;Grass;W;L;Q1;6-3 6-4;Diane Parry;6,45;8,06;6,9;6,89;2026-2012-256;2026;True
+Ella Seidel;2026-06-15;Berlin;Grass;P;L;Q1;6-3 6-4;Diane Parry;6,45;8,06;6,9;6,89;2026-2012-255;2026;True
 Ella Seidel;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;Q2;6-1 2-6 6-0;Greet Minnen;2,99;4,48;6,76;6,7;2026-822-276;2026;True
 Ella Seidel;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;W;Q1;7-6(5) 6-3;Claire Liu;2,9;5,8;9,38;6,27;2026-822-272;2026;True
 Ella Seidel;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;Q2;6-1 2-6 6-0;Greet Minnen;2,99;4,48;6,76;6,7;2026-822-273;2026;True
@@ -15841,7 +15953,10 @@ Ella Seidel;2023-06-19;Berlin;Grass;P;L;Q1;6-4 6-3;Laura Siegemund;5,88;2,94;5,8
 Ella Seidel;2023-04-17;Stuttgart;Clay;P;L;Q1;7-6(5) 7-6(4);Linda Fruhvirtova;1,75;5,26;4,55;9,5;2023-1051-261;2023;True
 Ella Seidel;2022-07-18;Hamburg;Clay;I;L;Q1;6-2 6-1;Alexandra Cadantu Ignatik;2,13;4,26;2,44;6,71;2022-2042-254;2022;True
 Ella Seidel;2022-05-09;Karlsruhe 125;Clay;C;L;R32;6-1 6-3;Anna Lena Friedsam;1,82;9,09;4,35;6,88;2022-2004-284;2022;True
+Elsa Jacquemot;2026-06-22;WTA Eastbourne;Grass;W;L;Q2;2-6 6-1 6-3;Zeynep Sonmez;6,85;10,96;0,0;6,08;2026-710-267;2026;True
+Elsa Jacquemot;2026-06-22;WTA Eastbourne;Grass;W;W;Q1;5-7 6-2 6-3;Mingge Xu;5,81;9,3;5,05;6,14;2026-710-258;2026;True
 Elsa Jacquemot;2026-06-15;WTA Nottingham;Grass;W;L;Q1;6-4 6-4;Sofia Kenin;9,52;3,17;1,47;6,3;2026-1080-253;2026;True
+Elsa Jacquemot;2026-06-15;Nottingham;Grass;I;L;Q1;6-4 6-4;Sofia Kenin;9,52;3,17;1,47;6,3;2026-1080-252;2026;True
 Elsa Jacquemot;2026-06-08;WTA Queens;Grass;W;L;Q1;6-2 4-6 6-4;Hanyu Guo;7,23;7,23;1,9;5,93;2026-1111-261;2026;True
 Elsa Jacquemot;2026-06-08;WTA Queens;Grass;W;L;Q1;6-2 4-6 6-4;Hanyu Guo;7,23;7,23;1,9;5,93;2026-1111-257;2026;True
 Elsa Jacquemot;2026-06-08;Queen's Club;Grass;P;L;Q1;6-2 4-6 6-4;Hanyu Guo;7,23;7,23;1,9;5,93;2026-1111-255;2026;True
@@ -16272,7 +16387,12 @@ Emerson Jones;2025-01-06;Adelaide;Hard;P;W;R32;6-4 6-0;Xin Yu Wang;0,0;6,52;0,0;
 Emerson Jones;2024-12-30;Canberra 125;Hard;C;L;R32;6-2 6-3;Elsa Jacquemot;0,0;7,41;16,07;6,0;2025-2096-275;2024;False
 Emerson Jones;2024-01-15;Australian Open;Hard;G;L;Q1;6-2 7-5;Priscilla Hon;0,0;6,56;7,46;6,1;2024-580-762;2024;False
 Emerson Jones;2024-01-01;Canberra 125;Hard;C;L;R32;6-4 6-2;Yafan Wang;4,0;10,67;10,94;8,33;2024-2096-273;2024;False
+Emiliana Arango;2026-06-22;WTA Eastbourne;Grass;W;L;R16;6-3 6-0;Caty Mcnally;4,0;6,0;2,22;7,14;2026-710-289;2026;True
+Emiliana Arango;2026-06-22;WTA Eastbourne;Grass;W;W;Q1;4-6 6-3 7-5;Alycia Parks;1,16;6,98;6,86;5,73;2026-710-262;2026;True
+Emiliana Arango;2026-06-22;WTA Eastbourne;Grass;W;W;Q2;6-3 6-2;Sofia Johnson;0,0;1,69;0,0;6,56;2026-710-269;2026;True
+Emiliana Arango;2026-06-22;WTA Eastbourne;Grass;W;W;R32;7-6(2) 6-4;Maya Joint;0,0;6,25;1,43;5,82;2026-710-276;2026;True
 Emiliana Arango;2026-06-15;WTA Nottingham;Grass;W;L;Q1;6-3 6-4;Anna Bondar;7,55;3,77;1,54;5,89;2026-1080-257;2026;True
+Emiliana Arango;2026-06-15;Nottingham;Grass;I;L;Q1;6-3 6-4;Anna Bondar;7,55;3,77;1,54;5,89;2026-1080-256;2026;True
 Emiliana Arango;2026-05-18;Rabat;Clay;I;L;R16;7-6(6) 1-6 6-0;Anna Bondar;1,27;3,8;4,81;6,08;2026-1005-290;2026;True
 Emiliana Arango;2026-05-18;Rabat;Clay;I;W;R32;6-3 4-6 6-1;Ella Seidel;2,63;3,95;0,96;5,85;2026-1005-279;2026;True
 Emiliana Arango;2026-05-05;Rome;Clay;PM;L;Q1;6-4 6-3;Noemi Basiletti;0,0;3,03;0,0;7,33;2026-709-149;2026;True
@@ -16474,9 +16594,16 @@ Emiliana Arango;2018-02-09;Fed Cup G1 RR: CHI vs COL;Clay;D;W;RR;6-2 7-6(4);Alex
 Emiliana Arango;2018-02-07;Fed Cup G1 RR: PAR vs COL;Clay;D;L;RR;6-4 6-3;Montserrat Gonzalez;1,67;1,67;4,55;6,67;2018-W-FC-2018-G1-AM-A-M-PAR-COL-01-001;2018;True
 Emiliana Arango;2017-04-10;Bogota;Clay;I;L;R32;6-2 6-2;Irina Khromacheva;1,96;5,88;3,17;6,38;2017-0894-275;2017;True
 Emiliana Arango;2016-04-11;Bogota;Clay;I;L;R32;6-0 6-1;Irina Falconi;2,86;14,29;7,5;5,83;2016-0894-273;2016;True
-Emma Navarro;2026-06-15;WTA Nottingham;Grass;W;W;QF;7-6(6) 6-2;Jessica Bouzas Maneiro;5,41;1,35;2,7;7,4;2026-1080-298;2026;True
+Emma Navarro;2026-06-21;WTA Bad Homburg;Grass;W;L;QF;6-4 6-2;Elena Gabriela Ruse;3,92;5,88;7,69;5,67;2026-2017-297;2026;True
+Emma Navarro;2026-06-21;WTA Bad Homburg;Grass;W;W;R16;7-5 2-6 6-3;Iga Swiatek;5,56;4,44;8,0;6,0;2026-2017-293;2026;True
+Emma Navarro;2026-06-21;WTA Bad Homburg;Grass;W;W;R32;7-6(6) 6-3;Eva Lys;18,18;1,52;5,19;6,0;2026-2017-284;2026;True
 Emma Navarro;2026-06-15;WTA Nottingham;Grass;W;W;R16;6-4 6-7(3) 6-4;Yuliia Starodubtseva;7,89;2,63;1,83;7,12;2026-1080-291;2026;True
 Emma Navarro;2026-06-15;WTA Nottingham;Grass;W;W;R32;6-7(6) 6-3 6-2;Anna Bondar;4,88;2,44;7,62;5,47;2026-1080-277;2026;True
+Emma Navarro;2026-06-15;Nottingham;Grass;I;L;F;7-6(5) 4-6 6-2;Marie Bouzkova;9,26;3,7;4,17;7,2;2026-1080-300;2026;True
+Emma Navarro;2026-06-15;Nottingham;Grass;I;W;QF;7-6(6) 6-2;Jessica Bouzas Maneiro;5,41;1,35;2,7;7,4;2026-1080-295;2026;True
+Emma Navarro;2026-06-15;Nottingham;Grass;I;W;R16;6-4 6-7(3) 6-4;Yuliia Starodubtseva;7,89;2,63;1,83;7,12;2026-1080-288;2026;True
+Emma Navarro;2026-06-15;Nottingham;Grass;I;W;R32;6-7(6) 6-3 6-2;Anna Bondar;4,88;2,44;7,62;5,47;2026-1080-274;2026;True
+Emma Navarro;2026-06-15;Nottingham;Grass;I;W;SF;7-6(5) 6-2;Viktorija Golubic;4,23;2,82;3,45;7,1;2026-1080-298;2026;True
 Emma Navarro;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R32;4-6 6-0 6-4;Caty Mcnally;2,27;2,27;0,0;6,77;2026-822-296;2026;True
 Emma Navarro;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R32;4-6 6-0 6-4;Caty Mcnally;2,27;2,27;0,0;6,77;2026-822-290;2026;True
 Emma Navarro;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R32;4-6 6-0 6-4;Caty Mcnally;2,27;2,27;0,0;6,77;2026-822-285;2026;True
@@ -16887,8 +17014,11 @@ Emma Raducanu;2021-06-28;Wimbledon;Grass;G;W;R32;6-3 7-5;Sorana Cirstea;7,69;7,6
 Emma Raducanu;2021-06-28;Wimbledon;Grass;G;W;R64;6-2 6-4;Marketa Vondrousova;0,0;6,35;3,64;7,0;2021-540-169;2021;True
 Emma Raducanu;2021-06-07;Nottingham;Grass;I;L;R64;6-3 6-4;Harriet Dart;3,45;6,9;0,0;5,8;2021-1080-240;2021;True
 Emma Raducanu;2019-07-01;Wimbledon;Grass;G;L;Q1;7-6(4) 6-2;En Shuo Liang;4,94;2,47;2,67;7,36;2019-540-102;2019;True
+Eva Lys;2026-06-21;WTA Bad Homburg;Grass;W;L;R32;7-6(6) 6-3;Emma Navarro;5,19;5,19;18,18;7,7;2026-2017-284;2026;True
 Eva Lys;2026-06-15;WTA Berlin;Grass;W;L;R16;6-3 6-2;Elina Svitolina;0,0;2,13;12,5;5,88;2026-2012-290;2026;True
 Eva Lys;2026-06-15;WTA Berlin;Grass;W;W;R32;7-6(7) 6-3;Magdalena Frech;1,16;6,98;3,3;8,6;2026-2012-275;2026;True
+Eva Lys;2026-06-15;Berlin;Grass;P;L;R16;6-3 6-2;Elina Svitolina;0,0;2,13;12,5;5,88;2026-2012-287;2026;True
+Eva Lys;2026-06-15;Berlin;Grass;P;W;R32;7-6(7) 6-3;Magdalena Frech;1,16;6,98;3,3;8,6;2026-2012-272;2026;True
 Eva Lys;2026-05-17;Strasbourg;Clay;P;L;Q1;6-2 3-6 6-0;Talia Gibson;3,45;11,49;12,12;7,25;2026-406-261;2026;True
 Eva Lys;2026-05-05;Rome;Clay;PM;L;R64;6-4 4-6 6-3;Naomi Osaka;0,0;4,49;3,41;6,36;2026-709-249;2026;True
 Eva Lys;2026-05-05;Rome;Clay;PM;W;R128;6-4 3-6 6-4;Katie Boulter;0,92;7,34;3,23;7,27;2026-709-196;2026;True
@@ -17060,6 +17190,8 @@ Eva Lys;2021-11-08;Linz;Hard;I;L;Q1;6-4 4-6 7-6(4);Ana Bogdan;1,04;5,21;4,35;6,0
 Eva Lys;2021-07-05;Hamburg;Clay;I;L;Q1;7-5 6-4;Mandy Minella;0,0;2,86;0,0;6,36;2021-2042-862;2021;True
 Fiona Ferro;2026-06-15;WTA Brescia 125;Clay;W;L;R16;7-6(3) 2-6 6-4;Ekaterine Gorgodze;1,9;2,86;0,95;7,0;2026-1170-289;2026;False
 Fiona Ferro;2026-06-15;WTA Brescia 125;Clay;W;W;R32;6-2 4-6 6-3;Kajsa Rinaldo Persson;1,09;1,09;1,39;6,57;2026-1170-274;2026;False
+Fiona Ferro;2026-06-15;Brescia 125;Clay;C;L;R16;7-6(3) 2-6 6-4;Ekaterine Gorgodze;1,9;2,86;0,95;7,0;2026-1170-286;2026;False
+Fiona Ferro;2026-06-15;Brescia 125;Clay;C;W;R32;6-2 4-6 6-3;Kajsa Rinaldo Persson;1,09;1,09;1,39;6,57;2026-1170-271;2026;False
 Fiona Ferro;2026-05-18;Rabat;Clay;I;L;R16;2-6 7-6(2) 6-3;Jessica Bouzas Maneiro;0,0;0,0;0,0;6,57;2026-1005-286;2026;False
 Fiona Ferro;2026-05-18;Rabat;Clay;I;W;R32;6-2 6-3;Danka Kovinic;0,0;0,0;0,0;6,88;2026-1005-271;2026;False
 Fiona Ferro;2026-05-18;Rabat;Clay;I;W;Q1;6-1 6-0;Ekaterina Kazionova;4,26;4,26;0,0;6,71;2026-1005-265;2026;False
@@ -17325,7 +17457,9 @@ Fiona Ferro;2016-04-04;Katowice;Hard;I;L;Q1;6-2 3-0 RET;Basak Eraydin;2,27;0,0;2
 Fiona Ferro;2016-02-15;Rio de Janeiro;Clay;I;L;Q2;6-1 6-0;Cindy Burger;1,67;3,33;2,78;8,57;2016-M052-264;2016;False
 Fiona Ferro;2016-02-15;Rio de Janeiro;Clay;I;W;Q1;6-2 0-6 6-2;Stephanie Vogt;2,67;4,0;1,45;6,82;2016-M052-252;2016;False
 Fiona Ferro;2015-05-25;Roland Garros;Clay;G;L;R128;6-3 6-2;Teliana Pereira;0,0;1,82;2,33;6,11;2015-W-SL-FRA-01A-2015-039;2015;False
+Francesca Jones;2026-06-22;WTA Eastbourne;Grass;W;L;R32;6-2 6-2;Jelena Ostapenko;2,22;2,22;9,09;5,62;2026-710-281;2026;True
 Francesca Jones;2026-06-15;WTA Nottingham;Grass;W;L;R32;6-3 5-7 7-6(4);Talia Gibson;11,19;2,99;10,68;8,38;2026-1080-286;2026;True
+Francesca Jones;2026-06-15;Nottingham;Grass;I;L;R32;6-3 5-7 7-6(4);Talia Gibson;11,19;2,99;10,68;8,38;2026-1080-283;2026;True
 Francesca Jones;2026-06-08;WTA Queens;Grass;W;L;R32;6-2 6-3;Laura Siegemund;0,0;6,45;8,51;7,75;2026-1111-283;2026;True
 Francesca Jones;2026-06-08;WTA Queens;Grass;W;L;R32;6-2 6-3;Laura Siegemund;0,0;6,45;8,51;7,75;2026-1111-275;2026;True
 Francesca Jones;2026-06-08;Queen's Club;Grass;P;L;R32;6-2 6-3;Laura Siegemund;0,0;6,45;8,51;7,75;2026-1111-271;2026;True
@@ -17468,6 +17602,7 @@ Francesca Jones;2019-07-22;Jurmala;Clay;I;L;Q1;6-2 6-2;Barbara Haas;3,28;9,84;12
 Francesca Jones;2019-07-15;Bucharest;Clay;I;L;Q1;6-3 6-4;Martina Di Giuseppe;1,41;18,31;5,66;7,1;2019-1079-230;2019;True
 Francesca Jones;2019-07-01;Wimbledon;Grass;G;L;Q1;6-3 6-7(1) 6-3;Katarzyna Kawa;2,83;10,38;8,0;7,07;2019-540-141;2019;True
 Francisca Jorge;2026-06-15;WTA Figueira Da Foz 125;Hard;W;L;R32;6-4 7-6(3);Elena Micic;1,19;4,76;5,41;7,64;2026-1177-283;2026;False
+Francisca Jorge;2026-06-15;Figueira Da Foz 125;Hard;C;L;R32;6-4 7-6(3);Elena Micic;1,19;4,76;5,41;7,64;2026-1177-280;2026;False
 Francisca Jorge;2026-06-08;W50 Guimaraes;Hard;50;L;QF;6-1 7-5;Aliona Falei;1,59;6,35;0,0;6,3;2026-W-ITF-POR-2026-005-301;2026;False
 Francisca Jorge;2026-06-08;W50 Guimaraes;Hard;50;W;R16;6-2 6-2;Valentina Losciale;0,0;7,94;0,0;7,88;2026-W-ITF-POR-2026-005-201;2026;False
 Francisca Jorge;2026-06-08;W50 Guimaraes;Hard;50;W;R32;6-3 6-4;Mariam Bolkvadze;0,0;1,54;0,0;6,5;2026-W-ITF-POR-2026-005-101;2026;False
@@ -17898,6 +18033,7 @@ Hailey Baptiste;2019-11-11;Houston;Hard;C;L;R32;3-6 6-3 7-6(4);Kirsten Flipkens;
 Hailey Baptiste;2019-11-11;Houston;Hard;C;W;R64;6-2 6-4;Elitsa Kostova;10,71;12,5;0,0;6,22;2019-2001-247;2019;True
 Hailey Baptiste;2019-07-29;Washington;Hard;I;L;R16;6-4 4-6 6-3;Kristina Mladenovic;3,06;6,12;6,82;6,53;2019-M035-286;2019;True
 Hailey Baptiste;2019-07-29;Washington;Hard;I;W;R32;7-6(4) 6-2;Madison Keys;6,41;5,13;2,44;7,8;2019-M035-270;2019;True
+Hanne Vandewinkel;2026-06-22;WTA Eastbourne;Grass;W;L;Q1;6-3 6-4;Zeynep Sonmez;9,86;2,82;0,0;7,89;2026-710-259;2026;True
 Hanne Vandewinkel;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;W;R32;4-6 7-6(5) 7-5;Nikola Bartunkova;2,33;4,65;4,81;7,59;2026-822-291;2026;True
 Hanne Vandewinkel;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;W;Q2;6-0 6-4;Anouk Koevermans;5,0;2,5;4,55;5,0;2026-822-275;2026;True
 Hanne Vandewinkel;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;W;R32;4-6 7-6(5) 7-5;Nikola Bartunkova;2,33;4,65;4,81;7,59;2026-822-285;2026;True
@@ -18116,7 +18252,9 @@ Hanyu Guo;2017-07-24;Nanchang;Hard;I;W;Q1;2-6 6-3 7-5;Ksenia Lykina;4,85;9,71;1,
 Hanyu Guo;2017-04-17;Zhengzhou;Hard;I;L;R32;6-1 6-3;Eri Hozumi;0,0;9,8;3,12;6,38;2017-1099-280;2017;False
 Hanyu Guo;2017-04-17;Zhengzhou;Hard;I;W;Q1;5-7 7-6(6) 6-3;Jiaxi Lu;1,67;15,0;4,84;7,5;2017-1099-247;2017;False
 Hanyu Guo;2017-04-17;Zhengzhou;Hard;I;W;Q2;6-4 3-6 6-4;Jacqueline Cako;1,37;2,74;5,88;5,21;2017-1099-253;2017;False
+Harriet Dart;2026-06-22;WTA Eastbourne;Grass;W;L;R32;4-6 6-2 7-5;Zeynep Sonmez;5,77;5,77;1,09;6,93;2026-710-279;2026;False
 Harriet Dart;2026-06-15;WTA Nottingham;Grass;W;L;R32;6-2 6-4;Hannah Klugman;4,92;4,92;12,77;6,78;2026-1080-283;2026;False
+Harriet Dart;2026-06-15;Nottingham;Grass;I;L;R32;6-2 6-4;Hannah Klugman;4,92;4,92;12,77;6,78;2026-1080-280;2026;False
 Harriet Dart;2026-06-08;WTA Queens;Grass;W;W;R32;5-7 6-4 6-3;Liudmila Samsonova;4,17;6,25;1,67;6,4;2026-1111-287;2026;False
 Harriet Dart;2026-06-08;WTA Queens;Grass;W;L;R16;5-7 6-1 7-5;Kamilla Rakhimova;5,43;8,7;0,9;6,13;2026-1111-292;2026;False
 Harriet Dart;2026-06-08;WTA Queens;Grass;W;W;R32;5-7 6-4 6-3;Liudmila Samsonova;4,17;6,25;1,67;6,4;2026-1111-279;2026;False
@@ -18433,6 +18571,9 @@ Harriet Dart;2015-06-22;Eastbourne;Grass;P;L;R64;6-1 6-3;Dominika Cibulkova;0,0;
 Himeno Sakatsume;2026-06-15;WTA Nottingham;Grass;W;L;R32;7-5 6-2;Jessica Bouzas Maneiro;1,39;1,39;8,0;7,2;2026-1080-279;2026;False
 Himeno Sakatsume;2026-06-15;WTA Nottingham;Grass;W;W;Q1;6-2 7-6(2);Mika Stojsavljevic;1,45;0,0;1,75;6,9;2026-1080-262;2026;False
 Himeno Sakatsume;2026-06-15;WTA Nottingham;Grass;W;W;Q2;6-3 6-3;Alicia Dudeney;1,67;1,67;1,79;6,67;2026-1080-269;2026;False
+Himeno Sakatsume;2026-06-15;Nottingham;Grass;I;L;R32;7-5 6-2;Jessica Bouzas Maneiro;1,39;1,39;8,0;7,2;2026-1080-276;2026;False
+Himeno Sakatsume;2026-06-15;Nottingham;Grass;I;W;Q1;6-2 7-6(2);Mika Stojsavljevic;1,45;0,0;1,75;6,9;2026-1080-261;2026;False
+Himeno Sakatsume;2026-06-15;Nottingham;Grass;I;W;Q2;6-3 6-3;Alicia Dudeney;1,67;1,67;1,79;6,67;2026-1080-268;2026;False
 Himeno Sakatsume;2026-06-08;WTA Ilkley 125;Grass;W;L;R32;6-4 6-3;Alicia Dudeney;0,0;2,6;5,26;7,7;2026-1127-298;2026;False
 Himeno Sakatsume;2026-06-08;WTA Ilkley 125;Grass;W;L;R32;6-4 6-3;Alicia Dudeney;0,0;2,6;5,26;7,7;2026-1127-286;2026;False
 Himeno Sakatsume;2026-06-08;Ilkley 125;Grass;C;L;R32;6-4 6-3;Alicia Dudeney;0,0;2,6;5,26;7,7;2026-1127-283;2026;False
@@ -18555,6 +18696,7 @@ Himeno Sakatsume;2022-09-19;Tokyo;Hard;P;W;Q1;6-4 6-2;Rinko Matsuda;1,96;5,88;5,
 Himeno Sakatsume;2022-08-22;Granby;Hard;I;L;R32;7-6(6) 6-4;Jasmine Paolini;0,0;3,03;1,32;6,0;2022-2070-274;2022;False
 Himeno Sakatsume;2022-08-22;Granby;Hard;I;L;Q2;6-1 6-3;Kayla Cross;0,0;4,92;3,77;7,62;2022-2070-268;2022;False
 Himeno Sakatsume;2022-08-22;Granby;Hard;I;W;Q1;6-2 7-5;Nagi Hanatani;1,85;5,56;0,0;5,4;2022-2070-262;2022;False
+Iga Swiatek;2026-06-21;WTA Bad Homburg;Grass;W;L;R16;7-5 2-6 6-3;Emma Navarro;8,0;12,0;5,56;5,36;2026-2017-293;2026;True
 Iga Swiatek;2026-05-05;Rome;Clay;PM;L;SF;6-4 2-6 6-2;Elina Svitolina;2,6;1,3;2,06;5,92;2026-709-298;2026;True
 Iga Swiatek;2026-05-05;Rome;Clay;PM;W;QF;6-1 6-2;Jessica Pegula;4,44;4,44;2,22;5,62;2026-709-295;2026;True
 Iga Swiatek;2026-05-05;Rome;Clay;PM;W;R16;6-2 6-1;Naomi Osaka;6,52;2,17;3,28;6,57;2026-709-288;2026;True
@@ -19099,7 +19241,9 @@ Iva Jovic;2024-11-18;Charleston 125 2;Clay;C;W;R32;6-4 6-4;Usue Maitane Arconada
 Iva Jovic;2024-08-26;US Open;Hard;G;L;R64;4-6 6-4 7-5;Ekaterina Alexandrova;0,89;2,68;8,49;7,0;2024-560-194;2024;True
 Iva Jovic;2024-08-26;US Open;Hard;G;W;R128;6-4 6-3;Magda Linette;0,0;0,0;7,69;6,0;2024-560-161;2024;True
 Iva Jovic;2024-03-06;Indian Wells;Hard;PM;L;Q1;6-1 6-2;Taylor Townsend;0,0;2,33;9,09;6,14;2024-609-155;2024;True
+Janice Tjen;2026-06-22;WTA Eastbourne;Grass;W;L;R32;7-5 6-7(5) 6-3;Caty Mcnally;2,5;5,83;0,8;7,06;2026-710-277;2026;True
 Janice Tjen;2026-06-15;WTA Nottingham;Grass;W;L;R32;6-3 6-2;Tatjana Maria;0,0;2,27;18,52;5,5;2026-1080-281;2026;True
+Janice Tjen;2026-06-15;Nottingham;Grass;I;L;R32;6-3 6-2;Tatjana Maria;0,0;2,27;18,52;5,5;2026-1080-278;2026;True
 Janice Tjen;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R32;7-6(4) 6-1;Greet Minnen;1,35;1,35;2,99;8,22;2026-822-297;2026;True
 Janice Tjen;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R32;7-6(4) 6-1;Greet Minnen;1,35;1,35;2,99;8,22;2026-822-291;2026;True
 Janice Tjen;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R32;7-6(4) 6-1;Greet Minnen;1,35;1,35;2,99;8,22;2026-822-286;2026;True
@@ -19494,6 +19638,7 @@ Jaqueline Cristian;2018-05-21;Strasbourg;Clay;I;W;Q1;7-6(3) 4-1 RET;Vivien Juhas
 Jaqueline Cristian;2017-07-17;Bucharest;Clay;I;L;R16;6-4 6-0;Irina Camelia Begu;1,75;8,77;3,57;7,12;2017-1079-289;2017;True
 Jaqueline Cristian;2017-07-17;Bucharest;Clay;I;W;R32;4-6 6-4 6-2;Kateryna Baindl;9,09;7,07;2,11;7,07;2017-1079-276;2017;True
 Jaqueline Cristian;2017-03-20;Miami;Hard;PM;L;Q1;6-1 6-1;Mona Barthel;2,38;2,38;6,45;6,0;2017-M007-108;2017;True
+Jasmine Paolini;2026-06-22;WTA Eastbourne;Grass;W;L;R32;6-4 6-3;Tatjana Maria;0,0;3,75;17,78;8,0;2026-710-285;2026;True
 Jasmine Paolini;2026-05-05;Rome;Clay;PM;L;R32;4-6 7-6(5) 6-3;Elise Mertens;0,0;1,98;2,86;6,73;2026-709-279;2026;True
 Jasmine Paolini;2026-05-05;Rome;Clay;PM;W;R64;6-7(4) 6-2 6-4;Leolia Jeanjean;0,0;5,94;3,28;6,73;2026-709-257;2026;True
 Jasmine Paolini;2026-04-21;Madrid;Clay;PM;L;R32;7-5 6-3;Hailey Baptiste;2,35;1,18;16,87;8,5;2026-1038-282;2026;True
@@ -19913,6 +20058,8 @@ Jasmine Paolini;2017-04-10;Biel;Hard;I;W;Q2;2-6 6-4 6-3;Tereza Smitkova;0,0;2,25
 Jasmine Paolini;2016-11-14;Taipei;Hard;C;L;Q1;7-6(5) 6-3;Pei Chi Lee;2,38;5,95;4,69;7,64;2016-1059-250;2016;True
 Jazmin Ortenzi;2026-06-15;WTA Brescia 125;Clay;W;L;R16;6-2 6-1;Elizara Yaneva;0,0;0,0;1,82;5,43;2026-1170-290;2026;False
 Jazmin Ortenzi;2026-06-15;WTA Brescia 125;Clay;W;W;R32;6-3 6-3;Francesca Pace;0,0;3,51;0,0;6,33;2026-1170-276;2026;False
+Jazmin Ortenzi;2026-06-15;Brescia 125;Clay;C;L;R16;6-2 6-1;Elizara Yaneva;0,0;0,0;1,82;5,43;2026-1170-287;2026;False
+Jazmin Ortenzi;2026-06-15;Brescia 125;Clay;C;W;R32;6-3 6-3;Francesca Pace;0,0;3,51;0,0;6,33;2026-1170-273;2026;False
 Jazmin Ortenzi;2026-06-08;WTA Modena 125;Clay;W;L;R32;6-3 6-4;Kaitlin Quevedo;1,22;8,54;1,35;9,11;2026-1171-284;2026;False
 Jazmin Ortenzi;2026-06-08;WTA Modena 125;Clay;W;L;R32;6-3 6-4;Kaitlin Quevedo;1,22;8,54;1,35;9,11;2026-1171-282;2026;False
 Jazmin Ortenzi;2026-06-08;WTA Modena 125;Clay;W;L;R32;6-3 6-4;Kaitlin Quevedo;1,22;8,54;1,35;9,11;2026-1171-276;2026;False
@@ -20010,6 +20157,10 @@ Jazmin Ortenzi;2024-11-04;Cali 125;Clay;C;W;R32;6-3 6-1;Laura Pigossi;5,45;7,27;
 Jazmin Ortenzi;2024-10-28;Santa Cruz 125;Clay;C;L;R32;6-2 6-0;Veronika Erjavec;0,0;4,17;6,12;6,86;2024-1115-279;2024;False
 Jazmin Ortenzi;2022-04-15;BJK Cup G1 RR: ARG vs GUA;Hard;D;W;RR;3-6 6-3 6-3;Kirsten Andrea Weedon;1,15;0,0;0,0;6,21;2022-W-FC-2022-G1-AM-A-M-ARG-GUA-01-002;2022;False
 Jazmin Ortenzi;2021-11-01;Buenos Aires;Clay;C;L;R32;7-5 6-1;Daniela Seguel;0,0;0,0;0,0;5,6;2021-2052-271;2021;False
+Jelena Ostapenko;2026-06-22;WTA Eastbourne;Grass;W;L;SF;6-1 1-2 RET;Tatjana Maria;6,25;15,62;8,82;6,4;2026-710-299;2026;True
+Jelena Ostapenko;2026-06-22;WTA Eastbourne;Grass;W;W;QF;6-3 6-0;Zeynep Sonmez;19,15;10,64;2,99;5,88;2026-710-296;2026;True
+Jelena Ostapenko;2026-06-22;WTA Eastbourne;Grass;W;W;R16;3-6 6-1 6-2;Panna Udvardy;10,94;12,5;8,57;5,33;2026-710-291;2026;True
+Jelena Ostapenko;2026-06-22;WTA Eastbourne;Grass;W;W;R32;6-2 6-2;Francesca Jones;9,09;11,36;2,22;5,5;2026-710-281;2026;True
 Jelena Ostapenko;2026-05-05;Rome;Clay;PM;L;QF;6-1 7-6(0);Sorana Cirstea;1,72;6,9;1,64;6,44;2026-709-297;2026;True
 Jelena Ostapenko;2026-05-05;Rome;Clay;PM;W;R128;6-0 6-1;Lucrezia Stefanini;7,14;9,52;0,0;7,0;2026-709-223;2026;True
 Jelena Ostapenko;2026-05-05;Rome;Clay;PM;W;R16;6-1 6-2;Anna Kalinskaya;18,6;9,3;4,26;5,38;2026-709-292;2026;True
@@ -20508,6 +20659,9 @@ Jelena Ostapenko;2015-07-20;Istanbul;Hard;I;L;R32;6-2 6-0;Kirsten Flipkens;2,94;
 Jeline Vandromme;2026-06-15;WTA Figueira Da Foz 125;Hard;W;L;QF;7-5 1-6 6-4;Ayla Aksu;2,33;3,88;2,02;8,6;2026-1177-297;2026;False
 Jeline Vandromme;2026-06-15;WTA Figueira Da Foz 125;Hard;W;W;R16;6-1 7-6(4);Valentina Ryser;1,23;3,7;6,35;8,1;2026-1177-290;2026;False
 Jeline Vandromme;2026-06-15;WTA Figueira Da Foz 125;Hard;W;W;R32;3-6 7-6(3) 7-5;Allura Zamarripa;1,64;6,56;12,38;7,18;2026-1177-276;2026;False
+Jeline Vandromme;2026-06-15;Figueira Da Foz 125;Hard;C;L;QF;7-5 1-6 6-4;Ayla Aksu;2,33;3,88;2,02;8,6;2026-1177-294;2026;False
+Jeline Vandromme;2026-06-15;Figueira Da Foz 125;Hard;C;W;R16;6-1 7-6(4);Valentina Ryser;1,23;3,7;6,35;8,1;2026-1177-287;2026;False
+Jeline Vandromme;2026-06-15;Figueira Da Foz 125;Hard;C;W;R32;3-6 7-6(3) 7-5;Allura Zamarripa;1,64;6,56;12,38;7,18;2026-1177-273;2026;False
 Jeline Vandromme;2026-06-08;WTA Modena 125;Clay;W;L;R16;6-3 3-6 6-4;Kaitlin Quevedo;0,0;3,3;2,22;6,5;2026-1171-298;2026;False
 Jeline Vandromme;2026-06-08;WTA Modena 125;Clay;W;W;R32;6-4 6-3;Angela Fita Boluda;1,56;3,12;0,0;6,4;2026-1171-283;2026;False
 Jeline Vandromme;2026-06-08;WTA Modena 125;Clay;W;L;R16;6-3 3-6 6-4;Kaitlin Quevedo;0,0;3,3;2,22;6,5;2026-1171-296;2026;False
@@ -20594,9 +20748,14 @@ Jeline Vandromme;2025-02-24;W15 Manacor;Hard;15;W;R16;6-0 6-3;Federica Di Sarra;
 Jeline Vandromme;2025-02-24;W15 Manacor;Hard;15;W;R32;6-0 6-0;Luiza Fullana;2,17;6,52;3,03;7,67;2025-W-ITF-ESP-2025-003-105;2025;False
 Jeline Vandromme;2025-02-24;W15 Manacor;Hard;15;W;SF;6-1 7-6(5);Monika Ekstrand;1,59;4,76;0,0;6,3;2025-W-ITF-ESP-2025-003-401;2025;False
 Jeline Vandromme;2025-02-10;W15 Manacor  ;Hard;15;L;R32;6-2 4-6 6-4;Mia Horvit;3,03;6,06;1,03;7,07;2025-W-ITF-ESP-2025-001-114;2025;False
+Jessica Bouzas Maneiro;2026-06-22;WTA Eastbourne;Grass;W;L;R16;6-0 6-1;Madison Keys;0,0;6,38;5,41;6,71;2026-710-286;2026;True
+Jessica Bouzas Maneiro;2026-06-22;WTA Eastbourne;Grass;W;W;R32;6-0 6-3;Alicia Dudeney;1,92;3,85;6,0;7,43;2026-710-271;2026;True
 Jessica Bouzas Maneiro;2026-06-15;WTA Nottingham;Grass;W;L;QF;7-6(6) 6-2;Emma Navarro;2,7;6,76;5,41;7,4;2026-1080-298;2026;True
 Jessica Bouzas Maneiro;2026-06-15;WTA Nottingham;Grass;W;W;R16;7-5 1-0 RET;Katie Volynets;0,0;0,0;2,44;6,14;2026-1080-292;2026;True
 Jessica Bouzas Maneiro;2026-06-15;WTA Nottingham;Grass;W;W;R32;7-5 6-2;Himeno Sakatsume;8,0;0,0;1,39;5,0;2026-1080-279;2026;True
+Jessica Bouzas Maneiro;2026-06-15;Nottingham;Grass;I;L;QF;7-6(6) 6-2;Emma Navarro;2,7;6,76;5,41;7,4;2026-1080-295;2026;True
+Jessica Bouzas Maneiro;2026-06-15;Nottingham;Grass;I;W;R16;7-5 1-0 RET;Katie Volynets;0,0;0,0;2,44;6,14;2026-1080-289;2026;True
+Jessica Bouzas Maneiro;2026-06-15;Nottingham;Grass;I;W;R32;7-5 6-2;Himeno Sakatsume;8,0;0,0;1,39;5,0;2026-1080-276;2026;True
 Jessica Bouzas Maneiro;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R32;6-3 6-1;Ajla Tomljanovic;0,0;5,0;0,0;7,5;2026-822-294;2026;True
 Jessica Bouzas Maneiro;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R32;6-3 6-1;Ajla Tomljanovic;0,0;5,0;0,0;7,5;2026-822-288;2026;True
 Jessica Bouzas Maneiro;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R32;6-3 6-1;Ajla Tomljanovic;0,0;5,0;0,0;7,5;2026-822-283;2026;True
@@ -20746,8 +20905,11 @@ Jessica Bouzas Maneiro;2023-01-02;United Cup;Hard;I;W;RR;6-2 6-2;Olivia Gadecki;
 Jessica Bouzas Maneiro;2022-04-28;Madrid;Clay;P;L;Q1;6-4 6-1;Anna Karolina Schmiedlova;1,79;8,93;6,78;7,0;2022-1038-216;2022;True
 Jessica Bouzas Maneiro;2021-10-18;Tenerife;Hard;I;L;Q1;6-0 6-2;Donna Vekic;0,0;6,67;7,89;8,57;2021-2049-861;2021;True
 Jessica Bouzas Maneiro;2021-04-29;Madrid;Clay;P;L;Q1;7-5 4-6 6-1;Aliaksandra Sasnovich;0,0;9,38;2,38;6,4;2021-1038-820;2021;True
-Jessica Pegula;2026-06-15;WTA Berlin;Grass;W;W;QF;7-6(5) 7-6(8);Madison Keys;5,56;1,11;12,66;7,5;2026-2012-299;2026;True
 Jessica Pegula;2026-06-15;WTA Berlin;Grass;W;W;R16;6-2 6-4;Katerina Siniakova;2,99;4,48;4,4;7,44;2026-2012-294;2026;True
+Jessica Pegula;2026-06-15;Berlin;Grass;P;L;F;6-4 4-6 6-3;Linda Noskova;15,22;1,09;11,22;6,57;2026-2012-300;2026;True
+Jessica Pegula;2026-06-15;Berlin;Grass;P;W;QF;7-6(5) 7-6(8);Madison Keys;5,56;1,11;12,66;7,5;2026-2012-296;2026;True
+Jessica Pegula;2026-06-15;Berlin;Grass;P;W;R16;6-2 6-4;Katerina Siniakova;2,99;4,48;4,4;7,44;2026-2012-291;2026;True
+Jessica Pegula;2026-06-15;Berlin;Grass;P;W;SF;6-4 6-7(4) 6-0;Aryna Sabalenka;5,43;1,09;8,49;6,57;2026-2012-299;2026;True
 Jessica Pegula;2026-05-05;Rome;Clay;PM;L;QF;6-1 6-2;Iga Swiatek;2,22;4,44;4,44;6,43;2026-709-295;2026;True
 Jessica Pegula;2026-05-05;Rome;Clay;PM;W;R16;7-6(6) 6-2;Anastasia Potapova;4,29;2,86;2,9;7,0;2026-709-289;2026;True
 Jessica Pegula;2026-05-05;Rome;Clay;PM;W;R32;6-0 6-0;Rebeka Masarova;3,12;0,0;9,8;5,33;2026-709-277;2026;True
@@ -21403,6 +21565,9 @@ Jessika Ponchet;2017-11-06;Limoges;Hard;C;W;R32;7-5 6-3;Chloe Paquet;8,97;2,56;9
 Jil Teichmann;2026-06-15;WTA Figueira Da Foz 125;Hard;W;L;QF;4-6 6-3 6-2;Darja Vidmanova;1,03;6,19;4,76;7,46;2026-1177-299;2026;False
 Jil Teichmann;2026-06-15;WTA Figueira Da Foz 125;Hard;W;W;R16;6-4 4-6 6-3;Barbora Palicova;0,0;6,19;1,67;6,93;2026-1177-293;2026;False
 Jil Teichmann;2026-06-15;WTA Figueira Da Foz 125;Hard;W;W;R32;7-5 6-1;Matilde Jorge;1,56;4,69;2,99;6,4;2026-1177-281;2026;False
+Jil Teichmann;2026-06-15;Figueira Da Foz 125;Hard;C;L;QF;4-6 6-3 6-2;Darja Vidmanova;1,03;6,19;4,76;7,46;2026-1177-296;2026;False
+Jil Teichmann;2026-06-15;Figueira Da Foz 125;Hard;C;W;R16;6-4 4-6 6-3;Barbora Palicova;0,0;6,19;1,67;6,93;2026-1177-290;2026;False
+Jil Teichmann;2026-06-15;Figueira Da Foz 125;Hard;C;W;R32;7-5 6-1;Matilde Jorge;1,56;4,69;2,99;6,4;2026-1177-278;2026;False
 Jil Teichmann;2026-05-18;Rabat;Clay;I;L;SF;7-6(2) 6-3;Petra Marcinko;0,0;2,38;6,9;7,64;2026-1005-298;2026;False
 Jil Teichmann;2026-05-18;Rabat;Clay;I;W;QF;6-1 5-7 7-6(6);Yasmine Kabbaj;0,0;5,15;0,0;6,47;2026-1005-295;2026;False
 Jil Teichmann;2026-05-18;Rabat;Clay;I;W;R16;6-3 6-4;Alycia Parks;0,0;4,55;6,06;6,6;2026-1005-289;2026;False
@@ -21831,6 +21996,8 @@ Joanna Garland;2018-11-12;Taipei;Hard;C;L;R32;6-4 6-2;Lizette Cabrera;5,0;6,67;1
 Joanna Garland;2018-01-29;Taipei;Hard;I;L;Q1;7-6(5) 7-5;Jing Jing Lu;2,33;5,81;2,08;7,17;2018-1096-242;2018;False
 Julia Grabher;2026-06-15;WTA Brescia 125;Clay;W;L;R16;6-2 4-6 7-5;Anastasiya Soboleva;1,11;5,56;2,17;6,0;2026-1170-294;2026;False
 Julia Grabher;2026-06-15;WTA Brescia 125;Clay;W;W;R32;6-2 6-2;Chloe Paquet;4,17;4,17;0,0;6,0;2026-1170-284;2026;False
+Julia Grabher;2026-06-15;Brescia 125;Clay;C;L;R16;6-2 4-6 7-5;Anastasiya Soboleva;1,11;5,56;2,17;6,0;2026-1170-291;2026;False
+Julia Grabher;2026-06-15;Brescia 125;Clay;C;W;R32;6-2 6-2;Chloe Paquet;4,17;4,17;0,0;6,0;2026-1170-281;2026;False
 Julia Grabher;2026-06-08;WTA Modena 125;Clay;W;W;R32;6-4 6-2;Andrea Lazaro Garcia;7,69;7,69;0,0;7,22;2026-1171-285;2026;False
 Julia Grabher;2026-06-08;WTA Modena 125;Clay;W;W;R32;6-4 6-2;Andrea Lazaro Garcia;7,69;7,69;0,0;7,22;2026-1171-283;2026;False
 Julia Grabher;2026-06-08;WTA Modena 125;Clay;W;L;R16;7-6(6) 7-6(4);Lucia Bronzetti;0,99;10,89;1,2;8,42;2026-1171-291;2026;False
@@ -22059,6 +22226,9 @@ Julia Grabher;2017-02-10;Fed Cup G1 RR: GEO vs AUT;Hard;D;L;RR;7-5 6-3;Ekaterine
 Julia Grabher;2016-10-10;Linz;Hard;I;L;Q1;4-6 6-4 6-3;Kristyna Pliskova;2,94;8,82;1,33;7,29;2016-0528-242;2016;False
 Julia Grabher;2016-07-11;Gstaad;Clay;I;L;Q1;6-3 6-2;Sara Sorribes Tormo;1,67;5,0;0,0;7,5;2016-1094-259;2016;False
 Julia Grabher;2016-04-15;Fed Cup G2 RR: AUT vs BIH;Clay;D;L;RR;6-4 7-5;Ema Burgic;1,37;8,22;0,0;6,64;2016-W-FC-2016-G2-EPA-B-M-AUT-BIH-01-001;2016;False
+Julia Riera;2026-06-15;W75 Blois;Clay;75;L;QF;2-6 6-1 6-1;Ipek Oz;1,54;6,15;1,3;5,91;2026-W-ITF-FRA-2026-013-302;2026;False
+Julia Riera;2026-06-15;W75 Blois;Clay;75;W;R16;6-1 6-1;Pauline Dore;2,22;6,67;0,0;6,43;2026-W-ITF-FRA-2026-013-203;2026;False
+Julia Riera;2026-06-15;W75 Blois;Clay;75;W;R32;4-6 7-6(0) 6-2;Mathilde Lollia;2,68;7,14;0,83;7,47;2026-W-ITF-FRA-2026-013-105;2026;False
 Julia Riera;2026-05-04;W100 Indian Harbour Beach FL;Clay;100;L;F;6-1 6-7(4) 6-3;Kristina Liutova;4,04;3,03;0,0;7,62;2026-W-ITF-USA-2026-022-501;2026;False
 Julia Riera;2026-05-04;W100 Indian Harbour Beach FL;Clay;100;W;QF;2-6 6-2 6-2;Leyre Romero Gormaz;0,0;4,21;1,56;7,92;2026-W-ITF-USA-2026-022-302;2026;False
 Julia Riera;2026-05-04;W100 Indian Harbour Beach FL;Clay;100;W;R16;6-4 4-6 7-5;Hibah Shaikh;4,24;6,78;0,94;7,38;2026-W-ITF-USA-2026-022-204;2026;False
@@ -22293,6 +22463,7 @@ Kaitlin Quevedo;2025-02-10;W35 Antalya ;Clay;35;L;R16;6-1 6-1;Ylena In Albon;2,0
 Kaitlin Quevedo;2025-02-10;W35 Antalya ;Clay;35;W;R32;6-1 4-6 6-3;Cristina Dinu;3,49;3,49;0,0;6,62;2025-W-ITF-TUR-2025-006-113;2025;False
 Kaitlin Quevedo;2025-02-03;W35 Antalya;Clay;35;L;R32;3-6 6-3 6-3;Katerina Tsygourova;3,33;5,56;0,0;6,43;2025-W-ITF-TUR-2025-005-107;2025;False
 Kaja Juvan;2026-06-15;WTA Nottingham;Grass;W;L;Q1;6-3 6-4;Antonia Ruzic;6,56;8,2;0,0;6,78;2026-1080-264;2026;False
+Kaja Juvan;2026-06-15;Nottingham;Grass;I;L;Q1;6-3 6-4;Antonia Ruzic;6,56;8,2;0,0;6,78;2026-1080-263;2026;False
 Kaja Juvan;2026-05-11;Parma 125;Clay;C;L;R16;3-6 6-2 6-2;Solana Sierra;0,0;1,37;1,41;5,62;2026-2041-289;2026;False
 Kaja Juvan;2026-05-11;Parma 125;Clay;C;W;R32;7-6(3) 3-6 6-0;Moyuka Uchijima;1,9;7,62;1,19;7,5;2026-2041-276;2026;False
 Kaja Juvan;2026-03-17;Miami;Hard;PM;L;Q1;4-6 6-4 3-0 RET;Mary Stoiana;5,17;0,0;1,01;5,27;2026-902-147;2026;False
@@ -22558,6 +22729,7 @@ Kaja Juvan;2018-02-19;Budapest;Hard;I;L;Q1;7-6(9) 4-6 6-3;Patty Schnyder;2,04;3,
 Kaja Juvan;2018-02-09;Fed Cup G1 RR: SLO vs SWE;Hard;D;W;RR;6-1 6-3;Jacqueline Cabaj Awad;0,0;5,0;0,0;7,5;2018-W-FC-2018-G1-EPA-C-M-SLO-SWE-01-001;2018;False
 Kaja Juvan;2018-02-07;Fed Cup G1 RR: CRO vs SLO;Hard;D;L;RR;6-2 4-6 6-2;Lea Boskovic;2,38;5,95;1,15;6,46;2018-W-FC-2018-G1-EPA-C-M-CRO-SLO-01-001;2018;False
 Kaja Juvan;2017-04-21;Fed Cup G2 RR: NOR vs SLO;Hard;D;L;RR;6-4 6-7(5) 6-3;Astrid Wanja Brune Olsen;1,67;4,17;1,9;8,0;2017-W-FC-2017-G2-EPA-A-M-NOR-SLO-01-001;2017;False
+Kamilla Rakhimova;2026-06-22;WTA Eastbourne;Grass;W;L;Q1;7-6(3) 2-6 6-1;Oksana Selekhmeteva;0,0;5,75;9,24;6,69;2026-710-255;2026;True
 Kamilla Rakhimova;2026-06-08;WTA Queens;Grass;W;L;Q2;6-4 6-3;Tatjana Maria;3,95;2,63;18,52;7,6;2026-1111-275;2026;True
 Kamilla Rakhimova;2026-06-08;WTA Queens;Grass;W;W;Q1;6-2 6-3;Ekaterine Gorgodze;10,0;11,67;0,0;6,67;2026-1111-268;2026;True
 Kamilla Rakhimova;2026-06-08;WTA Queens;Grass;W;L;Q2;6-4 6-3;Tatjana Maria;3,95;2,63;18,52;7,6;2026-1111-271;2026;True
@@ -22878,8 +23050,14 @@ Kamilla Rakhimova;2019-11-11;Taipei;Hard;C;L;R16;6-4 6-4;Vitalia Diatchenko;3,51
 Kamilla Rakhimova;2019-11-11;Taipei;Hard;C;W;R32;6-1 6-3;Risa Ozaki;1,92;3,85;2,17;6,5;2019-1059-280;2019;True
 Kamilla Rakhimova;2019-10-14;Moscow;Hard;I;L;Q1;6-4 3-6 6-2;Liudmila Samsonova;6,45;5,38;9,86;6,64;2019-M014-229;2019;True
 Kamilla Rakhimova;2019-07-22;Jurmala;Clay;I;L;R32;6-4 6-3;Diana Marcinkevica;1,56;6,25;7,41;6,4;2019-2006-279;2019;True
+Karolina Muchova;2026-06-21;WTA Bad Homburg;Grass;W;W;F;6-1 1-0 RET;Naomi Osaka;0,0;7,69;10,0;6,5;2026-2017-300;2026;True
+Karolina Muchova;2026-06-21;WTA Bad Homburg;Grass;W;W;QF;1-6 6-2 6-4;Clara Tauson;3,7;3,7;11,25;6,23;2026-2017-296;2026;True
+Karolina Muchova;2026-06-21;WTA Bad Homburg;Grass;W;W;R16;6-1 6-1;Irina Camelia Begu;4,35;2,17;5,56;6,57;2026-2017-291;2026;True
+Karolina Muchova;2026-06-21;WTA Bad Homburg;Grass;W;W;SF;6-4 6-4;Elena Gabriela Ruse;6,25;3,12;3,08;6,4;2026-2017-299;2026;True
 Karolina Muchova;2026-06-15;WTA Berlin;Grass;W;L;R16;6-4 7-5;Madison Keys;3,17;6,35;6,45;5,73;2026-2012-293;2026;True
 Karolina Muchova;2026-06-15;WTA Berlin;Grass;W;W;R32;6-1 6-3;Shuai Zhang;18,75;2,08;2,33;6,0;2026-2012-281;2026;True
+Karolina Muchova;2026-06-15;Berlin;Grass;P;L;R16;6-4 7-5;Madison Keys;3,17;6,35;6,45;5,73;2026-2012-290;2026;True
+Karolina Muchova;2026-06-15;Berlin;Grass;P;W;R32;6-1 6-3;Shuai Zhang;18,75;2,08;2,33;6,0;2026-2012-278;2026;True
 Karolina Muchova;2026-05-05;Rome;Clay;PM;L;R64;6-3 6-2;Anastasia Potapova;0,0;1,64;3,12;7,62;2026-709-250;2026;True
 Karolina Muchova;2026-04-13;Stuttgart;Clay;P;L;F;7-5 6-1;Elena Rybakina;3,23;0,0;6,12;6,89;2026-1051-300;2026;True
 Karolina Muchova;2026-04-13;Stuttgart;Clay;P;W;QF;6-3 5-7 6-3;Coco Gauff;4,04;1,01;4,71;6,6;2026-1051-294;2026;True
@@ -23156,6 +23334,10 @@ Karolina Muchova;2017-06-12;'s Hertogenbosch;Grass;I;L;Q2;6-4 7-6(5);Andrea Hlav
 Karolina Pliskova;2026-06-15;WTA Nottingham;Grass;W;W;QF;7-5 6-4;Talia Gibson;6,56;9,84;12,31;5,55;2026-1080-300;2026;False
 Karolina Pliskova;2026-06-15;WTA Nottingham;Grass;W;W;R16;6-4 7-6(3);Caty Mcnally;3,9;6,49;5,62;7,0;2026-1080-296;2026;False
 Karolina Pliskova;2026-06-15;WTA Nottingham;Grass;W;W;R32;2-6 7-6(3) 6-2;Sara Bejlek;3,19;6,38;4,26;6,71;2026-1080-288;2026;False
+Karolina Pliskova;2026-06-15;Nottingham;Grass;I;L;SF;6-4 6-1;Marie Bouzkova;3,51;12,28;2,04;7,12;2026-1080-299;2026;False
+Karolina Pliskova;2026-06-15;Nottingham;Grass;I;W;QF;7-5 6-4;Talia Gibson;6,56;9,84;12,31;5,55;2026-1080-297;2026;False
+Karolina Pliskova;2026-06-15;Nottingham;Grass;I;W;R16;6-4 7-6(3);Caty Mcnally;3,9;6,49;5,62;7,0;2026-1080-293;2026;False
+Karolina Pliskova;2026-06-15;Nottingham;Grass;I;W;R32;2-6 7-6(3) 6-2;Sara Bejlek;3,19;6,38;4,26;6,71;2026-1080-285;2026;False
 Karolina Pliskova;2026-06-08;WTA Queens;Grass;W;W;R16;6-2 3-4 RET;Victoria Mboko;8,33;5,0;8,7;7,5;2026-1111-300;2026;False
 Karolina Pliskova;2026-06-08;WTA Queens;Grass;W;W;R32;6-7(1) 6-3 6-4;Mccartney Kessler;3,12;11,46;4,72;6,0;2026-1111-292;2026;False
 Karolina Pliskova;2026-06-08;WTA Queens;Grass;W;L;QF;6-4 4-6 6-3;Donna Vekic;8,6;5,38;4,49;6,64;2026-1111-299;2026;False
@@ -23916,10 +24098,15 @@ Katarzyna Kawa;2019-05-27;Roland Garros;Clay;G;L;Q1;6-2 1-6 7-5;Kurumi Nara;3,61
 Katarzyna Kawa;2016-04-04;Katowice;Hard;I;L;Q1;6-1 4-6 6-4;Valeriya Strakhova;0,95;7,62;1,11;7,5;2016-1067-247;2016;False
 Katarzyna Kawa;2016-02-08;St. Petersburg;Hard;P;L;Q2;1-6 6-1 6-2;Tamira Paszek;1,23;4,94;1,28;7,36;2016-1086-258;2016;False
 Katarzyna Kawa;2016-02-08;St. Petersburg;Hard;P;W;Q1;6-1 6-2;Valeriya Strakhova;0,0;0,0;0,0;5,71;2016-1086-243;2016;False
+Katerina Siniakova;2026-06-21;WTA Bad Homburg;Grass;W;L;R32;6-3 7-5;Liudmila Samsonova;4,76;11,11;12,99;5,73;2026-2017-275;2026;True
 Katerina Siniakova;2026-06-15;WTA Berlin;Grass;W;L;R16;6-2 6-4;Jessica Pegula;4,4;3,3;2,99;10,11;2026-2012-294;2026;True
 Katerina Siniakova;2026-06-15;WTA Berlin;Grass;W;W;R32;6-2 6-4;Rebeka Masarova;3,57;5,36;12,24;6,22;2026-2012-283;2026;True
 Katerina Siniakova;2026-06-15;WTA Berlin;Grass;W;W;Q1;6-4 6-2;Yue Yuan;6,12;6,12;7,69;5,44;2026-2012-262;2026;True
 Katerina Siniakova;2026-06-15;WTA Berlin;Grass;W;W;Q2;6-4 6-2;Lin Zhu;6,98;2,33;1,67;4,78;2026-2012-269;2026;True
+Katerina Siniakova;2026-06-15;Berlin;Grass;P;L;R16;6-2 6-4;Jessica Pegula;4,4;3,3;2,99;10,11;2026-2012-291;2026;True
+Katerina Siniakova;2026-06-15;Berlin;Grass;P;W;R32;6-2 6-4;Rebeka Masarova;3,57;5,36;12,24;6,22;2026-2012-280;2026;True
+Katerina Siniakova;2026-06-15;Berlin;Grass;P;W;Q1;6-4 6-2;Yue Yuan;6,12;6,12;7,69;5,44;2026-2012-261;2026;True
+Katerina Siniakova;2026-06-15;Berlin;Grass;P;W;Q2;6-4 6-2;Lin Zhu;6,98;2,33;1,67;4,78;2026-2012-268;2026;True
 Katerina Siniakova;2026-05-17;Strasbourg;Clay;P;L;R32;7-6(3) 6-3;Marie Bouzkova;0,0;11,84;0,0;7,6;2026-406-273;2026;True
 Katerina Siniakova;2026-05-05;Rome;Clay;PM;L;R64;4-6 7-6(4) 7-5;Anna Kalinskaya;1,43;4,29;0,77;8,24;2026-709-264;2026;True
 Katerina Siniakova;2026-05-05;Rome;Clay;PM;W;R128;6-2 6-3;Lois Boisson;0,0;7,69;3,64;6,5;2026-709-227;2026;True
@@ -24445,6 +24632,7 @@ Katerina Siniakova;2015-03-09;Indian Wells;Hard;PM;L;R64;7-6(2) 6-2;Svetlana Kuz
 Katerina Siniakova;2015-03-09;Indian Wells;Hard;PM;W;R128;6-3 6-3;Evgeniya Rodina;5,63;5,63;8,33;7,89;2015-W-PM-USA-01A-2015-003;2015;True
 Katerina Siniakova;2015-02-16;Dubai;Hard;P;L;R64;6-3 6-4;Casey Dellacqua;1,33;14,67;1,96;7,5;2015-W-PR-UAE-01A-2015-013;2015;True
 Katerina Siniakova;2015-01-19;Australian Open;Hard;G;L;R64;7-5 6-4;Irina Camelia Begu;1,09;5,43;1,25;8,36;2015-W-SL-AUS-01A-2015-092;2015;True
+Katie Boulter;2026-06-21;WTA Bad Homburg;Grass;W;L;R32;6-7(5) 6-3 6-3;Leylah Fernandez;7,61;9,78;3,38;6,13;2026-2017-276;2026;True
 Katie Boulter;2026-06-08;WTA Queens;Grass;W;W;R32;3-6 7-6(4) 7-5;Leylah Fernandez;2,97;8,91;2,0;6,31;2026-1111-294;2026;True
 Katie Boulter;2026-06-08;WTA Queens;Grass;W;W;QF;7-5 2-6 6-4;Elena Rybakina;1,53;6,87;9,18;8,73;2026-1111-300;2026;True
 Katie Boulter;2026-06-08;WTA Queens;Grass;W;W;R16;6-1 6-3;Jaqueline Cristian;4,44;11,11;8,89;5,62;2026-1111-296;2026;True
@@ -24862,6 +25050,10 @@ Katie Volynets;2026-06-15;WTA Nottingham;Grass;W;L;R16;7-5 1-0 RET;Jessica Bouza
 Katie Volynets;2026-06-15;WTA Nottingham;Grass;W;W;Q1;7-5 6-2;Panna Udvardy;6,0;4,0;6,06;5,0;2026-1080-260;2026;False
 Katie Volynets;2026-06-15;WTA Nottingham;Grass;W;W;Q2;2-6 6-4 7-6(3);Kimberly Birrell;5,88;0,98;0,94;6,8;2026-1080-268;2026;False
 Katie Volynets;2026-06-15;WTA Nottingham;Grass;W;W;R32;6-3 6-3;Mccartney Kessler;2,99;1,49;1,89;7,44;2026-1080-280;2026;False
+Katie Volynets;2026-06-15;Nottingham;Grass;I;L;R16;7-5 1-0 RET;Jessica Bouzas Maneiro;2,44;2,44;0,0;5,86;2026-1080-289;2026;False
+Katie Volynets;2026-06-15;Nottingham;Grass;I;W;Q1;7-5 6-2;Panna Udvardy;6,0;4,0;6,06;5,0;2026-1080-259;2026;False
+Katie Volynets;2026-06-15;Nottingham;Grass;I;W;Q2;2-6 6-4 7-6(3);Kimberly Birrell;5,88;0,98;0,94;6,8;2026-1080-267;2026;False
+Katie Volynets;2026-06-15;Nottingham;Grass;I;W;R32;6-3 6-3;Mccartney Kessler;2,99;1,49;1,89;7,44;2026-1080-277;2026;False
 Katie Volynets;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R32;6-3 2-6 6-3;Zeynep Sonmez;4,0;4,0;0,0;5,77;2026-822-287;2026;False
 Katie Volynets;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;W;Q1;6-2 6-2;Nao Hibino;11,36;2,27;2,13;5,5;2026-822-268;2026;False
 Katie Volynets;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;W;Q2;6-7(4) 7-6(8) 6-1;Lin Zhu;3,12;0,78;0,74;8,53;2026-822-274;2026;False
@@ -25397,9 +25589,16 @@ Kayla Day;2016-08-22;New Haven;Hard;P;L;R32;6-0 6-3;Ana Konjuh;0,0;9,52;6,12;5,2
 Kayla Day;2016-08-22;New Haven;Hard;P;L;Q3;6-1 6-7(4) 6-2;Anastasija Sevastova;5,43;6,52;0,0;7,08;2016-0602-265;2016;False
 Kayla Day;2016-08-22;New Haven;Hard;P;W;Q1;6-2 6-3;Naomi Broady;7,84;7,84;10,64;5,67;2016-0602-233;2016;False
 Kayla Day;2016-08-22;New Haven;Hard;P;W;Q2;3-6 6-4 6-1;Kirsten Flipkens;2,25;6,74;0,0;6,85;2016-0602-254;2016;False
+Kimberly Birrell;2026-06-22;WTA Eastbourne;Grass;W;L;R16;6-1 6-4;Petra Marcinko;0,0;10,0;7,02;6,25;2026-710-288;2026;True
+Kimberly Birrell;2026-06-22;WTA Eastbourne;Grass;W;W;R32;6-3 7-6(6);Barbora Krejcikova;6,06;12,12;9,88;6,6;2026-710-274;2026;True
+Kimberly Birrell;2026-06-22;WTA Eastbourne;Grass;W;W;Q1;7-6(6) 6-4;Indianna Spink;10,29;5,88;4,11;6,18;2026-710-256;2026;True
+Kimberly Birrell;2026-06-22;WTA Eastbourne;Grass;W;W;Q2;7-5 6-0;Peyton Stearns;9,09;3,64;3,7;6,11;2026-710-266;2026;True
 Kimberly Birrell;2026-06-15;WTA Nottingham;Grass;W;L;R32;4-6 7-6(3) 6-4;Ann Li;3,06;4,08;15,0;6,12;2026-1080-276;2026;True
 Kimberly Birrell;2026-06-15;WTA Nottingham;Grass;W;L;Q2;2-6 6-4 7-6(3);Katie Volynets;0,94;3,77;5,88;7,07;2026-1080-268;2026;True
 Kimberly Birrell;2026-06-15;WTA Nottingham;Grass;W;W;Q1;6-2 6-3;Mingge Xu;0,0;3,57;5,17;7,0;2026-1080-259;2026;True
+Kimberly Birrell;2026-06-15;Nottingham;Grass;I;L;R32;4-6 7-6(3) 6-4;Ann Li;3,06;4,08;15,0;6,12;2026-1080-273;2026;True
+Kimberly Birrell;2026-06-15;Nottingham;Grass;I;L;Q2;2-6 6-4 7-6(3);Katie Volynets;0,94;3,77;5,88;7,07;2026-1080-267;2026;True
+Kimberly Birrell;2026-06-15;Nottingham;Grass;I;W;Q1;6-2 6-3;Mingge Xu;0,0;3,57;5,17;7,0;2026-1080-258;2026;True
 Kimberly Birrell;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R32;2-6 6-1 6-2;Magda Linette;5,41;6,76;21,54;6,73;2026-822-286;2026;True
 Kimberly Birrell;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R32;2-6 6-1 6-2;Magda Linette;5,41;6,76;21,54;6,73;2026-822-280;2026;True
 Kimberly Birrell;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R32;2-6 6-1 6-2;Magda Linette;5,41;6,76;21,54;6,73;2026-822-275;2026;True
@@ -25617,7 +25816,9 @@ Kimberly Birrell;2016-01-11;Hobart;Hard;I;L;R16;6-1 6-0;Dominika Cibulkova;0,0;1
 Kimberly Birrell;2016-01-11;Hobart;Hard;I;W;R32;6-4 6-3;Danka Kovinic;5,26;0,0;9,09;6,33;2016-1050-275;2016;True
 Kimberly Birrell;2016-01-04;Brisbane;Hard;P;L;Q2;6-3 6-4;Samantha Crawford;0,0;3,7;9,8;5,4;2016-M020-265;2016;True
 Kimberly Birrell;2016-01-04;Brisbane;Hard;P;W;Q1;6-7(4) 6-1 6-4;Xinyun Han;1,82;3,64;1,75;7,86;2016-M020-256;2016;True
+Lanlana Tararudee;2026-06-22;WTA Eastbourne;Grass;W;L;Q1;5-7 6-2 7-6(5);Veronika Erjavec;1,03;5,15;0,93;6,06;2026-710-252;2026;True
 Lanlana Tararudee;2026-06-15;WTA Nottingham;Grass;W;L;Q1;6-4 6-0;Zeynep Sonmez;6,0;8,0;0,0;6,25;2026-1080-256;2026;True
+Lanlana Tararudee;2026-06-15;Nottingham;Grass;I;L;Q1;6-4 6-0;Zeynep Sonmez;6,0;8,0;0,0;6,25;2026-1080-255;2026;True
 Lanlana Tararudee;2026-06-08;WTA Ilkley 125;Grass;W;W;R32;7-6(6) 7-6(5);Iryna Shymanovich;6,41;3,85;2,06;6,5;2026-1127-285;2026;True
 Lanlana Tararudee;2026-06-08;WTA Ilkley 125;Grass;W;L;R16;6-2 7-6(3);Harmony Tan;3,33;5,0;5,63;6,0;2026-1127-289;2026;True
 Lanlana Tararudee;2026-06-08;WTA Ilkley 125;Grass;W;W;R32;7-6(6) 7-6(5);Iryna Shymanovich;6,41;3,85;2,06;6,5;2026-1127-273;2026;True
@@ -25819,6 +26020,7 @@ Laura Samson;2024-07-22;Prague;Clay;I;L;SF;3-6 6-0 4-2 RET;Magdalena Frech;2,82;
 Laura Samson;2024-07-22;Prague;Clay;I;W;QF;2-6 6-3 7-5;Oksana Selekhmeteva;0,85;3,42;0,0;7,8;2024-1082-294;2024;False
 Laura Samson;2024-07-22;Prague;Clay;I;W;R16;1-6 7-5 6-3;Katerina Siniakova;2,06;6,19;0,0;6,93;2024-1082-286;2024;False
 Laura Samson;2024-07-22;Prague;Clay;I;W;R32;6-0 6-2;Tara Wurth;0,0;2,63;0,0;5,43;2024-1082-271;2024;False
+Laura Siegemund;2026-06-22;WTA Eastbourne;Grass;W;L;R32;3-6 7-6(2) 7-6(3);Sara Bejlek;0,0;2,68;1,67;7,0;2026-710-278;2026;True
 Laura Siegemund;2026-06-08;WTA Queens;Grass;W;L;R16;6-1 6-3;Amanda Anisimova;0,0;2,0;4,76;6,25;2026-1111-298;2026;True
 Laura Siegemund;2026-06-08;WTA Queens;Grass;W;W;R32;6-2 6-3;Francesca Jones;8,51;4,26;0,0;5,22;2026-1111-283;2026;True
 Laura Siegemund;2026-06-08;WTA Queens;Grass;W;L;R16;6-1 6-3;Amanda Anisimova;0,0;2,0;4,76;6,25;2026-1111-290;2026;True
@@ -26417,7 +26619,10 @@ Leolia Jeanjean;2022-05-23;Roland Garros;Clay;G;W;R128;6-4 6-3;Nuria Parrizas Di
 Leolia Jeanjean;2022-05-02;Saint Malo 125;Clay;C;L;R32;6-1 6-3;Magdalena Frech;2,08;14,58;2,5;6,0;2022-2034-273;2022;False
 Leolia Jeanjean;2021-12-13;Limoges;Hard;C;L;R32;7-6(3) 6-4;Mallaurie Noel;2,5;7,5;4,65;7,27;2021-1072-283;2021;False
 Leolia Jeanjean;2021-12-06;Angers;Hard;C;L;Q1;6-3 6-3;Yue Yuan;5,26;5,26;12,31;6,33;2021-2056-862;2021;False
+Leylah Fernandez;2026-06-21;WTA Bad Homburg;Grass;W;L;R16;6-3 6-4;Xin Yu Wang;4,76;9,52;6,25;6,3;2026-2017-289;2026;True
+Leylah Fernandez;2026-06-21;WTA Bad Homburg;Grass;W;W;R32;6-7(5) 6-3 6-3;Katie Boulter;3,38;9,46;7,61;9,87;2026-2017-276;2026;True
 Leylah Fernandez;2026-06-15;WTA Nottingham;Grass;W;L;R32;6-4 7-6(1);Zeynep Sonmez;8,05;4,6;4,76;7,91;2026-1080-273;2026;True
+Leylah Fernandez;2026-06-15;Nottingham;Grass;I;L;R32;6-4 7-6(1);Zeynep Sonmez;8,05;4,6;4,76;7,91;2026-1080-270;2026;True
 Leylah Fernandez;2026-06-08;WTA Queens;Grass;W;L;R32;3-6 7-6(4) 7-5;Katie Boulter;2,0;4,0;2,97;5,88;2026-1111-294;2026;True
 Leylah Fernandez;2026-06-08;WTA Queens;Grass;W;L;R32;3-6 7-6(4) 7-5;Katie Boulter;2,0;4,0;2,97;5,88;2026-1111-286;2026;True
 Leylah Fernandez;2026-06-08;Queen's Club;Grass;P;L;R32;3-6 7-6(4) 7-5;Katie Boulter;2,0;4,0;2,97;5,88;2026-1111-282;2026;True
@@ -26862,6 +27067,7 @@ Leyre Romero Gormaz;2023-01-16;Australian Open;Hard;G;L;Q1;2-6 6-3 6-2;Nigina Ab
 Leyre Romero Gormaz;2022-06-06;Valencia 125;Clay;C;L;R16;6-3 6-7(6) 6-4;Reka Luca Jani;0,0;7,55;0,0;7,07;2022-2061-290;2022;False
 Leyre Romero Gormaz;2022-06-06;Valencia 125;Clay;C;W;R32;7-5 6-2;Solana Sierra;1,28;11,54;3,75;7,8;2022-2061-279;2022;False
 Leyre Romero Gormaz;2022-06-06;Valencia 125;Clay;C;W;Q2;4-6 6-1 6-2;Elsa Jacquemot;0,0;7,37;1,15;7,92;2022-2061-268;2022;False
+Lilli Tagger;2026-06-22;WTA Eastbourne;Grass;W;L;Q1;6-4 5-7 7-6(7);Anastasia Zakharova;6,67;8,57;1,75;6,18;2026-710-254;2026;True
 Lilli Tagger;2026-05-11;Parma 125;Clay;C;L;R16;6-3 6-2;Jessica Bouzas Maneiro;6,9;0,0;2,0;6,44;2026-2041-286;2026;True
 Lilli Tagger;2026-05-11;Parma 125;Clay;C;W;R32;6-4 6-2;Noemi Basiletti;9,09;3,64;0,0;6,11;2026-2041-271;2026;True
 Lilli Tagger;2026-05-05;Rome;Clay;PM;L;R128;5-7 6-3 6-0;Maria Sakkari;3,61;2,41;0,0;6,38;2026-709-175;2026;True
@@ -26928,6 +27134,8 @@ Lilli Tagger;2024-12-09;Limoges 125;Hard;C;L;R16;6-1 6-3;Nuria Parrizas Diaz;1,3
 Lilli Tagger;2024-12-09;Limoges 125;Hard;C;W;R32;3-6 6-3 6-2;Victoria Jimenez Kasintseva;0,0;0,97;4,49;7,92;2024-1072-276;2024;True
 Lin Zhu;2026-06-15;WTA Berlin;Grass;W;L;Q2;6-4 6-2;Katerina Siniakova;1,67;3,33;6,98;6,67;2026-2012-269;2026;False
 Lin Zhu;2026-06-15;WTA Berlin;Grass;W;W;Q1;6-2 6-3;Sinja Kraus;4,55;0,0;3,85;5,5;2026-2012-261;2026;False
+Lin Zhu;2026-06-15;Berlin;Grass;P;L;Q2;6-4 6-2;Katerina Siniakova;1,67;3,33;6,98;6,67;2026-2012-268;2026;False
+Lin Zhu;2026-06-15;Berlin;Grass;P;W;Q1;6-2 6-3;Sinja Kraus;4,55;0,0;3,85;5,5;2026-2012-260;2026;False
 Lin Zhu;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;Q2;6-7(4) 7-6(8) 6-1;Katie Volynets;0,74;4,41;3,12;8,5;2026-822-274;2026;False
 Lin Zhu;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;Q2;6-7(4) 7-6(8) 6-1;Katie Volynets;0,74;4,41;3,12;8,5;2026-822-271;2026;False
 Lin Zhu;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;W;Q1;6-4 4-6 6-1;Carol Young Suh Lee;6,1;8,54;3,3;6,31;2026-822-264;2026;False
@@ -27555,9 +27763,14 @@ Linda Klimovicova;2024-08-12;Barranquilla 125;Hard;C;L;R32;6-0 4-6 6-3;Elsa Jacq
 Linda Klimovicova;2024-07-22;Warsaw 125;Hard;C;L;R16;6-2 6-3;Alycia Parks;6,12;8,16;12,24;6,12;2024-2087-289;2024;False
 Linda Klimovicova;2024-07-22;Warsaw 125;Hard;C;W;R32;6-4 6-3;Valeria Savinykh;23,08;5,77;6,06;5,78;2024-2087-277;2024;False
 Linda Klimovicova;2021-07-12;Prague;Hard;I;L;Q1;6-2 7-5;Anastasia Zakharova;1,35;13,51;4,62;7,4;2021-1082-860;2021;False
-Linda Noskova;2026-06-15;WTA Berlin;Grass;W;W;QF;6-1 6-3;Paula Badosa;14,04;7,02;2,0;7,12;2026-2012-298;2026;True
+Linda Noskova;2026-06-21;WTA Bad Homburg;Grass;W;L;R32;6-1 6-3;Elena Gabriela Ruse;6,38;4,26;27,66;5,88;2026-2017-282;2026;True
 Linda Noskova;2026-06-15;WTA Berlin;Grass;W;W;R16;6-2 6-2;Diane Parry;7,5;2,5;6,12;5,0;2026-2012-292;2026;True
 Linda Noskova;2026-06-15;WTA Berlin;Grass;W;W;R32;6-1 6-4;Renata Zarazua;18,0;2,0;1,85;5,56;2026-2012-280;2026;True
+Linda Noskova;2026-06-15;Berlin;Grass;P;W;F;6-4 4-6 6-3;Jessica Pegula;11,22;8,16;15,22;6,53;2026-2012-300;2026;True
+Linda Noskova;2026-06-15;Berlin;Grass;P;W;QF;6-1 6-3;Paula Badosa;14,04;7,02;2,0;7,12;2026-2012-295;2026;True
+Linda Noskova;2026-06-15;Berlin;Grass;P;W;R16;6-2 6-2;Diane Parry;7,5;2,5;6,12;5,0;2026-2012-289;2026;True
+Linda Noskova;2026-06-15;Berlin;Grass;P;W;R32;6-1 6-4;Renata Zarazua;18,0;2,0;1,85;5,56;2026-2012-277;2026;True
+Linda Noskova;2026-06-15;Berlin;Grass;P;W;SF;6-2 6-4;Alexandra Eala;16,67;7,41;4,08;6,0;2026-2012-298;2026;True
 Linda Noskova;2026-05-05;Rome;Clay;PM;L;R16;6-2 6-4;Sorana Cirstea;7,81;10,94;11,54;7,11;2026-709-293;2026;True
 Linda Noskova;2026-05-05;Rome;Clay;PM;W;R32;6-1 6-3;Oleksandra Oliynykova;0,0;3,57;0,0;7,0;2026-709-284;2026;True
 Linda Noskova;2026-05-05;Rome;Clay;PM;W;R64;6-4 6-1;Anastasia Zakharova;14,29;10,71;0,0;6,22;2026-709-266;2026;True
@@ -27878,7 +28091,10 @@ Lisa Pigato;2021-07-19;Palermo;Clay;I;L;Q1;7-5 7-6(5);Katharina Gerlach;0,96;4,8
 Lisa Pigato;2021-05-17;Parma;Clay;W;L;R32;6-3 6-2;Serena Williams;0,0;6,38;13,33;5,88;2021-2041-285;2021;False
 Lisa Pigato;2021-05-17;Parma;Clay;W;W;Q1;1-6 7-5 6-0;Leonie Kung;1,12;2,25;4,3;6,85;2021-2041-860;2021;False
 Lisa Pigato;2021-05-17;Parma;Clay;W;W;Q2;2-6 7-6(2) 6-3;Liudmila Samsonova;1,0;4,0;11,7;7,14;2021-2041-868;2021;False
+Liudmila Samsonova;2026-06-21;WTA Bad Homburg;Grass;W;L;R16;3-6 6-3 6-2;Elina Svitolina;7,59;7,59;4,04;6,08;2026-2017-288;2026;True
+Liudmila Samsonova;2026-06-21;WTA Bad Homburg;Grass;W;W;R32;6-3 7-5;Katerina Siniakova;12,99;5,19;4,76;7,7;2026-2017-275;2026;True
 Liudmila Samsonova;2026-06-15;WTA Berlin;Grass;W;L;R32;1-6 6-3 6-0;Elise Mertens;2,99;7,46;8,57;6,09;2026-2012-286;2026;True
+Liudmila Samsonova;2026-06-15;Berlin;Grass;P;L;R32;1-6 6-3 6-0;Elise Mertens;2,99;7,46;8,57;6,09;2026-2012-283;2026;True
 Liudmila Samsonova;2026-06-08;WTA Queens;Grass;W;L;R32;5-7 6-4 6-3;Harriet Dart;1,67;5,83;4,17;7,5;2026-1111-287;2026;True
 Liudmila Samsonova;2026-06-08;WTA Queens;Grass;W;L;R32;5-7 6-4 6-3;Harriet Dart;1,67;5,83;4,17;7,5;2026-1111-279;2026;True
 Liudmila Samsonova;2026-06-08;Queen's Club;Grass;P;L;R32;5-7 6-4 6-3;Harriet Dart;1,67;5,83;4,17;7,5;2026-1111-275;2026;True
@@ -28303,6 +28519,8 @@ Lois Boisson;2022-04-18;Istanbul;Clay;I;L;Q1;6-1 6-2;Kamilla Rakhimova;5,26;5,26
 Lois Boisson;2021-05-31;Roland Garros;Clay;G;L;Q2;6-4 6-3;Anhelina Kalinina;0,0;9,09;1,54;7,33;2021-520-789;2021;False
 Lois Boisson;2021-05-31;Roland Garros;Clay;G;W;Q1;6-0 4-6 6-3;Eva Guerrero Alvarez;5,26;6,58;2,63;5,85;2021-520-750;2021;False
 Lois Boisson;2021-03-01;Lyon;Hard;I;L;Q1;3-6 6-2 7-5;Barbara Haas;0,0;8,33;2,7;6,4;2021-2011-853;2021;False
+Lola Radivojevic;2026-06-15;W75 Blois;Clay;75;L;R16;7-5 6-3;Francesca Curmi;5,88;4,41;0,0;6,18;2026-W-ITF-FRA-2026-013-201;2026;False
+Lola Radivojevic;2026-06-15;W75 Blois;Clay;75;W;R32;6-3 6-2;Isabella Maria Serban;5,56;3,7;1,69;6,75;2026-W-ITF-FRA-2026-013-101;2026;False
 Lola Radivojevic;2026-06-02;Makarska 125;Clay;C;L;R16;6-2 6-4;Sara Sorribes Tormo;1,85;3,7;0,0;6,0;2026-1090-288;2026;False
 Lola Radivojevic;2026-06-02;Makarska 125;Clay;C;W;R32;7-6(4) 0-6 7-5;Mia Ristic;7,14;3,06;1,89;6,53;2026-1090-275;2026;False
 Lola Radivojevic;2026-05-25;W75 Kursumlijska Banja;Clay;75;L;F;6-3 3-6 7-5;Laura Samson;2,53;3,8;2,02;5,27;2026-W-ITF-SRB-2026-004-501;2026;False
@@ -28683,6 +28901,7 @@ Lucia Bronzetti;2021-05-17;Parma;Clay;W;L;Q2;7-5 6-3;Martina Di Giuseppe;4,41;2,
 Lucia Bronzetti;2021-05-17;Parma;Clay;W;W;Q1;3-6 6-3 6-3;Yafan Wang;3,09;5,15;0,0;6,93;2021-2041-855;2021;False
 Lucia Bronzetti;2021-05-10;Rome;Clay;PM;L;Q1;6-4 6-3;Polona Hercog;3,85;3,85;9,43;5,78;2021-709-816;2021;False
 Lucrezia Stefanini;2026-06-15;WTA Figueira Da Foz 125;Hard;W;L;R32;6-4 7-5;Yeon Woo Ku;0,0;2,94;1,33;6,18;2026-1177-285;2026;False
+Lucrezia Stefanini;2026-06-15;Figueira Da Foz 125;Hard;C;L;R32;6-4 7-5;Yeon Woo Ku;0,0;2,94;1,33;6,18;2026-1177-282;2026;False
 Lucrezia Stefanini;2026-06-08;WTA Ilkley 125;Grass;W;W;R32;6-4 6-3;Vendula Valdmannova;0,0;4,62;0,0;6,5;2026-1127-295;2026;False
 Lucrezia Stefanini;2026-06-08;WTA Ilkley 125;Grass;W;L;R16;6-2 6-1;Darja Vidmanova;0,0;4,44;2,22;5,62;2026-1127-294;2026;False
 Lucrezia Stefanini;2026-06-08;WTA Ilkley 125;Grass;W;W;R32;6-4 6-3;Vendula Valdmannova;0,0;4,62;0,0;6,5;2026-1127-283;2026;False
@@ -28872,6 +29091,9 @@ Lucrezia Stefanini;2019-05-13;Rome;Clay;P;L;Q1;7-5 6-3;Tamara Zidansek;0,0;1,14;
 Luisina Giovannini;2026-06-15;WTA Brescia 125;Clay;W;L;QF;6-2 6-1;Xiyu Wang;2,22;0,0;5,88;5,62;2026-1170-300;2026;False
 Luisina Giovannini;2026-06-15;WTA Brescia 125;Clay;W;W;R16;6-3 6-1;Darya Astakhova;4,35;4,35;0,0;5,75;2026-1170-295;2026;False
 Luisina Giovannini;2026-06-15;WTA Brescia 125;Clay;W;W;R32;6-7(3) 6-1 6-4;Alessandra Mazzola;4,04;2,02;0,0;6,6;2026-1170-285;2026;False
+Luisina Giovannini;2026-06-15;Brescia 125;Clay;C;L;QF;6-2 6-1;Xiyu Wang;2,22;0,0;5,88;5,62;2026-1170-297;2026;False
+Luisina Giovannini;2026-06-15;Brescia 125;Clay;C;W;R16;6-3 6-1;Darya Astakhova;4,35;4,35;0,0;5,75;2026-1170-292;2026;False
+Luisina Giovannini;2026-06-15;Brescia 125;Clay;C;W;R32;6-7(3) 6-1 6-4;Alessandra Mazzola;4,04;2,02;0,0;6,6;2026-1170-282;2026;False
 Luisina Giovannini;2026-06-01;W75 Caserta;Clay;75;L;R32;7-6(5) 6-2;Francesca Pace;4,11;5,48;3,39;7,3;2026-W-ITF-ITA-2026-012-116;2026;False
 Luisina Giovannini;2026-05-25;W75 Zaragoza;Clay;75;L;SF;6-4 6-4;Kayla Day;1,47;5,88;6,0;6,8;2026-W-ITF-ESP-2026-025-402;2026;False
 Luisina Giovannini;2026-05-25;W75 Zaragoza;Clay;75;W;QF;6-2 6-1;Nadia Podoroska;4,0;4,0;0,0;6,25;2026-W-ITF-ESP-2026-025-304;2026;False
@@ -28965,6 +29187,7 @@ Luisina Giovannini;2024-11-25;Buenos Aires 125;Clay;W;L;R32;6-2 6-1;Jazmin Orten
 Luisina Giovannini;2023-11-27;Buenos Aires 125;Clay;C;L;R16;6-0 6-4;Renata Zarazua;0,0;7,41;0,0;6,75;2023-2052-289;2023;False
 Luisina Giovannini;2023-11-27;Buenos Aires 125;Clay;C;W;R32;6-2 6-3;Anna Sinclair Rogers;0,0;0,0;1,89;6,5;2023-2052-276;2023;False
 Lulu Sun;2026-06-15;WTA Berlin;Grass;W;L;Q1;6-4 6-3;Anhelina Kalinina;6,12;2,04;3,23;5,44;2026-2012-255;2026;False
+Lulu Sun;2026-06-15;Berlin;Grass;P;L;Q1;6-4 6-3;Anhelina Kalinina;6,12;2,04;3,23;5,44;2026-2012-254;2026;False
 Lulu Sun;2026-06-08;WTA Ilkley 125;Grass;W;L;R16;6-2 6-3;Mary Stoiana;5,0;5,0;3,51;5,0;2026-1127-292;2026;False
 Lulu Sun;2026-06-08;WTA Ilkley 125;Grass;W;W;R32;2-6 6-2 6-2;Ella Mcdonald;4,71;2,35;1,33;7,08;2026-1127-280;2026;False
 Lulu Sun;2026-06-08;Ilkley 125;Grass;C;L;R16;6-2 6-3;Mary Stoiana;5,0;5,0;3,51;5,0;2026-1127-289;2026;False
@@ -29267,9 +29490,17 @@ Maddison Inglis;2019-01-14;Australian Open;Hard;G;L;Q1;6-3 5-7 7-5;Naiktha Bains
 Maddison Inglis;2019-01-07;Sydney;Hard;P;L;Q1;7-6(3) 6-4;Danielle Collins;3,61;7,23;7,79;7,55;2019-M001-242;2019;False
 Maddison Inglis;2016-01-18;Australian Open;Hard;G;L;R128;6-3 6-0;Kate Makarova;1,92;5,77;0,0;7,43;2016-580-152;2016;False
 Maddison Inglis;2016-01-11;Hobart;Hard;I;L;R32;6-4 6-3;Margarita Gasparyan;1,75;3,51;10,71;5,7;2016-1050-279;2016;False
+Madison Keys;2026-06-22;WTA Eastbourne;Grass;W;W;F;7-5 6-4;Tatjana Maria;5,08;6,78;2,56;5,36;2026-710-300;2026;True
+Madison Keys;2026-06-22;WTA Eastbourne;Grass;W;W;QF;6-3 6-1;Mccartney Kessler;4,65;0,0;0,0;5,38;2026-710-294;2026;True
+Madison Keys;2026-06-22;WTA Eastbourne;Grass;W;W;R16;6-0 6-1;Jessica Bouzas Maneiro;5,41;5,41;0,0;6,17;2026-710-286;2026;True
+Madison Keys;2026-06-22;WTA Eastbourne;Grass;W;W;R32;6-4 6-4;Talia Gibson;12,5;1,79;1,32;5,6;2026-710-270;2026;True
+Madison Keys;2026-06-22;WTA Eastbourne;Grass;W;W;SF;6-1 0-0 RET;Petra Marcinko;5,88;5,88;4,0;5,67;2026-710-298;2026;True
 Madison Keys;2026-06-15;WTA Berlin;Grass;W;L;QF;7-6(5) 7-6(8);Jessica Pegula;12,66;0,0;5,56;6,58;2026-2012-299;2026;True
 Madison Keys;2026-06-15;WTA Berlin;Grass;W;W;R16;6-4 7-5;Karolina Muchova;6,45;0,0;3,17;5,64;2026-2012-293;2026;True
 Madison Keys;2026-06-15;WTA Berlin;Grass;W;W;R32;7-6(3) 6-1;Xin Yu Wang;5,88;5,88;1,59;5,67;2026-2012-282;2026;True
+Madison Keys;2026-06-15;Berlin;Grass;P;L;QF;7-6(5) 7-6(8);Jessica Pegula;12,66;0,0;5,56;6,58;2026-2012-296;2026;True
+Madison Keys;2026-06-15;Berlin;Grass;P;W;R16;6-4 7-5;Karolina Muchova;6,45;0,0;3,17;5,64;2026-2012-290;2026;True
+Madison Keys;2026-06-15;Berlin;Grass;P;W;R32;7-6(3) 6-1;Xin Yu Wang;5,88;5,88;1,59;5,67;2026-2012-279;2026;True
 Madison Keys;2026-05-11;Paris 125;Clay;C;L;F;3-6 3-3 RET;Diane Parry;10,2;0,0;7,41;6,12;2026-2057-300;2026;True
 Madison Keys;2026-05-11;Paris 125;Clay;C;W;QF;6-4 6-1;Anastasia Zakharova;2,04;0,0;3,51;6,12;2026-2057-297;2026;True
 Madison Keys;2026-05-11;Paris 125;Clay;C;W;R16;6-4 6-1;Tiantsoa Sarah Rakotomanga Rajaonah;7,5;5,0;0,0;5,0;2026-2057-293;2026;True
@@ -30242,9 +30473,13 @@ Magda Linette;2015-04-06;Katowice;Hard;I;L;R16;6-7(3) 6-2 6-3;Camila Giorgi;6,86
 Magda Linette;2015-04-06;Katowice;Hard;I;W;R32;7-6(5) 6-4;Anna Lena Friedsam;3,85;2,56;1,49;7,09;2015-W-INT-POL-01A-2015-006;2015;True
 Magda Linette;2015-03-02;Kuala Lumpur;Hard;I;L;R16;7-5 5-7 7-6(6);Kurumi Nara;3,48;1,74;0,0;6,39;2015-W-INT-MAS-01A-2015-021;2015;True
 Magda Linette;2015-03-02;Kuala Lumpur;Hard;I;W;R32;2-6 6-3 6-0;Qiang Wang;0,0;6,35;11,48;5,25;2015-W-INT-MAS-01A-2015-010;2015;True
+Magdalena Frech;2026-06-21;WTA Bad Homburg;Grass;W;L;R32;6-4 6-1;Naomi Osaka;1,59;4,76;1,64;7,88;2026-2017-273;2026;True
 Magdalena Frech;2026-06-15;WTA Berlin;Grass;W;L;R32;7-6(7) 6-3;Eva Lys;3,3;6,59;1,16;8,27;2026-2012-275;2026;True
 Magdalena Frech;2026-06-15;WTA Berlin;Grass;W;L;Q2;6-2 6-4;Shuai Zhang;13,21;7,55;2,0;5,89;2026-2012-268;2026;True
 Magdalena Frech;2026-06-15;WTA Berlin;Grass;W;W;Q1;6-7(3) 6-4 7-6(4);Aliaksandra Sasnovich;5,26;4,39;3,51;6,71;2026-2012-260;2026;True
+Magdalena Frech;2026-06-15;Berlin;Grass;P;L;R32;7-6(7) 6-3;Eva Lys;3,3;6,59;1,16;8,27;2026-2012-272;2026;True
+Magdalena Frech;2026-06-15;Berlin;Grass;P;L;Q2;6-2 6-4;Shuai Zhang;13,21;7,55;2,0;5,89;2026-2012-267;2026;True
+Magdalena Frech;2026-06-15;Berlin;Grass;P;W;Q1;6-7(3) 6-4 7-6(4);Aliaksandra Sasnovich;5,26;4,39;3,51;6,71;2026-2012-259;2026;True
 Magdalena Frech;2026-05-17;Strasbourg;Clay;P;L;R16;6-4 3-6 6-4;Leylah Fernandez;1,75;3,51;2,0;8,14;2026-406-292;2026;True
 Magdalena Frech;2026-05-17;Strasbourg;Clay;P;W;R32;7-6(0) 6-3;Talia Gibson;4,41;1,47;2,9;6,18;2026-406-283;2026;True
 Magdalena Frech;2026-05-05;Rome;Clay;PM;L;R128;6-0 3-6 6-4;Alexandra Eala;3,9;1,3;0,0;5,92;2026-709-176;2026;True
@@ -30861,6 +31096,7 @@ Mananchaya Sawangkaew;2024-07-01;Wimbledon;Grass;G;L;Q1;7-5 7-5;Zarina Diyas;2,5
 Mananchaya Sawangkaew;2020-02-10;Hua Hin;Hard;I;L;Q1;3-6 6-0 6-3;Chihiro Muramatsu;2,78;15,28;0,0;6,0;2020-1096-246;2020;False
 Mananchaya Sawangkaew;2019-02-06;Fed Cup G1 RR: KAZ vs THA;Hard;D;L;RR;6-1 6-3;Zarina Diyas;0,0;1,69;4,44;7,38;2019-W-FC-2019-G1-AO-A-M-KAZ-THA-01-001;2019;False
 Maria Sakkari;2026-06-15;WTA Nottingham;Grass;W;L;R32;4-6 7-6(1) 6-4;Qinwen Zheng;5,45;2,73;11,11;6,88;2026-1080-285;2026;True
+Maria Sakkari;2026-06-15;Nottingham;Grass;I;L;R32;4-6 7-6(1) 6-4;Qinwen Zheng;5,45;2,73;11,11;6,88;2026-1080-282;2026;True
 Maria Sakkari;2026-06-08;WTA Queens;Grass;W;L;R32;6-3 6-3;Tatjana Maria;0,0;5,45;3,17;6,11;2026-1111-296;2026;True
 Maria Sakkari;2026-06-08;WTA Queens;Grass;W;L;R32;6-3 6-3;Tatjana Maria;0,0;5,45;3,17;6,11;2026-1111-288;2026;True
 Maria Sakkari;2026-06-08;Queen's Club;Grass;P;L;R32;6-3 6-3;Tatjana Maria;0,0;5,45;3,17;6,11;2026-1111-284;2026;True
@@ -31372,6 +31608,7 @@ Maria Sakkari;2016-01-11;Hobart;Hard;I;L;Q2;4-6 6-0 6-1;Kiki Bertens;2,78;4,17;9
 Maria Sakkari;2016-01-11;Hobart;Hard;I;W;Q1;7-6(5) 6-4;Makoto Ninomiya;1,3;2,6;1,45;7,0;2016-1050-251;2016;True
 Maria Sakkari;2016-01-04;Brisbane;Hard;P;L;Q1;6-3 3-6 7-6(5);Kateryna Bondarenko;1,87;3,74;1,72;7,13;2016-M020-245;2016;True
 Maria Timofeeva;2026-06-15;WTA Berlin;Grass;W;L;Q1;7-5 6-2;Renata Zarazua;3,03;6,06;0,0;6,6;2026-2012-257;2026;True
+Maria Timofeeva;2026-06-15;Berlin;Grass;P;L;Q1;7-5 6-2;Renata Zarazua;3,03;6,06;0,0;6,6;2026-2012-256;2026;True
 Maria Timofeeva;2026-06-02;Makarska 125;Clay;C;W;F;6-2 6-3;Darja Semenistaja;0,0;0,0;0,0;5,89;2026-1090-300;2026;True
 Maria Timofeeva;2026-06-02;Makarska 125;Clay;C;W;QF;7-5 6-1;Yasmine Kabbaj;0,0;6,25;0,0;7,11;2026-1090-294;2026;True
 Maria Timofeeva;2026-06-02;Makarska 125;Clay;C;W;R16;6-4 6-3;Lea Boskovic;1,85;1,85;0,0;5,4;2026-1090-287;2026;True
@@ -31511,9 +31748,13 @@ Maria Timofeeva;2023-05-29;Roland Garros;Clay;G;W;Q1;6-2 6-1;Marina Melnikova;0,
 Maria Timofeeva;2023-05-29;Roland Garros;Clay;G;W;Q2;1-6 6-2 6-1;Maja Chwalinska;0,0;2,86;0,0;6,36;2023-520-166;2023;True
 Maria Timofeeva;2022-09-12;Chennai;Hard;I;L;Q1;4-6 6-1 7-6(3);Lina Glushko;2,35;5,88;3,54;6,07;2022-2078-259;2022;True
 Maria Timofeeva;2022-05-09;Karlsruhe 125;Clay;C;L;R32;6-4 6-1;Mai Hontama;0,0;12,24;0,0;5,44;2022-2004-280;2022;True
-Marie Bouzkova;2026-06-15;WTA Nottingham;Grass;W;W;QF;7-5 6-0;Tatjana Maria;1,75;3,51;4,23;6,33;2026-1080-299;2026;True
 Marie Bouzkova;2026-06-15;WTA Nottingham;Grass;W;W;R16;7-5 6-2;Hannah Klugman;7,41;3,7;5,48;5,4;2026-1080-294;2026;True
 Marie Bouzkova;2026-06-15;WTA Nottingham;Grass;W;W;R32;6-3 6-3;Tereza Valentova;0,0;0,0;0,0;5,78;2026-1080-284;2026;True
+Marie Bouzkova;2026-06-15;Nottingham;Grass;I;W;F;7-6(5) 4-6 6-2;Emma Navarro;4,17;2,08;9,26;6,4;2026-1080-300;2026;True
+Marie Bouzkova;2026-06-15;Nottingham;Grass;I;W;QF;7-5 6-0;Tatjana Maria;1,75;3,51;4,23;6,33;2026-1080-296;2026;True
+Marie Bouzkova;2026-06-15;Nottingham;Grass;I;W;R16;7-5 6-2;Hannah Klugman;7,41;3,7;5,48;5,4;2026-1080-291;2026;True
+Marie Bouzkova;2026-06-15;Nottingham;Grass;I;W;R32;6-3 6-3;Tereza Valentova;0,0;0,0;0,0;5,78;2026-1080-281;2026;True
+Marie Bouzkova;2026-06-15;Nottingham;Grass;I;W;SF;6-4 6-1;Karolina Pliskova;2,04;8,16;3,51;5,44;2026-1080-299;2026;True
 Marie Bouzkova;2026-06-08;WTA Queens;Grass;W;W;R32;6-0 6-3;Polina Kudermetova;2,5;0,0;5,17;5,71;2026-1111-291;2026;True
 Marie Bouzkova;2026-06-08;WTA Queens;Grass;W;L;R16;7-6(9) 6-3;Donna Vekic;1,16;3,49;6,76;7,82;2026-1111-294;2026;True
 Marie Bouzkova;2026-06-08;WTA Queens;Grass;W;W;R32;6-0 6-3;Polina Kudermetova;2,5;0,0;5,17;5,71;2026-1111-283;2026;True
@@ -32868,7 +33109,9 @@ Mary Stoiana;2025-01-13;W35 Palm Coast FL;Clay;35;W;R32;7-6(4) 4-6 6-2;Eva Vedde
 Mary Stoiana;2025-01-06;W35 Naples FL;Clay;35;L;R32;6-2 4-6 6-3;Tatiana Pieri;0,95;3,81;0,0;7,5;2025-W-ITF-USA-2025-001-109;2025;False
 Mary Stoiana;2024-08-26;US Open;Hard;G;W;Q1;7-6(3) 7-6(3);Polina Kudermetova;2,3;2,3;3,57;7,25;2024-560-745;2024;False
 Mary Stoiana;2023-08-28;US Open;Hard;G;L;Q1;6-3 6-4;Viktorija Golubic;2,82;2,82;0,0;7,1;2023-560-111;2023;False
+Maya Joint;2026-06-22;WTA Eastbourne;Grass;W;L;R32;7-6(2) 6-4;Emiliana Arango;1,43;5,71;0,0;6,36;2026-710-276;2026;True
 Maya Joint;2026-06-15;WTA Nottingham;Grass;W;L;R32;6-7(8) 7-5 6-4;Yuliia Starodubtseva;5,36;1,79;0,0;6,59;2026-1080-278;2026;True
+Maya Joint;2026-06-15;Nottingham;Grass;I;L;R32;6-7(8) 7-5 6-4;Yuliia Starodubtseva;5,36;1,79;0,0;6,59;2026-1080-275;2026;True
 Maya Joint;2026-06-02;Makarska 125;Clay;C;L;R16;6-3 6-4;Yasmine Kabbaj;5,97;7,46;0,0;6,7;2026-1090-286;2026;True
 Maya Joint;2026-06-02;Makarska 125;Clay;C;W;R32;7-5 6-1;Katarzyna Kawa;0,0;1,37;0,0;7,3;2026-1090-270;2026;True
 Maya Joint;2026-05-17;Strasbourg;Clay;P;L;R32;6-1 6-2;Ann Li;0,0;0,0;1,54;4,86;2026-406-271;2026;True
@@ -32987,9 +33230,13 @@ Maya Joint;2024-01-15;Australian Open;Hard;G;W;Q2;6-1 7-6(4);Darja Semenistaja;1
 Maya Joint;2024-01-01;Canberra 125;Hard;C;L;QF;6-4 6-2;Clara Tauson;3,64;3,64;11,76;6,11;2024-2096-297;2024;True
 Maya Joint;2024-01-01;Canberra 125;Hard;C;W;R16;5-7 6-3 6-4;Ella Seidel;2,13;8,51;1,12;5,88;2024-2096-292;2024;True
 Maya Joint;2024-01-01;Canberra 125;Hard;C;W;R32;6-2 6-3;Sara Errani;3,45;3,45;0,0;6,44;2024-2096-282;2024;True
-Mayar Sherif;2026-06-15;WTA Brescia 125;Clay;W;W;QF;6-2 6-2;Tiantsoa Sarah Rakotomanga Rajaonah;0,0;4,76;1,54;5,25;2026-1170-298;2026;False
 Mayar Sherif;2026-06-15;WTA Brescia 125;Clay;W;W;R16;3-6 6-3 6-3;Jennifer Ruggeri;3,03;6,06;1,43;7,07;2026-1170-291;2026;False
 Mayar Sherif;2026-06-15;WTA Brescia 125;Clay;W;W;R32;6-1 7-6(5);Raluka Serban;1,67;6,67;0,0;6,67;2026-1170-277;2026;False
+Mayar Sherif;2026-06-15;Brescia 125;Clay;C;W;F;6-4 6-3;Xiyu Wang;0,0;7,14;0,0;5,6;2026-1170-300;2026;False
+Mayar Sherif;2026-06-15;Brescia 125;Clay;C;W;QF;6-2 6-2;Tiantsoa Sarah Rakotomanga Rajaonah;0,0;4,76;1,54;5,25;2026-1170-295;2026;False
+Mayar Sherif;2026-06-15;Brescia 125;Clay;C;W;R16;3-6 6-3 6-3;Jennifer Ruggeri;3,03;6,06;1,43;7,07;2026-1170-288;2026;False
+Mayar Sherif;2026-06-15;Brescia 125;Clay;C;W;R32;6-1 7-6(5);Raluka Serban;1,67;6,67;0,0;6,67;2026-1170-274;2026;False
+Mayar Sherif;2026-06-15;Brescia 125;Clay;C;W;SF;6-3 6-3;Elizara Yaneva;0,0;3,85;1,52;5,78;2026-1170-298;2026;False
 Mayar Sherif;2026-06-08;WTA Modena 125;Clay;W;W;R32;6-2 6-0;Georgia Pedone;0,0;3,7;0,0;7,71;2026-1171-293;2026;False
 Mayar Sherif;2026-06-08;WTA Modena 125;Clay;W;W;R32;6-2 6-0;Georgia Pedone;0,0;3,7;0,0;7,71;2026-1171-291;2026;False
 Mayar Sherif;2026-06-08;WTA Modena 125;Clay;W;L;R16;6-4 6-2;Leyre Romero Gormaz;1,49;2,99;8,33;7,44;2026-1171-295;2026;False
@@ -33284,7 +33531,11 @@ Mayar Sherif;2020-02-06;Fed Cup G2 RR: DEN vs EGY;Hard;D;L;RR;6-1 6-1;Clara Taus
 Mayar Sherif;2020-02-05;Fed Cup G2 RR: FIN vs EGY;Hard;D;L;RR;6-4 6-2;Oona Orpana;8,0;4,0;1,39;5,56;2020-W-FC-2020-G2-EPA-B-M-FIN-EGY-01-002;2020;False
 Mayar Sherif;2020-02-04;Fed Cup G2 RR: POR vs EGY;Hard;D;W;RR;6-7(5) 6-4 7-6(6);Francisca Jorge;6,36;2,73;0,0;6,47;2020-W-FC-2020-G2-EPA-B-M-POR-EGY-01-002;2020;False
 Mayar Sherif;2020-01-20;Australian Open;Hard;G;L;Q1;6-3 7-5;Ann Li;1,52;1,52;3,23;6,6;2020-580-103;2020;False
+Mccartney Kessler;2026-06-22;WTA Eastbourne;Grass;W;L;QF;6-3 6-1;Madison Keys;0,0;6,56;4,65;7,62;2026-710-294;2026;True
+Mccartney Kessler;2026-06-22;WTA Eastbourne;Grass;W;W;R16;6-4 6-3;Anhelina Kalinina;4,92;6,56;2,67;6,78;2026-710-287;2026;True
+Mccartney Kessler;2026-06-22;WTA Eastbourne;Grass;W;W;R32;6-3 7-6(3);Daria Kasatkina;5,13;0,0;2,56;7,09;2026-710-273;2026;True
 Mccartney Kessler;2026-06-15;WTA Nottingham;Grass;W;L;R32;6-3 6-3;Katie Volynets;1,89;3,77;2,99;5,89;2026-1080-280;2026;True
+Mccartney Kessler;2026-06-15;Nottingham;Grass;I;L;R32;6-3 6-3;Katie Volynets;1,89;3,77;2,99;5,89;2026-1080-277;2026;True
 Mccartney Kessler;2026-06-08;WTA Queens;Grass;W;L;R32;6-7(1) 6-3 6-4;Karolina Pliskova;4,72;6,6;3,12;7,07;2026-1111-292;2026;True
 Mccartney Kessler;2026-06-08;WTA Queens;Grass;W;L;R32;6-7(1) 6-3 6-4;Karolina Pliskova;4,72;6,6;3,12;7,07;2026-1111-284;2026;True
 Mccartney Kessler;2026-06-08;Queen's Club;Grass;P;L;R32;6-7(1) 6-3 6-4;Karolina Pliskova;4,72;6,6;3,12;7,07;2026-1111-280;2026;True
@@ -33421,6 +33672,7 @@ Mccartney Kessler;2024-01-15;Australian Open;Hard;G;W;R128;3-6 6-3 6-2;Fiona Fer
 Mccartney Kessler;2024-01-01;Auckland;Hard;I;L;R32;6-4 6-3;Lulu Sun;1,59;6,35;4,35;6,3;2024-1049-283;2024;True
 Mccartney Kessler;2024-01-01;Auckland;Hard;I;W;Q1;6-2 6-7(5) 6-3;Jessika Ponchet;1,98;4,95;2,06;6,73;2024-1049-259;2024;True
 Mccartney Kessler;2024-01-01;Auckland;Hard;I;W;Q2;7-5 6-4;Ya Yi Yang;3,03;3,03;0,0;6,0;2024-1049-267;2024;True
+Mirra Andreeva;2026-06-21;WTA Bad Homburg;Grass;W;L;R16;6-3 6-4;Ekaterina Alexandrova;5,71;2,86;1,54;7,78;2026-2017-286;2026;True
 Mirra Andreeva;2026-05-05;Rome;Clay;PM;L;QF;4-6 6-2 6-4;Coco Gauff;2,88;5,77;2,15;7,43;2026-709-296;2026;True
 Mirra Andreeva;2026-05-05;Rome;Clay;PM;W;R16;6-3 6-3;Elise Mertens;7,14;5,36;7,27;6,22;2026-709-290;2026;True
 Mirra Andreeva;2026-05-05;Rome;Clay;PM;W;R32;6-1 4-6 6-0;Viktorija Golubic;3,06;3,06;0,0;8,17;2026-709-278;2026;True
@@ -34098,6 +34350,11 @@ Moyuka Uchijima;2018-09-17;Tokyo;Hard;P;L;Q1;6-1 6-1;Eugenie Bouchard;0,0;2,33;4
 Moyuka Uchijima;2017-09-18;Tokyo;Hard;P;L;Q2;6-2 6-1;Magda Linette;0,0;5,0;4,17;5,71;2017-1056-250;2017;False
 Moyuka Uchijima;2017-09-18;Tokyo;Hard;P;W;Q1;6-4 7-5;Alicja Rosolska;1,43;5,71;0,0;6,36;2017-1056-241;2017;False
 Moyuka Uchijima;2017-09-11;Tokyo ;Hard;I;L;Q1;3-6 6-4 6-2;Erika Sema;2,17;4,35;0,86;7,08;2017-0405-241;2017;False
+Naomi Osaka;2026-06-21;WTA Bad Homburg;Grass;W;L;F;6-1 1-0 RET;Karolina Muchova;10,0;3,33;0,0;7,5;2026-2017-300;2026;True
+Naomi Osaka;2026-06-21;WTA Bad Homburg;Grass;W;W;QF;6-2 6-2;Ekaterina Alexandrova;18,42;0,0;0,0;4,75;2026-2017-294;2026;True
+Naomi Osaka;2026-06-21;WTA Bad Homburg;Grass;W;W;R16;6-3 6-3;Elise Mertens;14,58;4,17;10,2;5,33;2026-2017-287;2026;True
+Naomi Osaka;2026-06-21;WTA Bad Homburg;Grass;W;W;R32;6-4 6-1;Magdalena Frech;1,64;3,28;1,59;6,78;2026-2017-273;2026;True
+Naomi Osaka;2026-06-21;WTA Bad Homburg;Grass;W;W;SF;6-3 6-3;Xin Yu Wang;15,09;1,89;1,75;5,89;2026-2017-298;2026;True
 Naomi Osaka;2026-05-05;Rome;Clay;PM;L;R16;6-2 6-1;Iga Swiatek;3,28;4,92;6,52;7,62;2026-709-288;2026;True
 Naomi Osaka;2026-05-05;Rome;Clay;PM;W;R32;6-1 6-2;Diana Shnaider;4,88;2,44;0,0;5,12;2026-709-275;2026;True
 Naomi Osaka;2026-05-05;Rome;Clay;PM;W;R64;6-4 4-6 6-3;Eva Lys;3,41;7,95;0,0;5,87;2026-709-249;2026;True
@@ -34474,6 +34731,9 @@ Naomi Osaka;2016-01-04;Brisbane;Hard;P;W;Q2;6-1 6-2;Alize Lim;2,7;2,7;0,0;5,29;2
 Nikola Bartunkova;2026-06-15;WTA Berlin;Grass;W;L;QF;2-6 7-6(2) 6-4;Aryna Sabalenka;8,42;7,37;10,0;6,33;2026-2012-300;2026;True
 Nikola Bartunkova;2026-06-15;WTA Berlin;Grass;W;W;R16;6-1 6-4;Elise Mertens;3,08;7,69;6,35;7,22;2026-2012-295;2026;True
 Nikola Bartunkova;2026-06-15;WTA Berlin;Grass;W;W;R32;6-2 6-7(2) 6-3;Diana Shnaider;9,57;6,38;1,96;6,27;2026-2012-285;2026;True
+Nikola Bartunkova;2026-06-15;Berlin;Grass;P;L;QF;2-6 7-6(2) 6-4;Aryna Sabalenka;8,42;7,37;10,0;6,33;2026-2012-297;2026;True
+Nikola Bartunkova;2026-06-15;Berlin;Grass;P;W;R16;6-1 6-4;Elise Mertens;3,08;7,69;6,35;7,22;2026-2012-292;2026;True
+Nikola Bartunkova;2026-06-15;Berlin;Grass;P;W;R32;6-2 6-7(2) 6-3;Diana Shnaider;9,57;6,38;1,96;6,27;2026-2012-282;2026;True
 Nikola Bartunkova;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R32;4-6 7-6(5) 7-5;Hanne Vandewinkel;4,81;7,69;2,33;6,12;2026-822-291;2026;True
 Nikola Bartunkova;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R32;4-6 7-6(5) 7-5;Hanne Vandewinkel;4,81;7,69;2,33;6,12;2026-822-285;2026;True
 Nikola Bartunkova;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R32;4-6 7-6(5) 7-5;Hanne Vandewinkel;4,81;7,69;2,33;6,12;2026-822-280;2026;True
@@ -34575,6 +34835,7 @@ Nikola Bartunkova;2022-04-18;Istanbul;Clay;I;L;R32;6-1 6-4;Anastasia Potapova;0,
 Nikola Bartunkova;2021-04-19;Istanbul;Clay;I;L;Q2;6-4 5-7 6-3;Anastasia Gasanova;0,92;6,42;0,0;7,79;2021-2020-866;2021;True
 Nikola Bartunkova;2021-04-19;Istanbul;Clay;I;W;Q1;6-3 4-6 6-3;Leonie Kung;1,32;6,58;1,23;5,43;2021-2020-857;2021;True
 Noma Noha Akugue;2026-06-15;WTA Berlin;Grass;W;L;Q1;4-6 6-1 6-2;Rebeka Masarova;3,28;3,28;3,41;5,08;2026-2012-254;2026;False
+Noma Noha Akugue;2026-06-15;Berlin;Grass;P;L;Q1;4-6 6-1 6-2;Rebeka Masarova;3,28;3,28;3,41;5,08;2026-2012-253;2026;False
 Noma Noha Akugue;2026-06-08;WTA Modena 125;Clay;W;L;R16;7-6(4) 6-1;Katarzyna Kawa;3,9;7,79;3,39;8,56;2026-1171-299;2026;False
 Noma Noha Akugue;2026-06-08;WTA Modena 125;Clay;W;L;R16;7-6(4) 6-1;Katarzyna Kawa;3,9;7,79;3,39;8,56;2026-1171-298;2026;False
 Noma Noha Akugue;2026-06-08;WTA Modena 125;Clay;W;W;R32;6-4 6-4;Tiantsoa Sarah Rakotomanga Rajaonah;1,69;0,0;0,0;5,9;2026-1171-288;2026;False
@@ -34746,6 +35007,7 @@ Noma Noha Akugue;2021-06-14;Berlin;Grass;P;L;Q1;6-3 6-1;Liudmila Samsonova;1,92;
 Noma Noha Akugue;2021-04-19;Stuttgart;Clay;P;L;Q2;6-0 6-4;Nastasja Schunk;0,0;6,12;0,0;6,12;2021-1051-869;2021;False
 Noma Noha Akugue;2021-04-19;Stuttgart;Clay;P;W;Q1;6-3 6-4;Margarita Gasparyan;0,0;1,61;0,0;6,2;2021-1051-863;2021;False
 Nuria Brancaccio;2026-06-15;WTA Brescia 125;Clay;W;L;R32;4-6 6-2 7-6(3);Ekaterine Gorgodze;5,21;7,29;0,97;6,4;2026-1170-273;2026;False
+Nuria Brancaccio;2026-06-15;Brescia 125;Clay;C;L;R32;4-6 6-2 7-6(3);Ekaterine Gorgodze;5,21;7,29;0,97;6,4;2026-1170-270;2026;False
 Nuria Brancaccio;2026-06-08;WTA Modena 125;Clay;W;W;R32;6-4 7-5;Victoria Bosio;1,49;5,97;1,39;6,09;2026-1171-287;2026;False
 Nuria Brancaccio;2026-06-08;WTA Modena 125;Clay;W;W;R32;6-4 7-5;Victoria Bosio;1,49;5,97;1,39;6,09;2026-1171-285;2026;False
 Nuria Brancaccio;2026-06-08;WTA Modena 125;Clay;W;L;QF;6-4 6-2;Lucia Bronzetti;2,56;6,41;0,0;8,67;2026-1171-298;2026;False
@@ -34897,7 +35159,10 @@ Nuria Brancaccio;2022-05-09;Rome;Clay;P;L;Q1;6-3 6-2;Aliaksandra Sasnovich;0,0;5
 Nuria Brancaccio;2021-07-19;Palermo;Clay;I;L;R32;2-6 6-3 6-4;Jaqueline Cristian;1,08;4,3;0,98;7,15;2021-466-271;2021;False
 Nuria Brancaccio;2021-05-17;Parma;Clay;W;L;Q1;7-6(6) 7-6(6);Katarina Zavatska;0,0;0,0;0,0;7,92;2021-2041-858;2021;False
 Nuria Brancaccio;2021-05-10;Rome;Clay;PM;L;Q1;6-4 6-0;Marta Kostyuk;0,0;3,45;1,49;7,25;2021-709-818;2021;False
+Oksana Selekhmeteva;2026-06-22;WTA Eastbourne;Grass;W;L;Q2;7-6(8) 2-6 7-6(7);Anastasia Zakharova;5,79;4,96;0,0;7,56;2026-710-265;2026;True
+Oksana Selekhmeteva;2026-06-22;WTA Eastbourne;Grass;W;W;Q1;7-6(3) 2-6 6-1;Kamilla Rakhimova;9,24;14,29;0,0;8,5;2026-710-255;2026;True
 Oksana Selekhmeteva;2026-06-15;WTA Nottingham;Grass;W;L;Q1;6-4 6-3;Taylah Preston;3,28;14,75;2,74;6,1;2026-1080-263;2026;True
+Oksana Selekhmeteva;2026-06-15;Nottingham;Grass;I;L;Q1;6-4 6-3;Taylah Preston;3,28;14,75;2,74;6,1;2026-1080-262;2026;True
 Oksana Selekhmeteva;2026-05-17;Strasbourg;Clay;P;L;Q2;6-4 6-4;Mccartney Kessler;1,52;9,09;1,37;6,6;2026-406-269;2026;True
 Oksana Selekhmeteva;2026-05-17;Strasbourg;Clay;P;W;Q1;1-6 6-4 6-1;Sofia Kenin;10,67;13,33;2,38;6,25;2026-406-264;2026;True
 Oksana Selekhmeteva;2026-05-05;Rome;Clay;PM;L;R128;7-5 5-7 6-1;Rebeka Masarova;0,0;10,78;4,12;6,8;2026-709-203;2026;True
@@ -35044,6 +35309,7 @@ Oksana Selekhmeteva;2021-10-18;Moscow;Hard;P;L;R32;4-6 7-6(3) 6-4;Veronika Kuder
 Oksana Selekhmeteva;2021-10-18;Moscow;Hard;P;W;Q1;6-3 3-6 6-4;Arina Rodionova;2,17;3,26;0,0;6,57;2021-730-860;2021;True
 Oksana Selekhmeteva;2021-10-18;Moscow;Hard;P;W;Q2;6-4 7-6(2);Diana Shnaider;0,0;8,45;0,0;6,45;2021-730-868;2021;True
 Oksana Selekhmeteva;2019-10-14;Moscow;Hard;I;L;Q1;7-5 6-2;Polina Kudermetova;1,47;16,18;0,0;6,8;2019-M014-232;2019;True
+Oleksandra Oliynykova;2026-06-22;WTA Eastbourne;Grass;W;L;Q1;6-0 6-2;Sofia Johnson;0,0;6,82;2,44;6,29;2026-710-263;2026;True
 Oleksandra Oliynykova;2026-05-17;Strasbourg;Clay;P;L;R16;3-1 RET;Marie Bouzkova;0,0;0,0;0,0;5,0;2026-406-287;2026;True
 Oleksandra Oliynykova;2026-05-17;Strasbourg;Clay;P;W;R32;3-6 7-5 6-3;Alexandra Eala;1,85;6,48;0,0;7,2;2026-406-272;2026;True
 Oleksandra Oliynykova;2026-05-17;Strasbourg;Clay;P;W;Q1;6-1 6-2;Ksenia Efremova;0,0;2,22;2,17;6,43;2026-406-262;2026;True
@@ -35380,7 +35646,10 @@ Olga Danilovic;2018-02-09;Fed Cup G1 RR: SRB vs GEO;Hard;D;W;RR;6-3 6-0;Sofia Sh
 Olga Danilovic;2018-02-07;Fed Cup G1 RR: SRB vs BUL;Hard;D;W;RR;6-3 6-7(3) 7-6(6);Isabella Shinikova;3,85;5,77;0,0;6,12;2018-W-FC-2018-G1-EPA-A-M-SRB-BUL-01-001;2018;False
 Olga Danilovic;2017-11-06;Limoges;Hard;C;L;R16;7-5 7-6(1);Sabine Lisicki;5,63;4,23;7,23;5,92;2017-1072-289;2017;False
 Olga Danilovic;2017-11-06;Limoges;Hard;C;W;R32;6-2 6-3;Daniela Seguel;3,64;3,64;0,0;6,11;2017-1072-276;2017;False
+Panna Udvardy;2026-06-22;WTA Eastbourne;Grass;W;L;R16;3-6 6-1 6-2;Jelena Ostapenko;8,57;4,29;10,94;5,83;2026-710-291;2026;True
+Panna Udvardy;2026-06-22;WTA Eastbourne;Grass;W;W;R32;7-6(4) 3-2 RET;Anna Bondar;6,06;6,06;6,25;7,33;2026-710-280;2026;True
 Panna Udvardy;2026-06-15;WTA Nottingham;Grass;W;L;Q1;7-5 6-2;Katie Volynets;6,06;3,03;6,0;6,6;2026-1080-260;2026;True
+Panna Udvardy;2026-06-15;Nottingham;Grass;I;L;Q1;7-5 6-2;Katie Volynets;6,06;3,03;6,0;6,6;2026-1080-259;2026;True
 Panna Udvardy;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;W;R32;6-4 7-6(5);Ekaterina Alexandrova;6,58;9,21;6,76;6,91;2026-822-300;2026;True
 Panna Udvardy;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;W;R32;6-4 7-6(5);Ekaterina Alexandrova;6,58;9,21;6,76;6,91;2026-822-294;2026;True
 Panna Udvardy;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R16;6-4 3-6 6-4;Daria Snigur;10,58;4,81;1,14;6,93;2026-822-297;2026;True
@@ -35630,6 +35899,9 @@ Panna Udvardy;2016-07-11;Bucharest;Clay;I;L;Q1;6-1 3-6 6-3;Marina Melnikova;4,0;
 Paula Badosa;2026-06-15;WTA Berlin;Grass;W;L;QF;6-1 6-3;Linda Noskova;2,0;14,0;14,04;6,25;2026-2012-298;2026;False
 Paula Badosa;2026-06-15;WTA Berlin;Grass;W;W;R16;1-6 6-3 6-2;Coco Gauff;5,33;9,33;17,91;6,25;2026-2012-291;2026;False
 Paula Badosa;2026-06-15;WTA Berlin;Grass;W;W;R32;6-3 6-2;Suzan Lamens;14,04;10,53;4,0;6,33;2026-2012-278;2026;False
+Paula Badosa;2026-06-15;Berlin;Grass;P;L;QF;6-1 6-3;Linda Noskova;2,0;14,0;14,04;6,25;2026-2012-295;2026;False
+Paula Badosa;2026-06-15;Berlin;Grass;P;W;R16;1-6 6-3 6-2;Coco Gauff;5,33;9,33;17,91;6,25;2026-2012-288;2026;False
+Paula Badosa;2026-06-15;Berlin;Grass;P;W;R32;6-3 6-2;Suzan Lamens;14,04;10,53;4,0;6,33;2026-2012-275;2026;False
 Paula Badosa;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R32;6-1 7-6(2);Daria Snigur;3,77;5,66;0,0;5,3;2026-822-299;2026;False
 Paula Badosa;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R32;6-1 7-6(2);Daria Snigur;3,77;5,66;0,0;5,3;2026-822-293;2026;False
 Paula Badosa;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R32;6-1 7-6(2);Daria Snigur;3,77;5,66;0,0;5,3;2026-822-288;2026;False
@@ -35963,8 +36235,16 @@ Paula Badosa;2015-05-04;Madrid;Clay;PM;L;R64;3-0 RET;Sara Errani;0,0;0,0;0,0;6,0
 Paula Badosa;2015-03-23;Miami;Hard;PM;L;R32;7-5 6-1;Karolina Pliskova;9,8;13,73;0,0;5,1;2015-W-PM-USA-02A-2015-079;2015;False
 Paula Badosa;2015-03-23;Miami;Hard;PM;W;R128;6-1 6-1;Petra Cetkovska;12,12;12,12;0,0;4,71;2015-W-PM-USA-02A-2015-030;2015;False
 Paula Badosa;2015-03-23;Miami;Hard;PM;W;R64;6-1 7-5;Saisai Zheng;0,0;7,81;3,39;7,11;2015-W-PM-USA-02A-2015-062;2015;False
+Petra Marcinko;2026-06-22;WTA Eastbourne;Grass;W;L;SF;6-1 0-0 RET;Madison Keys;4,0;20,0;5,88;6,25;2026-710-298;2026;True
+Petra Marcinko;2026-06-22;WTA Eastbourne;Grass;W;L;Q2;6-4 6-2;Daria Snigur;3,23;11,29;1,89;6,89;2026-710-268;2026;True
+Petra Marcinko;2026-06-22;WTA Eastbourne;Grass;W;W;QF;6-3 4-6 6-4;Caty Mcnally;4,82;6,02;2,94;5,53;2026-710-295;2026;True
+Petra Marcinko;2026-06-22;WTA Eastbourne;Grass;W;W;R16;6-1 6-4;Kimberly Birrell;7,02;5,26;0,0;6,33;2026-710-288;2026;True
+Petra Marcinko;2026-06-22;WTA Eastbourne;Grass;W;W;R32;7-6(6) 4-6 7-6(4);Antonia Ruzic;3,08;12,31;1,47;7,65;2026-710-275;2026;True
+Petra Marcinko;2026-06-22;WTA Eastbourne;Grass;W;W;Q1;6-4 6-7(4) 6-4;Simona Waltert;6,73;3,85;6,96;6,5;2026-710-261;2026;True
 Petra Marcinko;2026-06-15;WTA Berlin;Grass;W;L;Q2;1-6 6-4 6-3;Renata Zarazua;8,42;9,47;2,22;7,31;2026-2012-267;2026;True
 Petra Marcinko;2026-06-15;WTA Berlin;Grass;W;W;Q1;6-2 4-6 6-2;Aoi Ito;2,88;8,65;2,13;8,0;2026-2012-258;2026;True
+Petra Marcinko;2026-06-15;Berlin;Grass;P;L;Q2;1-6 6-4 6-3;Renata Zarazua;8,42;9,47;2,22;7,31;2026-2012-266;2026;True
+Petra Marcinko;2026-06-15;Berlin;Grass;P;W;Q1;6-2 4-6 6-2;Aoi Ito;2,88;8,65;2,13;8,0;2026-2012-257;2026;True
 Petra Marcinko;2026-06-02;Makarska 125;Clay;C;L;R16;0-6 7-6(3) 6-4;Barbora Palicova;4,17;10,42;1,11;6,86;2026-1090-293;2026;True
 Petra Marcinko;2026-06-02;Makarska 125;Clay;C;W;R32;6-1 6-0;Caijsa Wilda Hennemann;2,33;9,3;0,0;6,14;2026-1090-285;2026;True
 Petra Marcinko;2026-05-18;Rabat;Clay;I;W;F;6-2 3-0 RET;Anhelina Kalinina;2,63;5,26;3,45;6,33;2026-1005-300;2026;True
@@ -36090,6 +36370,8 @@ Petra Marcinko;2022-04-16;BJK Cup G1 PPO: SRB vs CRO;Clay;D;W;RR;6-1 2-6 6-0;Lol
 Petra Marcinko;2022-04-14;BJK Cup G1 RR: CRO vs GEO;Clay;D;W;RR;6-2 6-2;Nino Natsvlishvili;2,78;2,78;0,0;4,5;2022-W-FC-2022-G1-EPA-B-M-CRO-GEO-01-001;2022;True
 Petra Marcinko;2022-04-12;BJK Cup G1 RR: CRO vs BUL;Clay;D;W;RR;6-4 6-4;Julia Terziyska;1,69;18,64;0,0;5,9;2022-W-FC-2022-G1-EPA-B-M-CRO-BUL-01-001;2022;True
 Petra Marcinko;2022-04-11;BJK Cup G1 RR: SWE vs CRO;Clay;D;W;RR;6-0 6-4;Jacqueline Cabaj Awad;0,0;7,69;0,0;4,88;2022-W-FC-2022-G1-EPA-B-M-SWE-CRO-01-001;2022;True
+Peyton Stearns;2026-06-22;WTA Eastbourne;Grass;W;L;Q2;7-5 6-0;Kimberly Birrell;3,7;5,56;9,09;6,0;2026-710-266;2026;True
+Peyton Stearns;2026-06-22;WTA Eastbourne;Grass;W;W;Q1;7-5 6-3;Emily Appleton;6,25;3,12;15,66;5,82;2026-710-257;2026;True
 Peyton Stearns;2026-05-17;Strasbourg;Clay;P;L;R16;6-1 6-3;Daria Kasatkina;2,22;6,67;5,77;5,62;2026-406-290;2026;True
 Peyton Stearns;2026-05-17;Strasbourg;Clay;P;W;R32;6-3 6-1;Maria Sakkari;6,12;8,16;7,55;6,12;2026-406-279;2026;True
 Peyton Stearns;2026-05-05;Rome;Clay;PM;L;R64;4-6 6-4 6-2;Madison Keys;2,47;3,7;7,69;5,79;2026-709-243;2026;True
@@ -36734,8 +37016,12 @@ Priscilla Hon;2017-09-18;Seoul;Hard;I;W;Q1;6-1 6-1;Olivia Tjandramulia;6,06;3,03
 Priscilla Hon;2017-09-18;Seoul;Hard;I;W;Q2;6-1 6-2;Tereza Martincova;8,7;0,0;7,27;5,75;2017-1024-254;2017;False
 Priscilla Hon;2016-01-18;Australian Open;Hard;G;L;R128;6-0 6-3;Annika Beck;4,0;2,0;0,0;7,14;2016-580-138;2016;False
 Priscilla Hon;2016-01-04;Brisbane;Hard;P;L;R32;6-4 6-4;Samantha Crawford;3,03;0,0;16,13;6,6;2016-M020-279;2016;False
+Qinwen Zheng;2026-06-21;WTA Bad Homburg;Grass;W;L;R16;5-7 6-4 6-2;Clara Tauson;11,24;13,48;13,79;5,93;2026-2017-290;2026;False
+Qinwen Zheng;2026-06-21;WTA Bad Homburg;Grass;W;W;R32;7-5 4-6 6-4;Solana Sierra;13,83;7,45;1,96;5,88;2026-2017-279;2026;False
 Qinwen Zheng;2026-06-15;WTA Nottingham;Grass;W;L;R16;6-3 7-6(10);Talia Gibson;18,84;8,7;5,13;6,9;2026-1080-295;2026;False
 Qinwen Zheng;2026-06-15;WTA Nottingham;Grass;W;W;R32;4-6 7-6(1) 6-4;Maria Sakkari;11,11;3,33;5,45;5,62;2026-1080-285;2026;False
+Qinwen Zheng;2026-06-15;Nottingham;Grass;I;L;R16;6-3 7-6(10);Talia Gibson;18,84;8,7;5,13;6,9;2026-1080-292;2026;False
+Qinwen Zheng;2026-06-15;Nottingham;Grass;I;W;R32;4-6 7-6(1) 6-4;Maria Sakkari;11,11;3,33;5,45;5,62;2026-1080-282;2026;False
 Qinwen Zheng;2026-06-08;WTA Queens;Grass;W;L;R32;6-4 7-6(4);Jaqueline Cristian;15,52;3,45;6,35;5,27;2026-1111-295;2026;False
 Qinwen Zheng;2026-06-08;WTA Queens;Grass;W;L;R32;6-4 7-6(4);Jaqueline Cristian;15,52;3,45;6,35;5,27;2026-1111-287;2026;False
 Qinwen Zheng;2026-06-08;Queen's Club;Grass;P;L;R32;6-4 7-6(4);Jaqueline Cristian;15,52;3,45;6,35;5,27;2026-1111-283;2026;False
@@ -37198,6 +37484,9 @@ Rebecca Sramkova;2016-07-11;Bucharest;Clay;I;W;Q1;6-7(1) 6-2 7-5;Conny Perrin;0,
 Rebeka Masarova;2026-06-15;WTA Berlin;Grass;W;L;R32;6-2 6-4;Katerina Siniakova;12,24;2,04;3,57;5,44;2026-2012-283;2026;False
 Rebeka Masarova;2026-06-15;WTA Berlin;Grass;W;W;Q1;4-6 6-1 6-2;Noma Noha Akugue;3,41;7,95;3,28;6,77;2026-2012-254;2026;False
 Rebeka Masarova;2026-06-15;WTA Berlin;Grass;W;W;Q2;6-1 6-4;Mia Pohankova;6,25;2,08;5,0;5,33;2026-2012-265;2026;False
+Rebeka Masarova;2026-06-15;Berlin;Grass;P;L;R32;6-2 6-4;Katerina Siniakova;12,24;2,04;3,57;5,44;2026-2012-280;2026;False
+Rebeka Masarova;2026-06-15;Berlin;Grass;P;W;Q1;4-6 6-1 6-2;Noma Noha Akugue;3,41;7,95;3,28;6,77;2026-2012-253;2026;False
+Rebeka Masarova;2026-06-15;Berlin;Grass;P;W;Q2;6-1 6-4;Mia Pohankova;6,25;2,08;5,0;5,33;2026-2012-264;2026;False
 Rebeka Masarova;2026-06-01;Birmingham 125;Grass;C;L;SF;6-2 4-6 6-3;Alexandra Eala;13,25;6,02;0,0;6,38;2026-1126-299;2026;False
 Rebeka Masarova;2026-06-01;Birmingham 125;Grass;C;W;QF;6-4 3-6 6-0;Mary Stoiana;11,94;4,48;0,91;5,58;2026-1126-296;2026;False
 Rebeka Masarova;2026-06-01;Birmingham 125;Grass;C;W;R16;6-4 6-3;Tatjana Maria;12,73;10,91;0,0;5,5;2026-1126-291;2026;False
@@ -37429,9 +37718,15 @@ Rebeka Masarova;2016-07-11;Gstaad;Clay;I;L;SF;6-3 6-2;Viktorija Golubic;5,63;9,8
 Rebeka Masarova;2016-07-11;Gstaad;Clay;I;W;QF;7-5 6-2;Annika Beck;4,69;6,25;0,0;6,4;2016-1094-294;2016;False
 Rebeka Masarova;2016-07-11;Gstaad;Clay;I;W;R16;7-6(2) 4-6 6-2;Anett Kontaveit;5,49;2,2;1,9;6,07;2016-1094-286;2016;False
 Rebeka Masarova;2016-07-11;Gstaad;Clay;I;W;R32;1-6 6-4 6-2;Jelena Jankovic;4,76;1,19;0,0;6,46;2016-1094-270;2016;False
+Renata Zarazua;2026-06-21;WTA Bad Homburg;Grass;W;L;R32;6-1 6-2;Xin Yu Wang;0,0;4,88;34,09;5,86;2026-2017-277;2026;True
+Renata Zarazua;2026-06-21;WTA Bad Homburg;Grass;W;L;Q2;6-2 7-5;Sinja Kraus;1,54;3,08;3,39;6,5;2026-2017-266;2026;True
+Renata Zarazua;2026-06-21;WTA Bad Homburg;Grass;W;W;Q1;6-3 7-6(4);Mariella Thamm;0,0;1,59;1,15;6,3;2026-2017-259;2026;True
 Renata Zarazua;2026-06-15;WTA Berlin;Grass;W;L;R32;6-1 6-4;Linda Noskova;1,85;5,56;18,0;6,75;2026-2012-280;2026;True
 Renata Zarazua;2026-06-15;WTA Berlin;Grass;W;W;Q1;7-5 6-2;Maria Timofeeva;0,0;1,59;3,03;6,3;2026-2012-257;2026;True
 Renata Zarazua;2026-06-15;WTA Berlin;Grass;W;W;Q2;1-6 6-4 6-3;Petra Marcinko;2,22;2,22;8,42;6,92;2026-2012-267;2026;True
+Renata Zarazua;2026-06-15;Berlin;Grass;P;L;R32;6-1 6-4;Linda Noskova;1,85;5,56;18,0;6,75;2026-2012-277;2026;True
+Renata Zarazua;2026-06-15;Berlin;Grass;P;W;Q1;7-5 6-2;Maria Timofeeva;0,0;1,59;3,03;6,3;2026-2012-256;2026;True
+Renata Zarazua;2026-06-15;Berlin;Grass;P;W;Q2;1-6 6-4 6-3;Petra Marcinko;2,22;2,22;8,42;6,92;2026-2012-266;2026;True
 Renata Zarazua;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R32;6-1 6-2;Barbora Krejcikova;1,89;1,89;10,87;7,57;2026-822-292;2026;True
 Renata Zarazua;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R32;6-1 6-2;Barbora Krejcikova;1,89;1,89;10,87;7,57;2026-822-286;2026;True
 Renata Zarazua;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R32;6-1 6-2;Barbora Krejcikova;1,89;1,89;10,87;7,57;2026-822-281;2026;True
@@ -37701,7 +37996,9 @@ Renata Zarazua;2016-04-11;Bogota;Clay;I;L;Q2;6-4 6-2;Conny Perrin;0,0;0,0;1,56;6
 Renata Zarazua;2016-04-11;Bogota;Clay;I;W;Q1;6-2 6-1;Ana Sofia Sanchez;0,0;2,5;0,0;5,71;2016-0894-256;2016;True
 Renata Zarazua;2016-02-29;Monterrey;Hard;I;L;Q1;6-1 6-1;Nicole Gibbs;0,0;2,0;4,44;7,14;2016-1039-253;2016;True
 Renata Zarazua;2016-02-22;Acapulco;Hard;I;L;Q1;6-2 7-5;Viktorija Golubic;1,33;0,0;1,47;7,5;2016-M004-260;2016;True
+Sara Bejlek;2026-06-22;WTA Eastbourne;Grass;W;W;R32;3-6 7-6(2) 7-6(3);Laura Siegemund;1,67;2,5;0,0;7,06;2026-710-278;2026;True
 Sara Bejlek;2026-06-15;WTA Nottingham;Grass;W;L;R32;2-6 7-6(3) 6-2;Karolina Pliskova;4,26;8,51;3,19;6,71;2026-1080-288;2026;True
+Sara Bejlek;2026-06-15;Nottingham;Grass;I;L;R32;2-6 7-6(3) 6-2;Karolina Pliskova;4,26;8,51;3,19;6,71;2026-1080-285;2026;True
 Sara Bejlek;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R32;6-1 6-2;Dayana Yastremska;0,0;2,13;1,64;6,71;2026-822-293;2026;True
 Sara Bejlek;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R32;6-1 6-2;Dayana Yastremska;0,0;2,13;1,64;6,71;2026-822-287;2026;True
 Sara Bejlek;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R32;6-1 6-2;Dayana Yastremska;0,0;2,13;1,64;6,71;2026-822-282;2026;True
@@ -37834,8 +38131,11 @@ Sara Bejlek;2022-11-07;Colina 125;Clay;C;L;R16;6-3 6-1;Diana Shnaider;0,0;5,36;1
 Sara Bejlek;2022-11-07;Colina 125;Clay;C;W;R32;6-3 6-2;Sara Errani;0,0;2,08;0,0;5,33;2022-2076-273;2022;True
 Sara Bejlek;2022-08-29;US Open;Hard;G;L;R128;6-3 6-1;Liudmila Samsonova;0,0;5,17;6,38;7,25;2022-560-157;2022;True
 Sara Bejlek;2022-06-27;Wimbledon;Grass;G;L;Q1;7-6(3) 6-3;Emina Bektas;5,13;5,13;7,58;7,8;2022-540-162;2022;True
+Shuai Zhang;2026-06-21;WTA Bad Homburg;Grass;W;L;Q1;7-5 6-4;Elena Gabriela Ruse;2,99;4,48;16,67;6,09;2026-2017-261;2026;True
 Shuai Zhang;2026-06-15;WTA Berlin;Grass;W;L;R32;6-1 6-3;Karolina Muchova;2,33;4,65;18,75;5,38;2026-2012-281;2026;True
 Shuai Zhang;2026-06-15;WTA Berlin;Grass;W;W;Q2;6-2 6-4;Magdalena Frech;2,0;6,0;13,21;5,56;2026-2012-268;2026;True
+Shuai Zhang;2026-06-15;Berlin;Grass;P;L;R32;6-1 6-3;Karolina Muchova;2,33;4,65;18,75;5,38;2026-2012-278;2026;True
+Shuai Zhang;2026-06-15;Berlin;Grass;P;W;Q2;6-2 6-4;Magdalena Frech;2,0;6,0;13,21;5,56;2026-2012-267;2026;True
 Shuai Zhang;2026-06-08;WTA Queens;Grass;W;L;R32;6-3 6-2;Alexandra Eala;3,7;1,85;4,84;6,75;2026-1111-284;2026;True
 Shuai Zhang;2026-06-08;WTA Queens;Grass;W;W;Q1;6-2 4-6 6-4;Hannah Klugman;0,98;0,0;13,79;7,29;2026-1111-265;2026;True
 Shuai Zhang;2026-06-08;WTA Queens;Grass;W;W;Q2;6-3 6-4;Heather Watson;7,46;2,99;11,11;6,7;2026-1111-273;2026;True
@@ -38336,6 +38636,7 @@ Shuai Zhang;2015-03-23;Miami;Hard;PM;L;R128;6-4 4-6 6-4;Annika Beck;3,53;4,71;0,
 Shuai Zhang;2015-02-09;Pattaya;Hard;I;L;R16;7-6(6) 6-3;Vera Zvonareva;2,15;6,45;1,52;8,45;2015-W-INT-THA-01A-2015-023;2015;True
 Shuai Zhang;2015-02-09;Pattaya;Hard;I;W;R32;6-2 6-0;Donna Vekic;4,76;0,0;4,08;6,0;2015-W-INT-THA-01A-2015-013;2015;True
 Shuai Zhang;2015-01-19;Australian Open;Hard;G;L;R128;6-3 6-2;Alize Cornet;0,0;8,33;1,92;7,5;2015-W-SL-AUS-01A-2015-012;2015;True
+Simona Waltert;2026-06-22;WTA Eastbourne;Grass;W;L;Q1;6-4 6-7(4) 6-4;Petra Marcinko;6,96;6,09;6,73;7,19;2026-710-261;2026;True
 Simona Waltert;2026-06-02;Makarska 125;Clay;C;L;R16;6-4 6-3;Andrea Lazaro Garcia;0,0;3,7;0,0;5,4;2026-1090-291;2026;True
 Simona Waltert;2026-06-02;Makarska 125;Clay;C;W;R32;6-0 6-3;Teodora Kostovic;4,65;11,63;2,56;5,38;2026-1090-281;2026;True
 Simona Waltert;2026-05-18;Rabat;Clay;I;L;R32;6-3 6-4;Anhelina Kalinina;1,43;5,71;0,0;7,78;2026-1005-280;2026;True
@@ -38525,7 +38826,11 @@ Simona Waltert;2019-07-15;Lausanne;Clay;I;L;R16;6-3 6-3;Jil Teichmann;5,56;3,7;6
 Simona Waltert;2019-07-15;Lausanne;Clay;I;W;R32;6-7(5) 6-4 3-2 RET;Julia Goerges;4,35;4,35;3,33;6,57;2019-1094-285;2019;True
 Simona Waltert;2018-04-09;Lugano;Clay;I;L;Q1;6-2 6-0;Vera Lapko;3,03;21,21;0,0;4,71;2018-1101-242;2018;True
 Simona Waltert;2017-04-10;Biel;Hard;I;L;Q1;4-6 6-0 6-2;Amandine Hesse;1,3;5,19;4,35;6,42;2017-1098-236;2017;True
+Sinja Kraus;2026-06-21;WTA Bad Homburg;Grass;W;L;R32;6-4 6-1;Anna Kalinskaya;3,51;1,75;8,89;6,33;2026-2017-283;2026;True
+Sinja Kraus;2026-06-21;WTA Bad Homburg;Grass;W;W;Q1;6-4 6-3;Tereza Martincova;8,89;2,22;2,67;5,0;2026-2017-258;2026;True
+Sinja Kraus;2026-06-21;WTA Bad Homburg;Grass;W;W;Q2;6-2 7-5;Renata Zarazua;3,39;3,39;1,54;5,9;2026-2017-266;2026;True
 Sinja Kraus;2026-06-15;WTA Berlin;Grass;W;L;Q1;6-2 6-3;Lin Zhu;3,85;11,54;4,55;5,78;2026-2012-261;2026;True
+Sinja Kraus;2026-06-15;Berlin;Grass;P;L;Q1;6-2 6-3;Lin Zhu;3,85;11,54;4,55;5,78;2026-2012-260;2026;True
 Sinja Kraus;2026-06-08;WTA Ilkley 125;Grass;W;W;R32;6-2 6-3;Linda Klimovicova;1,08;4,3;3,9;10,33;2026-1127-289;2026;True
 Sinja Kraus;2026-06-08;WTA Ilkley 125;Grass;W;L;R16;6-4 6-3;Tatiana Prozorova;1,64;4,92;0,0;6,78;2026-1127-291;2026;True
 Sinja Kraus;2026-06-08;WTA Ilkley 125;Grass;W;W;R32;6-2 6-3;Linda Klimovicova;1,08;4,3;3,9;10,33;2026-1127-277;2026;True
@@ -38801,9 +39106,13 @@ Sofia Costoulas;2024-09-09;Bucharest 125;Clay;C;L;Q1;6-1 5-2 RET;Nicole Fossa Hu
 Sofia Costoulas;2024-09-02;Montreux 125;Clay;C;L;Q2;6-1 6-3;Anouk Koevermans;1,67;0,0;1,96;7,5;2024-1112-266;2024;False
 Sofia Costoulas;2024-09-02;Montreux 125;Clay;C;W;Q1;6-3 0-6 6-1;Weronika Falkowska;0,0;1,32;1,39;6,91;2024-1112-258;2024;False
 Sofia Costoulas;2024-04-12;BJK Cup Qualifiers;;D;L;RR;4-6 6-2 6-3;Jessica Pegula;3,48;7,83;0,0;8,21;2024-W-FC-2024-QUA-121;2024;False
+Sofia Kenin;2026-06-22;WTA Eastbourne;Grass;W;L;Q1;6-3 6-1;Daria Snigur;1,92;5,77;12,82;6,5;2026-710-260;2026;False
 Sofia Kenin;2026-06-15;WTA Nottingham;Grass;W;L;Q2;6-3 6-4;Viktorija Golubic;3,23;4,84;6,15;6,89;2026-1080-265;2026;False
 Sofia Kenin;2026-06-15;WTA Nottingham;Grass;W;L;R32;6-2 4-6 6-3;Viktorija Golubic;2,53;5,06;7,78;6,08;2026-1080-274;2026;False
 Sofia Kenin;2026-06-15;WTA Nottingham;Grass;W;W;Q1;6-4 6-4;Elsa Jacquemot;1,47;2,94;9,52;6,8;2026-1080-253;2026;False
+Sofia Kenin;2026-06-15;Nottingham;Grass;I;L;Q2;6-3 6-4;Viktorija Golubic;3,23;4,84;6,15;6,89;2026-1080-264;2026;False
+Sofia Kenin;2026-06-15;Nottingham;Grass;I;L;R32;6-2 4-6 6-3;Viktorija Golubic;2,53;5,06;7,78;6,08;2026-1080-271;2026;False
+Sofia Kenin;2026-06-15;Nottingham;Grass;I;W;Q1;6-4 6-4;Elsa Jacquemot;1,47;2,94;9,52;6,8;2026-1080-252;2026;False
 Sofia Kenin;2026-05-17;Strasbourg;Clay;P;L;Q1;1-6 6-4 6-1;Oksana Selekhmeteva;2,38;8,33;10,67;7,0;2026-406-264;2026;False
 Sofia Kenin;2026-05-05;Rome;Clay;PM;L;R128;6-4 7-5;Bianca Andreescu;4,35;2,9;6,76;6,27;2026-709-228;2026;False
 Sofia Kenin;2026-04-21;Madrid;Clay;PM;L;R64;1-6 6-3 6-3;Qinwen Zheng;1,43;10,0;14,1;5,83;2026-1038-239;2026;False
@@ -39183,6 +39492,9 @@ Sofia Kenin;2016-08-29;US Open;Hard;G;L;R128;6-4 6-3;Karolina Pliskova;0,0;2,86;
 Sofia Kenin;2016-08-22;New Haven;Hard;P;L;Q1;7-6(5) 6-4;Cagla Buyukakcay;2,63;10,53;1,3;6,91;2016-0602-242;2016;False
 Sofia Kenin;2016-08-15;Cincinnati;Hard;P;L;Q1;6-1 6-2;Kateryna Bondarenko;1,72;5,17;8,33;8,29;2016-M024-206;2016;False
 Sofia Kenin;2016-03-07;Indian Wells;Hard;P;L;Q1;7-5 6-2;Saisai Zheng;0,0;3,28;1,16;6,1;2016-M006-159;2016;False
+Solana Sierra;2026-06-21;WTA Bad Homburg;Grass;W;L;R32;7-5 4-6 6-4;Qinwen Zheng;1,96;4,9;13,83;6,38;2026-2017-279;2026;True
+Solana Sierra;2026-06-21;WTA Bad Homburg;Grass;W;W;Q1;6-2 6-1;Ella Seidel;13,21;1,89;2,33;6,62;2026-2017-265;2026;True
+Solana Sierra;2026-06-21;WTA Bad Homburg;Grass;W;W;Q2;3-6 7-5 6-4;Anna Blinkova;0,99;6,93;1,79;6,31;2026-2017-269;2026;True
 Solana Sierra;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;W;R32;6-4 5-7 6-3;Lois Boisson;5,66;10,38;6,52;7,07;2026-822-289;2026;True
 Solana Sierra;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R16;6-4 6-3;Caty Mcnally;2,78;5,56;1,61;8,0;2026-822-295;2026;True
 Solana Sierra;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;W;R32;6-4 5-7 6-3;Lois Boisson;5,66;10,38;6,52;7,07;2026-822-284;2026;True
@@ -40006,6 +40318,9 @@ Storm Hunter;2015-01-19;Australian Open;Hard;G;L;R128;7-5 6-4;Klara Koukalova;4,
 Susan Bandecchi;2026-06-15;WTA Figueira Da Foz 125;Hard;W;L;QF;5-7 6-2 7-5;Alina Charaeva;1,0;0,0;7,41;6,25;2026-1177-298;2026;False
 Susan Bandecchi;2026-06-15;WTA Figueira Da Foz 125;Hard;W;W;R16;4-6 7-5 6-2;Katarina Kuzmova;9,78;6,52;2,3;6,13;2026-1177-292;2026;False
 Susan Bandecchi;2026-06-15;WTA Figueira Da Foz 125;Hard;W;W;R32;2-6 6-4 6-2;Vera Zvonareva;0,0;2,67;5,33;5,77;2026-1177-280;2026;False
+Susan Bandecchi;2026-06-15;Figueira Da Foz 125;Hard;C;L;QF;5-7 6-2 7-5;Alina Charaeva;1,0;0,0;7,41;6,25;2026-1177-295;2026;False
+Susan Bandecchi;2026-06-15;Figueira Da Foz 125;Hard;C;W;R16;4-6 7-5 6-2;Katarina Kuzmova;9,78;6,52;2,3;6,13;2026-1177-289;2026;False
+Susan Bandecchi;2026-06-15;Figueira Da Foz 125;Hard;C;W;R32;2-6 6-4 6-2;Vera Zvonareva;0,0;2,67;5,33;5,77;2026-1177-277;2026;False
 Susan Bandecchi;2026-05-11;Parma 125;Clay;C;L;QF;6-1 3-6 6-4;Jessica Bouzas Maneiro;0,0;3,61;2,83;6,38;2026-2041-294;2026;False
 Susan Bandecchi;2026-05-11;Parma 125;Clay;C;W;R16;6-4 7-5;Alycia Parks;0,0;3,08;6,33;5,91;2026-2041-287;2026;False
 Susan Bandecchi;2026-05-11;Parma 125;Clay;C;W;R32;6-7(5) 6-4 7-5;Priscilla Hon;0,0;4,72;4,46;6,24;2026-2041-272;2026;False
@@ -40141,6 +40456,9 @@ Susan Bandecchi;2019-11-11;Taipei;Hard;C;L;R32;6-4 2-6 3-0 RET;Viktoriya Tomova;
 Suzan Lamens;2026-06-15;WTA Berlin;Grass;W;L;R32;6-3 6-2;Paula Badosa;4,0;10,0;14,04;6,25;2026-2012-278;2026;False
 Suzan Lamens;2026-06-15;WTA Berlin;Grass;W;W;Q1;6-3 7-6(4);Dalma Galfi;0,0;4,62;6,9;6,5;2026-2012-264;2026;False
 Suzan Lamens;2026-06-15;WTA Berlin;Grass;W;W;Q2;6-2 6-2;Tessa Johanna Brockmann;4,17;8,33;2,33;6,0;2026-2012-270;2026;False
+Suzan Lamens;2026-06-15;Berlin;Grass;P;L;R32;6-3 6-2;Paula Badosa;4,0;10,0;14,04;6,25;2026-2012-275;2026;False
+Suzan Lamens;2026-06-15;Berlin;Grass;P;W;Q1;6-3 7-6(4);Dalma Galfi;0,0;4,62;6,9;6,5;2026-2012-263;2026;False
+Suzan Lamens;2026-06-15;Berlin;Grass;P;W;Q2;6-2 6-2;Tessa Johanna Brockmann;4,17;8,33;2,33;6,0;2026-2012-269;2026;False
 Suzan Lamens;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R32;6-7(5) 6-4 6-4;Anastasia Potapova;2,75;2,75;2,7;6,81;2026-822-288;2026;False
 Suzan Lamens;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R32;6-7(5) 6-4 6-4;Anastasia Potapova;2,75;2,75;2,7;6,81;2026-822-282;2026;False
 Suzan Lamens;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R32;6-7(5) 6-4 6-4;Anastasia Potapova;2,75;2,75;2,7;6,81;2026-822-277;2026;False
@@ -40296,9 +40614,13 @@ Suzan Lamens;2022-04-04;Bogota;Clay;I;L;R16;6-0 0-6 6-4;Irina Bara;3,39;13,56;0,
 Suzan Lamens;2022-04-04;Bogota;Clay;I;W;Q1;7-6(2) 6-1;Giulia Gatto Monticone;0,0;9,76;0,0;9,11;2022-894-260;2022;False
 Suzan Lamens;2022-04-04;Bogota;Clay;I;W;Q2;6-4 6-2;Emina Bektas;13,79;17,24;7,81;6,44;2022-894-268;2022;False
 Suzan Lamens;2022-04-04;Bogota;Clay;I;W;R32;6-4 1-6 6-4;Astra Sharma;2,25;20,22;7,06;6,36;2022-894-273;2022;False
+Talia Gibson;2026-06-22;WTA Eastbourne;Grass;W;L;R32;6-4 6-4;Madison Keys;1,32;10,53;12,5;7,6;2026-710-270;2026;True
 Talia Gibson;2026-06-15;WTA Nottingham;Grass;W;L;QF;7-5 6-4;Karolina Pliskova;12,31;12,31;6,56;5,91;2026-1080-300;2026;True
 Talia Gibson;2026-06-15;WTA Nottingham;Grass;W;W;R16;6-3 7-6(10);Qinwen Zheng;5,13;6,41;18,84;7,09;2026-1080-295;2026;True
 Talia Gibson;2026-06-15;WTA Nottingham;Grass;W;W;R32;6-3 5-7 7-6(4);Francesca Jones;10,68;6,8;11,19;6,06;2026-1080-286;2026;True
+Talia Gibson;2026-06-15;Nottingham;Grass;I;L;QF;7-5 6-4;Karolina Pliskova;12,31;12,31;6,56;5,91;2026-1080-297;2026;True
+Talia Gibson;2026-06-15;Nottingham;Grass;I;W;R16;6-3 7-6(10);Qinwen Zheng;5,13;6,41;18,84;7,09;2026-1080-292;2026;True
+Talia Gibson;2026-06-15;Nottingham;Grass;I;W;R32;6-3 5-7 7-6(4);Francesca Jones;10,68;6,8;11,19;6,06;2026-1080-283;2026;True
 Talia Gibson;2026-06-08;WTA Queens;Grass;W;L;Q1;6-2 7-6(6);Alina Charaeva;16,07;10,71;8,24;5,6;2026-1111-267;2026;True
 Talia Gibson;2026-06-08;WTA Queens;Grass;W;L;Q1;6-2 7-6(6);Alina Charaeva;16,07;10,71;8,24;5,6;2026-1111-263;2026;True
 Talia Gibson;2026-06-08;Queen's Club;Grass;P;L;Q1;6-2 7-6(6);Alina Charaeva;16,07;10,71;8,24;5,6;2026-1111-261;2026;True
@@ -40426,7 +40748,9 @@ Talia Gibson;2024-01-01;Brisbane;Hard;P;W;Q1;4-6 6-3 6-4;Leolia Jeanjean;12,79;6
 Talia Gibson;2023-01-16;Australian Open;Hard;G;L;R128;6-3 6-4;Clara Burel;5,66;11,32;4,35;5,89;2023-580-121;2023;True
 Talia Gibson;2023-01-09;Hobart;Hard;I;L;R32;6-3 6-2;Tatjana Maria;2,13;2,13;8,47;5,88;2023-1050-272;2023;True
 Talia Gibson;2022-01-17;Australian Open;Hard;G;L;Q1;4-6 6-4 6-1;Arianne Hartono;1,75;7,89;4,6;8,77;2022-580-137;2022;True
+Tamara Korpatsch;2026-06-21;WTA Bad Homburg;Grass;W;L;Q1;6-1 6-4;Irina Camelia Begu;1,96;15,69;0,0;5,67;2026-2017-262;2026;True
 Tamara Korpatsch;2026-06-15;WTA Berlin;Grass;W;L;Q1;6-2 7-6(1);Mia Pohankova;1,35;2,7;5,56;7,4;2026-2012-253;2026;True
+Tamara Korpatsch;2026-06-15;Berlin;Grass;P;L;Q1;6-2 7-6(1);Mia Pohankova;1,35;2,7;5,56;7,4;2026-2012-252;2026;True
 Tamara Korpatsch;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R32;6-4 7-6(5);Elena Gabriela Ruse;0,0;3,23;3,95;8,45;2026-822-290;2026;True
 Tamara Korpatsch;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R32;6-4 7-6(5);Elena Gabriela Ruse;0,0;3,23;3,95;8,45;2026-822-284;2026;True
 Tamara Korpatsch;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;R32;6-4 7-6(5);Elena Gabriela Ruse;0,0;3,23;3,95;8,45;2026-822-279;2026;True
@@ -41232,9 +41556,17 @@ Tatiana Prozorova;2023-07-17;Palermo;Clay;I;W;Q2;6-1 3-6 6-2;Sofya Lansere;0,0;6
 Tatiana Prozorova;2023-05-22;Rabat;Clay;I;L;R32;7-5 6-7(5) 6-0;Tatjana Maria;0,94;5,66;1,92;7,07;2023-1005-277;2023;False
 Tatiana Prozorova;2023-05-22;Rabat;Clay;I;W;Q1;6-0 2-6 6-1;Yasmine Kabbaj;2,86;11,43;0,0;6,36;2023-1005-262;2023;False
 Tatiana Prozorova;2023-05-22;Rabat;Clay;I;W;Q2;6-4 6-3;Francesca Di Lorenzo;0,0;4,23;0,0;7,1;2023-1005-268;2023;False
+Tatjana Maria;2026-06-22;WTA Eastbourne;Grass;W;L;F;7-5 6-4;Madison Keys;2,56;2,56;5,08;7,09;2026-710-300;2026;True
+Tatjana Maria;2026-06-22;WTA Eastbourne;Grass;W;W;QF;6-3 7-5;Tereza Valentova;12,31;4,62;4,23;5,91;2026-710-297;2026;True
+Tatjana Maria;2026-06-22;WTA Eastbourne;Grass;W;W;R16;6-2 6-1;Anastasia Zakharova;13,21;0,0;0,0;6,62;2026-710-293;2026;True
+Tatjana Maria;2026-06-22;WTA Eastbourne;Grass;W;W;R32;6-4 6-3;Jasmine Paolini;17,78;2,22;0,0;5,0;2026-710-285;2026;True
+Tatjana Maria;2026-06-22;WTA Eastbourne;Grass;W;W;SF;6-1 1-2 RET;Jelena Ostapenko;8,82;5,88;6,25;6,8;2026-710-299;2026;True
 Tatjana Maria;2026-06-15;WTA Nottingham;Grass;W;L;QF;7-5 6-0;Marie Bouzkova;4,23;4,23;1,75;7,89;2026-1080-299;2026;True
 Tatjana Maria;2026-06-15;WTA Nottingham;Grass;W;W;R16;6-1 6-2;Dayana Yastremska;10,81;5,41;0,0;5,29;2026-1080-293;2026;True
 Tatjana Maria;2026-06-15;WTA Nottingham;Grass;W;W;R32;6-3 6-2;Janice Tjen;18,52;0,0;0,0;6,0;2026-1080-281;2026;True
+Tatjana Maria;2026-06-15;Nottingham;Grass;I;L;QF;7-5 6-0;Marie Bouzkova;4,23;4,23;1,75;7,89;2026-1080-296;2026;True
+Tatjana Maria;2026-06-15;Nottingham;Grass;I;W;R16;6-1 6-2;Dayana Yastremska;10,81;5,41;0,0;5,29;2026-1080-290;2026;True
+Tatjana Maria;2026-06-15;Nottingham;Grass;I;W;R32;6-3 6-2;Janice Tjen;18,52;0,0;0,0;6,0;2026-1080-278;2026;True
 Tatjana Maria;2026-06-08;WTA Queens;Grass;W;W;R32;6-3 6-3;Maria Sakkari;3,17;3,17;0,0;7,0;2026-1111-296;2026;True
 Tatjana Maria;2026-06-08;WTA Queens;Grass;W;W;Q2;6-4 6-3;Kamilla Rakhimova;18,52;5,56;3,95;6,0;2026-1111-275;2026;True
 Tatjana Maria;2026-06-08;WTA Queens;Grass;W;L;R16;6-7(4) 7-5 6-0;Elena Rybakina;5,05;4,04;8,6;6,6;2026-1111-297;2026;True
@@ -41706,6 +42038,10 @@ Taylah Preston;2026-06-15;WTA Nottingham;Grass;W;L;Q2;6-3 6-7(6) 7-5;Antonia Ruz
 Taylah Preston;2026-06-15;WTA Nottingham;Grass;W;L;R16;5-7 6-2 6-2;Ann Li;3,49;9,3;9,18;6,14;2026-1080-290;2026;False
 Taylah Preston;2026-06-15;WTA Nottingham;Grass;W;W;Q1;6-4 6-3;Oksana Selekhmeteva;2,74;2,74;3,28;8,11;2026-1080-263;2026;False
 Taylah Preston;2026-06-15;WTA Nottingham;Grass;W;W;R32;4-6 6-3 6-3;Anna Blinkova;2,17;4,35;1,15;6,57;2026-1080-275;2026;False
+Taylah Preston;2026-06-15;Nottingham;Grass;I;L;Q2;6-3 6-7(6) 7-5;Antonia Ruzic;0,0;6,67;4,81;6,56;2026-1080-269;2026;False
+Taylah Preston;2026-06-15;Nottingham;Grass;I;L;R16;5-7 6-2 6-2;Ann Li;3,49;9,3;9,18;6,14;2026-1080-287;2026;False
+Taylah Preston;2026-06-15;Nottingham;Grass;I;W;Q1;6-4 6-3;Oksana Selekhmeteva;2,74;2,74;3,28;8,11;2026-1080-262;2026;False
+Taylah Preston;2026-06-15;Nottingham;Grass;I;W;R32;4-6 6-3 6-3;Anna Blinkova;2,17;4,35;1,15;6,57;2026-1080-272;2026;False
 Taylah Preston;2026-06-08;WTA Ilkley 125;Grass;W;L;R32;4-6 6-3 6-1;Harmony Tan;0,0;3,7;7,5;6,23;2026-1127-286;2026;False
 Taylah Preston;2026-06-08;WTA Ilkley 125;Grass;W;L;R32;4-6 6-3 6-1;Harmony Tan;0,0;3,7;7,5;6,23;2026-1127-274;2026;False
 Taylah Preston;2026-06-08;Ilkley 125;Grass;C;L;R32;4-6 6-3 6-1;Harmony Tan;0,0;3,7;7,5;6,23;2026-1127-271;2026;False
@@ -41859,6 +42195,8 @@ Taylah Preston;2022-01-17;Australian Open;Hard;G;L;Q2;6-0 6-0;Su Jeong Jang;0,0;
 Taylah Preston;2022-01-17;Australian Open;Hard;G;W;Q1;7-5 6-4;Kurumi Nara;3,9;9,09;2,63;7,0;2022-580-133;2022;False
 Taylah Preston;2022-01-03;Melbourne 1;Hard;I;L;Q2;6-4 6-4;Destanee Aiava;0,0;5,8;6,33;6,9;2022-2058-264;2022;False
 Taylah Preston;2022-01-03;Melbourne 1;Hard;I;W;Q1;7-5 2-6 6-3;Sara Errani;0,0;3,41;1,2;5,87;2022-2058-252;2022;False
+Taylor Townsend;2026-06-21;WTA Bad Homburg;Grass;W;L;Q2;3-6 6-1 6-4;Elena Gabriela Ruse;8,75;1,25;6,67;6,15;2026-2017-267;2026;True
+Taylor Townsend;2026-06-21;WTA Bad Homburg;Grass;W;W;Q1;6-4 6-2;Martina Trevisan;8,2;1,64;0,0;6,78;2026-2017-260;2026;True
 Taylor Townsend;2026-05-05;Rome;Clay;PM;L;R32;7-5 6-2;Iva Jovic;3,92;5,88;5,26;5,1;2026-709-280;2026;True
 Taylor Townsend;2026-05-05;Rome;Clay;PM;W;R128;6-3 6-2;Nuria Brancaccio;3,12;1,56;0,0;7,11;2026-709-216;2026;True
 Taylor Townsend;2026-05-05;Rome;Clay;PM;W;R64;6-3 7-5;Marie Bouzkova;4,23;0,0;0,0;6,45;2026-709-259;2026;True
@@ -42107,8 +42445,8 @@ Teodora Kostovic;2026-03-23;Dubrovnik 125;Clay;C;W;R32;6-2 6-3;Petra Marcinko;4,
 Teodora Kostovic;2026-03-10;Antalya 125 3;Clay;C;L;R16;6-2 4-6 6-4;Veronika Erjavec;2,2;3,3;1,1;6,5;2026-1125-289;2026;False
 Teodora Kostovic;2026-03-10;Antalya 125 3;Clay;C;W;R32;4-6 6-4 7-6(3);Lisa Pigato;0,0;5,71;0,76;6,56;2026-1125-276;2026;False
 Teodora Kostovic;2026-03-03;Antalya 125 2;Clay;C;L;R32;7-6 4-6 6-3;Julia Riera;1,0;2,0;0,83;6,67;2026-1107-283;2026;False
-Teodora Kostovic;2026-03-03;Antalya 125 2;Clay;C;W;Q2;6-2 6-3;Laura Pigossi;3,85;0,0;0,0;5,78;2026-1107-269;2026;False
 Teodora Kostovic;2026-03-03;Antalya 125 2;Clay;C;W;Q1;6-1 6-2;Lia Karatancheva;0,0;2,04;1,82;6,12;2026-1107-265;2026;False
+Teodora Kostovic;2026-03-03;Antalya 125 2;Clay;C;W;Q2;6-2 6-3;Laura Pigossi;3,85;0,0;0,0;5,78;2026-1107-269;2026;False
 Teodora Kostovic;2026-02-16;Oeiras 125 Indoor 2;Hard;C;L;SF;7-5 1-6 6-2;Viktorija Golubic;4,04;3,03;1,12;7,07;2026-1156-299;2026;False
 Teodora Kostovic;2026-02-16;Oeiras 125 Indoor 2;Hard;C;W;QF;6-4 7-6(13);Francisca Jorge;1,25;1,25;2,0;7,27;2026-1156-296;2026;False
 Teodora Kostovic;2026-02-16;Oeiras 125 Indoor 2;Hard;C;W;R16;6-3 6-3;Anouk Koevermans;0,0;4,35;1,54;5,75;2026-1156-291;2026;False
@@ -42118,8 +42456,8 @@ Teodora Kostovic;2026-01-26;W100 Fujairah;Hard;100;L;R32;6-1 6-1;Lilli Tagger;2,
 Teodora Kostovic;2026-01-19;Australian Open;Hard;G;L;Q2;6-0 6-2;Marina Stakusic;0,0;3,85;2,63;7,43;2026-580-781;2026;False
 Teodora Kostovic;2026-01-19;Australian Open;Hard;G;W;Q1;6-0 6-3;Tereza Mrdeza;12,5;2,5;0,0;5,0;2026-580-734;2026;False
 Teodora Kostovic;2026-01-05;Canberra 125;Hard;C;L;R32;6-4 6-4;Lola Radivojevic;5,88;8,82;12,31;6,8;2026-2096-275;2026;False
-Teodora Kostovic;2026-01-05;Canberra 125;Hard;C;W;Q2;7-5 6-7(6) 6-2;Elena Pridankina;9,32;5,93;6,06;7,38;2026-2096-265;2026;False
 Teodora Kostovic;2026-01-05;Canberra 125;Hard;C;W;Q1;6-3 6-1;Camilla Rosatello;4,08;4,08;6,56;6,12;2026-2096-253;2026;False
+Teodora Kostovic;2026-01-05;Canberra 125;Hard;C;W;Q2;7-5 6-7(6) 6-2;Elena Pridankina;9,32;5,93;6,06;7,38;2026-2096-265;2026;False
 Teodora Kostovic;2025-12-08;Limoges 125;Hard;C;L;R32;6-4 6-0;Cristina Bucsa;0,0;13,64;3,33;5,5;2025-1072-285;2025;False
 Teodora Kostovic;2025-12-01;Angers 125;Hard;C;L;R32;6-3 7-6(7);Anna Lena Friedsam;3,9;3,9;3,57;7,7;2025-2056-280;2025;False
 Teodora Kostovic;2025-11-24;W75 Trnava;Hard;75;L;R32;6-4 5-7 6-2;Jeline Vandromme;0,0;5,38;5,36;6,2;2025-W-ITF-SVK-2025-006-108;2025;False
@@ -42129,12 +42467,12 @@ Teodora Kostovic;2025-10-06;Mallorca 125;Clay;C;L;SF;7-6(3) 6-3;Lola Radivojevic
 Teodora Kostovic;2025-10-06;Mallorca 125;Clay;C;W;QF;6-4 6-2;Maria Lourdes Carle;1,75;3,51;0,0;6,33;2025-1128-294;2025;False
 Teodora Kostovic;2025-10-06;Mallorca 125;Clay;C;W;R16;6-3 6-4;Mayar Sherif;2,47;6,17;3,51;8,1;2025-1128-286;2025;False
 Teodora Kostovic;2025-10-06;Mallorca 125;Clay;C;W;R32;6-3 6-3;Caroline Uebelhoer;1,49;2,99;0,0;7,44;2025-1128-271;2025;False
-Teodora Kostovic;2025-10-06;Mallorca 125;Clay;C;W;Q2;6-2 6-1;Ekaterina Kazionova;2,04;6,12;2,44;6,12;2025-1128-268;2025;False
 Teodora Kostovic;2025-10-06;Mallorca 125;Clay;C;W;Q1;6-3 6-1;Mireia Sagrista Bermejo;1,85;9,26;1,92;6,75;2025-1128-263;2025;False
+Teodora Kostovic;2025-10-06;Mallorca 125;Clay;C;W;Q2;6-2 6-1;Ekaterina Kazionova;2,04;6,12;2,44;6,12;2025-1128-268;2025;False
 Teodora Kostovic;2025-09-29;Cosenza 125;Clay;C;L;R16;6-7(5) 6-2 6-4;Oksana Selekhmeteva;1,77;6,19;0,0;7,53;2025-1138-287;2025;False
 Teodora Kostovic;2025-09-29;Cosenza 125;Clay;C;W;R32;6-3 6-2;Mona Barthel;7,14;5,36;3,7;6,22;2025-1138-272;2025;False
-Teodora Kostovic;2025-09-29;Cosenza 125;Clay;C;W;Q2;7-5 6-2;Federica Urgesi;0,0;6,15;0,0;6,5;2025-1138-269;2025;False
 Teodora Kostovic;2025-09-29;Cosenza 125;Clay;C;W;Q1;6-3 6-1;Tayisiya Morderger;8,51;6,38;0,0;5,88;2025-1138-265;2025;False
+Teodora Kostovic;2025-09-29;Cosenza 125;Clay;C;W;Q2;7-5 6-2;Federica Urgesi;0,0;6,15;0,0;6,5;2025-1138-269;2025;False
 Teodora Kostovic;2025-09-15;W75 Kursumlijska Banja;clay;75;L;R32;6-3 4-6 6-1;Rada Zolotareva;0,0;10,81;0,0;5,69;2025-W-ITF-SRB-2025-020-105;2025;False
 Teodora Kostovic;2025-09-08;Ljubljana 125;Clay;C;L;R16;7-6(4) 6-0;Oleksandra Oliynykova;1,43;7,14;1,64;7,78;2025-2044-288;2025;False
 Teodora Kostovic;2025-09-08;Ljubljana 125;Clay;C;W;R32;6-1 3-6 6-1;Selena Janicijevic;1,49;0,0;2,78;5,58;2025-2044-275;2025;False
@@ -42142,10 +42480,10 @@ Teodora Kostovic;2025-09-01;Montreux 125;Clay;C;L;R16;6-2 6-3;Oleksandra Oliynyk
 Teodora Kostovic;2025-09-01;Montreux 125;Clay;C;W;R32;7-6(1) 6-3;Guiomar Maristany Zuleta De Reales;0,0;1,45;1,61;6,27;2025-1112-271;2025;False
 Teodora Kostovic;2025-09-01;Montreux 125;Clay;C;W;Q2;7-6(7) 6-1;Alina Granwehr;3,51;5,26;7,79;6,33;2025-1112-266;2025;False
 Teodora Kostovic;2025-08-11;W75 Kursumlijska Banja;Clay;75;W;F;7-5 6-3;Lina Gjorcheska;1,09;8,7;0,0;8,36;2025-W-ITF-SRB-2025-017-501;2025;False
-Teodora Kostovic;2025-08-11;W75 Kursumlijska Banja;Clay;75;W;SF;2-6 6-1 6-4;Anja Stankovic;0,0;10,45;6,06;6,09;2025-W-ITF-SRB-2025-017-402;2025;False
 Teodora Kostovic;2025-08-11;W75 Kursumlijska Banja;Clay;75;W;QF;6-3 2-6 7-6(5);Sofya Lansere;0,0;3,74;0,97;7,13;2025-W-ITF-SRB-2025-017-304;2025;False
 Teodora Kostovic;2025-08-11;W75 Kursumlijska Banja;Clay;75;W;R16;6-7(0) 6-3 7-5;Anastasia Zolotareva;0,88;6,14;0,0;7,12;2025-W-ITF-SRB-2025-017-207;2025;False
 Teodora Kostovic;2025-08-11;W75 Kursumlijska Banja;Clay;75;W;R32;6-2 4-6 6-4;Aliona Bolsova;5,88;0,0;0,0;4,25;2025-W-ITF-SRB-2025-017-113;2025;False
+Teodora Kostovic;2025-08-11;W75 Kursumlijska Banja;Clay;75;W;SF;2-6 6-1 6-4;Anja Stankovic;0,0;10,45;6,06;6,09;2025-W-ITF-SRB-2025-017-402;2025;False
 Teodora Kostovic;2025-08-04;W75 Amstetten;Clay;75;L;R16;6-2 6-2;Lilli Tagger;0,0;13,04;6,98;5,75;2025-W-ITF-AUT-2025-004-204;2025;False
 Teodora Kostovic;2025-08-04;W75 Amstetten;Clay;75;W;R32;7-5 3-6 6-3;Oleksandra Oliynykova;0,0;6,48;0,0;7,2;2025-W-ITF-AUT-2025-004-108;2025;False
 Teodora Kostovic;2025-07-28;W75 Cordenons;Clay;75;L;R16;6-1 2-6 6-2;Noemi Basiletti;0,0;6,58;0,0;6,33;2025-W-ITF-ITA-2025-017-204;2025;False
@@ -42156,16 +42494,16 @@ Teodora Kostovic;2025-07-14;W75 Olomouc;Clay;75;W;R32;4-1 RET;Ekaterina Kazionov
 Teodora Kostovic;2025-06-16;W75 Zagreb;clay;75;L;R16;6-4 7-5;Dominika Salkova;0,0;5,0;0,0;6,67;2025-W-ITF-CRO-2025-005-205;2025;False
 Teodora Kostovic;2025-06-16;W75 Zagreb;clay;75;W;R32;6-7(1) 6-2 6-3;Katarina Zavatska;2,06;2,06;2,25;6,93;2025-W-ITF-CRO-2025-005-110;2025;False
 Teodora Kostovic;2025-05-19;W75 Kursumlijska Banja;Clay;75;L;F;6-4 7-6(5);Alina Charaeva;1,3;5,19;1,98;7,0;2025-W-ITF-SRB-2025-005-501;2025;False
-Teodora Kostovic;2025-05-19;W75 Kursumlijska Banja;Clay;75;W;SF;6-1 6-3;Caty Mcnally;0,0;0,0;1,92;5,5;2025-W-ITF-SRB-2025-005-402;2025;False
 Teodora Kostovic;2025-05-19;W75 Kursumlijska Banja;Clay;75;W;QF;6-4 6-3;Anna Siskova;0,0;2,47;0,0;8,1;2025-W-ITF-SRB-2025-005-303;2025;False
 Teodora Kostovic;2025-05-19;W75 Kursumlijska Banja;Clay;75;W;R16;0-6 6-1 6-3;Denislava Glushkova;0,0;6,67;0,0;5,45;2025-W-ITF-SRB-2025-005-206;2025;False
 Teodora Kostovic;2025-05-19;W75 Kursumlijska Banja;Clay;75;W;R32;6-4 4-2 RET;Julia Avdeeva;1,49;5,97;10,0;7,44;2025-W-ITF-SRB-2025-005-112;2025;False
+Teodora Kostovic;2025-05-19;W75 Kursumlijska Banja;Clay;75;W;SF;6-1 6-3;Caty Mcnally;0,0;0,0;1,92;5,5;2025-W-ITF-SRB-2025-005-402;2025;False
 Teodora Kostovic;2025-05-05;W35 Santa Margherita di Pula;Clay;35;L;QF;6-3 6-2;Tatiana Pieri;0,0;3,28;0,0;6,78;2025-W-ITF-ITA-2025-010-303;2025;False
 Teodora Kostovic;2025-05-05;W35 Santa Margherita di Pula;Clay;35;W;R16;6-2 4-6 6-3;Samira De Stefano;9,09;9,09;0,0;6,6;2025-W-ITF-ITA-2025-010-205;2025;False
 Teodora Kostovic;2025-05-05;W35 Santa Margherita di Pula;Clay;35;W;R32;6-2 6-1;Greta Rizzetto;0,0;0,0;0,0;4,0;2025-W-ITF-ITA-2025-010-110;2025;False
 Teodora Kostovic;2025-04-22;Madrid;Clay;PM;L;R128;6-2 6-2;Eva Lys;1,59;6,35;4,65;7,88;2025-1038-220;2025;False
-Teodora Kostovic;2025-04-22;Madrid;Clay;PM;W;Q2;6-2 6-2;Lucrezia Stefanini;1,69;1,69;0,0;7,38;2025-1038-164;2025;False
 Teodora Kostovic;2025-04-22;Madrid;Clay;PM;W;Q1;6-4 2-6 7-6(3);Elena Gabriela Ruse;1,53;4,58;4,26;8,73;2025-1038-143;2025;False
+Teodora Kostovic;2025-04-22;Madrid;Clay;PM;W;Q2;6-2 6-2;Lucrezia Stefanini;1,69;1,69;0,0;7,38;2025-1038-164;2025;False
 Teodora Kostovic;2025-03-18;Miami;Hard;PM;L;Q2;6-2 7-6(9);Greet Minnen;0,0;6,41;6,85;7,8;2025-902-162;2025;False
 Teodora Kostovic;2025-03-18;Miami;Hard;PM;W;Q1;6-3 7-5;Olivia Gadecki;0,0;3,03;12,07;6,0;2025-902-138;2025;False
 Teodora Kostovic;2025-02-24;W15 Leimen;Hard;15;L;QF;6-3 6-1;Martyna Kubka;4,84;11,29;18,42;7,75;2025-W-ITF-GER-2025-002-304;2025;False
@@ -42173,7 +42511,11 @@ Teodora Kostovic;2025-02-24;W15 Leimen;Hard;15;W;R16;6-0 6-4;Sina Herrmann;4,26;
 Teodora Kostovic;2025-02-24;W15 Leimen;Hard;15;W;R32;6-4 4-6 7-6(5);Nicole Rivkin;2,75;3,67;6,2;6,81;2025-W-ITF-GER-2025-002-114;2025;False
 Teodora Kostovic;2025-02-03;Abu Dhabi;Hard;P;L;Q2;6-4 6-2;Mccartney Kessler;3,57;7,14;0,0;6,22;2025-2088-268;2025;False
 Teodora Kostovic;2025-02-03;Abu Dhabi;Hard;P;W;Q1;6-2 0-0 RET;Diane Parry;13,04;13,04;0,0;5,75;2025-2088-260;2025;False
+Tereza Valentova;2026-06-22;WTA Eastbourne;Grass;W;L;QF;6-3 7-5;Tatjana Maria;4,23;8,45;12,31;7,1;2026-710-297;2026;True
+Tereza Valentova;2026-06-22;WTA Eastbourne;Grass;W;W;R16;6-2 5-7 6-4;Ajla Tomljanovic;4,35;4,35;2,91;6,13;2026-710-292;2026;True
+Tereza Valentova;2026-06-22;WTA Eastbourne;Grass;W;W;R32;7-5 5-7 7-5;Hannah Klugman;0,0;8,2;3,36;6,78;2026-710-283;2026;True
 Tereza Valentova;2026-06-15;WTA Nottingham;Grass;W;L;R32;6-3 6-3;Marie Bouzkova;0,0;4,69;0,0;7,11;2026-1080-284;2026;True
+Tereza Valentova;2026-06-15;Nottingham;Grass;I;L;R32;6-3 6-3;Marie Bouzkova;0,0;4,69;0,0;7,11;2026-1080-281;2026;True
 Tereza Valentova;2026-05-05;Rome;Clay;PM;L;R64;6-3 6-4;Coco Gauff;0,0;1,92;0,0;5,78;2026-709-261;2026;True
 Tereza Valentova;2026-05-05;Rome;Clay;PM;W;R128;6-3 6-2;Yulia Putintseva;0,0;8,16;1,56;6,12;2026-709-220;2026;True
 Tereza Valentova;2026-04-27;Saint Malo 125;Clay;C;L;F;6-7(2) 6-3 6-1;Moyuka Uchijima;0,0;9,09;1,05;7,07;2026-2034-300;2026;True
@@ -42257,6 +42599,9 @@ Tereza Valentova;2021-07-12;Prague;Hard;I;L;Q2;6-2 6-2;Naiktha Bains;0,0;8,0;0,0
 Tiantsoa Sarah Rakotomanga Rajaonah;2026-06-15;WTA Brescia 125;Clay;W;L;QF;6-2 6-2;Mayar Sherif;1,54;0,0;0,0;8,12;2026-1170-298;2026;False
 Tiantsoa Sarah Rakotomanga Rajaonah;2026-06-15;WTA Brescia 125;Clay;W;W;R16;6-7(6) 6-3 6-1;Mia Ristic;1,01;4,04;2,08;7,07;2026-1170-292;2026;False
 Tiantsoa Sarah Rakotomanga Rajaonah;2026-06-15;WTA Brescia 125;Clay;W;W;R32;6-0 6-2;Yuliana Lizarazo;0,0;4,44;0,0;6,43;2026-1170-280;2026;False
+Tiantsoa Sarah Rakotomanga Rajaonah;2026-06-15;Brescia 125;Clay;C;L;QF;6-2 6-2;Mayar Sherif;1,54;0,0;0,0;8,12;2026-1170-295;2026;False
+Tiantsoa Sarah Rakotomanga Rajaonah;2026-06-15;Brescia 125;Clay;C;W;R16;6-7(6) 6-3 6-1;Mia Ristic;1,01;4,04;2,08;7,07;2026-1170-289;2026;False
+Tiantsoa Sarah Rakotomanga Rajaonah;2026-06-15;Brescia 125;Clay;C;W;R32;6-0 6-2;Yuliana Lizarazo;0,0;4,44;0,0;6,43;2026-1170-277;2026;False
 Tiantsoa Sarah Rakotomanga Rajaonah;2026-06-08;WTA Modena 125;Clay;W;L;R32;6-4 6-4;Noma Noha Akugue;0,0;5,36;1,69;5,6;2026-1171-290;2026;False
 Tiantsoa Sarah Rakotomanga Rajaonah;2026-06-08;WTA Modena 125;Clay;W;L;R32;6-4 6-4;Noma Noha Akugue;0,0;5,36;1,69;5,6;2026-1171-288;2026;False
 Tiantsoa Sarah Rakotomanga Rajaonah;2026-06-08;WTA Modena 125;Clay;W;L;R32;6-4 6-4;Noma Noha Akugue;0,0;5,36;1,69;5,6;2026-1171-282;2026;False
@@ -43210,7 +43555,10 @@ Vendula Valdmannova;2025-03-17;W35 Solarino;Carpet;35;L;SF;6-2 2-0 RET;Hiromi Ab
 Vendula Valdmannova;2025-03-17;W35 Solarino;Carpet;35;W;QF;6-1 7-5;Sandra Samir;0,0;1,67;2,9;6,67;2025-W-ITF-ITA-2025-003-303;2025;False
 Vendula Valdmannova;2025-03-17;W35 Solarino;Carpet;35;W;R16;6-4 6-4;Hikaru Sato;0,0;1,72;9,26;5,8;2025-W-ITF-ITA-2025-003-206;2025;False
 Vendula Valdmannova;2025-03-17;W35 Solarino;Carpet;35;W;R32;3-6 7-6(2) 6-0;Briana Szabo;2,38;10,71;6,74;6,0;2025-W-ITF-ITA-2025-003-111;2025;False
+Veronika Erjavec;2026-06-22;WTA Eastbourne;Grass;W;L;Q2;6-1 7-5;Ajla Tomljanovic;2,17;0,0;3,51;5,11;2026-710-264;2026;True
+Veronika Erjavec;2026-06-22;WTA Eastbourne;Grass;W;W;Q1;5-7 6-2 7-6(5);Lanlana Tararudee;0,93;3,7;1,03;6,75;2026-710-252;2026;True
 Veronika Erjavec;2026-06-15;WTA Nottingham;Grass;W;L;Q1;5-7 7-5 6-4;Viktorija Golubic;2,0;1,0;0,0;5,88;2026-1080-254;2026;True
+Veronika Erjavec;2026-06-15;Nottingham;Grass;I;L;Q1;5-7 7-5 6-4;Viktorija Golubic;2,0;1,0;0,0;5,88;2026-1080-253;2026;True
 Veronika Erjavec;2026-05-05;Rome;Clay;PM;L;Q2;6-4 6-1;Federica Urgesi;1,64;0,0;4,55;6,78;2026-709-166;2026;True
 Veronika Erjavec;2026-05-05;Rome;Clay;PM;W;Q1;6-3 2-3 RET;Anastasia Pavlyuchenkova;7,69;2,56;0,0;5,57;2026-709-146;2026;True
 Veronika Erjavec;2026-04-27;Huzhou 125;Clay;C;L;F;6-0 6-4;Katarzyna Kawa;2,08;6,25;1,85;6,0;2026-1142-300;2026;True
@@ -44109,6 +44457,12 @@ Viktorija Golubic;2026-06-15;WTA Nottingham;Grass;W;W;R16;7-5 4-6 6-4;Zeynep Son
 Viktorija Golubic;2026-06-15;WTA Nottingham;Grass;W;W;R32;6-2 4-6 6-3;Sofia Kenin;7,78;3,33;2,53;6,43;2026-1080-274;2026;True
 Viktorija Golubic;2026-06-15;WTA Nottingham;Grass;W;W;Q1;5-7 7-5 6-4;Veronika Erjavec;0,0;2,15;2,0;5,47;2026-1080-254;2026;True
 Viktorija Golubic;2026-06-15;WTA Nottingham;Grass;W;W;Q2;6-3 6-4;Sofia Kenin;6,15;3,08;3,23;6,5;2026-1080-265;2026;True
+Viktorija Golubic;2026-06-15;Nottingham;Grass;I;L;SF;7-6(5) 6-2;Emma Navarro;3,45;4,6;4,23;8,7;2026-1080-298;2026;True
+Viktorija Golubic;2026-06-15;Nottingham;Grass;I;W;QF;6-3 2-6 6-3;Ann Li;2,2;4,4;8,86;7,0;2026-1080-294;2026;True
+Viktorija Golubic;2026-06-15;Nottingham;Grass;I;W;R16;7-5 4-6 6-4;Zeynep Sonmez;2,54;0,85;2,61;7,38;2026-1080-286;2026;True
+Viktorija Golubic;2026-06-15;Nottingham;Grass;I;W;R32;6-2 4-6 6-3;Sofia Kenin;7,78;3,33;2,53;6,43;2026-1080-271;2026;True
+Viktorija Golubic;2026-06-15;Nottingham;Grass;I;W;Q1;5-7 7-5 6-4;Veronika Erjavec;0,0;2,15;2,0;5,47;2026-1080-253;2026;True
+Viktorija Golubic;2026-06-15;Nottingham;Grass;I;W;Q2;6-3 6-4;Sofia Kenin;6,15;3,08;3,23;6,5;2026-1080-264;2026;True
 Viktorija Golubic;2026-06-08;WTA Ilkley 125;Grass;W;W;R32;6-3 6-3;Daniella Britton;1,56;1,56;7,02;7,11;2026-1127-300;2026;True
 Viktorija Golubic;2026-06-08;WTA Ilkley 125;Grass;W;L;R16;6-4 7-6(5);Katie Swan;1,14;4,55;1,37;8,0;2026-1127-296;2026;True
 Viktorija Golubic;2026-06-08;WTA Ilkley 125;Grass;W;W;R32;6-3 6-3;Daniella Britton;1,56;1,56;7,02;7,11;2026-1127-288;2026;True
@@ -44930,6 +45284,8 @@ Viktoriya Tomova;2016-07-11;Bucharest;Clay;I;W;Q1;6-2 6-2;Basak Eraydin;0,0;3,12
 Viktoriya Tomova;2016-07-11;Bucharest;Clay;I;W;Q2;4-6 7-6(3) 6-2;Marina Melnikova;2,54;0,85;0,87;7,87;2016-1079-259;2016;False
 Whitney Osuigwe;2026-06-15;WTA Figueira Da Foz 125;Hard;W;L;Q2;6-1 6-4;Angelina Voloshchuk;3,28;9,84;1,96;6,78;2026-1177-270;2026;False
 Whitney Osuigwe;2026-06-15;WTA Figueira Da Foz 125;Hard;W;W;Q1;6-0 6-0;Carla Tomai;2,86;2,86;0,0;5,83;2026-1177-266;2026;False
+Whitney Osuigwe;2026-06-15;Figueira Da Foz 125;Hard;C;L;Q2;6-1 6-4;Angelina Voloshchuk;3,28;9,84;1,96;6,78;2026-1177-269;2026;False
+Whitney Osuigwe;2026-06-15;Figueira Da Foz 125;Hard;C;W;Q1;6-0 6-0;Carla Tomai;2,86;2,86;0,0;5,83;2026-1177-265;2026;False
 Whitney Osuigwe;2026-06-01;W100 Sumter SC;Hard;100;L;SF;6-2 6-4;Kristina Liutova;1,89;7,55;1,54;5,89;2026-W-ITF-USA-2026-025-401;2026;False
 Whitney Osuigwe;2026-06-01;W100 Sumter SC;Hard;100;W;QF;6-4 6-4;Mell Elizabeth Reasco Gonzalez;0,0;4,76;0,0;6,3;2026-W-ITF-USA-2026-025-301;2026;False
 Whitney Osuigwe;2026-06-01;W100 Sumter SC;Hard;100;W;R16;7-5 6-2;Lea Ma;0,0;7,14;0,0;7,0;2026-W-ITF-USA-2026-025-201;2026;False
@@ -45079,6 +45435,7 @@ Whitney Osuigwe;2018-08-20;New Haven;Hard;P;L;Q2;6-7(5) 6-2 6-2;Belinda Bencic;3
 Whitney Osuigwe;2018-08-20;New Haven;Hard;P;W;Q1;6-3 6-3;Asia Muhammad;1,69;5,08;4,92;6,56;2018-0602-219;2018;False
 Whitney Osuigwe;2018-03-19;Miami;Hard;PM;L;R128;6-3 6-1;Claire Liu;1,67;10,0;0,0;7,5;2018-M007-195;2018;False
 Xiaodi You;2026-06-15;WTA Brescia 125;Clay;W;L;R32;1-6 6-4 6-1;Ane Mintegi Del Olmo;0,0;4,76;0,0;5,25;2026-1170-281;2026;False
+Xiaodi You;2026-06-15;Brescia 125;Clay;C;L;R32;1-6 6-4 6-1;Ane Mintegi Del Olmo;0,0;4,76;0,0;5,25;2026-1170-278;2026;False
 Xiaodi You;2026-06-08;WTA Modena 125;Clay;W;L;R32;6-4 6-1;Leyre Romero Gormaz;1,61;4,84;3,85;6,89;2026-1171-294;2026;False
 Xiaodi You;2026-06-08;WTA Modena 125;Clay;W;L;R32;6-4 6-1;Leyre Romero Gormaz;1,61;4,84;3,85;6,89;2026-1171-292;2026;False
 Xiaodi You;2026-06-08;WTA Modena 125;Clay;W;L;R32;6-4 6-1;Leyre Romero Gormaz;1,61;4,84;3,85;6,89;2026-1171-286;2026;False
@@ -45279,7 +45636,11 @@ Xiaodi You;2016-09-05;Dalian;Hard;C;W;Q1;6-3 6-4;Ya Hsuan Lee;4,76;9,52;0,0;6,3;
 Xiaodi You;2016-09-05;Dalian;Hard;C;W;Q2;1-6 6-3 7-5;Aleksandrina Naydenova;0,97;3,88;1,15;7,36;2016-1083-267;2016;False
 Xiaodi You;2016-08-01;Nanchang;Hard;I;L;Q2;6-4 6-4;Nicha Lertpitaksinchai;4,41;4,41;0,0;6,8;2016-1077-264;2016;False
 Xiaodi You;2016-08-01;Nanchang;Hard;I;W;Q1;6-1 6-1;Erika Sema;0,0;7,5;0,0;5,71;2016-1077-252;2016;False
+Xin Yu Wang;2026-06-21;WTA Bad Homburg;Grass;W;L;SF;6-3 6-3;Naomi Osaka;1,75;5,26;15,09;6,33;2026-2017-298;2026;True
+Xin Yu Wang;2026-06-21;WTA Bad Homburg;Grass;W;W;R16;6-3 6-4;Leylah Fernandez;6,25;4,69;4,76;7,11;2026-2017-289;2026;True
+Xin Yu Wang;2026-06-21;WTA Bad Homburg;Grass;W;W;R32;6-1 6-2;Renata Zarazua;34,09;0,0;0,0;5,5;2026-2017-277;2026;True
 Xin Yu Wang;2026-06-15;WTA Berlin;Grass;W;L;R32;7-6(3) 6-1;Madison Keys;1,59;4,76;5,88;6,3;2026-2012-282;2026;True
+Xin Yu Wang;2026-06-15;Berlin;Grass;P;L;R32;7-6(3) 6-1;Madison Keys;1,59;4,76;5,88;6,3;2026-2012-279;2026;True
 Xin Yu Wang;2026-05-17;Strasbourg;Clay;P;L;R32;6-3 7-6(4);Lois Boisson;1,54;0,0;2,7;6,5;2026-406-284;2026;True
 Xin Yu Wang;2026-05-05;Rome;Clay;PM;L;R64;6-4 6-3;Alexandra Eala;3,92;7,84;0,0;5,67;2026-709-239;2026;True
 Xin Yu Wang;2026-04-27;Vic 125;Clay;C;L;R16;7-5 3-6 7-6(1);Alina Charaeva;1,92;3,85;5,66;6,5;2026-2081-293;2026;True
@@ -45563,9 +45924,13 @@ Xin Yu Wang;2018-09-17;Guangzhou;Hard;I;L;R32;6-4 4-6 6-3;Deniz Khazaniuk;2,44;1
 Xin Yu Wang;2018-01-15;Australian Open;Hard;G;L;R128;6-4 6-2;Alize Cornet;1,56;10,94;0,0;7,11;2018-580-139;2018;True
 Xin Yu Wang;2018-01-01;Shenzhen;Hard;I;L;Q2;6-4 5-7 6-3;Danka Kovinic;4,31;6,03;2,13;7,73;2018-1063-254;2018;True
 Xin Yu Wang;2018-01-01;Shenzhen;Hard;I;W;Q1;2-6 6-1 6-4;Su Jeong Jang;3,7;13,58;0,0;6,23;2018-1063-249;2018;True
-Xiyu Wang;2026-06-15;WTA Brescia 125;Clay;W;W;QF;6-2 6-1;Luisina Giovannini;5,88;0,0;2,22;4,86;2026-1170-300;2026;True
 Xiyu Wang;2026-06-15;WTA Brescia 125;Clay;W;W;R16;6-3 6-1;Carole Monnet;0,0;3,57;0,0;7,0;2026-1170-296;2026;True
 Xiyu Wang;2026-06-15;WTA Brescia 125;Clay;W;W;R32;6-3 6-0;Xinyu Gao;0,0;5,26;0,0;8,14;2026-1170-288;2026;True
+Xiyu Wang;2026-06-15;Brescia 125;Clay;C;L;F;6-4 6-3;Mayar Sherif;0,0;1,61;0,0;6,89;2026-1170-300;2026;True
+Xiyu Wang;2026-06-15;Brescia 125;Clay;C;W;QF;6-2 6-1;Luisina Giovannini;5,88;0,0;2,22;4,86;2026-1170-297;2026;True
+Xiyu Wang;2026-06-15;Brescia 125;Clay;C;W;R16;6-3 6-1;Carole Monnet;0,0;3,57;0,0;7,0;2026-1170-293;2026;True
+Xiyu Wang;2026-06-15;Brescia 125;Clay;C;W;R32;6-3 6-0;Xinyu Gao;0,0;5,26;0,0;8,14;2026-1170-285;2026;True
+Xiyu Wang;2026-06-15;Brescia 125;Clay;C;W;SF;6-2 6-2;Anastasiya Soboleva;1,79;5,36;3,85;7,0;2026-1170-299;2026;True
 Xiyu Wang;2026-06-08;WTA Modena 125;Clay;W;L;R32;7-6(3) 7-5;Laura Samson;0,0;3,75;1,2;6,67;2026-1171-282;2026;True
 Xiyu Wang;2026-06-08;WTA Modena 125;Clay;W;L;R32;7-6(3) 7-5;Laura Samson;0,0;3,75;1,2;6,67;2026-1171-280;2026;True
 Xiyu Wang;2026-06-08;WTA Modena 125;Clay;W;L;R32;7-6(3) 7-5;Laura Samson;0,0;3,75;1,2;6,67;2026-1171-274;2026;True
@@ -45963,6 +46328,10 @@ Ye Xin Ma;2017-02-27;Kuala Lumpur;Hard;I;L;Q1;6-0 6-0;Cindy Burger;0,0;5,26;5,26
 Yeon Woo Ku;2026-06-15;WTA Figueira Da Foz 125;Hard;W;W;QF;3-6 6-4 6-1;Martyna Kubka;2,15;7,53;1,0;7,15;2026-1177-300;2026;False
 Yeon Woo Ku;2026-06-15;WTA Figueira Da Foz 125;Hard;W;W;R16;6-4 6-3;Viktoria Hruncakova;6,25;2,08;14,75;5,33;2026-1177-295;2026;False
 Yeon Woo Ku;2026-06-15;WTA Figueira Da Foz 125;Hard;W;W;R32;6-4 7-5;Lucrezia Stefanini;1,33;8,0;0,0;6,82;2026-1177-285;2026;False
+Yeon Woo Ku;2026-06-15;Figueira Da Foz 125;Hard;C;L;SF;6-4 6-3;Darja Vidmanova;2,0;6,0;10,0;5,56;2026-1177-299;2026;False
+Yeon Woo Ku;2026-06-15;Figueira Da Foz 125;Hard;C;W;QF;3-6 6-4 6-1;Martyna Kubka;2,15;7,53;1,0;7,15;2026-1177-297;2026;False
+Yeon Woo Ku;2026-06-15;Figueira Da Foz 125;Hard;C;W;R16;6-4 6-3;Viktoria Hruncakova;6,25;2,08;14,75;5,33;2026-1177-292;2026;False
+Yeon Woo Ku;2026-06-15;Figueira Da Foz 125;Hard;C;W;R32;6-4 7-5;Lucrezia Stefanini;1,33;8,0;0,0;6,82;2026-1177-282;2026;False
 Yeon Woo Ku;2026-06-08;W50 Guimaraes;Hard;50;L;R16;7-6(3) 6-2;Savannah Broadus;0,0;6,1;5,08;8,2;2026-W-ITF-POR-2026-005-208;2026;False
 Yeon Woo Ku;2026-06-08;W50 Guimaraes;Hard;50;W;R32;6-1 6-4;Francisca Laundes;1,92;3,85;0,0;5,78;2026-W-ITF-POR-2026-005-116;2026;False
 Yeon Woo Ku;2026-06-01;W50 Montemor-o-Novo;Hard;50;W;F;3-6 6-4 6-2;Francisca Jorge;2,91;11,65;2,47;7,36;2026-W-ITF-POR-2026-009-501;2026;False
@@ -46064,6 +46433,7 @@ Yeon Woo Ku;2023-10-09;Seoul;Hard;I;W;Q2;6-1 3-6 6-4;Ya Hsuan Lee;2,97;1,98;0,0;
 Yeon Woo Ku;2022-09-19;Seoul;Hard;I;L;Q2;6-4 6-4;Jana Fett;0,0;13,43;3,64;6,7;2022-1024-269;2022;False
 Yeon Woo Ku;2022-09-19;Seoul;Hard;I;W;Q1;6-3 4-6 6-0;Natalija Stevanovic;2,63;3,95;0,0;6,33;2022-1024-263;2022;False
 Yue Yuan;2026-06-15;WTA Berlin;Grass;W;L;Q1;6-4 6-2;Katerina Siniakova;7,69;5,77;6,12;5,78;2026-2012-262;2026;False
+Yue Yuan;2026-06-15;Berlin;Grass;P;L;Q1;6-4 6-2;Katerina Siniakova;7,69;5,77;6,12;5,78;2026-2012-261;2026;False
 Yue Yuan;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;Q1;6-7(4) 7-6(1) 6-1;Robin Montgomery;6,19;1,77;14,56;7,06;2026-822-266;2026;False
 Yue Yuan;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;Q1;6-7(4) 7-6(1) 6-1;Robin Montgomery;6,19;1,77;14,56;7,06;2026-822-263;2026;False
 Yue Yuan;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;Q1;6-7(4) 7-6(1) 6-1;Robin Montgomery;6,19;1,77;14,56;7,06;2026-822-261;2026;False
@@ -46295,6 +46665,7 @@ Yue Yuan;2018-04-16;Zhengzhou;Hard;C;L;R32;6-3 5-7 6-2;Xiaodi You;3,06;9,18;0,0;
 Yue Yuan;2017-09-04;Dalian;Hard;C;L;R32;6-4 4-6 6-2;Zarina Diyas;1,23;1,23;2,53;5,79;2017-1083-281;2017;False
 Yue Yuan;2016-09-05;Dalian;Hard;C;L;Q1;6-4 6-2;Jing Jing Lu;3,39;5,08;3,17;6,56;2016-1083-259;2016;False
 Yulia Putintseva;2026-06-15;WTA Nottingham;Grass;W;L;Q1;6-1 6-3;Alicia Dudeney;0,0;6,67;3,77;5,62;2026-1080-261;2026;True
+Yulia Putintseva;2026-06-15;Nottingham;Grass;I;L;Q1;6-1 6-3;Alicia Dudeney;0,0;6,67;3,77;5,62;2026-1080-260;2026;True
 Yulia Putintseva;2026-05-17;Strasbourg;Clay;P;L;Q2;6-4 6-4;Oleksandra Oliynykova;0,0;1,56;1,61;6,4;2026-406-268;2026;True
 Yulia Putintseva;2026-05-17;Strasbourg;Clay;P;W;Q1;6-4 6-3;Antonia Ruzic;1,61;6,45;1,25;6,89;2026-406-263;2026;True
 Yulia Putintseva;2026-05-11;Paris 125;Clay;C;W;R16;6-4 6-0;Veronika Podrez;4,0;2,0;2,17;6,25;2026-2057-289;2026;True
@@ -46846,8 +47217,11 @@ Yulia Putintseva;2015-03-09;Indian Wells;Hard;PM;W;R128;6-4 6-4;Tereza Smitkova;
 Yulia Putintseva;2015-03-02;Kuala Lumpur;Hard;I;L;R16;6-0 6-2;Elizaveta Kulichkova;0,0;0,0;6,67;5,71;2015-W-INT-MAS-01A-2015-020;2015;True
 Yulia Putintseva;2015-03-02;Kuala Lumpur;Hard;I;W;R32;6-2 6-1;Jawairiah Noordin;2,38;9,52;1,89;6,0;2015-W-INT-MAS-01A-2015-007;2015;True
 Yulia Putintseva;2015-02-09;Pattaya;Hard;I;L;R32;7-6(2) 6-4;Evgeniya Rodina;0,0;4,05;1,54;6,73;2015-W-INT-THA-01A-2015-006;2015;True
+Yuliia Starodubtseva;2026-06-22;WTA Eastbourne;Grass;W;L;R32;6-4 3-6 6-3;Anastasia Zakharova;5,68;5,68;1,06;6,29;2026-710-284;2026;True
 Yuliia Starodubtseva;2026-06-15;WTA Nottingham;Grass;W;L;R16;6-4 6-7(3) 6-4;Emma Navarro;1,83;1,83;7,89;6,81;2026-1080-291;2026;True
 Yuliia Starodubtseva;2026-06-15;WTA Nottingham;Grass;W;W;R32;6-7(8) 7-5 6-4;Maya Joint;0,0;1,69;5,36;6,94;2026-1080-278;2026;True
+Yuliia Starodubtseva;2026-06-15;Nottingham;Grass;I;L;R16;6-4 6-7(3) 6-4;Emma Navarro;1,83;1,83;7,89;6,81;2026-1080-288;2026;True
+Yuliia Starodubtseva;2026-06-15;Nottingham;Grass;I;W;R32;6-7(8) 7-5 6-4;Maya Joint;0,0;1,69;5,36;6,94;2026-1080-275;2026;True
 Yuliia Starodubtseva;2026-05-18;Rabat;Clay;I;L;R16;6-3 7-6(3);Anhelina Kalinina;0,0;2,53;0,0;7,9;2026-1005-291;2026;True
 Yuliia Starodubtseva;2026-05-18;Rabat;Clay;I;W;R32;6-4 6-2;Angela Fita Boluda;0,0;3,7;1,82;6,0;2026-1005-281;2026;True
 Yuliia Starodubtseva;2026-05-11;Paris 125;Clay;C;L;SF;1-6 6-2 6-3;Madison Keys;0,0;2,25;1,23;7,42;2026-2057-299;2026;True
@@ -46998,10 +47372,18 @@ Yuliia Starodubtseva;2023-10-30;Midland 125;Hard;C;L;R16;6-1 3-6 6-2;Taylor Town
 Yuliia Starodubtseva;2023-10-30;Midland 125;Hard;C;W;R32;3-6 6-1 6-0;Sophie Chang;0,0;5,71;10,61;6,36;2023-2051-280;2023;True
 Yuliia Starodubtseva;2023-09-11;San Diego;Hard;P;L;Q1;6-1 6-3;Magdalena Frech;2,13;2,13;0,0;5,88;2023-2074-255;2023;True
 Yuliia Starodubtseva;2023-08-28;US Open;Hard;G;L;Q1;5-7 6-4 6-4;Celine Naef;1,72;3,45;2,94;7,25;2023-560-162;2023;True
+Zeynep Sonmez;2026-06-22;WTA Eastbourne;Grass;W;L;QF;6-3 6-0;Jelena Ostapenko;2,99;1,49;19,15;9,57;2026-710-296;2026;True
+Zeynep Sonmez;2026-06-22;WTA Eastbourne;Grass;W;W;R32;4-6 6-2 7-5;Harriet Dart;1,09;4,35;5,77;6,13;2026-710-279;2026;True
+Zeynep Sonmez;2026-06-22;WTA Eastbourne;Grass;W;W;Q1;6-3 6-4;Hanne Vandewinkel;0,0;3,28;9,86;6,1;2026-710-259;2026;True
+Zeynep Sonmez;2026-06-22;WTA Eastbourne;Grass;W;W;Q2;2-6 6-1 6-3;Elsa Jacquemot;0,0;5,71;6,85;5,83;2026-710-267;2026;True
 Zeynep Sonmez;2026-06-15;WTA Nottingham;Grass;W;L;R16;7-5 4-6 6-4;Viktorija Golubic;2,61;2,61;2,54;7,19;2026-1080-289;2026;True
 Zeynep Sonmez;2026-06-15;WTA Nottingham;Grass;W;W;R32;6-4 7-6(1);Leylah Fernandez;4,76;0,0;8,05;5,73;2026-1080-273;2026;True
 Zeynep Sonmez;2026-06-15;WTA Nottingham;Grass;W;W;Q1;6-4 6-0;Lanlana Tararudee;0,0;3,51;6,0;7,12;2026-1080-256;2026;True
 Zeynep Sonmez;2026-06-15;WTA Nottingham;Grass;W;W;Q2;6-2 6-4;Hannah Klugman;0,0;0,0;8,77;5,11;2026-1080-266;2026;True
+Zeynep Sonmez;2026-06-15;Nottingham;Grass;I;L;R16;7-5 4-6 6-4;Viktorija Golubic;2,61;2,61;2,54;7,19;2026-1080-286;2026;True
+Zeynep Sonmez;2026-06-15;Nottingham;Grass;I;W;R32;6-4 7-6(1);Leylah Fernandez;4,76;0,0;8,05;5,73;2026-1080-270;2026;True
+Zeynep Sonmez;2026-06-15;Nottingham;Grass;I;W;Q1;6-4 6-0;Lanlana Tararudee;0,0;3,51;6,0;7,12;2026-1080-255;2026;True
+Zeynep Sonmez;2026-06-15;Nottingham;Grass;I;W;Q2;6-2 6-4;Hannah Klugman;0,0;0,0;8,77;5,11;2026-1080-265;2026;True
 Zeynep Sonmez;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;W;R32;6-3 2-6 6-3;Katie Volynets;0,0;4,94;4,0;6,23;2026-822-281;2026;True
 Zeynep Sonmez;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;L;QF;6-4 6-2;Magda Linette;0,0;1,92;16,98;5,78;2026-822-298;2026;True
 Zeynep Sonmez;2026-06-08;WTA 'S-Hertogenbosch;Grass;W;W;R16;6-1 2-0 RET;Anastasia Potapova;5,56;0,0;0,0;4,5;2026-822-291;2026;True
