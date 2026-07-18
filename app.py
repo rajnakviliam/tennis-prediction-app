@@ -500,6 +500,22 @@ with right:
         p1 = get_profile(profiles, player1)
         p2 = get_profile(profiles, player2)
 
+        # Aktuálny ATP/WTA rank hráčov
+        p1_rank = rankings.loc[rankings["name"] == player1, "rank"]
+        p2_rank = rankings.loc[rankings["name"] == player2, "rank"]
+        
+        p1_header = (
+            f"{player1} (#{int(p1_rank.iloc[0])})"
+            if not p1_rank.empty
+            else player1
+        )
+        
+        p2_header = (
+            f"{player2} (#{int(p2_rank.iloc[0])})"
+            if not p2_rank.empty
+            else player2
+        )
+
         if p1 is None or p2 is None:
             st.error("Niektorý hráč/hráčka nemá dáta pre zvolené filtre.")
             st.stop()
@@ -703,8 +719,8 @@ with right:
             aces_model = pd.DataFrame(
                 {
                     "Model": ["Bez korekcie", "Plná korekcia", "Odmocnina"],
-                    player1: [fmt(p1_base), fmt(p1_full), fmt(p1_sqrt)],
-                    player2: [fmt(p2_base), fmt(p2_full), fmt(p2_sqrt)],
+                    p1_header: [fmt(p1_base), fmt(p1_full), fmt(p1_sqrt)],
+                    p2_header: [fmt(p2_base), fmt(p2_full), fmt(p2_sqrt)],
                 }
             )
 
@@ -764,13 +780,13 @@ with right:
                         "Pred DF - Hybrid",
                         "Pred DF - Grass",
                     ],
-                    player1: [
+                    p1_header: [: [
                         fmt(p1["AvgDF"]),
                         fmt(p1["GrassAvgDF"]) if p1.get("GrassMatches", 0) >= 5 else "",
                         fmt(p1_pred_df),
                         fmt(p1_grass_pred_df),
                     ],
-                    player2: [
+                    p2_header: [
                         fmt(p2["AvgDF"]),
                         fmt(p2["GrassAvgDF"]) if p2.get("GrassMatches", 0) >= 5 else "",
                         fmt(p2_pred_df),
