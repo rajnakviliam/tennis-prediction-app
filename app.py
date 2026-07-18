@@ -780,7 +780,7 @@ with right:
                         "Pred DF - Hybrid",
                         "Pred DF - Grass",
                     ],
-                    p1_header: [: [
+                    p1_header: [
                         fmt(p1["AvgDF"]),
                         fmt(p1["GrassAvgDF"]) if p1.get("GrassMatches", 0) >= 5 else "",
                         fmt(p1_pred_df),
