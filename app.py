@@ -52,6 +52,7 @@ def load_settings():
         "year_from": 2024,
         "year_to": 2026,
         "level": "ATP",
+        "include_qual": False,
         "og": 22.0,
     }
 
@@ -78,6 +79,12 @@ def fmt(x):
     if x is None or pd.isna(x):
         return ""
     return f"{x:.2f}"
+
+
+def fmt4(x):
+    if x is None or pd.isna(x):
+        return ""
+    return f"{x:.4f}"
 
 
 def level_filter(df, tour, level):
@@ -324,13 +331,13 @@ def pred_aces(og, ptsg, pct):
     return og * ptsg * pct / 200
 
 
-def ace_models(og, player_a, player_ptsg, opponent_va, top100_avg_va):
+def ace_models(og, player_a, player_ptsg, opponent_va, reference_avg_va):
     base = og / 2 * player_ptsg * player_a / 100
 
-    if top100_avg_va is None or pd.isna(top100_avg_va) or top100_avg_va == 0:
+    if reference_avg_va is None or pd.isna(reference_avg_va) or reference_avg_va == 0:
         return base, None, None
 
-    ratio = opponent_va / top100_avg_va
+    ratio = opponent_va / reference_avg_va
 
     full = base * ratio
     sqrt_model = base * math.sqrt(ratio) if ratio >= 0 else None
@@ -368,6 +375,13 @@ def show_table(df):
 
 def option_index(options, value, default=0):
     return options.index(value) if value in options else default
+
+
+def player_header_with_rank(rankings, player):
+    rank = rankings.loc[rankings["name"] == player, "rank"]
+    if rank.empty or pd.isna(rank.iloc[0]):
+        return player
+    return f"{player} (#{int(rank.iloc[0])})"
 
 
 settings = load_settings()
@@ -454,7 +468,8 @@ with left:
     
     include_qual = st.checkbox(
         "Include Qualifying Matches",
-        value=False)
+        value=bool(settings.get("include_qual", False)),
+    )
 
     og = st.number_input(
         "Odhad gemov",
@@ -477,9 +492,14 @@ with right:
                 "year_from": int(year_from),
                 "year_to": int(year_to),
                 "level": level,
+                "include_qual": bool(include_qual),
                 "og": float(og),
             }
         )
+
+        if period == "Custom years" and int(year_from) > int(year_to):
+            st.error("From Year nemôže byť vyšší ako To Year.")
+            st.stop()
 
         date_from, date_to, period_label = resolve_period(
             period,
@@ -500,25 +520,12 @@ with right:
         p1 = get_profile(profiles, player1)
         p2 = get_profile(profiles, player2)
 
-        # Aktuálny ATP/WTA rank hráčov
-        p1_rank = rankings.loc[rankings["name"] == player1, "rank"]
-        p2_rank = rankings.loc[rankings["name"] == player2, "rank"]
-        
-        p1_header = (
-            f"{player1} (#{int(p1_rank.iloc[0])})"
-            if not p1_rank.empty
-            else player1
-        )
-        
-        p2_header = (
-            f"{player2} (#{int(p2_rank.iloc[0])})"
-            if not p2_rank.empty
-            else player2
-        )
-
         if p1 is None or p2 is None:
             st.error("Niektorý hráč/hráčka nemá dáta pre zvolené filtre.")
             st.stop()
+
+        p1_aces_header = player_header_with_rank(rankings, player1)
+        p2_aces_header = player_header_with_rank(rankings, player2)
 
         reference_names = set(
             rankings[rankings["rank"] <= REFERENCE_RANK_LIMIT]["name"]
@@ -663,14 +670,14 @@ with right:
         ])
 
         p1_values.extend([
-            fmt(reference_avg_a),
-            fmt(reference_avg_va),
+            fmt4(reference_avg_a),
+            fmt4(reference_avg_va),
             str(reference_matches),
         ])
 
         p2_values.extend([
-            fmt(reference_avg_a),
-            fmt(reference_avg_va),
+            fmt4(reference_avg_a),
+            fmt4(reference_avg_va),
             str(reference_matches),
         ])
 
@@ -697,7 +704,7 @@ with right:
                         "Odmocnina - Hybrid",
                         "Odmocnina - Grass",
                     ],
-                    player1: [
+                    p1_aces_header: [
                         fmt(p1_base),
                         fmt(p1_grass_base),
                         fmt(p1_full),
@@ -705,7 +712,7 @@ with right:
                         fmt(p1_sqrt),
                         fmt(p1_grass_sqrt),
                     ],
-                    player2: [
+                    p2_aces_header: [
                         fmt(p2_base),
                         fmt(p2_grass_base),
                         fmt(p2_full),
@@ -719,8 +726,8 @@ with right:
             aces_model = pd.DataFrame(
                 {
                     "Model": ["Bez korekcie", "Plná korekcia", "Odmocnina"],
-                    p1_header: [fmt(p1_base), fmt(p1_full), fmt(p1_sqrt)],
-                    p2_header: [fmt(p2_base), fmt(p2_full), fmt(p2_sqrt)],
+                    p1_aces_header: [fmt(p1_base), fmt(p1_full), fmt(p1_sqrt)],
+                    p2_aces_header: [fmt(p2_base), fmt(p2_full), fmt(p2_sqrt)],
                 }
             )
 
@@ -780,13 +787,13 @@ with right:
                         "Pred DF - Hybrid",
                         "Pred DF - Grass",
                     ],
-                    p1_header: [
+                    player1: [
                         fmt(p1["AvgDF"]),
                         fmt(p1["GrassAvgDF"]) if p1.get("GrassMatches", 0) >= 5 else "",
                         fmt(p1_pred_df),
                         fmt(p1_grass_pred_df),
                     ],
-                    p2_header: [
+                    player2: [
                         fmt(p2["AvgDF"]),
                         fmt(p2["GrassAvgDF"]) if p2.get("GrassMatches", 0) >= 5 else "",
                         fmt(p2_pred_df),
