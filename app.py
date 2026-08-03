@@ -177,7 +177,10 @@ def resolve_period(period, year_from, year_to):
 
 
 def calculate_reference_averages(df, reference_names, surface):
-    reference_df = df[df["Player"].isin(reference_names)].copy()
+    reference_df = df[
+        df["Player"].isin(reference_names)
+        & df["Opponent"].isin(reference_names)
+    ].copy()
 
     if reference_df.empty:
         return None, None, None, 0
@@ -187,7 +190,9 @@ def calculate_reference_averages(df, reference_names, surface):
 
     grass_avg_va = None
     if surface == "Grass":
-        grass_reference = reference_df[reference_df["Surface"] == "Grass"]
+        grass_reference = reference_df[
+            reference_df["Surface"] == "Grass"
+        ]
         grass_avg_va = grass_reference["vA%"].mean()
 
     return avg_a, avg_va, grass_avg_va, len(reference_df)
