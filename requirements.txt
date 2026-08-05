@@ -1,3 +1,5 @@
-streamlit
-pandas
-openpyxl
+streamlit==1.59.2
+starlette==1.2.1
+pandas==3.0.3
+openpyxl==3.1.5
+requests==2.34.2
