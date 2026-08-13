@@ -122,9 +122,18 @@ def parse_player_matches(player_name, js_text):
                 "Round": row[8],
                 "Score": row[9],
                 "Opponent": row[11].replace("\xa0", " "),
+
+                "Aces": aces,
+                "DoubleFaults": double_faults,
+                "ServePoints": serve_points,
+                "ServiceGames": service_games,
+                "OppAces": opp_aces,
+                "OppServePoints": opp_serve_points,
+
                 "A%": round(aces / serve_points * 100, 2),
                 "DF%": round(double_faults / serve_points * 100, 2),
-                "vA%": round(opp_aces / opp_serve_points * 100, 2) if opp_serve_points != 0 else None,
+                "vA%": round(opp_aces / opp_serve_points * 100, 2)
+                    if opp_serve_points != 0 else None,
                 "Pts/SG": round(serve_points / service_games, 2),
                 "MatchID": row[43],
             })
@@ -170,11 +179,31 @@ def main():
         print("Nenašli sa žiadne nové dáta.")
         return
 
-    new_df["Date"] = pd.to_datetime(new_df["Date"], format="%Y%m%d", errors="coerce")
-    new_df["A%"] = pd.to_numeric(new_df["A%"], errors="coerce")
-    new_df["DF%"] = pd.to_numeric(new_df["DF%"], errors="coerce")
-    new_df["vA%"] = pd.to_numeric(new_df["vA%"], errors="coerce")
-    new_df["Pts/SG"] = pd.to_numeric(new_df["Pts/SG"], errors="coerce")
+    new_df["Date"] = pd.to_datetime(
+        new_df["Date"],
+        format="%Y%m%d",
+        errors="coerce"
+    )
+
+    numeric_cols = [
+        "Aces",
+        "DoubleFaults",
+        "ServePoints",
+        "ServiceGames",
+        "OppAces",
+        "OppServePoints",
+        "A%",
+        "DF%",
+        "vA%",
+        "Pts/SG",
+    ]
+
+    for col in numeric_cols:
+        if col in new_df.columns:
+            new_df[col] = pd.to_numeric(
+                new_df[col],
+                errors="coerce"
+            )
 
     if Path(OUTPUT_FILE).exists():
         old_df = pd.read_excel(OUTPUT_FILE)
@@ -184,12 +213,24 @@ def main():
 
     combined["Player"] = combined["Player"].astype(str).str.replace("\xa0", " ", regex=False)
     combined["Opponent"] = combined["Opponent"].astype(str).str.replace("\xa0", " ", regex=False)
-    combined["A%"] = pd.to_numeric(combined["A%"], errors="coerce")
-    combined["DF%"] = pd.to_numeric(combined["DF%"], errors="coerce")
-    combined["vA%"] = pd.to_numeric(combined["vA%"], errors="coerce")
-    combined["Pts/SG"] = pd.to_numeric(combined["Pts/SG"], errors="coerce")
+    for col in numeric_cols:
+        if col in combined.columns:
+            combined[col] = pd.to_numeric(
+                combined[col],
+                errors="coerce"
+            )
 
-    combined = combined.drop_duplicates(subset=["Player", "MatchID"], keep="last")
+    combined = combined.drop_duplicates(
+        subset=[
+            "Player",
+            "Opponent",
+            "Date",
+            "Round",
+            "Score",
+            "Result",
+        ],
+        keep="last"
+    )
     combined = combined.sort_values(["Player", "Date"], ascending=[True, False])
     
     combined["Year"] = pd.to_datetime(combined["Date"], errors="coerce").dt.year

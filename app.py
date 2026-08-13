@@ -114,7 +114,18 @@ def load_database(tour):
     df["Date"] = pd.to_datetime(df["Date"], errors="coerce")
     df["Year"] = df["Date"].dt.year
 
-    for col in ["A%", "vA%", "Pts/SG", "DF%"]:
+    for col in [
+        "A%",
+        "vA%",
+        "Pts/SG",
+        "DF%",
+        "Aces",
+        "DoubleFaults",
+        "ServePoints",
+        "ServiceGames",
+        "OppAces",
+        "OppServePoints",
+    ]:
         if col in df.columns:
             df[col] = df[col].apply(to_number)
 
@@ -185,17 +196,57 @@ def calculate_reference_averages(df, reference_names, surface):
     if reference_df.empty:
         return None, None, None, 0
 
-    avg_a = reference_df["A%"].mean()
-    avg_va = reference_df["vA%"].mean()
+    raw = reference_df.dropna(
+        subset=[
+            "Aces",
+            "ServePoints",
+            "OppAces",
+            "OppServePoints",
+        ]
+    )
+
+    if raw.empty:
+        return None, None, None, 0
+
+    serve_points = raw["ServePoints"].sum()
+    opp_serve_points = raw["OppServePoints"].sum()
+
+    avg_a = (
+        raw["Aces"].sum() / serve_points * 100
+        if serve_points > 0 else None
+    )
+
+    avg_va = (
+        raw["OppAces"].sum() / opp_serve_points * 100
+        if opp_serve_points > 0 else None
+    )
 
     grass_avg_va = None
-    if surface == "Grass":
-        grass_reference = reference_df[
-            reference_df["Surface"] == "Grass"
-        ]
-        grass_avg_va = grass_reference["vA%"].mean()
 
-    return avg_a, avg_va, grass_avg_va, len(reference_df)
+    if surface == "Grass":
+        grass_reference = raw[
+            raw["Surface"] == "Grass"
+        ]
+
+        if not grass_reference.empty:
+            grass_opp_serve_points = (
+                grass_reference["OppServePoints"].sum()
+            )
+
+            grass_avg_va = (
+                grass_reference["OppAces"].sum()
+                / grass_opp_serve_points
+                * 100
+                if grass_opp_serve_points > 0
+                else None
+            )
+
+    return (
+        avg_a,
+        avg_va,
+        grass_avg_va,
+        len(raw),
+    )
 
 
 def get_profile(profiles, player):
@@ -203,39 +254,123 @@ def get_profile(profiles, player):
     if row.empty:
         return None
     return row.iloc[0]
+
+def aggregate_stats(df):
+    if df.empty:
+        return {
+            "AvgA": None,
+            "AvgvA": None,
+            "AvgPtsSG": None,
+            "AvgDF": None,
+        }
+
+    # Použijeme iba zápasy, pri ktorých máme nové raw štatistiky
+    raw = df.dropna(
+        subset=[
+            "Aces",
+            "DoubleFaults",
+            "ServePoints",
+            "ServiceGames",
+            "OppAces",
+            "OppServePoints",
+        ]
+    )
+
+    if raw.empty:
+        return {
+            "AvgA": None,
+            "AvgvA": None,
+            "AvgPtsSG": None,
+            "AvgDF": None,
+        }
+
+    serve_points = raw["ServePoints"].sum()
+    service_games = raw["ServiceGames"].sum()
+    opp_serve_points = raw["OppServePoints"].sum()
+
+    return {
+        "AvgA": (
+            raw["Aces"].sum() / serve_points * 100
+            if serve_points > 0 else None
+        ),
+        "AvgvA": (
+            raw["OppAces"].sum() / opp_serve_points * 100
+            if opp_serve_points > 0 else None
+        ),
+        "AvgPtsSG": (
+            serve_points / service_games
+            if service_games > 0 else None
+        ),
+        "AvgDF": (
+            raw["DoubleFaults"].sum() / serve_points * 100
+            if serve_points > 0 else None
+        ),
+    }
     
 def build_profiles(df_all, tour, level, surface, date_from, date_to, include_qual):
     df_base = df_all.copy()
-    df_base = df_base[(df_base["Date"] >= date_from) & (df_base["Date"] <= date_to)]
+
+    df_base = df_base[
+        (df_base["Date"] >= date_from)
+        & (df_base["Date"] <= date_to)
+    ]
+
     df_base = level_filter(df_base, tour, level)
-    
+
     if not include_qual:
         df_base = df_base[
-            ~df_base["Round"].isin(["Q1", "Q2", "Q3"])
-            & ~df_base["Tournament"].astype(str).str.contains(EXCLUDED_TOURNAMENTS, case=False, na=False)
+            ~df_base["Round"].isin(["Q1", "Q2", "Q3", "Q4"])
+            & ~df_base["Tournament"]
+                .astype(str)
+                .str.contains(
+                    EXCLUDED_TOURNAMENTS,
+                    case=False,
+                    na=False
+                )
         ]
+
+    # ==========================================
+    # HARD / CLAY / ALL
+    # ==========================================
 
     if surface != "Grass":
         if surface != "All":
             df_base = df_base[df_base["Surface"] == surface]
 
-        profiles = (
-            df_base.groupby("Player")
-            .agg(
-                AvgA=("A%", "mean"),
-                AvgvA=("vA%", "mean"),
-                AvgPtsSG=("Pts/SG", "mean"),
-                AvgDF=("DF%", "mean"),
-                Matches=("Player", "count"),
-            )
-            .reset_index()
-        )
+        rows = []
+
+        for player, p_df in df_base.groupby("Player"):
+            stats = aggregate_stats(p_df)
+
+            # hráča použijeme iba ak má raw dáta
+            if stats["AvgA"] is None:
+                continue
+
+            rows.append({
+                "Player": player,
+                "AvgA": stats["AvgA"],
+                "AvgvA": stats["AvgvA"],
+                "AvgPtsSG": stats["AvgPtsSG"],
+                "AvgDF": stats["AvgDF"],
+                "Matches": len(p_df),
+            })
+
+        profiles = pd.DataFrame(rows)
+
         return profiles, df_base
+
+    # ==========================================
+    # GRASS HYBRID
+    # ==========================================
 
     grass_df = df_base[df_base["Surface"] == "Grass"]
     hard_df = df_base[df_base["Surface"] == "Hard"]
 
-    players = sorted(set(grass_df["Player"].dropna()) | set(hard_df["Player"].dropna()))
+    players = sorted(
+        set(grass_df["Player"].dropna())
+        | set(hard_df["Player"].dropna())
+    )
+
     rows = []
 
     for player in players:
@@ -248,9 +383,18 @@ def build_profiles(df_all, tour, level, surface, date_from, date_to, include_qua
         if G == 0 and H == 0:
             continue
 
-        def hybrid(col):
-            g_val = g[col].mean()
-            h_val = h[col].mean()
+        g_stats = aggregate_stats(g)
+        h_stats = aggregate_stats(h)
+
+        def hybrid(g_val, h_val):
+            if g_val is None and h_val is None:
+                return None
+
+            if g_val is None:
+                return h_val
+
+            if h_val is None:
+                return g_val
 
             if G == 0:
                 return h_val
@@ -258,22 +402,41 @@ def build_profiles(df_all, tour, level, surface, date_from, date_to, include_qua
             if H == 0:
                 return g_val
 
-            return (G / (G + H)) * g_val + (H / (G + H)) * h_val
+            return (
+                (G / (G + H)) * g_val
+                + (H / (G + H)) * h_val
+            )
 
         rows.append({
             "Player": player,
-            "AvgA": hybrid("A%"),
-            "AvgvA": hybrid("vA%"),
-            "AvgPtsSG": hybrid("Pts/SG"),
-            "AvgDF": hybrid("DF%"),
-            "GrassAvgA": g["A%"].mean(),
-            "GrassAvgvA": g["vA%"].mean(),
-            "GrassAvgPtsSG": g["Pts/SG"].mean(),
-            "GrassAvgDF": g["DF%"].mean(),
-            "HardAvgA": h["A%"].mean(),
-            "HardAvgvA": h["vA%"].mean(),
-            "HardAvgPtsSG": h["Pts/SG"].mean(),
-            "HardAvgDF": h["DF%"].mean(),
+
+            "AvgA": hybrid(
+                g_stats["AvgA"],
+                h_stats["AvgA"]
+            ),
+            "AvgvA": hybrid(
+                g_stats["AvgvA"],
+                h_stats["AvgvA"]
+            ),
+            "AvgPtsSG": hybrid(
+                g_stats["AvgPtsSG"],
+                h_stats["AvgPtsSG"]
+            ),
+            "AvgDF": hybrid(
+                g_stats["AvgDF"],
+                h_stats["AvgDF"]
+            ),
+
+            "GrassAvgA": g_stats["AvgA"],
+            "GrassAvgvA": g_stats["AvgvA"],
+            "GrassAvgPtsSG": g_stats["AvgPtsSG"],
+            "GrassAvgDF": g_stats["AvgDF"],
+
+            "HardAvgA": h_stats["AvgA"],
+            "HardAvgvA": h_stats["AvgvA"],
+            "HardAvgPtsSG": h_stats["AvgPtsSG"],
+            "HardAvgDF": h_stats["AvgDF"],
+
             "Matches": G + H,
             "GrassMatches": G,
             "HardMatches": H,
@@ -281,7 +444,10 @@ def build_profiles(df_all, tour, level, surface, date_from, date_to, include_qua
 
     profiles = pd.DataFrame(rows)
 
-    match_df = df_base[df_base["Surface"].isin(["Grass", "Hard"])].copy()
+    match_df = df_base[
+        df_base["Surface"].isin(["Grass", "Hard"])
+    ].copy()
+
     return profiles, match_df
 
 def calc_service(df, profiles, player, opponent, tolerance, surface):
@@ -304,7 +470,20 @@ def calc_service(df, profiles, player, opponent, tolerance, surface):
     if surface != "All":
         sample = sample[sample["Surface"] == surface]
 
-    return sample["A%"].mean(), len(sample)
+    raw = sample.dropna(
+        subset=["Aces", "ServePoints"]
+    )
+
+    if raw.empty or raw["ServePoints"].sum() == 0:
+        return None, 0
+
+    pct = (
+        raw["Aces"].sum()
+        / raw["ServePoints"].sum()
+        * 100
+    )
+
+    return pct, len(raw)
 
 
 def calc_return(df, profiles, player, opponent, tolerance, surface):
@@ -327,7 +506,20 @@ def calc_return(df, profiles, player, opponent, tolerance, surface):
     if surface != "All":
         sample = sample[sample["Surface"] == surface]
 
-    return sample["vA%"].mean(), len(sample)
+    raw = sample.dropna(
+        subset=["OppAces", "OppServePoints"]
+    )
+
+    if raw.empty or raw["OppServePoints"].sum() == 0:
+        return None, 0
+
+    pct = (
+        raw["OppAces"].sum()
+        / raw["OppServePoints"].sum()
+        * 100
+    )
+
+    return pct, len(raw)
 
 
 def pred_aces(og, ptsg, pct):
@@ -669,8 +861,8 @@ with right:
             p2_values.append(str(int(p2["Matches"])))    
 
         base_parameters.extend([
-            "Top200 avg A% (match-weighted)",
-            "Top200 avg vA% (match-weighted)",
+            "Top200 avg A% (point-weighted)",
+            "Top200 avg vA% (point-weighted)",
             "Top200 ref. zápasy",
         ])
 
