@@ -164,9 +164,24 @@ def main():
                 errors="coerce"
             )
 
-    if Path(OUTPUT_FILE).exists():
-        old_df = pd.read_excel(OUTPUT_FILE)
-        combined = pd.concat([old_df, new_df], ignore_index=True)
+    if Path(CSV_OUTPUT_FILE).exists():
+        old_df = pd.read_csv(
+            CSV_OUTPUT_FILE,
+            sep=";",
+            decimal=",",
+            encoding="utf-8-sig",
+            low_memory=False,
+        )
+
+        old_df["Date"] = pd.to_datetime(
+            old_df["Date"],
+            errors="coerce",
+        )
+
+        combined = pd.concat(
+            [old_df, new_df],
+            ignore_index=True,
+        )
     else:
         combined = new_df
 
