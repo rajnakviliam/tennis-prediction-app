@@ -1,6 +1,13 @@
 ﻿Player;Date;Tournament;Surface;Level;Result;Round;Score;Opponent;A%;DF%;vA%;Pts/SG;MatchID;Year;IsTop100;Rank;Aces;DoubleFaults;ServePoints;ServiceGames;OppAces;OppServePoints
-Abedallah Shelbayh;2026-09-28;Columbus Challenger;Hard;C;W;R16;6-1 7-5;Daniil Ostapenkov;8,51;2,13;7,02;5,22;2026-8281-381;2026;False;;4,0;1,0;47,0;9,0;4,0;57,0
-Abedallah Shelbayh;2026-09-28;Columbus Challenger;Hard;C;W;R32;3-6 6-2 6-3;Li Tu;6,58;2,63;9,21;5,85;2026-8281-369;2026;False;;5,0;2,0;76,0;13,0;7,0;76,0
+Abedallah Shelbayh;2026-10-12;Olbia Challenger;Hard;C;L;R32;6-2 6-3;Andrea Guerrieri;2,0;2,0;4,08;6,25;2026-2893-398;2026;False;;1,0;1,0;50,0;8,0;2,0;49,0
+Abedallah Shelbayh;2026-10-05;Villena Challenger;Hard;C;L;QF;7-6(2) 4-6 6-3;Daniil Glinka;9,09;4,55;3,57;5,87;2026-7909-381;2026;False;;8,0;4,0;88,0;15,0;4,0;112,0
+Abedallah Shelbayh;2026-10-05;Villena Challenger;Hard;C;W;R16;7-5 3-6 6-3;Damir Dzumhur;6,56;4,1;0,0;8,13;2026-7909-376;2026;False;;8,0;5,0;122,0;15,0;0,0;85,0
+Abedallah Shelbayh;2026-10-05;Villena Challenger;Hard;C;W;R32;6-4 6-3;David Jorda Sanchis;1,67;1,67;6,78;6,0;2026-7909-365;2026;False;;1,0;1,0;60,0;10,0;4,0;59,0
+Abedallah Shelbayh;2026-09-28;Columbus CH;Hard;C;L;F;6-3 6-2;Dylan Dietrich;2,13;2,13;11,63;5,22;2026-8281-385;2026;False;;1,0;1,0;47,0;9,0;5,0;43,0
+Abedallah Shelbayh;2026-09-28;Columbus CH;Hard;C;W;SF;6-2 6-2;Mitchell Krueger;16,33;4,08;5,45;6,12;2026-8281-383;2026;False;;8,0;2,0;49,0;8,0;3,0;55,0
+Abedallah Shelbayh;2026-09-28;Columbus CH;Hard;C;W;QF;7-6(7) 7-5;Aidan Mayo;3,45;2,3;19,23;7,25;2026-8281-380;2026;False;;3,0;2,0;87,0;12,0;15,0;78,0
+Abedallah Shelbayh;2026-09-28;Columbus CH;Hard;C;W;R16;6-1 7-5;Daniil Ostapenkov;8,51;2,13;7,02;5,22;2026-8281-374;2026;False;;4,0;1,0;47,0;9,0;4,0;57,0
+Abedallah Shelbayh;2026-09-28;Columbus CH;Hard;C;W;R32;3-6 6-2 6-3;Li Tu;6,58;2,63;9,21;5,85;2026-8281-362;2026;False;;5,0;2,0;76,0;13,0;7,0;76,0
 Abedallah Shelbayh;2026-09-21;San Diego 2 CH;Hard;C;L;R32;4-6 7-5 6-3;Andres Andrade;4,59;6,42;6,45;6,81;2026-3175-367;2026;False;;5,0;7,0;109,0;16,0;6,0;93,0
 Abedallah Shelbayh;2026-09-14;Tiburon CH;Hard;C;L;QF;6-4 6-4;Michael Mmoh;1,69;10,17;7,14;5,9;2026-1768-380;2026;False;;1,0;6,0;59,0;10,0;4,0;56,0
 Abedallah Shelbayh;2026-09-14;Tiburon CH;Hard;C;W;R16;7-6(2) 6-1;Tristan Boyer;4,76;4,76;4,0;6,3;2026-1768-374;2026;False;;3,0;3,0;63,0;10,0;2,0;50,0
@@ -11016,10 +11023,10 @@ Andrej Nedic;2024-02-03;Davis Cup WG1 PO: BUL vs BIH;Hard;D;L;RR;4-6 6-2 [10-8];
 Andrej Nedic;2023-08-07;Banja Luka CH;Clay;C;L;R32;5-7 7-6(4) 6-3;Javier Barranco Cosano;6,67;3,33;2,88;7,06;2023-1607-283;2023;False;;8,0;4,0;120,0;17,0;3,0;104,0
 Andrej Nedic;2022-08-22;Banja Luka CH;Clay;C;L;Q1;7-5 6-4;Aldin Setkic;3,53;2,35;10,17;7,73;2022-1607-238;2022;False;;3,0;2,0;85,0;11,0;6,0;59,0
 Andrej Nedic;2021-09-06;Banja Luka CH;Clay;C;L;Q1;3-6 6-3 6-0;Elmar Ejupovic;2,94;5,88;2,9;5,67;2021-1607-250;2021;False;;2,0;4,0;68,0;12,0;2,0;69,0
-Andres Andrade;2026-09-28;Columbus Challenger;Hard;C;L;SF;6-3 1-0 RET;Dylan Dietrich;0,0;4,17;14,29;4,8;2026-8281-384;2026;False;;0,0;1,0;24,0;5,0;4,0;28,0
-Andres Andrade;2026-09-28;Columbus Challenger;Hard;C;W;QF;6-3 7-6(5);Mees Rottgering;5,68;9,09;2,7;8,0;2026-8281-381;2026;False;;5,0;8,0;88,0;11,0;2,0;74,0
-Andres Andrade;2026-09-28;Columbus Challenger;Hard;C;W;R16;6-3 7-6(7);Luca Staeheli;7,02;7,02;6,58;5,7;2026-8281-375;2026;False;;4,0;4,0;57,0;10,0;5,0;76,0
-Andres Andrade;2026-09-28;Columbus Challenger;Hard;C;W;R32;6-4 6-2;Trevor Svajda;7,55;9,43;5,36;5,89;2026-8281-363;2026;False;;4,0;5,0;53,0;9,0;3,0;56,0
+Andres Andrade;2026-09-28;Columbus CH;Hard;C;L;SF;6-3 1-0 RET;Dylan Dietrich;0,0;4,17;14,29;4,8;2026-8281-384;2026;False;;0,0;1,0;24,0;5,0;4,0;28,0
+Andres Andrade;2026-09-28;Columbus CH;Hard;C;W;QF;6-3 7-6(5);Mees Rottgering;5,68;9,09;2,7;8,0;2026-8281-381;2026;False;;5,0;8,0;88,0;11,0;2,0;74,0
+Andres Andrade;2026-09-28;Columbus CH;Hard;C;W;R16;6-3 7-6(7);Luca Staeheli;7,02;7,02;6,58;5,7;2026-8281-375;2026;False;;4,0;4,0;57,0;10,0;5,0;76,0
+Andres Andrade;2026-09-28;Columbus CH;Hard;C;W;R32;6-4 6-2;Trevor Svajda;7,55;9,43;5,36;5,89;2026-8281-363;2026;False;;4,0;5,0;53,0;9,0;3,0;56,0
 Andres Andrade;2026-09-21;San Diego 2 CH;Hard;C;L;QF;6-3 6-2;Nishesh Basavareddy;1,85;3,7;4,76;6,0;2026-3175-382;2026;False;;1,0;2,0;54,0;9,0;2,0;42,0
 Andres Andrade;2026-09-21;San Diego 2 CH;Hard;C;W;R16;3-6 6-3 7-5;Darwin Blanch;4,08;5,1;11,11;6,53;2026-3175-377;2026;False;;4,0;5,0;98,0;15,0;11,0;99,0
 Andres Andrade;2026-09-21;San Diego 2 CH;Hard;C;W;R32;4-6 7-5 6-3;Abedallah Shelbayh;6,45;5,38;4,59;6,2;2026-3175-367;2026;False;;6,0;5,0;93,0;15,0;5,0;109,0
@@ -16221,8 +16228,8 @@ Botic Van De Zandschulp;2017-02-13;Rotterdam;Hard;A;W;Q1;1-6 6-4 6-3;Andrey Rubl
 Botic Van De Zandschulp;2016-09-05;Alphen aan den Rijn CH;Clay;C;L;R32;6-2 6-7(1) 6-3;Yannik Reuter;7,95;9,09;2,83;6,29;2016-3626-279;2016;True;;7,0;8,0;88,0;14,0;3,0;106,0
 Botic Van De Zandschulp;2016-07-25;Scheveningen CH;Clay;C;L;Q3;6-3 6-0;Juan Ignacio Galarza;1,92;5,77;0,0;6,5;2016-0686-269;2016;True;;1,0;3,0;52,0;8,0;0,0;43,0
 Botic Van De Zandschulp;2016-07-25;Scheveningen CH;Clay;C;W;Q2;6-4 6-0;Colin Van Beem;10,91;7,27;0,0;6,88;2016-0686-264;2016;True;;6,0;4,0;55,0;8,0;0,0;48,0
-Braden Shick;2026-09-28;Columbus Challenger;Hard;C;L;R16;6-1 6-4;Mees Rottgering;5,0;6,67;5,0;6,67;2026-8281-376;2026;False;;3,0;4,0;60,0;9,0;2,0;40,0
-Braden Shick;2026-09-28;Columbus Challenger;Hard;C;W;R32;7-6(4) 0-6 6-3;Ozan Baris;12,35;0,0;15,66;5,79;2026-8281-366;2026;False;;10,0;0,0;81,0;14,0;13,0;83,0
+Braden Shick;2026-09-28;Columbus CH;Hard;C;L;R16;6-1 6-4;Mees Rottgering;5,0;6,67;5,0;6,67;2026-8281-376;2026;False;;3,0;4,0;60,0;9,0;2,0;40,0
+Braden Shick;2026-09-28;Columbus CH;Hard;C;W;R32;7-6(4) 0-6 6-3;Ozan Baris;12,35;0,0;15,66;5,79;2026-8281-366;2026;False;;10,0;0,0;81,0;14,0;13,0;83,0
 Braden Shick;2026-09-21;San Diego 2 CH;Hard;C;L;R32;6-3 7-6(5);Patrick Maloney;7,69;7,69;6,58;7,09;2026-3175-358;2026;False;;6,0;6,0;78,0;11,0;5,0;76,0
 Braden Shick;2026-09-14;Tiburon CH;Hard;C;L;R16;6-4 6-7(5) 6-4;J J Wolf;2,78;2,78;5,5;6,75;2026-1768-372;2026;False;;3,0;3,0;108,0;16,0;6,0;109,0
 Braden Shick;2026-09-14;Tiburon CH;Hard;C;W;R32;6-3 6-4;Erik Arutiunian;5,66;1,89;13,46;5,3;2026-1768-358;2026;False;;3,0;1,0;53,0;10,0;7,0;52,0
@@ -16769,248 +16776,248 @@ Brandon Nakashima;2018-03-05;Indian Wells Masters;Hard;M;L;Q1;6-0 7-6(3);Vasek P
 Brandon Nakashima;2018-02-26;Indian Wells CH;Hard;C;L;Q1;7-6(7) 7-5;Mitchell Krueger;2,74;2,74;2,33;6,08;2018-7851-248;2018;True;;2,0;2,0;73,0;12,0;2,0;86,0
 Brandon Nakashima;2016-10-10;Fairfield CH;Hard;C;L;Q2;6-2 6-0;Brydan Klein;0,0;2,33;16,22;6,14;2016-7339-245;2016;True;;0,0;1,0;43,0;7,0;6,0;37,0
 Brandon Nakashima;2016-10-10;Fairfield CH;Hard;C;W;Q1;6-2 6-2;Alec Adamson;0,0;3,7;7,41;6,75;2016-7339-232;2016;True;;0,0;2,0;54,0;8,0;4,0;54,0
-Bu Yunchaokete;2026-10-07;ATP Shanghai;Hard;M;L;R64;6-1 7-6(2);Casper Ruud;12,35;1,23;20,29;9,0;2026-5014-342;2026;False;;10,0;1,0;81,0;9,0;14,0;69,0
-Bu Yunchaokete;2026-10-07;ATP Shanghai;Hard;M;W;R128;7-6(3) 6-3;Luca Van Assche;3,45;0,0;15,07;5,27;2026-5014-310;2026;False;;2,0;0,0;58,0;11,0;11,0;73,0
-Bu Yunchaokete;2026-09-30;Beijing;Hard;A;L;R16;4-6 7-6(2) 6-2;Novak Djokovic;10,0;1,0;15,46;6,67;2026-0747-377;2026;False;;10,0;1,0;100,0;15,0;15,0;97,0
-Bu Yunchaokete;2026-09-30;Beijing;Hard;A;W;R32;6-2 5-7 6-4;Juan Manuel Cerundolo;14,29;1,3;7,0;5,13;2026-0747-368;2026;False;;11,0;1,0;77,0;15,0;7,0;100,0
-Bu Yunchaokete;2026-09-23;Hangzhou;Hard;A;L;QF;6-3 6-3;Roman Safiullin;8,93;3,57;34,09;6,22;2026-4713-381;2026;False;;5,0;2,0;56,0;9,0;15,0;44,0
-Bu Yunchaokete;2026-09-23;Hangzhou;Hard;A;W;R16;7-6(4) 6-7(5) 6-2;Kamil Majchrzak;12,84;3,67;10,71;6,81;2026-4713-375;2026;False;;14,0;4,0;109,0;16,0;12,0;112,0
-Bu Yunchaokete;2026-09-23;Hangzhou;Hard;A;W;R32;6-4 6-3;Michael Zheng;13,56;1,69;3,77;5,9;2026-4713-366;2026;False;;8,0;1,0;59,0;10,0;2,0;53,0
-Bu Yunchaokete;2026-08-31;US Open;Hard;G;L;R64;6-3 2-6 6-2 6-3;Michael Zheng;7,48;7,48;13,13;6,29;2026-560-168;2026;False;;8,0;8,0;107,0;17,0;13,0;99,0
-Bu Yunchaokete;2026-08-31;US Open;Hard;G;W;R128;6-2 6-1 6-1;Rafael Jodar;3,28;4,92;2,53;5,55;2026-560-108;2026;False;;2,0;3,0;61,0;11,0;2,0;79,0
-Bu Yunchaokete;2026-08-31;US Open;Hard;G;L;Q3;3-6 6-4 7-5;Federico Cina;9,0;5,0;13,33;6,67;2026-560-807;2026;False;;9,0;5,0;100,0;15,0;10,0;75,0
-Bu Yunchaokete;2026-08-31;US Open;Hard;G;W;Q2;6-4 6-4;Borna Gojo;16,98;3,77;17,46;5,3;2026-560-785;2026;False;;9,0;2,0;53,0;10,0;11,0;63,0
-Bu Yunchaokete;2026-08-31;US Open;Hard;G;W;Q1;4-6 6-4 6-2;Rio Noguchi;11,39;5,06;0,0;5,64;2026-560-741;2026;False;;9,0;4,0;79,0;14,0;0,0;107,0
-Bu Yunchaokete;2026-08-18;Quebec City CH;Hard;C;L;R32;6-3 6-1;Nicolai Budkov Kjaer;5,36;10,71;14,29;7,0;2026-3103-363;2026;False;;3,0;6,0;56,0;8,0;6,0;42,0
-Bu Yunchaokete;2026-08-13;Cincinnati Masters;Hard;M;L;Q2;6-2 7-6(2);Quentin Halys;2,82;2,82;23,73;7,1;2026-0422-274;2026;False;;2,0;2,0;71,0;10,0;14,0;59,0
-Bu Yunchaokete;2026-08-13;Cincinnati Masters;Hard;M;W;Q1;7-6(6) 6-4;Francesco Maestrelli;6,94;4,17;9,84;6,55;2026-0422-260;2026;False;;5,0;3,0;72,0;11,0;6,0;61,0
-Bu Yunchaokete;2026-07-13;Lincoln CH;Hard;C;L;SF;2-6 6-1 7-6(6);Mark Lajal;1,18;2,35;14,63;6,54;2026-2941-383;2026;False;;1,0;2,0;85,0;13,0;12,0;82,0
-Bu Yunchaokete;2026-07-13;Lincoln CH;Hard;C;W;QF;6-7(1) 6-3 6-4;Colton Smith;3,23;4,03;9,38;7,75;2026-2941-379;2026;False;;4,0;5,0;124,0;16,0;9,0;96,0
-Bu Yunchaokete;2026-07-13;Lincoln CH;Hard;C;W;R16;6-4 6-4;Yibing Wu;3,85;1,92;9,09;5,2;2026-2941-371;2026;False;;2,0;1,0;52,0;10,0;5,0;55,0
-Bu Yunchaokete;2026-07-13;Lincoln CH;Hard;C;W;R32;4-6 7-6(4) 7-6(8);Evan Zhu;5,94;1,98;4,92;5,94;2026-2941-355;2026;False;;6,0;2,0;101,0;17,0;6,0;122,0
-Bu Yunchaokete;2026-07-06;Newport CH;Grass;C;L;R16;6-2 6-1;Daniel Milavsky;4,35;6,52;14,29;5,75;2026-0315-377;2026;False;;2,0;3,0;46,0;8,0;5,0;35,0
-Bu Yunchaokete;2026-07-06;Newport CH;Grass;C;W;R32;6-4 6-4;Daniil Glinka;5,71;4,29;11,11;7,0;2026-0315-367;2026;False;;4,0;3,0;70,0;10,0;6,0;54,0
-Bu Yunchaokete;2026-06-08;Ilkley Challenger;Grass;C;W;R32;7-6(7) 7-5;Chris Rodesch;6,85;4,11;11,11;6,08;2026-9005-381;2026;False;109,0;;;;;;
-Bu Yunchaokete;2026-06-01;Birmingham CH;Grass;C;W;F;2-6 7-6(3) 6-3;Otto Virtanen;7,22;3,09;25,32;6,47;2026-4940-385;2026;False;;7,0;3,0;97,0;15,0;20,0;79,0
-Bu Yunchaokete;2026-06-01;Birmingham CH;Grass;C;W;SF;6-2 3-6 6-3;Arthur Fery;11,63;3,49;9,72;6,62;2026-4940-384;2026;False;;10,0;3,0;86,0;13,0;7,0;72,0
-Bu Yunchaokete;2026-06-01;Birmingham CH;Grass;C;W;QF;7-5 6-4;Mark Lajal;16,67;0,0;7,27;5,45;2026-4940-381;2026;False;;10,0;0,0;60,0;11,0;4,0;55,0
-Bu Yunchaokete;2026-06-01;Birmingham CH;Grass;C;W;R16;6-2 6-4;Billy Harris;14,55;1,82;5,66;6,11;2026-4940-376;2026;False;;8,0;1,0;55,0;9,0;3,0;53,0
-Bu Yunchaokete;2026-06-01;Birmingham CH;Grass;C;W;R32;7-6(5) 1-6 6-1;Lloyd Harris;6,82;1,14;28,57;6,77;2026-4940-365;2026;False;;6,0;1,0;88,0;13,0;22,0;77,0
-Bu Yunchaokete;2026-05-04;Wuxi CH;Hard;C;L;F;6-2 7-6(2);Soon Woo Kwon;13,64;0,0;22,41;6,6;2026-2921-385;2026;False;;9,0;0,0;66,0;10,0;13,0;58,0
-Bu Yunchaokete;2026-05-04;Wuxi CH;Hard;C;W;SF;6-1 7-5;Jie Cui;15,91;2,27;3,75;4,89;2026-2921-384;2026;False;;7,0;1,0;44,0;9,0;3,0;80,0
-Bu Yunchaokete;2026-05-04;Wuxi CH;Hard;C;W;QF;6-2 6-0;Adam Walton;5,77;1,92;5,8;7,43;2026-2921-382;2026;False;;3,0;1,0;52,0;7,0;4,0;69,0
-Bu Yunchaokete;2026-05-04;Wuxi CH;Hard;C;W;R16;6-4 6-3;Ognjen Milic;6,25;2,08;9,68;5,33;2026-2921-377;2026;False;;3,0;1,0;48,0;9,0;6,0;62,0
-Bu Yunchaokete;2026-05-04;Wuxi CH;Hard;C;W;R32;6-4 7-5;Keegan Smith;5,17;0,0;13,79;5,27;2026-2921-367;2026;False;;3,0;0,0;58,0;11,0;8,0;58,0
-Bu Yunchaokete;2026-04-27;Jiujiang CH;Hard;C;L;QF;7-6(2) 7-6(8);Coleman Wong;8,43;0,0;12,79;6,92;2026-3083-380;2026;False;;7,0;0,0;83,0;12,0;11,0;86,0
-Bu Yunchaokete;2026-04-27;Jiujiang CH;Hard;C;W;R16;6-2 6-3;Andre Ilagan;18,18;0,0;9,84;6,11;2026-3083-374;2026;False;;10,0;0,0;55,0;9,0;6,0;61,0
-Bu Yunchaokete;2026-04-27;Jiujiang CH;Hard;C;W;R32;7-6(5) 7-6(5);Daniel Masur;10,0;1,25;9,21;6,67;2026-3083-362;2026;False;;8,0;1,0;80,0;12,0;7,0;76,0
-Bu Yunchaokete;2026-04-20;Gwangju CH;Hard;C;L;R32;6-4 6-4;August Holmgren;7,69;1,54;28,85;6,5;2026-7490-367;2026;False;;5,0;1,0;65,0;10,0;15,0;52,0
-Bu Yunchaokete;2026-04-13;Busan CH;Hard;C;L;F;3-6 6-3 6-2;Leandro Riedi;7,59;1,27;10,0;6,08;2026-1741-385;2026;False;;6,0;1,0;79,0;13,0;8,0;80,0
-Bu Yunchaokete;2026-04-13;Busan CH;Hard;C;W;SF;7-5 6-2;Alex Bolt;3,45;3,45;6,35;5,8;2026-1741-383;2026;False;;2,0;2,0;58,0;10,0;4,0;63,0
-Bu Yunchaokete;2026-04-13;Busan CH;Hard;C;W;QF;6-4 7-6(6);Adam Walton;14,93;0,0;10,26;6,09;2026-1741-379;2026;False;;10,0;0,0;67,0;11,0;8,0;78,0
-Bu Yunchaokete;2026-04-13;Busan CH;Hard;C;W;R16;6-4 6-2;Marat Sharipov;11,29;1,61;13,21;6,89;2026-1741-372;2026;False;;7,0;1,0;62,0;9,0;7,0;53,0
-Bu Yunchaokete;2026-04-13;Busan CH;Hard;C;W;R32;6-1 6-4;Yunseong Chung;4,48;2,99;11,9;7,44;2026-1741-358;2026;False;;3,0;2,0;67,0;9,0;5,0;42,0
-Bu Yunchaokete;2026-03-23;Morelia CH;Hard;C;L;R16;7-6(0) 6-4;Alexis Galarneau;7,41;1,23;6,25;7,36;2026-2991-372;2026;False;;6,0;1,0;81,0;11,0;5,0;80,0
-Bu Yunchaokete;2026-03-23;Morelia CH;Hard;C;W;R32;7-5 6-4;Max Wiskandt;6,45;4,84;11,86;5,64;2026-2991-358;2026;False;;4,0;3,0;62,0;11,0;7,0;59,0
-Bu Yunchaokete;2026-03-18;Miami Masters;Hard;M;L;Q2;6-3 3-6 7-5;Arthur Fery;8,14;4,65;14,46;5,73;2026-0403-265;2026;False;;7,0;4,0;86,0;15,0;12,0;83,0
-Bu Yunchaokete;2026-03-18;Miami Masters;Hard;M;W;Q1;7-5 6-4;Tristan Schoolkate;21,15;3,85;18,03;4,73;2026-0403-243;2026;False;;11,0;2,0;52,0;11,0;11,0;61,0
-Bu Yunchaokete;2026-01-19;Australian Open;Hard;G;L;R128;6-3 7-6(3) 6-1;Denis Shapovalov;1,04;1,04;22,89;6,86;2026-580-152;2026;False;;1,0;1,0;96,0;14,0;19,0;83,0
-Bu Yunchaokete;2026-01-05;Hong Kong;Hard;A;L;Q1;7-6(9) 6-3;Nishesh Basavareddy;16,67;3,33;11,84;6,0;2026-0336-349;2026;False;;10,0;2,0;60,0;10,0;9,0;76,0
-Bu Yunchaokete;2025-10-27;Seoul CH;Hard;C;L;QF;6-3 6-4;Coleman Wong;7,58;1,52;14,04;7,33;2025-7288-379;2025;False;;5,0;1,0;66,0;9,0;8,0;57,0
-Bu Yunchaokete;2025-10-27;Seoul CH;Hard;C;W;R16;6-1 4-6 6-1;Marc Andrea Huesler;5,71;4,29;7,21;5,83;2025-7288-371;2025;False;;4,0;3,0;70,0;12,0;8,0;111,0
-Bu Yunchaokete;2025-10-27;Seoul CH;Hard;C;W;R32;7-5 6-4;Uisung Park;13,95;2,33;11,69;7,82;2025-7288-355;2025;False;;12,0;2,0;86,0;11,0;9,0;77,0
-Bu Yunchaokete;2025-10-01;Shanghai Masters;Hard;M;L;R64;6-4 6-4;Luciano Darderi;18,18;0,0;17,31;5,5;2025-5014-324;2025;False;;10,0;0,0;55,0;10,0;9,0;52,0
-Bu Yunchaokete;2025-10-01;Shanghai Masters;Hard;M;W;R128;6-3 6-7(5) 6-3;Juan Manuel Cerundolo;8,55;0,85;10,31;7,31;2025-5014-292;2025;False;;10,0;1,0;117,0;16,0;10,0;97,0
-Bu Yunchaokete;2025-09-25;Beijing;Hard;A;L;R32;6-4 6-0;Alex De Minaur;8,77;5,26;19,61;7,12;2025-0747-366;2025;False;;5,0;3,0;57,0;8,0;10,0;51,0
-Bu Yunchaokete;2025-09-17;Hangzhou;Hard;A;L;R32;6-7(2) 6-4 7-6(3);Zhizhen Zhang;8,49;2,83;13,04;6,24;2025-4713-363;2025;False;;9,0;3,0;106,0;17,0;15,0;115,0
-Bu Yunchaokete;2025-08-25;US Open;Hard;G;L;R128;6-1 6-4 7-6(1);Valentin Royer;12,22;3,33;12,63;6,43;2025-560-102;2025;False;;11,0;3,0;90,0;14,0;12,0;95,0
-Bu Yunchaokete;2025-08-17;Winston-Salem;Hard;A;L;QF;6-3 5-7 6-3;Botic Van De Zandschulp;2,83;0,94;7,95;7,07;2025-6242-382;2025;False;;3,0;1,0;106,0;15,0;7,0;88,0
-Bu Yunchaokete;2025-08-17;Winston-Salem;Hard;A;W;R16;6-4 6-4;Mariano Navone;0,0;4,62;5,0;6,5;2025-6242-378;2025;False;;0,0;3,0;65,0;10,0;3,0;60,0
-Bu Yunchaokete;2025-08-17;Winston-Salem;Hard;A;W;R32;6-3 6-2;Stefanos Tsitsipas;4,92;3,28;7,14;6,78;2025-6242-370;2025;False;;3,0;2,0;61,0;9,0;4,0;56,0
-Bu Yunchaokete;2025-08-17;Winston-Salem;Hard;A;W;R64;6-7(2) 6-3 7-6(4);Chun Hsin Tseng;8,74;3,88;8,15;6,06;2025-6242-354;2025;False;;9,0;4,0;103,0;17,0;11,0;135,0
-Bu Yunchaokete;2025-08-07;Cincinnati Masters;Hard;M;L;R128;4-6 6-2 7-5;Joao Fonseca;8,6;4,3;15,12;6,2;2025-0422-296;2025;False;;8,0;4,0;93,0;15,0;13,0;86,0
-Bu Yunchaokete;2025-07-27;Canada Masters;Hard;M;L;R64;6-1 6-4;Lorenzo Sonego;2,38;7,14;13,21;5,25;2025-0421-313;2025;False;;1,0;3,0;42,0;8,0;7,0;53,0
-Bu Yunchaokete;2025-07-27;Canada Masters;Hard;M;W;R128;7-6(4) 6-2;Vit Kopriva;16,18;0,0;4,0;6,8;2025-0421-281;2025;False;;11,0;0,0;68,0;10,0;3,0;75,0
-Bu Yunchaokete;2025-07-21;Washington;Hard;A;L;R32;7-6(5) 6-2;Alex De Minaur;9,38;4,69;2,99;6,4;2025-0418-358;2025;False;;6,0;3,0;64,0;10,0;2,0;67,0
-Bu Yunchaokete;2025-07-21;Washington;Hard;A;W;R64;6-4 7-5;David Goffin;14,71;5,88;8,11;6,18;2025-0418-342;2025;False;;10,0;4,0;68,0;11,0;6,0;74,0
-Bu Yunchaokete;2025-07-14;Los Cabos;Hard;A;L;R16;3-6 7-5 7-6(6);Emilio Nava;6,5;2,44;12,39;7,24;2025-7480-377;2025;False;;8,0;3,0;123,0;17,0;14,0;113,0
-Bu Yunchaokete;2025-07-14;Los Cabos;Hard;A;W;R32;7-6(5) 6-2;Alan Magadan;5,88;4,71;2,9;8,5;2025-7480-368;2025;False;;5,0;4,0;85,0;10,0;2,0;69,0
-Bu Yunchaokete;2025-06-30;Wimbledon;Grass;G;L;R128;6-4 4-6 7-6(1) 6-4;Brandon Nakashima;9,46;2,7;16,03;7,05;2025-540-112;2025;False;;14,0;4,0;148,0;21,0;21,0;131,0
-Bu Yunchaokete;2025-06-22;Mallorca;Grass;A;L;R32;6-4 6-4;Laslo Djere;6,15;6,15;14,52;6,5;2025-8994-363;2025;False;;4,0;4,0;65,0;10,0;9,0;62,0
-Bu Yunchaokete;2025-06-16;Queen's Club;Grass;A;L;Q1;7-6(0) 7-6(6);Henry Searle;8,75;2,5;15,66;6,67;2025-0311-347;2025;False;;7,0;2,0;80,0;12,0;13,0;83,0
-Bu Yunchaokete;2025-05-26;Roland Garros;Clay;G;L;R128;5-7 7-6(3) 7-6(4) 6-1;Filip Misolic;9,3;0,78;5,42;6,14;2025-520-285;2025;False;;12,0;1,0;129,0;21,0;9,0;166,0
-Bu Yunchaokete;2025-05-18;Hamburg;Clay;A;L;R32;7-5 6-2;Frances Tiafoe;8,06;8,06;6,35;6,2;2025-0414-355;2025;False;;5,0;5,0;62,0;10,0;4,0;63,0
-Bu Yunchaokete;2025-05-13;Turin CH;Clay;C;L;F;6-3 6-3;Alexander Bublik;9,09;1,52;12,77;7,33;2025-2863-385;2025;False;;6,0;1,0;66,0;9,0;6,0;47,0
-Bu Yunchaokete;2025-05-13;Turin CH;Clay;C;W;SF;6-3 6-2;Camilo Ugo Carabelli;9,46;0,0;5,77;8,22;2025-2863-383;2025;False;;7,0;0,0;74,0;9,0;3,0;52,0
-Bu Yunchaokete;2025-05-13;Turin CH;Clay;C;W;QF;5-5 RET;Francesco Passaro;6,45;3,23;2,44;6,2;2025-2863-379;2025;False;;2,0;1,0;31,0;5,0;1,0;41,0
-Bu Yunchaokete;2025-05-13;Turin CH;Clay;C;W;R16;7-5 6-2;Fabio Fognini;17,24;1,72;0,0;5,8;2025-2863-372;2025;False;;10,0;1,0;58,0;10,0;0,0;71,0
-Bu Yunchaokete;2025-05-13;Turin CH;Clay;C;W;R32;7-6(5) 6-4;Giovanni Fonio;10,61;1,52;9,52;6,0;2025-2863-361;2025;False;;7,0;1,0;66,0;11,0;6,0;63,0
-Bu Yunchaokete;2025-05-07;Rome Masters;Clay;M;L;R128;7-6(4) 6-3;Luciano Darderi;5,71;2,86;10,77;6,36;2025-0416-290;2025;False;;4,0;2,0;70,0;11,0;7,0;65,0
-Bu Yunchaokete;2025-04-23;Madrid Masters;Clay;M;L;R128;6-3 7-6(2);Jacob Fearnley;5,33;1,33;10,0;6,82;2025-1536-277;2025;False;;4,0;1,0;75,0;11,0;6,0;60,0
-Bu Yunchaokete;2025-04-07;Monte Carlo Masters;Clay;M;L;R64;4-6 7-5 6-3;Lorenzo Musetti;3,96;2,97;1,11;6,73;2025-0410-340;2025;False;;4,0;3,0;101,0;15,0;1,0;90,0
-Bu Yunchaokete;2025-04-07;Monte Carlo Masters;Clay;M;W;Q2;6-4 6-4;Albert Ramos;16,0;4,0;3,77;5,0;2025-0410-314;2025;False;;8,0;2,0;50,0;10,0;2,0;53,0
-Bu Yunchaokete;2025-04-07;Monte Carlo Masters;Clay;M;W;Q1;6-3 6-1;Nicolai Budkov Kjaer;11,11;0,0;1,82;5,62;2025-0410-302;2025;False;;5,0;0,0;45,0;8,0;1,0;55,0
-Bu Yunchaokete;2025-03-31;Bucharest;Clay;A;L;R32;3-6 6-2 7-5;Roberto Bautista Agut;5,32;1,06;1,77;6,71;2025-4462-368;2025;False;;5,0;1,0;94,0;14,0;2,0;113,0
-Bu Yunchaokete;2025-03-19;Miami Masters;Hard;M;L;R64;6-4 6-4;Alex De Minaur;9,23;1,54;10,42;6,5;2025-0403-326;2025;False;;6,0;1,0;65,0;10,0;5,0;48,0
-Bu Yunchaokete;2025-03-19;Miami Masters;Hard;M;W;R128;6-4 6-2;Cameron Norrie;15,09;0,0;6,45;5,89;2025-0403-294;2025;False;;8,0;0,0;53,0;9,0;4,0;62,0
-Bu Yunchaokete;2025-03-05;Indian Wells Masters;Hard;M;L;R64;6-2 6-2;Daniil Medvedev;0,0;1,61;5,77;7,75;2025-0404-323;2025;False;;0,0;1,0;62,0;8,0;3,0;52,0
-Bu Yunchaokete;2025-03-05;Indian Wells Masters;Hard;M;W;R128;7-5 6-4;Nishesh Basavareddy;1,61;1,61;4,41;5,64;2025-0404-291;2025;False;;1,0;1,0;62,0;11,0;3,0;68,0
-Bu Yunchaokete;2025-02-24;Acapulco;Hard;A;L;R32;2-6 7-6(5) 7-6(5);Alex Michelsen;9,52;2,86;4,96;6,56;2025-0807-361;2025;False;;10,0;3,0;105,0;16,0;6,0;121,0
-Bu Yunchaokete;2025-02-17;Rio de Janeiro;Clay;A;L;R32;7-6(4) 6-4;Alexander Zverev;6,76;1,35;4,0;6,73;2025-6932-370;2025;False;;5,0;1,0;74,0;11,0;3,0;75,0
-Bu Yunchaokete;2025-02-10;Delray Beach;Hard;A;L;R16;7-6(4) 6-2;Taylor Fritz;8,33;1,39;29,51;7,2;2025-0499-378;2025;False;;6,0;1,0;72,0;10,0;18,0;61,0
-Bu Yunchaokete;2025-02-10;Delray Beach;Hard;A;W;R32;6-2 6-0;Rinky Hijikata;11,11;2,78;4,17;5,14;2025-0499-370;2025;False;;4,0;1,0;36,0;7,0;2,0;48,0
-Bu Yunchaokete;2025-02-03;Dallas;Hard;A;L;R32;7-5 6-2;Jaume Munar;11,59;0,0;5,17;6,9;2025-0424-360;2025;False;;8,0;0,0;69,0;10,0;3,0;58,0
-Bu Yunchaokete;2025-01-27;Montpellier;Hard;A;L;QF;6-3 6-4;Felix Auger Aliassime;5,66;0,0;21,57;5,89;2025-0375-379;2025;False;;3,0;0,0;53,0;9,0;11,0;51,0
-Bu Yunchaokete;2025-01-27;Montpellier;Hard;A;W;R16;6-2 6-1;Constant Lestienne;23,08;0,0;6,56;5,57;2025-0375-372;2025;False;;9,0;0,0;39,0;7,0;4,0;61,0
-Bu Yunchaokete;2025-01-27;Montpellier;Hard;A;W;R32;7-6(1) 6-3;Daniel Altmaier;6,56;0,0;7,59;6,1;2025-0375-361;2025;False;;4,0;0,0;61,0;10,0;6,0;79,0
-Bu Yunchaokete;2025-01-13;Australian Open;Hard;G;L;R128;7-6(4) 6-4 7-6(6);Hady Habib;11,61;2,68;20,22;6,59;2025-580-157;2025;False;;13,0;3,0;112,0;17,0;18,0;89,0
-Bu Yunchaokete;2025-01-06;Auckland;Hard;A;L;R32;6-3 6-4;Jan Lennard Struff;8,22;1,37;26,0;8,11;2025-0301-365;2025;False;;6,0;1,0;73,0;9,0;13,0;50,0
-Bu Yunchaokete;2024-12-30;Hong Kong;Hard;A;L;R32;3-6 6-3 7-6(6);Nuno Borges;15,89;0,93;11,11;7,13;2025-0336-362;2024;False;;17,0;1,0;107,0;15,0;9,0;81,0
-Bu Yunchaokete;2024-11-11;Kobe CH;Hard;C;L;R16;7-6(3) 7-5;Jurij Rodionov;7,41;1,23;10,98;6,75;2024-7397-378;2024;False;;6,0;1,0;81,0;12,0;9,0;82,0
-Bu Yunchaokete;2024-11-11;Kobe CH;Hard;C;W;R32;6-4 6-4;Elias Ymer;5,66;0,0;13,56;5,3;2024-7397-370;2024;False;;3,0;0,0;53,0;10,0;8,0;59,0
-Bu Yunchaokete;2024-11-04;Metz;Hard;A;L;QF;6-7(6) 6-2 6-4;Alex Michelsen;7,27;2,73;10,42;7,33;2024-0341-380;2024;False;;8,0;3,0;110,0;15,0;10,0;96,0
-Bu Yunchaokete;2024-11-04;Metz;Hard;A;W;R16;6-4 7-6(1);Jesper De Jong;11,48;1,64;14,86;5,55;2024-0341-373;2024;False;;7,0;1,0;61,0;11,0;11,0;74,0
-Bu Yunchaokete;2024-11-04;Metz;Hard;A;W;R32;7-6(4) 6-4;Adrian Mannarino;12,12;0,0;14,29;6,0;2024-0341-362;2024;False;;8,0;0,0;66,0;11,0;9,0;63,0
-Bu Yunchaokete;2024-10-28;Paris Masters;Hard;M;L;Q2;3-6 7-6(4) 6-3;Quentin Halys;9,38;2,08;25,0;6,86;2024-0352-317;2024;False;;9,0;2,0;96,0;14,0;23,0;92,0
-Bu Yunchaokete;2024-10-28;Paris Masters;Hard;M;W;Q1;6-4 7-6(5);Alexander Shevchenko;8,45;1,41;10,29;6,45;2024-0352-304;2024;False;;6,0;1,0;71,0;11,0;7,0;68,0
-Bu Yunchaokete;2024-10-21;Vienna;Hard;A;L;Q1;7-5 6-7(3) 7-6(3);Aleksandar Kovacevic;14,81;1,85;19,83;6,0;2024-0337-341;2024;False;;16,0;2,0;108,0;18,0;24,0;121,0
-Bu Yunchaokete;2024-10-14;Almaty;Hard;A;L;Q2;6-2 3-6 7-5;Daniel Evans;7,69;0,0;15,91;6,93;2024-9410-358;2024;False;;8,0;0,0;104,0;15,0;14,0;88,0
-Bu Yunchaokete;2024-10-14;Almaty;Hard;A;W;Q1;6-3 6-4;Illya Marchenko;12,07;1,72;13,46;5,8;2024-9410-354;2024;False;;7,0;1,0;58,0;10,0;7,0;52,0
-Bu Yunchaokete;2024-10-02;Shanghai Masters;Hard;M;L;R128;6-3 6-4;Alex Michelsen;4,0;6,0;11,32;5,56;2024-5014-283;2024;False;;2,0;3,0;50,0;9,0;6,0;53,0
-Bu Yunchaokete;2024-09-26;Beijing;Hard;A;L;SF;6-3 7-6(3);Jannik Sinner;3,8;3,8;14,29;7,9;2024-0747-399;2024;False;;3,0;3,0;79,0;10,0;11,0;77,0
-Bu Yunchaokete;2024-09-26;Beijing;Hard;A;W;QF;7-5 6-4;Andrey Rublev;8,45;1,41;10,0;6,45;2024-0747-394;2024;False;;6,0;1,0;71,0;11,0;6,0;60,0
-Bu Yunchaokete;2024-09-26;Beijing;Hard;A;W;R16;6-2 6-4;Lorenzo Musetti;9,09;1,82;0,0;6,11;2024-0747-389;2024;False;;5,0;1,0;55,0;9,0;0,0;56,0
-Bu Yunchaokete;2024-09-26;Beijing;Hard;A;W;R32;6-7(3) 6-2 6-4;Juncheng Shang;9,52;2,38;4,72;5,6;2024-0747-377;2024;False;;8,0;2,0;84,0;15,0;5,0;106,0
-Bu Yunchaokete;2024-09-18;Hangzhou;Hard;A;L;SF;7-6(3) 6-4;Zhizhen Zhang;13,11;1,64;12,82;5,55;2024-4713-398;2024;False;;8,0;1,0;61,0;11,0;10,0;78,0
-Bu Yunchaokete;2024-09-18;Hangzhou;Hard;A;W;QF;6-4 6-2;Mikhail Kukushkin;15,38;1,92;2,0;5,78;2024-4713-395;2024;False;;8,0;1,0;52,0;9,0;1,0;50,0
-Bu Yunchaokete;2024-09-18;Hangzhou;Hard;A;W;R16;7-6(7) 4-6 6-3;Karen Khachanov;14,29;2,2;19,57;5,69;2024-4713-392;2024;False;;13,0;2,0;91,0;16,0;18,0;92,0
-Bu Yunchaokete;2024-09-18;Hangzhou;Hard;A;W;R32;7-5 6-3;Hugo Gaston;15,0;1,67;6,06;5,45;2024-4713-380;2024;False;;9,0;1,0;60,0;11,0;4,0;66,0
-Bu Yunchaokete;2024-09-13;Davis Cup WG2 R1: ROU vs CHN;Hard;D;L;RR;3-6 6-4 7-6(4);Cezar Cretu;6,06;3,03;8,49;6,6;2024-M-DC-2024-WG2-M-ROU-CHN-01-001;2024;False;;6,0;3,0;99,0;15,0;9,0;106,0
-Bu Yunchaokete;2024-09-13;Davis Cup WG2 R1: ROU vs CHN;Hard;D;W;RR;6-3 7-6(3);Gabi Adrian Boitan;1,47;1,47;12,28;6,18;2024-M-DC-2024-WG2-M-ROU-CHN-01-004;2024;False;;1,0;1,0;68,0;11,0;7,0;57,0
-Bu Yunchaokete;2024-09-02;Shanghai CH;Hard;C;L;R32;6-3 3-6 6-3;Marc Polmans;7,06;1,18;13,58;6,54;2024-6313-281;2024;False;;6,0;1,0;85,0;13,0;11,0;81,0
-Bu Yunchaokete;2024-08-26;US Open;Hard;G;L;R128;7-6(2) 6-2 6-2;Casper Ruud;11,96;2,17;17,72;6,57;2024-560-132;2024;False;;11,0;2,0;92,0;14,0;14,0;79,0
-Bu Yunchaokete;2024-08-26;US Open;Hard;G;W;Q3;1-6 6-3 6-4;Aslan Karatsev;4,35;2,9;7,87;5,31;2024-560-798;2024;False;;3,0;2,0;69,0;13,0;7,0;89,0
-Bu Yunchaokete;2024-08-26;US Open;Hard;G;W;Q2;6-4 6-4;Borna Gojo;10,96;1,37;23,21;7,3;2024-560-769;2024;False;;8,0;1,0;73,0;10,0;13,0;56,0
-Bu Yunchaokete;2024-08-26;US Open;Hard;G;W;Q1;6-2 7-6(4);Yasutaka Uchiyama;12,5;3,12;5,71;6,4;2024-560-711;2024;False;;8,0;2,0;64,0;10,0;4,0;70,0
-Bu Yunchaokete;2024-08-05;Lincoln CH;Hard;C;L;SF;0-6 6-0 7-6(3);Jacob Fearnley;4,71;2,35;4,62;7,08;2024-2941-299;2024;False;;4,0;2,0;85,0;12,0;3,0;65,0
-Bu Yunchaokete;2024-08-05;Lincoln CH;Hard;C;W;QF;7-6(3) 6-2;Tristan Schoolkate;4,0;2,67;13,89;7,5;2024-2941-296;2024;False;;3,0;2,0;75,0;10,0;10,0;72,0
-Bu Yunchaokete;2024-08-05;Lincoln CH;Hard;C;W;R16;6-3 6-2;Beibit Zhukayev;7,14;3,57;10,0;6,22;2024-2941-290;2024;False;;4,0;2,0;56,0;9,0;5,0;50,0
-Bu Yunchaokete;2024-08-05;Lincoln CH;Hard;C;W;R32;6-4 6-2;Shintaro Mochizuki;3,45;2,3;0,0;9,67;2024-2941-278;2024;False;;3,0;2,0;87,0;9,0;0,0;65,0
-Bu Yunchaokete;2024-07-22;Chicago CH;Hard;C;L;F;6-3 7-6(3);Gabriel Diallo;5,48;2,74;28,81;7,3;2024-2797-300;2024;False;;4,0;2,0;73,0;10,0;17,0;59,0
-Bu Yunchaokete;2024-07-22;Chicago CH;Hard;C;W;SF;6-4 7-5;Learner Tien;7,14;0,0;0,0;6,36;2024-2797-298;2024;False;;5,0;0,0;70,0;11,0;0,0;70,0
-Bu Yunchaokete;2024-07-22;Chicago CH;Hard;C;W;QF;6-2 6-7(9) 6-1;Hugo Grenier;12,0;3,0;10,31;7,14;2024-2797-295;2024;False;;12,0;3,0;100,0;14,0;10,0;97,0
-Bu Yunchaokete;2024-07-22;Chicago CH;Hard;C;W;R16;6-3 6-3;Paul Jubb;8,33;6,25;4,44;5,33;2024-2797-289;2024;False;;4,0;3,0;48,0;9,0;2,0;45,0
-Bu Yunchaokete;2024-07-22;Chicago CH;Hard;C;W;R32;6-4 6-4;Michael Zheng;10,34;3,45;5,88;5,8;2024-2797-277;2024;False;;6,0;2,0;58,0;10,0;4,0;68,0
-Bu Yunchaokete;2024-07-15;Granby CH;Hard;C;W;F;6-3 6-7(7) 6-4;Terence Atmane;6,73;0,96;7,34;6,93;2024-0877-300;2024;False;;7,0;1,0;104,0;15,0;8,0;109,0
-Bu Yunchaokete;2024-07-15;Granby CH;Hard;C;W;SF;6-2 6-1;Hugo Grenier;3,92;0,0;2,08;7,29;2024-0877-299;2024;False;;2,0;0,0;51,0;7,0;1,0;48,0
-Bu Yunchaokete;2024-07-15;Granby CH;Hard;C;W;QF;4-6 6-4 6-2;Bruno Kuzuhara;6,93;0,0;3,3;7,21;2024-0877-296;2024;False;;7,0;0,0;101,0;14,0;3,0;91,0
-Bu Yunchaokete;2024-07-15;Granby CH;Hard;C;W;R16;6-4 6-0;Philip Sekulic;14,75;0,0;4,55;7,62;2024-0877-290;2024;False;;9,0;0,0;61,0;8,0;2,0;44,0
-Bu Yunchaokete;2024-07-15;Granby CH;Hard;C;W;R32;7-6(6) 7-5;Rodrigo Pacheco Mendez;13,64;9,09;9,76;7,33;2024-0877-278;2024;False;;12,0;8,0;88,0;12,0;8,0;82,0
-Bu Yunchaokete;2024-07-08;Winnipeg CH;Hard;C;L;SF;3-6 7-6(6) 6-0;Benjamin Bonzi;7,14;3,57;12,68;6,0;2024-7542-399;2024;False;;6,0;3,0;84,0;14,0;9,0;71,0
-Bu Yunchaokete;2024-07-08;Winnipeg CH;Hard;C;W;QF;6-7(4) 6-2 6-2;Brandon Holt;4,49;3,37;6,25;6,36;2024-7542-394;2024;False;;4,0;3,0;89,0;14,0;5,0;80,0
-Bu Yunchaokete;2024-07-08;Winnipeg CH;Hard;C;W;R16;3-6 6-2 6-3;Marc Polmans;1,28;3,85;3,85;6,0;2024-7542-388;2024;False;;1,0;3,0;78,0;13,0;3,0;78,0
-Bu Yunchaokete;2024-07-08;Winnipeg CH;Hard;C;W;R32;3-6 7-6(2) 6-2;Vasek Pospisil;5,49;3,3;15,38;6,5;2024-7542-377;2024;False;;5,0;3,0;91,0;14,0;16,0;104,0
-Bu Yunchaokete;2024-07-01;Bloomfield Hills CH;Hard;C;L;R16;0-6 7-5 6-0;Learner Tien;14,08;2,82;5,83;5,92;2024-2883-287;2024;False;;10,0;2,0;71,0;12,0;6,0;103,0
-Bu Yunchaokete;2024-07-01;Bloomfield Hills CH;Hard;C;W;R32;6-4 6-4;Ryan Peniston;14,29;4,76;3,08;6,3;2024-2883-273;2024;False;;9,0;3,0;63,0;10,0;2,0;65,0
-Bu Yunchaokete;2024-07-01;Wimbledon;Grass;G;L;Q2;7-5 6-7(10) 6-4;Radu Albot;14,42;1,92;9,91;6,12;2024-540-779;2024;False;;15,0;2,0;104,0;17,0;11,0;111,0
-Bu Yunchaokete;2024-07-01;Wimbledon;Grass;G;W;Q1;6-7(5) 7-6(5) 6-2;Terence Atmane;5,56;1,11;8,33;5,62;2024-540-731;2024;False;;5,0;1,0;90,0;16,0;9,0;108,0
-Bu Yunchaokete;2024-06-17;Ilkley CH;Grass;C;L;Q1;6-4 6-4;Matteo Martineau;3,9;0,0;17,31;7,7;2024-9005-239;2024;False;;3,0;0,0;77,0;10,0;9,0;52,0
-Bu Yunchaokete;2024-06-10;Nottingham CH;Grass;C;L;R32;6-2 7-5;Jacob Fearnley;6,94;4,17;9,62;7,2;2024-7740-374;2024;False;;5,0;3,0;72,0;10,0;5,0;52,0
-Bu Yunchaokete;2024-05-27;Roland Garros;Clay;G;L;Q2;7-5 6-3;Gustavo Heide;1,52;0,0;13,79;6,6;2024-520-234;2024;False;;1,0;0,0;66,0;10,0;8,0;58,0
-Bu Yunchaokete;2024-05-27;Roland Garros;Clay;G;W;Q1;6-3 7-5;Alex Molcan;2,7;2,7;5,45;6,73;2024-520-189;2024;False;;2,0;2,0;74,0;11,0;3,0;55,0
-Bu Yunchaokete;2024-05-06;Wuxi CH;Hard;C;W;F;6-4 6-1;Egor Gerasimov;10,0;4,0;7,46;6,25;2024-2921-300;2024;False;;5,0;2,0;50,0;8,0;5,0;67,0
-Bu Yunchaokete;2024-05-06;Wuxi CH;Hard;C;W;SF;7-5 1-6 6-4;Philip Sekulic;8,64;0,0;7,14;5,79;2024-2921-298;2024;False;;7,0;0,0;81,0;14,0;7,0;98,0
-Bu Yunchaokete;2024-05-06;Wuxi CH;Hard;C;W;QF;6-4 6-3;Tung Lin Wu;5,88;1,47;4,92;7,56;2024-2921-295;2024;False;;4,0;1,0;68,0;9,0;3,0;61,0
-Bu Yunchaokete;2024-05-06;Wuxi CH;Hard;C;W;R16;6-1 7-5;Linang Xiao;19,67;4,92;0,0;6,1;2024-2921-288;2024;False;;12,0;3,0;61,0;10,0;0,0;63,0
-Bu Yunchaokete;2024-05-06;Wuxi CH;Hard;C;W;R32;6-3 6-0;Omar Jasika;11,11;5,56;3,92;5,14;2024-2921-274;2024;False;;4,0;2,0;36,0;7,0;2,0;51,0
-Bu Yunchaokete;2024-04-29;Guangzhou CH;Hard;C;L;SF;2-6 7-6(5) 6-2;Adam Walton;10,78;1,96;8,43;7,29;2024-6965-298;2024;False;;11,0;2,0;102,0;14,0;7,0;83,0
-Bu Yunchaokete;2024-04-29;Guangzhou CH;Hard;C;W;QF;7-6(4) 6-3;James Duckworth;12,68;1,41;14,06;6,45;2024-6965-294;2024;False;;9,0;1,0;71,0;11,0;9,0;64,0
-Bu Yunchaokete;2024-04-29;Guangzhou CH;Hard;C;W;R16;6-4 6-4;Antoine Escoffier;5,8;1,45;9,23;6,9;2024-6965-287;2024;False;;4,0;1,0;69,0;10,0;6,0;65,0
-Bu Yunchaokete;2024-04-29;Guangzhou CH;Hard;C;W;R32;6-1 6-4;Federico Cina;25,0;0,0;7,84;5,5;2024-6965-273;2024;False;;11,0;0,0;44,0;8,0;4,0;51,0
-Bu Yunchaokete;2024-04-15;Gwangju CH;Hard;C;L;F;6-2 3-6 6-4;Lloyd Harris;5,05;1,01;15,73;7,07;2024-7490-300;2024;False;;5,0;1,0;99,0;14,0;14,0;89,0
-Bu Yunchaokete;2024-04-15;Gwangju CH;Hard;C;W;SF;4-6 6-4 7-6(5);Ricardas Berankis;2,91;0,97;2,04;6,44;2024-7490-299;2024;False;;3,0;1,0;103,0;16,0;2,0;98,0
-Bu Yunchaokete;2024-04-15;Gwangju CH;Hard;C;W;QF;7-5 6-3;Yu Hsiou Hsu;6,45;0,0;1,33;6,2;2024-7490-297;2024;False;;4,0;0,0;62,0;10,0;1,0;75,0
-Bu Yunchaokete;2024-04-15;Gwangju CH;Hard;C;W;R16;6-3 6-7(8) 4-4 RET;Arthur Fery;9,57;1,06;5,56;6,71;2024-7490-292;2024;False;;9,0;1,0;94,0;14,0;6,0;108,0
-Bu Yunchaokete;2024-04-15;Gwangju CH;Hard;C;W;R32;3-2 RET;Alexander Blockx;0,0;0,0;0,0;7,0;2024-7490-282;2024;False;;0,0;0,0;21,0;3,0;0,0;12,0
-Bu Yunchaokete;2024-04-08;Busan CH;Hard;C;L;R32;7-5 7-5;Rio Noguchi;3,66;6,1;0,0;6,83;2024-1741-282;2024;False;;3,0;5,0;82,0;12,0;0,0;80,0
-Bu Yunchaokete;2024-03-18;Murcia CH;Clay;C;L;QF;7-5 3-6 6-1;Albert Ramos;10,34;2,3;2,3;6,21;2024-9171-297;2024;False;;9,0;2,0;87,0;14,0;2,0;87,0
-Bu Yunchaokete;2024-03-18;Murcia CH;Clay;C;W;R16;7-6(5) 6-3;Nicolas Alvarez Varona;5,63;1,41;0,0;6,45;2024-9171-292;2024;False;;4,0;1,0;71,0;11,0;0,0;73,0
-Bu Yunchaokete;2024-03-18;Murcia CH;Clay;C;W;R32;6-4 3-6 6-3;Nicola Kuhn;3,53;2,35;5,06;6,07;2024-9171-283;2024;False;;3,0;2,0;85,0;14,0;4,0;79,0
-Bu Yunchaokete;2024-03-11;Hamburg CH;Hard;C;L;R16;3-6 6-2 6-1;Alexander Blockx;1,12;0,0;10,81;7,42;2024-8297-291;2024;False;;1,0;0,0;89,0;12,0;8,0;74,0
-Bu Yunchaokete;2024-03-11;Hamburg CH;Hard;C;W;R32;6-1 6-3;Sebastian Fanselow;16,67;0,0;9,38;6,0;2024-8297-281;2024;False;;8,0;0,0;48,0;8,0;6,0;64,0
-Bu Yunchaokete;2024-03-04;Lugano CH;Hard;C;L;R32;6-4 6-0;Antoine Escoffier;11,63;13,95;16,22;5,38;2024-9516-272;2024;False;;5,0;6,0;43,0;8,0;6,0;37,0
-Bu Yunchaokete;2024-01-15;Australian Open;Hard;G;L;Q1;7-5 6-0;Hugo Gaston;5,36;12,5;8,33;6,22;2024-580-712;2024;False;;3,0;7,0;56,0;9,0;5,0;60,0
-Bu Yunchaokete;2023-11-06;Matsuyama CH;Hard;C;L;QF;7-5 6-3;Luca Nardi;1,39;0,0;16,95;6,55;2023-8386-295;2023;False;;1,0;0,0;72,0;11,0;10,0;59,0
-Bu Yunchaokete;2023-11-06;Matsuyama CH;Hard;C;W;R16;6-4 5-7 7-5;Dane Sweeny;5,83;1,94;1,89;6,06;2023-8386-289;2023;False;;6,0;2,0;103,0;17,0;2,0;106,0
-Bu Yunchaokete;2023-11-06;Matsuyama CH;Hard;C;W;R32;6-7(4) 6-2 6-2;Menelaos Efstathiou;3,66;2,44;5,43;5,86;2023-8386-277;2023;False;;3,0;2,0;82,0;14,0;5,0;92,0
-Bu Yunchaokete;2023-10-16;Shenzhen CH;Hard;C;L;SF;6-1 6-2;James Duckworth;7,84;3,92;11,54;7,29;2023-2897-299;2023;False;;4,0;2,0;51,0;7,0;6,0;52,0
-Bu Yunchaokete;2023-10-16;Shenzhen CH;Hard;C;W;QF;6-3 6-2;Yan Bai;1,54;7,69;5,17;7,22;2023-2897-296;2023;False;;1,0;5,0;65,0;9,0;3,0;58,0
-Bu Yunchaokete;2023-10-16;Shenzhen CH;Hard;C;W;R16;6-3 6-4;Alibek Kachmazov;6,82;2,27;5,41;4,89;2023-2897-291;2023;False;;3,0;1,0;44,0;9,0;4,0;74,0
-Bu Yunchaokete;2023-10-16;Shenzhen CH;Hard;C;W;R32;6-3 6-3;Luke Saville;16,36;3,64;6,56;6,11;2023-2897-281;2023;False;;9,0;2,0;55,0;9,0;4,0;61,0
-Bu Yunchaokete;2023-10-09;Shenzhen CH;Hard;C;L;R16;6-3 6-4;Nuno Borges;2,27;2,27;13,33;4,89;2023-7797-291;2023;False;;1,0;1,0;44,0;9,0;10,0;75,0
-Bu Yunchaokete;2023-10-09;Shenzhen CH;Hard;C;W;R32;3-6 6-3 2-0 RET;James Mccabe;11,76;1,96;12,73;5,1;2023-7797-280;2023;False;;6,0;1,0;51,0;10,0;7,0;55,0
-Bu Yunchaokete;2023-10-02;Shanghai Masters;Hard;M;L;R64;6-1 6-4;Sebastian Korda;2,13;4,26;15,52;5,88;2023-5014-239;2023;False;;1,0;2,0;47,0;8,0;9,0;58,0
-Bu Yunchaokete;2023-10-02;Shanghai Masters;Hard;M;W;R128;6-7(6) 6-2 2-1 RET;Miomir Kecmanovic;22,97;1,35;11,63;6,73;2023-5014-176;2023;False;;17,0;1,0;74,0;11,0;10,0;86,0
-Bu Yunchaokete;2023-09-11;Guangzhou CH;Hard;C;L;SF;6-3 6-4;Terence Atmane;5,77;5,77;17,24;5,78;2023-6965-299;2023;False;;3,0;3,0;52,0;9,0;10,0;58,0
-Bu Yunchaokete;2023-09-11;Guangzhou CH;Hard;C;W;QF;7-5 6-3;Dane Sweeny;11,86;1,69;1,64;5,9;2023-6965-296;2023;False;;7,0;1,0;59,0;10,0;1,0;61,0
-Bu Yunchaokete;2023-09-11;Guangzhou CH;Hard;C;W;R16;6-4 6-0;Luke Saville;10,64;8,51;5,77;5,88;2023-6965-291;2023;False;;5,0;4,0;47,0;8,0;3,0;52,0
-Bu Yunchaokete;2023-09-11;Guangzhou CH;Hard;C;W;R32;6-2 6-3;Bang Shuo Yin;16,67;2,38;3,28;5,25;2023-6965-281;2023;False;;7,0;1,0;42,0;8,0;2,0;61,0
-Bu Yunchaokete;2023-09-04;Shanghai CH;Hard;C;L;R16;6-1 6-4;Lorenzo Giustino;5,26;0,0;17,46;7,12;2023-6313-289;2023;False;;3,0;0,0;57,0;8,0;11,0;63,0
-Bu Yunchaokete;2023-09-04;Shanghai CH;Hard;C;W;R32;6-2 6-4;Rigele Te;11,36;2,27;15,0;4,89;2023-6313-277;2023;False;;5,0;1,0;44,0;9,0;9,0;60,0
-Bu Yunchaokete;2023-08-28;Zhangjiagang CH;Hard;C;L;R32;6-7(7) 6-3 7-6(6);Rigele Te;17,31;3,85;17,09;6,5;2023-7783-285;2023;False;;18,0;4,0;104,0;16,0;20,0;117,0
-Bu Yunchaokete;2023-07-03;Wimbledon;Grass;G;L;Q1;7-6(5) 3-6 6-3;Raphael Collignon;5,21;1,04;9,28;6,4;2023-540-738;2023;False;;5,0;1,0;96,0;15,0;9,0;97,0
-Bu Yunchaokete;2023-06-19;Ilkley CH;Grass;C;L;Q1;6-1 6-3;Alex Bolt;6,0;2,0;12,2;6,25;2023-9005-242;2023;False;;3,0;1,0;50,0;8,0;5,0;41,0
-Bu Yunchaokete;2023-06-12;Nottingham CH;Grass;C;L;R16;6-3 3-6 6-3;Nuno Borges;6,74;2,25;5,81;6,85;2023-7740-291;2023;False;;6,0;2,0;89,0;13,0;5,0;86,0
-Bu Yunchaokete;2023-06-12;Nottingham CH;Grass;C;W;R32;7-6(4) 6-2;Seong Chan Hong;9,09;3,9;15,0;7,7;2023-7740-280;2023;False;;7,0;3,0;77,0;10,0;9,0;60,0
-Bu Yunchaokete;2023-06-05;Surbiton CH;Grass;C;L;R16;7-6(1) 6-4;Andy Murray;2,63;0,0;21,33;6,91;2023-7297-286;2023;False;;2,0;0,0;76,0;11,0;16,0;75,0
-Bu Yunchaokete;2023-06-05;Surbiton CH;Grass;C;W;R32;7-6(2) 7-5;Harry Wendelken;8,64;0,0;12,35;6,75;2023-7297-271;2023;False;;7,0;0,0;81,0;12,0;10,0;81,0
-Bu Yunchaokete;2023-06-05;Surbiton CH;Grass;C;W;Q2;6-3 7-6(2);Abedallah Shelbayh;2,53;0,0;4,62;7,18;2023-7297-254;2023;False;;2,0;0,0;79,0;11,0;3,0;65,0
-Bu Yunchaokete;2023-06-05;Surbiton CH;Grass;C;W;Q1;6-4 6-4;Charles Broom;7,81;1,56;7,69;6,4;2023-7297-248;2023;False;;5,0;1,0;64,0;10,0;4,0;52,0
-Bu Yunchaokete;2023-05-08;Busan CH;Hard;C;L;R32;6-4 6-4;Li Tu;7,84;1,96;12,9;5,1;2023-1741-276;2023;False;;4,0;1,0;51,0;10,0;8,0;62,0
-Bu Yunchaokete;2023-05-01;Gwangju CH;Hard;C;L;QF;6-3 6-2;Christopher Eubanks;5,56;7,41;27,59;6,75;2023-7490-294;2023;False;;3,0;4,0;54,0;8,0;16,0;58,0
-Bu Yunchaokete;2023-05-01;Gwangju CH;Hard;C;W;R16;6-4 7-6(4);Aleksandar Vukic;7,69;1,54;12,7;5,91;2023-7490-287;2023;False;;5,0;1,0;65,0;11,0;8,0;63,0
-Bu Yunchaokete;2023-05-01;Gwangju CH;Hard;C;W;R32;6-4 6-1;San Hui Sin;4,35;2,17;4,41;5,75;2023-7490-272;2023;False;;2,0;1,0;46,0;8,0;3,0;68,0
-Bu Yunchaokete;2023-04-24;Seoul CH;Hard;C;W;F;7-6(4) 6-4;Aleksandar Vukic;1,54;1,54;10,26;5,91;2023-7288-300;2023;False;;1,0;1,0;65,0;11,0;8,0;78,0
-Bu Yunchaokete;2023-04-24;Seoul CH;Hard;C;W;SF;7-6(4) 6-4;Yasutaka Uchiyama;8,75;2,5;5,88;7,27;2023-7288-299;2023;False;;7,0;2,0;80,0;11,0;5,0;85,0
-Bu Yunchaokete;2023-04-24;Seoul CH;Hard;C;W;QF;6-4 6-4;Seong Chan Hong;8,96;5,97;3,33;6,7;2023-7288-297;2023;False;;6,0;4,0;67,0;10,0;2,0;60,0
-Bu Yunchaokete;2023-04-24;Seoul CH;Hard;C;W;R16;6-4 6-7(1) 6-3;Emilio Gomez;11,83;1,08;4,76;5,81;2023-7288-292;2023;False;;11,0;1,0;93,0;16,0;5,0;105,0
-Bu Yunchaokete;2023-04-24;Seoul CH;Hard;C;W;R32;3-6 6-3 6-1;Altug Celikbilek;13,85;3,08;10,34;5,42;2023-7288-283;2023;False;;9,0;2,0;65,0;12,0;9,0;87,0
-Bu Yunchaokete;2023-04-17;Cuernavaca CH;Hard;C;L;R16;4-6 7-5 6-3;Antoine Escoffier;16,3;6,52;12,24;6,13;2023-6963-290;2023;False;;15,0;6,0;92,0;15,0;12,0;98,0
-Bu Yunchaokete;2023-04-17;Cuernavaca CH;Hard;C;W;R32;6-3 6-3;Aziz Dougaz;11,32;0,0;9,52;5,89;2023-6963-279;2023;False;;6,0;0,0;53,0;9,0;6,0;63,0
-Bu Yunchaokete;2023-04-10;Leon CH;Hard;C;L;R16;6-4 6-3;Maximilian Neuchrist;7,94;3,17;12,0;7,0;2023-2867-287;2023;False;;5,0;2,0;63,0;9,0;6,0;50,0
-Bu Yunchaokete;2023-04-10;Leon CH;Hard;C;W;R32;6-3 6-2;Alan Fernando Rubio Fierros;11,32;3,77;5,56;5,89;2023-2867-272;2023;False;;6,0;2,0;53,0;9,0;3,0;54,0
-Bu Yunchaokete;2023-03-19;Les Franqueses Del Valles CH;Hard;C;L;SF;6-7(7) 6-3 7-6(3);Hugo Grenier;5,08;1,69;17,8;6,94;2023-2853-298;2023;False;;6,0;2,0;118,0;17,0;21,0;118,0
-Bu Yunchaokete;2023-03-19;Les Franqueses Del Valles CH;Hard;C;W;QF;6-3 7-6(5);Gastao Elias;6,76;1,35;6,52;7,4;2023-2853-295;2023;False;;5,0;1,0;74,0;10,0;6,0;92,0
-Bu Yunchaokete;2023-03-19;Les Franqueses Del Valles CH;Hard;C;W;R16;6-2 6-2;Skander Mansouri;0,0;0,0;6,67;5,75;2023-2853-288;2023;False;;0,0;0,0;46,0;8,0;3,0;45,0
-Bu Yunchaokete;2023-03-19;Les Franqueses Del Valles CH;Hard;C;W;R32;6-1 6-2;John Echeverria;3,33;6,67;3,77;7,5;2023-2853-275;2023;False;;2,0;4,0;60,0;8,0;2,0;53,0
-Bu Yunchaokete;2023-03-06;Lugano CH;Hard;C;L;Q1;2-6 6-3 6-2;Edas Butvilas;6,85;2,74;2,63;6,08;2023-9516-244;2023;False;;5,0;2,0;73,0;12,0;2,0;76,0
-Bu Yunchaokete;2023-02-27;Pau CH;Hard;C;L;R32;7-5 7-5;Ricardas Berankis;6,45;2,15;3,12;7,75;2023-9162-275;2023;False;;6,0;2,0;93,0;12,0;2,0;64,0
-Bu Yunchaokete;2023-02-27;Pau CH;Hard;C;W;Q2;7-5 2-6 6-2;Dan Added;7,04;1,41;12,22;5,07;2023-9162-250;2023;False;;5,0;1,0;71,0;14,0;11,0;90,0
-Bu Yunchaokete;2023-02-27;Pau CH;Hard;C;W;Q1;6-2 6-4;Constantin Bittoun Kouzmine;6,45;3,23;0,0;6,89;2023-9162-240;2023;False;;4,0;2,0;62,0;9,0;0,0;53,0
-Bu Yunchaokete;2023-02-20;Rovereto CH;Hard;C;L;R32;6-4 4-6 6-2;Alejandro Moro Canas;1,8;2,7;3,45;7,93;2023-2849-272;2023;False;;2,0;3,0;111,0;14,0;3,0;87,0
-Bu Yunchaokete;2023-02-20;Rovereto CH;Hard;C;W;Q2;6-4 5-7 7-5;Francesco Forti;3,03;2,02;11,11;5,82;2023-2849-254;2023;False;;3,0;2,0;99,0;17,0;12,0;108,0
-Bu Yunchaokete;2023-02-20;Rovereto CH;Hard;C;W;Q1;6-1 6-1;Andrea Del Federico;2,08;6,25;2,38;6,86;2023-2849-248;2023;False;;1,0;3,0;48,0;7,0;1,0;42,0
-Bu Yunchaokete;2023-02-06;Tenerife 3 CH;Hard;C;L;R16;7-6(5) 6-4;Giovanni Fonio;7,35;2,94;4,48;6,18;2023-2847-286;2023;False;;5,0;2,0;68,0;11,0;3,0;67,0
-Bu Yunchaokete;2023-02-06;Tenerife 3 CH;Hard;C;W;R32;3-6 6-1 7-6(2);Alexander Shevchenko;2,11;0,0;3,33;6,79;2023-2847-270;2023;False;;2,0;0,0;95,0;14,0;3,0;90,0
-Bu Yunchaokete;2023-02-06;Tenerife 3 CH;Hard;C;W;Q2;6-2 4-2 RET;Alejandro Moro Canas;13,64;0,0;0,0;6,29;2023-2847-252;2023;False;;6,0;0,0;44,0;7,0;0,0;49,0
-Bu Yunchaokete;2023-02-06;Tenerife 3 CH;Hard;C;W;Q1;6-1 6-0;Miguel Garcia;14,71;0,0;4,88;4,86;2023-2847-244;2023;False;;5,0;0,0;34,0;7,0;2,0;41,0
-Bu Yunchaokete;2023-01-30;Tenerife 2 CH;Hard;C;L;Q2;6-1 6-4;Valentin Royer;3,39;3,39;13,46;7,38;2023-2839-249;2023;False;;2,0;2,0;59,0;8,0;7,0;52,0
-Bu Yunchaokete;2023-01-30;Tenerife 2 CH;Hard;C;W;Q1;6-3 6-0;Hillel Rousseau;18,75;0,0;1,96;4,57;2023-2839-238;2023;False;;6,0;0,0;32,0;7,0;1,0;51,0
-Bu Yunchaokete;2023-01-23;Quimper CH;Hard;C;L;R32;6-3 6-2;Arthur Fils;6,67;3,33;9,43;7,5;2023-6239-280;2023;False;;4,0;2,0;60,0;8,0;5,0;53,0
-Bu Yunchaokete;2023-01-23;Quimper CH;Hard;C;W;Q2;3-6 6-3 7-5;Lucas Poullain;6,32;3,16;0,0;6,33;2023-6239-250;2023;False;;6,0;3,0;95,0;15,0;0,0;104,0
-Bu Yunchaokete;2023-01-23;Quimper CH;Hard;C;W;Q1;6-3 6-2;Sem Verbeek;3,45;1,72;2,67;6,44;2023-6239-240;2023;False;;2,0;1,0;58,0;9,0;2,0;75,0
-Bu Yunchaokete;2023-01-16;Tenerife 1 CH;Hard;C;L;Q1;6-1 6-4;Giovanni Mpetshi Perricard;7,55;3,77;8,06;6,62;2023-9623-245;2023;False;;4,0;2,0;53,0;8,0;5,0;62,0
-Bu Yunchaokete;2022-10-10;Ismaning CH;Carpet;C;L;R16;6-1 7-6(5);Denis Yevseyev;8,54;0,0;7,25;9,11;2022-7793-291;2022;False;;7,0;0,0;82,0;9,0;5,0;69,0
-Bu Yunchaokete;2022-10-10;Ismaning CH;Carpet;C;W;R32;7-6(2) 6-2;Benjamin Hassan;4,69;0,0;6,76;6,4;2022-7793-280;2022;False;;3,0;0,0;64,0;10,0;5,0;74,0
-Bu Yunchaokete;2022-10-10;Ismaning CH;Carpet;C;W;Q2;6-4 6-4;Khumoyun Sultanov;14,29;0,0;5,08;5,6;2022-7793-251;2022;False;;8,0;0,0;56,0;10,0;3,0;59,0
-Bu Yunchaokete;2022-10-10;Ismaning CH;Carpet;C;W;Q1;3-6 6-2 6-3;Lukas Lacko;16,67;2,56;18,67;6,0;2022-7793-242;2022;False;;13,0;2,0;78,0;13,0;14,0;75,0
-Bu Yunchaokete;2022-10-03;Alicante CH;Hard;C;L;R32;7-5 7-5;Raul Brancaccio;9,68;5,38;11,59;7,75;2022-7909-277;2022;False;;9,0;5,0;93,0;12,0;8,0;69,0
-Bu Yunchaokete;2022-10-03;Alicante CH;Hard;C;W;Q2;6-4 7-6(0);Oscar Jose Gutierrez;16,28;3,49;6,58;7,82;2022-7909-253;2022;False;;14,0;3,0;86,0;11,0;5,0;76,0
-Bu Yunchaokete;2022-10-03;Alicante CH;Hard;C;W;Q1;6-2 3-6 6-2;Jose Fco Vidal Azorin;3,41;4,55;1,02;7,33;2022-7909-246;2022;False;;3,0;4,0;88,0;12,0;1,0;98,0
-Bu Yunchaokete;2022-09-26;Orleans CH;Hard;C;L;Q1;6-4 6-4;Terence Atmane;5,63;2,82;11,27;7,1;2022-2273-247;2022;False;;4,0;2,0;71,0;10,0;8,0;71,0
-Bu Yunchaokete;2022-09-05;Nonthaburi 3 CH;Hard;C;L;R32;6-4 7-5;Stuart Parker;6,35;1,59;7,69;5,73;2022-2801-279;2022;False;;4,0;1,0;63,0;11,0;5,0;65,0
-Bu Yunchaokete;2022-08-29;Nonthaburi 2 CH;Hard;C;L;R32;6-7(7) 6-2 6-2;Federico Gaio;7,69;1,92;22,37;7,43;2022-2795-275;2022;False;;8,0;2,0;104,0;14,0;17,0;76,0
-Bu Yunchaokete;2022-08-22;Nonthaburi 1 CH;Hard;C;L;R32;4-6 6-1 3-0 RET;Seong Chan Hong;0,0;4,0;18,18;7,5;2022-2791-271;2022;False;;0,0;3,0;75,0;10,0;8,0;44,0
+Bu Yunchaokete;2026-10-07;ATP Shanghai;Hard;M;L;R64;6-1 7-6(2);Casper Ruud;12,35;1,23;20,29;9,0;2026-5014-342;2026;True;;10,0;1,0;81,0;9,0;14,0;69,0
+Bu Yunchaokete;2026-10-07;ATP Shanghai;Hard;M;W;R128;7-6(3) 6-3;Luca Van Assche;3,45;0,0;15,07;5,27;2026-5014-310;2026;True;;2,0;0,0;58,0;11,0;11,0;73,0
+Bu Yunchaokete;2026-09-30;Beijing;Hard;A;L;R16;4-6 7-6(2) 6-2;Novak Djokovic;10,0;1,0;15,46;6,67;2026-0747-377;2026;True;;10,0;1,0;100,0;15,0;15,0;97,0
+Bu Yunchaokete;2026-09-30;Beijing;Hard;A;W;R32;6-2 5-7 6-4;Juan Manuel Cerundolo;14,29;1,3;7,0;5,13;2026-0747-368;2026;True;;11,0;1,0;77,0;15,0;7,0;100,0
+Bu Yunchaokete;2026-09-23;Hangzhou;Hard;A;L;QF;6-3 6-3;Roman Safiullin;8,93;3,57;34,09;6,22;2026-4713-381;2026;True;;5,0;2,0;56,0;9,0;15,0;44,0
+Bu Yunchaokete;2026-09-23;Hangzhou;Hard;A;W;R16;7-6(4) 6-7(5) 6-2;Kamil Majchrzak;12,84;3,67;10,71;6,81;2026-4713-375;2026;True;;14,0;4,0;109,0;16,0;12,0;112,0
+Bu Yunchaokete;2026-09-23;Hangzhou;Hard;A;W;R32;6-4 6-3;Michael Zheng;13,56;1,69;3,77;5,9;2026-4713-366;2026;True;;8,0;1,0;59,0;10,0;2,0;53,0
+Bu Yunchaokete;2026-08-31;US Open;Hard;G;L;R64;6-3 2-6 6-2 6-3;Michael Zheng;7,48;7,48;13,13;6,29;2026-560-168;2026;True;;8,0;8,0;107,0;17,0;13,0;99,0
+Bu Yunchaokete;2026-08-31;US Open;Hard;G;W;R128;6-2 6-1 6-1;Rafael Jodar;3,28;4,92;2,53;5,55;2026-560-108;2026;True;;2,0;3,0;61,0;11,0;2,0;79,0
+Bu Yunchaokete;2026-08-31;US Open;Hard;G;L;Q3;3-6 6-4 7-5;Federico Cina;9,0;5,0;13,33;6,67;2026-560-807;2026;True;;9,0;5,0;100,0;15,0;10,0;75,0
+Bu Yunchaokete;2026-08-31;US Open;Hard;G;W;Q2;6-4 6-4;Borna Gojo;16,98;3,77;17,46;5,3;2026-560-785;2026;True;;9,0;2,0;53,0;10,0;11,0;63,0
+Bu Yunchaokete;2026-08-31;US Open;Hard;G;W;Q1;4-6 6-4 6-2;Rio Noguchi;11,39;5,06;0,0;5,64;2026-560-741;2026;True;;9,0;4,0;79,0;14,0;0,0;107,0
+Bu Yunchaokete;2026-08-18;Quebec City CH;Hard;C;L;R32;6-3 6-1;Nicolai Budkov Kjaer;5,36;10,71;14,29;7,0;2026-3103-363;2026;True;;3,0;6,0;56,0;8,0;6,0;42,0
+Bu Yunchaokete;2026-08-13;Cincinnati Masters;Hard;M;L;Q2;6-2 7-6(2);Quentin Halys;2,82;2,82;23,73;7,1;2026-0422-274;2026;True;;2,0;2,0;71,0;10,0;14,0;59,0
+Bu Yunchaokete;2026-08-13;Cincinnati Masters;Hard;M;W;Q1;7-6(6) 6-4;Francesco Maestrelli;6,94;4,17;9,84;6,55;2026-0422-260;2026;True;;5,0;3,0;72,0;11,0;6,0;61,0
+Bu Yunchaokete;2026-07-13;Lincoln CH;Hard;C;L;SF;2-6 6-1 7-6(6);Mark Lajal;1,18;2,35;14,63;6,54;2026-2941-383;2026;True;;1,0;2,0;85,0;13,0;12,0;82,0
+Bu Yunchaokete;2026-07-13;Lincoln CH;Hard;C;W;QF;6-7(1) 6-3 6-4;Colton Smith;3,23;4,03;9,38;7,75;2026-2941-379;2026;True;;4,0;5,0;124,0;16,0;9,0;96,0
+Bu Yunchaokete;2026-07-13;Lincoln CH;Hard;C;W;R16;6-4 6-4;Yibing Wu;3,85;1,92;9,09;5,2;2026-2941-371;2026;True;;2,0;1,0;52,0;10,0;5,0;55,0
+Bu Yunchaokete;2026-07-13;Lincoln CH;Hard;C;W;R32;4-6 7-6(4) 7-6(8);Evan Zhu;5,94;1,98;4,92;5,94;2026-2941-355;2026;True;;6,0;2,0;101,0;17,0;6,0;122,0
+Bu Yunchaokete;2026-07-06;Newport CH;Grass;C;L;R16;6-2 6-1;Daniel Milavsky;4,35;6,52;14,29;5,75;2026-0315-377;2026;True;;2,0;3,0;46,0;8,0;5,0;35,0
+Bu Yunchaokete;2026-07-06;Newport CH;Grass;C;W;R32;6-4 6-4;Daniil Glinka;5,71;4,29;11,11;7,0;2026-0315-367;2026;True;;4,0;3,0;70,0;10,0;6,0;54,0
+Bu Yunchaokete;2026-06-08;Ilkley Challenger;Grass;C;W;R32;7-6(7) 7-5;Chris Rodesch;6,85;4,11;11,11;6,08;2026-9005-381;2026;True;109,0;;;;;;
+Bu Yunchaokete;2026-06-01;Birmingham CH;Grass;C;W;F;2-6 7-6(3) 6-3;Otto Virtanen;7,22;3,09;25,32;6,47;2026-4940-385;2026;True;;7,0;3,0;97,0;15,0;20,0;79,0
+Bu Yunchaokete;2026-06-01;Birmingham CH;Grass;C;W;SF;6-2 3-6 6-3;Arthur Fery;11,63;3,49;9,72;6,62;2026-4940-384;2026;True;;10,0;3,0;86,0;13,0;7,0;72,0
+Bu Yunchaokete;2026-06-01;Birmingham CH;Grass;C;W;QF;7-5 6-4;Mark Lajal;16,67;0,0;7,27;5,45;2026-4940-381;2026;True;;10,0;0,0;60,0;11,0;4,0;55,0
+Bu Yunchaokete;2026-06-01;Birmingham CH;Grass;C;W;R16;6-2 6-4;Billy Harris;14,55;1,82;5,66;6,11;2026-4940-376;2026;True;;8,0;1,0;55,0;9,0;3,0;53,0
+Bu Yunchaokete;2026-06-01;Birmingham CH;Grass;C;W;R32;7-6(5) 1-6 6-1;Lloyd Harris;6,82;1,14;28,57;6,77;2026-4940-365;2026;True;;6,0;1,0;88,0;13,0;22,0;77,0
+Bu Yunchaokete;2026-05-04;Wuxi CH;Hard;C;L;F;6-2 7-6(2);Soon Woo Kwon;13,64;0,0;22,41;6,6;2026-2921-385;2026;True;;9,0;0,0;66,0;10,0;13,0;58,0
+Bu Yunchaokete;2026-05-04;Wuxi CH;Hard;C;W;SF;6-1 7-5;Jie Cui;15,91;2,27;3,75;4,89;2026-2921-384;2026;True;;7,0;1,0;44,0;9,0;3,0;80,0
+Bu Yunchaokete;2026-05-04;Wuxi CH;Hard;C;W;QF;6-2 6-0;Adam Walton;5,77;1,92;5,8;7,43;2026-2921-382;2026;True;;3,0;1,0;52,0;7,0;4,0;69,0
+Bu Yunchaokete;2026-05-04;Wuxi CH;Hard;C;W;R16;6-4 6-3;Ognjen Milic;6,25;2,08;9,68;5,33;2026-2921-377;2026;True;;3,0;1,0;48,0;9,0;6,0;62,0
+Bu Yunchaokete;2026-05-04;Wuxi CH;Hard;C;W;R32;6-4 7-5;Keegan Smith;5,17;0,0;13,79;5,27;2026-2921-367;2026;True;;3,0;0,0;58,0;11,0;8,0;58,0
+Bu Yunchaokete;2026-04-27;Jiujiang CH;Hard;C;L;QF;7-6(2) 7-6(8);Coleman Wong;8,43;0,0;12,79;6,92;2026-3083-380;2026;True;;7,0;0,0;83,0;12,0;11,0;86,0
+Bu Yunchaokete;2026-04-27;Jiujiang CH;Hard;C;W;R16;6-2 6-3;Andre Ilagan;18,18;0,0;9,84;6,11;2026-3083-374;2026;True;;10,0;0,0;55,0;9,0;6,0;61,0
+Bu Yunchaokete;2026-04-27;Jiujiang CH;Hard;C;W;R32;7-6(5) 7-6(5);Daniel Masur;10,0;1,25;9,21;6,67;2026-3083-362;2026;True;;8,0;1,0;80,0;12,0;7,0;76,0
+Bu Yunchaokete;2026-04-20;Gwangju CH;Hard;C;L;R32;6-4 6-4;August Holmgren;7,69;1,54;28,85;6,5;2026-7490-367;2026;True;;5,0;1,0;65,0;10,0;15,0;52,0
+Bu Yunchaokete;2026-04-13;Busan CH;Hard;C;L;F;3-6 6-3 6-2;Leandro Riedi;7,59;1,27;10,0;6,08;2026-1741-385;2026;True;;6,0;1,0;79,0;13,0;8,0;80,0
+Bu Yunchaokete;2026-04-13;Busan CH;Hard;C;W;SF;7-5 6-2;Alex Bolt;3,45;3,45;6,35;5,8;2026-1741-383;2026;True;;2,0;2,0;58,0;10,0;4,0;63,0
+Bu Yunchaokete;2026-04-13;Busan CH;Hard;C;W;QF;6-4 7-6(6);Adam Walton;14,93;0,0;10,26;6,09;2026-1741-379;2026;True;;10,0;0,0;67,0;11,0;8,0;78,0
+Bu Yunchaokete;2026-04-13;Busan CH;Hard;C;W;R16;6-4 6-2;Marat Sharipov;11,29;1,61;13,21;6,89;2026-1741-372;2026;True;;7,0;1,0;62,0;9,0;7,0;53,0
+Bu Yunchaokete;2026-04-13;Busan CH;Hard;C;W;R32;6-1 6-4;Yunseong Chung;4,48;2,99;11,9;7,44;2026-1741-358;2026;True;;3,0;2,0;67,0;9,0;5,0;42,0
+Bu Yunchaokete;2026-03-23;Morelia CH;Hard;C;L;R16;7-6(0) 6-4;Alexis Galarneau;7,41;1,23;6,25;7,36;2026-2991-372;2026;True;;6,0;1,0;81,0;11,0;5,0;80,0
+Bu Yunchaokete;2026-03-23;Morelia CH;Hard;C;W;R32;7-5 6-4;Max Wiskandt;6,45;4,84;11,86;5,64;2026-2991-358;2026;True;;4,0;3,0;62,0;11,0;7,0;59,0
+Bu Yunchaokete;2026-03-18;Miami Masters;Hard;M;L;Q2;6-3 3-6 7-5;Arthur Fery;8,14;4,65;14,46;5,73;2026-0403-265;2026;True;;7,0;4,0;86,0;15,0;12,0;83,0
+Bu Yunchaokete;2026-03-18;Miami Masters;Hard;M;W;Q1;7-5 6-4;Tristan Schoolkate;21,15;3,85;18,03;4,73;2026-0403-243;2026;True;;11,0;2,0;52,0;11,0;11,0;61,0
+Bu Yunchaokete;2026-01-19;Australian Open;Hard;G;L;R128;6-3 7-6(3) 6-1;Denis Shapovalov;1,04;1,04;22,89;6,86;2026-580-152;2026;True;;1,0;1,0;96,0;14,0;19,0;83,0
+Bu Yunchaokete;2026-01-05;Hong Kong;Hard;A;L;Q1;7-6(9) 6-3;Nishesh Basavareddy;16,67;3,33;11,84;6,0;2026-0336-349;2026;True;;10,0;2,0;60,0;10,0;9,0;76,0
+Bu Yunchaokete;2025-10-27;Seoul CH;Hard;C;L;QF;6-3 6-4;Coleman Wong;7,58;1,52;14,04;7,33;2025-7288-379;2025;True;;5,0;1,0;66,0;9,0;8,0;57,0
+Bu Yunchaokete;2025-10-27;Seoul CH;Hard;C;W;R16;6-1 4-6 6-1;Marc Andrea Huesler;5,71;4,29;7,21;5,83;2025-7288-371;2025;True;;4,0;3,0;70,0;12,0;8,0;111,0
+Bu Yunchaokete;2025-10-27;Seoul CH;Hard;C;W;R32;7-5 6-4;Uisung Park;13,95;2,33;11,69;7,82;2025-7288-355;2025;True;;12,0;2,0;86,0;11,0;9,0;77,0
+Bu Yunchaokete;2025-10-01;Shanghai Masters;Hard;M;L;R64;6-4 6-4;Luciano Darderi;18,18;0,0;17,31;5,5;2025-5014-324;2025;True;;10,0;0,0;55,0;10,0;9,0;52,0
+Bu Yunchaokete;2025-10-01;Shanghai Masters;Hard;M;W;R128;6-3 6-7(5) 6-3;Juan Manuel Cerundolo;8,55;0,85;10,31;7,31;2025-5014-292;2025;True;;10,0;1,0;117,0;16,0;10,0;97,0
+Bu Yunchaokete;2025-09-25;Beijing;Hard;A;L;R32;6-4 6-0;Alex De Minaur;8,77;5,26;19,61;7,12;2025-0747-366;2025;True;;5,0;3,0;57,0;8,0;10,0;51,0
+Bu Yunchaokete;2025-09-17;Hangzhou;Hard;A;L;R32;6-7(2) 6-4 7-6(3);Zhizhen Zhang;8,49;2,83;13,04;6,24;2025-4713-363;2025;True;;9,0;3,0;106,0;17,0;15,0;115,0
+Bu Yunchaokete;2025-08-25;US Open;Hard;G;L;R128;6-1 6-4 7-6(1);Valentin Royer;12,22;3,33;12,63;6,43;2025-560-102;2025;True;;11,0;3,0;90,0;14,0;12,0;95,0
+Bu Yunchaokete;2025-08-17;Winston-Salem;Hard;A;L;QF;6-3 5-7 6-3;Botic Van De Zandschulp;2,83;0,94;7,95;7,07;2025-6242-382;2025;True;;3,0;1,0;106,0;15,0;7,0;88,0
+Bu Yunchaokete;2025-08-17;Winston-Salem;Hard;A;W;R16;6-4 6-4;Mariano Navone;0,0;4,62;5,0;6,5;2025-6242-378;2025;True;;0,0;3,0;65,0;10,0;3,0;60,0
+Bu Yunchaokete;2025-08-17;Winston-Salem;Hard;A;W;R32;6-3 6-2;Stefanos Tsitsipas;4,92;3,28;7,14;6,78;2025-6242-370;2025;True;;3,0;2,0;61,0;9,0;4,0;56,0
+Bu Yunchaokete;2025-08-17;Winston-Salem;Hard;A;W;R64;6-7(2) 6-3 7-6(4);Chun Hsin Tseng;8,74;3,88;8,15;6,06;2025-6242-354;2025;True;;9,0;4,0;103,0;17,0;11,0;135,0
+Bu Yunchaokete;2025-08-07;Cincinnati Masters;Hard;M;L;R128;4-6 6-2 7-5;Joao Fonseca;8,6;4,3;15,12;6,2;2025-0422-296;2025;True;;8,0;4,0;93,0;15,0;13,0;86,0
+Bu Yunchaokete;2025-07-27;Canada Masters;Hard;M;L;R64;6-1 6-4;Lorenzo Sonego;2,38;7,14;13,21;5,25;2025-0421-313;2025;True;;1,0;3,0;42,0;8,0;7,0;53,0
+Bu Yunchaokete;2025-07-27;Canada Masters;Hard;M;W;R128;7-6(4) 6-2;Vit Kopriva;16,18;0,0;4,0;6,8;2025-0421-281;2025;True;;11,0;0,0;68,0;10,0;3,0;75,0
+Bu Yunchaokete;2025-07-21;Washington;Hard;A;L;R32;7-6(5) 6-2;Alex De Minaur;9,38;4,69;2,99;6,4;2025-0418-358;2025;True;;6,0;3,0;64,0;10,0;2,0;67,0
+Bu Yunchaokete;2025-07-21;Washington;Hard;A;W;R64;6-4 7-5;David Goffin;14,71;5,88;8,11;6,18;2025-0418-342;2025;True;;10,0;4,0;68,0;11,0;6,0;74,0
+Bu Yunchaokete;2025-07-14;Los Cabos;Hard;A;L;R16;3-6 7-5 7-6(6);Emilio Nava;6,5;2,44;12,39;7,24;2025-7480-377;2025;True;;8,0;3,0;123,0;17,0;14,0;113,0
+Bu Yunchaokete;2025-07-14;Los Cabos;Hard;A;W;R32;7-6(5) 6-2;Alan Magadan;5,88;4,71;2,9;8,5;2025-7480-368;2025;True;;5,0;4,0;85,0;10,0;2,0;69,0
+Bu Yunchaokete;2025-06-30;Wimbledon;Grass;G;L;R128;6-4 4-6 7-6(1) 6-4;Brandon Nakashima;9,46;2,7;16,03;7,05;2025-540-112;2025;True;;14,0;4,0;148,0;21,0;21,0;131,0
+Bu Yunchaokete;2025-06-22;Mallorca;Grass;A;L;R32;6-4 6-4;Laslo Djere;6,15;6,15;14,52;6,5;2025-8994-363;2025;True;;4,0;4,0;65,0;10,0;9,0;62,0
+Bu Yunchaokete;2025-06-16;Queen's Club;Grass;A;L;Q1;7-6(0) 7-6(6);Henry Searle;8,75;2,5;15,66;6,67;2025-0311-347;2025;True;;7,0;2,0;80,0;12,0;13,0;83,0
+Bu Yunchaokete;2025-05-26;Roland Garros;Clay;G;L;R128;5-7 7-6(3) 7-6(4) 6-1;Filip Misolic;9,3;0,78;5,42;6,14;2025-520-285;2025;True;;12,0;1,0;129,0;21,0;9,0;166,0
+Bu Yunchaokete;2025-05-18;Hamburg;Clay;A;L;R32;7-5 6-2;Frances Tiafoe;8,06;8,06;6,35;6,2;2025-0414-355;2025;True;;5,0;5,0;62,0;10,0;4,0;63,0
+Bu Yunchaokete;2025-05-13;Turin CH;Clay;C;L;F;6-3 6-3;Alexander Bublik;9,09;1,52;12,77;7,33;2025-2863-385;2025;True;;6,0;1,0;66,0;9,0;6,0;47,0
+Bu Yunchaokete;2025-05-13;Turin CH;Clay;C;W;SF;6-3 6-2;Camilo Ugo Carabelli;9,46;0,0;5,77;8,22;2025-2863-383;2025;True;;7,0;0,0;74,0;9,0;3,0;52,0
+Bu Yunchaokete;2025-05-13;Turin CH;Clay;C;W;QF;5-5 RET;Francesco Passaro;6,45;3,23;2,44;6,2;2025-2863-379;2025;True;;2,0;1,0;31,0;5,0;1,0;41,0
+Bu Yunchaokete;2025-05-13;Turin CH;Clay;C;W;R16;7-5 6-2;Fabio Fognini;17,24;1,72;0,0;5,8;2025-2863-372;2025;True;;10,0;1,0;58,0;10,0;0,0;71,0
+Bu Yunchaokete;2025-05-13;Turin CH;Clay;C;W;R32;7-6(5) 6-4;Giovanni Fonio;10,61;1,52;9,52;6,0;2025-2863-361;2025;True;;7,0;1,0;66,0;11,0;6,0;63,0
+Bu Yunchaokete;2025-05-07;Rome Masters;Clay;M;L;R128;7-6(4) 6-3;Luciano Darderi;5,71;2,86;10,77;6,36;2025-0416-290;2025;True;;4,0;2,0;70,0;11,0;7,0;65,0
+Bu Yunchaokete;2025-04-23;Madrid Masters;Clay;M;L;R128;6-3 7-6(2);Jacob Fearnley;5,33;1,33;10,0;6,82;2025-1536-277;2025;True;;4,0;1,0;75,0;11,0;6,0;60,0
+Bu Yunchaokete;2025-04-07;Monte Carlo Masters;Clay;M;L;R64;4-6 7-5 6-3;Lorenzo Musetti;3,96;2,97;1,11;6,73;2025-0410-340;2025;True;;4,0;3,0;101,0;15,0;1,0;90,0
+Bu Yunchaokete;2025-04-07;Monte Carlo Masters;Clay;M;W;Q2;6-4 6-4;Albert Ramos;16,0;4,0;3,77;5,0;2025-0410-314;2025;True;;8,0;2,0;50,0;10,0;2,0;53,0
+Bu Yunchaokete;2025-04-07;Monte Carlo Masters;Clay;M;W;Q1;6-3 6-1;Nicolai Budkov Kjaer;11,11;0,0;1,82;5,62;2025-0410-302;2025;True;;5,0;0,0;45,0;8,0;1,0;55,0
+Bu Yunchaokete;2025-03-31;Bucharest;Clay;A;L;R32;3-6 6-2 7-5;Roberto Bautista Agut;5,32;1,06;1,77;6,71;2025-4462-368;2025;True;;5,0;1,0;94,0;14,0;2,0;113,0
+Bu Yunchaokete;2025-03-19;Miami Masters;Hard;M;L;R64;6-4 6-4;Alex De Minaur;9,23;1,54;10,42;6,5;2025-0403-326;2025;True;;6,0;1,0;65,0;10,0;5,0;48,0
+Bu Yunchaokete;2025-03-19;Miami Masters;Hard;M;W;R128;6-4 6-2;Cameron Norrie;15,09;0,0;6,45;5,89;2025-0403-294;2025;True;;8,0;0,0;53,0;9,0;4,0;62,0
+Bu Yunchaokete;2025-03-05;Indian Wells Masters;Hard;M;L;R64;6-2 6-2;Daniil Medvedev;0,0;1,61;5,77;7,75;2025-0404-323;2025;True;;0,0;1,0;62,0;8,0;3,0;52,0
+Bu Yunchaokete;2025-03-05;Indian Wells Masters;Hard;M;W;R128;7-5 6-4;Nishesh Basavareddy;1,61;1,61;4,41;5,64;2025-0404-291;2025;True;;1,0;1,0;62,0;11,0;3,0;68,0
+Bu Yunchaokete;2025-02-24;Acapulco;Hard;A;L;R32;2-6 7-6(5) 7-6(5);Alex Michelsen;9,52;2,86;4,96;6,56;2025-0807-361;2025;True;;10,0;3,0;105,0;16,0;6,0;121,0
+Bu Yunchaokete;2025-02-17;Rio de Janeiro;Clay;A;L;R32;7-6(4) 6-4;Alexander Zverev;6,76;1,35;4,0;6,73;2025-6932-370;2025;True;;5,0;1,0;74,0;11,0;3,0;75,0
+Bu Yunchaokete;2025-02-10;Delray Beach;Hard;A;L;R16;7-6(4) 6-2;Taylor Fritz;8,33;1,39;29,51;7,2;2025-0499-378;2025;True;;6,0;1,0;72,0;10,0;18,0;61,0
+Bu Yunchaokete;2025-02-10;Delray Beach;Hard;A;W;R32;6-2 6-0;Rinky Hijikata;11,11;2,78;4,17;5,14;2025-0499-370;2025;True;;4,0;1,0;36,0;7,0;2,0;48,0
+Bu Yunchaokete;2025-02-03;Dallas;Hard;A;L;R32;7-5 6-2;Jaume Munar;11,59;0,0;5,17;6,9;2025-0424-360;2025;True;;8,0;0,0;69,0;10,0;3,0;58,0
+Bu Yunchaokete;2025-01-27;Montpellier;Hard;A;L;QF;6-3 6-4;Felix Auger Aliassime;5,66;0,0;21,57;5,89;2025-0375-379;2025;True;;3,0;0,0;53,0;9,0;11,0;51,0
+Bu Yunchaokete;2025-01-27;Montpellier;Hard;A;W;R16;6-2 6-1;Constant Lestienne;23,08;0,0;6,56;5,57;2025-0375-372;2025;True;;9,0;0,0;39,0;7,0;4,0;61,0
+Bu Yunchaokete;2025-01-27;Montpellier;Hard;A;W;R32;7-6(1) 6-3;Daniel Altmaier;6,56;0,0;7,59;6,1;2025-0375-361;2025;True;;4,0;0,0;61,0;10,0;6,0;79,0
+Bu Yunchaokete;2025-01-13;Australian Open;Hard;G;L;R128;7-6(4) 6-4 7-6(6);Hady Habib;11,61;2,68;20,22;6,59;2025-580-157;2025;True;;13,0;3,0;112,0;17,0;18,0;89,0
+Bu Yunchaokete;2025-01-06;Auckland;Hard;A;L;R32;6-3 6-4;Jan Lennard Struff;8,22;1,37;26,0;8,11;2025-0301-365;2025;True;;6,0;1,0;73,0;9,0;13,0;50,0
+Bu Yunchaokete;2024-12-30;Hong Kong;Hard;A;L;R32;3-6 6-3 7-6(6);Nuno Borges;15,89;0,93;11,11;7,13;2025-0336-362;2024;True;;17,0;1,0;107,0;15,0;9,0;81,0
+Bu Yunchaokete;2024-11-11;Kobe CH;Hard;C;L;R16;7-6(3) 7-5;Jurij Rodionov;7,41;1,23;10,98;6,75;2024-7397-378;2024;True;;6,0;1,0;81,0;12,0;9,0;82,0
+Bu Yunchaokete;2024-11-11;Kobe CH;Hard;C;W;R32;6-4 6-4;Elias Ymer;5,66;0,0;13,56;5,3;2024-7397-370;2024;True;;3,0;0,0;53,0;10,0;8,0;59,0
+Bu Yunchaokete;2024-11-04;Metz;Hard;A;L;QF;6-7(6) 6-2 6-4;Alex Michelsen;7,27;2,73;10,42;7,33;2024-0341-380;2024;True;;8,0;3,0;110,0;15,0;10,0;96,0
+Bu Yunchaokete;2024-11-04;Metz;Hard;A;W;R16;6-4 7-6(1);Jesper De Jong;11,48;1,64;14,86;5,55;2024-0341-373;2024;True;;7,0;1,0;61,0;11,0;11,0;74,0
+Bu Yunchaokete;2024-11-04;Metz;Hard;A;W;R32;7-6(4) 6-4;Adrian Mannarino;12,12;0,0;14,29;6,0;2024-0341-362;2024;True;;8,0;0,0;66,0;11,0;9,0;63,0
+Bu Yunchaokete;2024-10-28;Paris Masters;Hard;M;L;Q2;3-6 7-6(4) 6-3;Quentin Halys;9,38;2,08;25,0;6,86;2024-0352-317;2024;True;;9,0;2,0;96,0;14,0;23,0;92,0
+Bu Yunchaokete;2024-10-28;Paris Masters;Hard;M;W;Q1;6-4 7-6(5);Alexander Shevchenko;8,45;1,41;10,29;6,45;2024-0352-304;2024;True;;6,0;1,0;71,0;11,0;7,0;68,0
+Bu Yunchaokete;2024-10-21;Vienna;Hard;A;L;Q1;7-5 6-7(3) 7-6(3);Aleksandar Kovacevic;14,81;1,85;19,83;6,0;2024-0337-341;2024;True;;16,0;2,0;108,0;18,0;24,0;121,0
+Bu Yunchaokete;2024-10-14;Almaty;Hard;A;L;Q2;6-2 3-6 7-5;Daniel Evans;7,69;0,0;15,91;6,93;2024-9410-358;2024;True;;8,0;0,0;104,0;15,0;14,0;88,0
+Bu Yunchaokete;2024-10-14;Almaty;Hard;A;W;Q1;6-3 6-4;Illya Marchenko;12,07;1,72;13,46;5,8;2024-9410-354;2024;True;;7,0;1,0;58,0;10,0;7,0;52,0
+Bu Yunchaokete;2024-10-02;Shanghai Masters;Hard;M;L;R128;6-3 6-4;Alex Michelsen;4,0;6,0;11,32;5,56;2024-5014-283;2024;True;;2,0;3,0;50,0;9,0;6,0;53,0
+Bu Yunchaokete;2024-09-26;Beijing;Hard;A;L;SF;6-3 7-6(3);Jannik Sinner;3,8;3,8;14,29;7,9;2024-0747-399;2024;True;;3,0;3,0;79,0;10,0;11,0;77,0
+Bu Yunchaokete;2024-09-26;Beijing;Hard;A;W;QF;7-5 6-4;Andrey Rublev;8,45;1,41;10,0;6,45;2024-0747-394;2024;True;;6,0;1,0;71,0;11,0;6,0;60,0
+Bu Yunchaokete;2024-09-26;Beijing;Hard;A;W;R16;6-2 6-4;Lorenzo Musetti;9,09;1,82;0,0;6,11;2024-0747-389;2024;True;;5,0;1,0;55,0;9,0;0,0;56,0
+Bu Yunchaokete;2024-09-26;Beijing;Hard;A;W;R32;6-7(3) 6-2 6-4;Juncheng Shang;9,52;2,38;4,72;5,6;2024-0747-377;2024;True;;8,0;2,0;84,0;15,0;5,0;106,0
+Bu Yunchaokete;2024-09-18;Hangzhou;Hard;A;L;SF;7-6(3) 6-4;Zhizhen Zhang;13,11;1,64;12,82;5,55;2024-4713-398;2024;True;;8,0;1,0;61,0;11,0;10,0;78,0
+Bu Yunchaokete;2024-09-18;Hangzhou;Hard;A;W;QF;6-4 6-2;Mikhail Kukushkin;15,38;1,92;2,0;5,78;2024-4713-395;2024;True;;8,0;1,0;52,0;9,0;1,0;50,0
+Bu Yunchaokete;2024-09-18;Hangzhou;Hard;A;W;R16;7-6(7) 4-6 6-3;Karen Khachanov;14,29;2,2;19,57;5,69;2024-4713-392;2024;True;;13,0;2,0;91,0;16,0;18,0;92,0
+Bu Yunchaokete;2024-09-18;Hangzhou;Hard;A;W;R32;7-5 6-3;Hugo Gaston;15,0;1,67;6,06;5,45;2024-4713-380;2024;True;;9,0;1,0;60,0;11,0;4,0;66,0
+Bu Yunchaokete;2024-09-13;Davis Cup WG2 R1: ROU vs CHN;Hard;D;L;RR;3-6 6-4 7-6(4);Cezar Cretu;6,06;3,03;8,49;6,6;2024-M-DC-2024-WG2-M-ROU-CHN-01-001;2024;True;;6,0;3,0;99,0;15,0;9,0;106,0
+Bu Yunchaokete;2024-09-13;Davis Cup WG2 R1: ROU vs CHN;Hard;D;W;RR;6-3 7-6(3);Gabi Adrian Boitan;1,47;1,47;12,28;6,18;2024-M-DC-2024-WG2-M-ROU-CHN-01-004;2024;True;;1,0;1,0;68,0;11,0;7,0;57,0
+Bu Yunchaokete;2024-09-02;Shanghai CH;Hard;C;L;R32;6-3 3-6 6-3;Marc Polmans;7,06;1,18;13,58;6,54;2024-6313-281;2024;True;;6,0;1,0;85,0;13,0;11,0;81,0
+Bu Yunchaokete;2024-08-26;US Open;Hard;G;L;R128;7-6(2) 6-2 6-2;Casper Ruud;11,96;2,17;17,72;6,57;2024-560-132;2024;True;;11,0;2,0;92,0;14,0;14,0;79,0
+Bu Yunchaokete;2024-08-26;US Open;Hard;G;W;Q3;1-6 6-3 6-4;Aslan Karatsev;4,35;2,9;7,87;5,31;2024-560-798;2024;True;;3,0;2,0;69,0;13,0;7,0;89,0
+Bu Yunchaokete;2024-08-26;US Open;Hard;G;W;Q2;6-4 6-4;Borna Gojo;10,96;1,37;23,21;7,3;2024-560-769;2024;True;;8,0;1,0;73,0;10,0;13,0;56,0
+Bu Yunchaokete;2024-08-26;US Open;Hard;G;W;Q1;6-2 7-6(4);Yasutaka Uchiyama;12,5;3,12;5,71;6,4;2024-560-711;2024;True;;8,0;2,0;64,0;10,0;4,0;70,0
+Bu Yunchaokete;2024-08-05;Lincoln CH;Hard;C;L;SF;0-6 6-0 7-6(3);Jacob Fearnley;4,71;2,35;4,62;7,08;2024-2941-299;2024;True;;4,0;2,0;85,0;12,0;3,0;65,0
+Bu Yunchaokete;2024-08-05;Lincoln CH;Hard;C;W;QF;7-6(3) 6-2;Tristan Schoolkate;4,0;2,67;13,89;7,5;2024-2941-296;2024;True;;3,0;2,0;75,0;10,0;10,0;72,0
+Bu Yunchaokete;2024-08-05;Lincoln CH;Hard;C;W;R16;6-3 6-2;Beibit Zhukayev;7,14;3,57;10,0;6,22;2024-2941-290;2024;True;;4,0;2,0;56,0;9,0;5,0;50,0
+Bu Yunchaokete;2024-08-05;Lincoln CH;Hard;C;W;R32;6-4 6-2;Shintaro Mochizuki;3,45;2,3;0,0;9,67;2024-2941-278;2024;True;;3,0;2,0;87,0;9,0;0,0;65,0
+Bu Yunchaokete;2024-07-22;Chicago CH;Hard;C;L;F;6-3 7-6(3);Gabriel Diallo;5,48;2,74;28,81;7,3;2024-2797-300;2024;True;;4,0;2,0;73,0;10,0;17,0;59,0
+Bu Yunchaokete;2024-07-22;Chicago CH;Hard;C;W;SF;6-4 7-5;Learner Tien;7,14;0,0;0,0;6,36;2024-2797-298;2024;True;;5,0;0,0;70,0;11,0;0,0;70,0
+Bu Yunchaokete;2024-07-22;Chicago CH;Hard;C;W;QF;6-2 6-7(9) 6-1;Hugo Grenier;12,0;3,0;10,31;7,14;2024-2797-295;2024;True;;12,0;3,0;100,0;14,0;10,0;97,0
+Bu Yunchaokete;2024-07-22;Chicago CH;Hard;C;W;R16;6-3 6-3;Paul Jubb;8,33;6,25;4,44;5,33;2024-2797-289;2024;True;;4,0;3,0;48,0;9,0;2,0;45,0
+Bu Yunchaokete;2024-07-22;Chicago CH;Hard;C;W;R32;6-4 6-4;Michael Zheng;10,34;3,45;5,88;5,8;2024-2797-277;2024;True;;6,0;2,0;58,0;10,0;4,0;68,0
+Bu Yunchaokete;2024-07-15;Granby CH;Hard;C;W;F;6-3 6-7(7) 6-4;Terence Atmane;6,73;0,96;7,34;6,93;2024-0877-300;2024;True;;7,0;1,0;104,0;15,0;8,0;109,0
+Bu Yunchaokete;2024-07-15;Granby CH;Hard;C;W;SF;6-2 6-1;Hugo Grenier;3,92;0,0;2,08;7,29;2024-0877-299;2024;True;;2,0;0,0;51,0;7,0;1,0;48,0
+Bu Yunchaokete;2024-07-15;Granby CH;Hard;C;W;QF;4-6 6-4 6-2;Bruno Kuzuhara;6,93;0,0;3,3;7,21;2024-0877-296;2024;True;;7,0;0,0;101,0;14,0;3,0;91,0
+Bu Yunchaokete;2024-07-15;Granby CH;Hard;C;W;R16;6-4 6-0;Philip Sekulic;14,75;0,0;4,55;7,62;2024-0877-290;2024;True;;9,0;0,0;61,0;8,0;2,0;44,0
+Bu Yunchaokete;2024-07-15;Granby CH;Hard;C;W;R32;7-6(6) 7-5;Rodrigo Pacheco Mendez;13,64;9,09;9,76;7,33;2024-0877-278;2024;True;;12,0;8,0;88,0;12,0;8,0;82,0
+Bu Yunchaokete;2024-07-08;Winnipeg CH;Hard;C;L;SF;3-6 7-6(6) 6-0;Benjamin Bonzi;7,14;3,57;12,68;6,0;2024-7542-399;2024;True;;6,0;3,0;84,0;14,0;9,0;71,0
+Bu Yunchaokete;2024-07-08;Winnipeg CH;Hard;C;W;QF;6-7(4) 6-2 6-2;Brandon Holt;4,49;3,37;6,25;6,36;2024-7542-394;2024;True;;4,0;3,0;89,0;14,0;5,0;80,0
+Bu Yunchaokete;2024-07-08;Winnipeg CH;Hard;C;W;R16;3-6 6-2 6-3;Marc Polmans;1,28;3,85;3,85;6,0;2024-7542-388;2024;True;;1,0;3,0;78,0;13,0;3,0;78,0
+Bu Yunchaokete;2024-07-08;Winnipeg CH;Hard;C;W;R32;3-6 7-6(2) 6-2;Vasek Pospisil;5,49;3,3;15,38;6,5;2024-7542-377;2024;True;;5,0;3,0;91,0;14,0;16,0;104,0
+Bu Yunchaokete;2024-07-01;Bloomfield Hills CH;Hard;C;L;R16;0-6 7-5 6-0;Learner Tien;14,08;2,82;5,83;5,92;2024-2883-287;2024;True;;10,0;2,0;71,0;12,0;6,0;103,0
+Bu Yunchaokete;2024-07-01;Bloomfield Hills CH;Hard;C;W;R32;6-4 6-4;Ryan Peniston;14,29;4,76;3,08;6,3;2024-2883-273;2024;True;;9,0;3,0;63,0;10,0;2,0;65,0
+Bu Yunchaokete;2024-07-01;Wimbledon;Grass;G;L;Q2;7-5 6-7(10) 6-4;Radu Albot;14,42;1,92;9,91;6,12;2024-540-779;2024;True;;15,0;2,0;104,0;17,0;11,0;111,0
+Bu Yunchaokete;2024-07-01;Wimbledon;Grass;G;W;Q1;6-7(5) 7-6(5) 6-2;Terence Atmane;5,56;1,11;8,33;5,62;2024-540-731;2024;True;;5,0;1,0;90,0;16,0;9,0;108,0
+Bu Yunchaokete;2024-06-17;Ilkley CH;Grass;C;L;Q1;6-4 6-4;Matteo Martineau;3,9;0,0;17,31;7,7;2024-9005-239;2024;True;;3,0;0,0;77,0;10,0;9,0;52,0
+Bu Yunchaokete;2024-06-10;Nottingham CH;Grass;C;L;R32;6-2 7-5;Jacob Fearnley;6,94;4,17;9,62;7,2;2024-7740-374;2024;True;;5,0;3,0;72,0;10,0;5,0;52,0
+Bu Yunchaokete;2024-05-27;Roland Garros;Clay;G;L;Q2;7-5 6-3;Gustavo Heide;1,52;0,0;13,79;6,6;2024-520-234;2024;True;;1,0;0,0;66,0;10,0;8,0;58,0
+Bu Yunchaokete;2024-05-27;Roland Garros;Clay;G;W;Q1;6-3 7-5;Alex Molcan;2,7;2,7;5,45;6,73;2024-520-189;2024;True;;2,0;2,0;74,0;11,0;3,0;55,0
+Bu Yunchaokete;2024-05-06;Wuxi CH;Hard;C;W;F;6-4 6-1;Egor Gerasimov;10,0;4,0;7,46;6,25;2024-2921-300;2024;True;;5,0;2,0;50,0;8,0;5,0;67,0
+Bu Yunchaokete;2024-05-06;Wuxi CH;Hard;C;W;SF;7-5 1-6 6-4;Philip Sekulic;8,64;0,0;7,14;5,79;2024-2921-298;2024;True;;7,0;0,0;81,0;14,0;7,0;98,0
+Bu Yunchaokete;2024-05-06;Wuxi CH;Hard;C;W;QF;6-4 6-3;Tung Lin Wu;5,88;1,47;4,92;7,56;2024-2921-295;2024;True;;4,0;1,0;68,0;9,0;3,0;61,0
+Bu Yunchaokete;2024-05-06;Wuxi CH;Hard;C;W;R16;6-1 7-5;Linang Xiao;19,67;4,92;0,0;6,1;2024-2921-288;2024;True;;12,0;3,0;61,0;10,0;0,0;63,0
+Bu Yunchaokete;2024-05-06;Wuxi CH;Hard;C;W;R32;6-3 6-0;Omar Jasika;11,11;5,56;3,92;5,14;2024-2921-274;2024;True;;4,0;2,0;36,0;7,0;2,0;51,0
+Bu Yunchaokete;2024-04-29;Guangzhou CH;Hard;C;L;SF;2-6 7-6(5) 6-2;Adam Walton;10,78;1,96;8,43;7,29;2024-6965-298;2024;True;;11,0;2,0;102,0;14,0;7,0;83,0
+Bu Yunchaokete;2024-04-29;Guangzhou CH;Hard;C;W;QF;7-6(4) 6-3;James Duckworth;12,68;1,41;14,06;6,45;2024-6965-294;2024;True;;9,0;1,0;71,0;11,0;9,0;64,0
+Bu Yunchaokete;2024-04-29;Guangzhou CH;Hard;C;W;R16;6-4 6-4;Antoine Escoffier;5,8;1,45;9,23;6,9;2024-6965-287;2024;True;;4,0;1,0;69,0;10,0;6,0;65,0
+Bu Yunchaokete;2024-04-29;Guangzhou CH;Hard;C;W;R32;6-1 6-4;Federico Cina;25,0;0,0;7,84;5,5;2024-6965-273;2024;True;;11,0;0,0;44,0;8,0;4,0;51,0
+Bu Yunchaokete;2024-04-15;Gwangju CH;Hard;C;L;F;6-2 3-6 6-4;Lloyd Harris;5,05;1,01;15,73;7,07;2024-7490-300;2024;True;;5,0;1,0;99,0;14,0;14,0;89,0
+Bu Yunchaokete;2024-04-15;Gwangju CH;Hard;C;W;SF;4-6 6-4 7-6(5);Ricardas Berankis;2,91;0,97;2,04;6,44;2024-7490-299;2024;True;;3,0;1,0;103,0;16,0;2,0;98,0
+Bu Yunchaokete;2024-04-15;Gwangju CH;Hard;C;W;QF;7-5 6-3;Yu Hsiou Hsu;6,45;0,0;1,33;6,2;2024-7490-297;2024;True;;4,0;0,0;62,0;10,0;1,0;75,0
+Bu Yunchaokete;2024-04-15;Gwangju CH;Hard;C;W;R16;6-3 6-7(8) 4-4 RET;Arthur Fery;9,57;1,06;5,56;6,71;2024-7490-292;2024;True;;9,0;1,0;94,0;14,0;6,0;108,0
+Bu Yunchaokete;2024-04-15;Gwangju CH;Hard;C;W;R32;3-2 RET;Alexander Blockx;0,0;0,0;0,0;7,0;2024-7490-282;2024;True;;0,0;0,0;21,0;3,0;0,0;12,0
+Bu Yunchaokete;2024-04-08;Busan CH;Hard;C;L;R32;7-5 7-5;Rio Noguchi;3,66;6,1;0,0;6,83;2024-1741-282;2024;True;;3,0;5,0;82,0;12,0;0,0;80,0
+Bu Yunchaokete;2024-03-18;Murcia CH;Clay;C;L;QF;7-5 3-6 6-1;Albert Ramos;10,34;2,3;2,3;6,21;2024-9171-297;2024;True;;9,0;2,0;87,0;14,0;2,0;87,0
+Bu Yunchaokete;2024-03-18;Murcia CH;Clay;C;W;R16;7-6(5) 6-3;Nicolas Alvarez Varona;5,63;1,41;0,0;6,45;2024-9171-292;2024;True;;4,0;1,0;71,0;11,0;0,0;73,0
+Bu Yunchaokete;2024-03-18;Murcia CH;Clay;C;W;R32;6-4 3-6 6-3;Nicola Kuhn;3,53;2,35;5,06;6,07;2024-9171-283;2024;True;;3,0;2,0;85,0;14,0;4,0;79,0
+Bu Yunchaokete;2024-03-11;Hamburg CH;Hard;C;L;R16;3-6 6-2 6-1;Alexander Blockx;1,12;0,0;10,81;7,42;2024-8297-291;2024;True;;1,0;0,0;89,0;12,0;8,0;74,0
+Bu Yunchaokete;2024-03-11;Hamburg CH;Hard;C;W;R32;6-1 6-3;Sebastian Fanselow;16,67;0,0;9,38;6,0;2024-8297-281;2024;True;;8,0;0,0;48,0;8,0;6,0;64,0
+Bu Yunchaokete;2024-03-04;Lugano CH;Hard;C;L;R32;6-4 6-0;Antoine Escoffier;11,63;13,95;16,22;5,38;2024-9516-272;2024;True;;5,0;6,0;43,0;8,0;6,0;37,0
+Bu Yunchaokete;2024-01-15;Australian Open;Hard;G;L;Q1;7-5 6-0;Hugo Gaston;5,36;12,5;8,33;6,22;2024-580-712;2024;True;;3,0;7,0;56,0;9,0;5,0;60,0
+Bu Yunchaokete;2023-11-06;Matsuyama CH;Hard;C;L;QF;7-5 6-3;Luca Nardi;1,39;0,0;16,95;6,55;2023-8386-295;2023;True;;1,0;0,0;72,0;11,0;10,0;59,0
+Bu Yunchaokete;2023-11-06;Matsuyama CH;Hard;C;W;R16;6-4 5-7 7-5;Dane Sweeny;5,83;1,94;1,89;6,06;2023-8386-289;2023;True;;6,0;2,0;103,0;17,0;2,0;106,0
+Bu Yunchaokete;2023-11-06;Matsuyama CH;Hard;C;W;R32;6-7(4) 6-2 6-2;Menelaos Efstathiou;3,66;2,44;5,43;5,86;2023-8386-277;2023;True;;3,0;2,0;82,0;14,0;5,0;92,0
+Bu Yunchaokete;2023-10-16;Shenzhen CH;Hard;C;L;SF;6-1 6-2;James Duckworth;7,84;3,92;11,54;7,29;2023-2897-299;2023;True;;4,0;2,0;51,0;7,0;6,0;52,0
+Bu Yunchaokete;2023-10-16;Shenzhen CH;Hard;C;W;QF;6-3 6-2;Yan Bai;1,54;7,69;5,17;7,22;2023-2897-296;2023;True;;1,0;5,0;65,0;9,0;3,0;58,0
+Bu Yunchaokete;2023-10-16;Shenzhen CH;Hard;C;W;R16;6-3 6-4;Alibek Kachmazov;6,82;2,27;5,41;4,89;2023-2897-291;2023;True;;3,0;1,0;44,0;9,0;4,0;74,0
+Bu Yunchaokete;2023-10-16;Shenzhen CH;Hard;C;W;R32;6-3 6-3;Luke Saville;16,36;3,64;6,56;6,11;2023-2897-281;2023;True;;9,0;2,0;55,0;9,0;4,0;61,0
+Bu Yunchaokete;2023-10-09;Shenzhen CH;Hard;C;L;R16;6-3 6-4;Nuno Borges;2,27;2,27;13,33;4,89;2023-7797-291;2023;True;;1,0;1,0;44,0;9,0;10,0;75,0
+Bu Yunchaokete;2023-10-09;Shenzhen CH;Hard;C;W;R32;3-6 6-3 2-0 RET;James Mccabe;11,76;1,96;12,73;5,1;2023-7797-280;2023;True;;6,0;1,0;51,0;10,0;7,0;55,0
+Bu Yunchaokete;2023-10-02;Shanghai Masters;Hard;M;L;R64;6-1 6-4;Sebastian Korda;2,13;4,26;15,52;5,88;2023-5014-239;2023;True;;1,0;2,0;47,0;8,0;9,0;58,0
+Bu Yunchaokete;2023-10-02;Shanghai Masters;Hard;M;W;R128;6-7(6) 6-2 2-1 RET;Miomir Kecmanovic;22,97;1,35;11,63;6,73;2023-5014-176;2023;True;;17,0;1,0;74,0;11,0;10,0;86,0
+Bu Yunchaokete;2023-09-11;Guangzhou CH;Hard;C;L;SF;6-3 6-4;Terence Atmane;5,77;5,77;17,24;5,78;2023-6965-299;2023;True;;3,0;3,0;52,0;9,0;10,0;58,0
+Bu Yunchaokete;2023-09-11;Guangzhou CH;Hard;C;W;QF;7-5 6-3;Dane Sweeny;11,86;1,69;1,64;5,9;2023-6965-296;2023;True;;7,0;1,0;59,0;10,0;1,0;61,0
+Bu Yunchaokete;2023-09-11;Guangzhou CH;Hard;C;W;R16;6-4 6-0;Luke Saville;10,64;8,51;5,77;5,88;2023-6965-291;2023;True;;5,0;4,0;47,0;8,0;3,0;52,0
+Bu Yunchaokete;2023-09-11;Guangzhou CH;Hard;C;W;R32;6-2 6-3;Bang Shuo Yin;16,67;2,38;3,28;5,25;2023-6965-281;2023;True;;7,0;1,0;42,0;8,0;2,0;61,0
+Bu Yunchaokete;2023-09-04;Shanghai CH;Hard;C;L;R16;6-1 6-4;Lorenzo Giustino;5,26;0,0;17,46;7,12;2023-6313-289;2023;True;;3,0;0,0;57,0;8,0;11,0;63,0
+Bu Yunchaokete;2023-09-04;Shanghai CH;Hard;C;W;R32;6-2 6-4;Rigele Te;11,36;2,27;15,0;4,89;2023-6313-277;2023;True;;5,0;1,0;44,0;9,0;9,0;60,0
+Bu Yunchaokete;2023-08-28;Zhangjiagang CH;Hard;C;L;R32;6-7(7) 6-3 7-6(6);Rigele Te;17,31;3,85;17,09;6,5;2023-7783-285;2023;True;;18,0;4,0;104,0;16,0;20,0;117,0
+Bu Yunchaokete;2023-07-03;Wimbledon;Grass;G;L;Q1;7-6(5) 3-6 6-3;Raphael Collignon;5,21;1,04;9,28;6,4;2023-540-738;2023;True;;5,0;1,0;96,0;15,0;9,0;97,0
+Bu Yunchaokete;2023-06-19;Ilkley CH;Grass;C;L;Q1;6-1 6-3;Alex Bolt;6,0;2,0;12,2;6,25;2023-9005-242;2023;True;;3,0;1,0;50,0;8,0;5,0;41,0
+Bu Yunchaokete;2023-06-12;Nottingham CH;Grass;C;L;R16;6-3 3-6 6-3;Nuno Borges;6,74;2,25;5,81;6,85;2023-7740-291;2023;True;;6,0;2,0;89,0;13,0;5,0;86,0
+Bu Yunchaokete;2023-06-12;Nottingham CH;Grass;C;W;R32;7-6(4) 6-2;Seong Chan Hong;9,09;3,9;15,0;7,7;2023-7740-280;2023;True;;7,0;3,0;77,0;10,0;9,0;60,0
+Bu Yunchaokete;2023-06-05;Surbiton CH;Grass;C;L;R16;7-6(1) 6-4;Andy Murray;2,63;0,0;21,33;6,91;2023-7297-286;2023;True;;2,0;0,0;76,0;11,0;16,0;75,0
+Bu Yunchaokete;2023-06-05;Surbiton CH;Grass;C;W;R32;7-6(2) 7-5;Harry Wendelken;8,64;0,0;12,35;6,75;2023-7297-271;2023;True;;7,0;0,0;81,0;12,0;10,0;81,0
+Bu Yunchaokete;2023-06-05;Surbiton CH;Grass;C;W;Q2;6-3 7-6(2);Abedallah Shelbayh;2,53;0,0;4,62;7,18;2023-7297-254;2023;True;;2,0;0,0;79,0;11,0;3,0;65,0
+Bu Yunchaokete;2023-06-05;Surbiton CH;Grass;C;W;Q1;6-4 6-4;Charles Broom;7,81;1,56;7,69;6,4;2023-7297-248;2023;True;;5,0;1,0;64,0;10,0;4,0;52,0
+Bu Yunchaokete;2023-05-08;Busan CH;Hard;C;L;R32;6-4 6-4;Li Tu;7,84;1,96;12,9;5,1;2023-1741-276;2023;True;;4,0;1,0;51,0;10,0;8,0;62,0
+Bu Yunchaokete;2023-05-01;Gwangju CH;Hard;C;L;QF;6-3 6-2;Christopher Eubanks;5,56;7,41;27,59;6,75;2023-7490-294;2023;True;;3,0;4,0;54,0;8,0;16,0;58,0
+Bu Yunchaokete;2023-05-01;Gwangju CH;Hard;C;W;R16;6-4 7-6(4);Aleksandar Vukic;7,69;1,54;12,7;5,91;2023-7490-287;2023;True;;5,0;1,0;65,0;11,0;8,0;63,0
+Bu Yunchaokete;2023-05-01;Gwangju CH;Hard;C;W;R32;6-4 6-1;San Hui Sin;4,35;2,17;4,41;5,75;2023-7490-272;2023;True;;2,0;1,0;46,0;8,0;3,0;68,0
+Bu Yunchaokete;2023-04-24;Seoul CH;Hard;C;W;F;7-6(4) 6-4;Aleksandar Vukic;1,54;1,54;10,26;5,91;2023-7288-300;2023;True;;1,0;1,0;65,0;11,0;8,0;78,0
+Bu Yunchaokete;2023-04-24;Seoul CH;Hard;C;W;SF;7-6(4) 6-4;Yasutaka Uchiyama;8,75;2,5;5,88;7,27;2023-7288-299;2023;True;;7,0;2,0;80,0;11,0;5,0;85,0
+Bu Yunchaokete;2023-04-24;Seoul CH;Hard;C;W;QF;6-4 6-4;Seong Chan Hong;8,96;5,97;3,33;6,7;2023-7288-297;2023;True;;6,0;4,0;67,0;10,0;2,0;60,0
+Bu Yunchaokete;2023-04-24;Seoul CH;Hard;C;W;R16;6-4 6-7(1) 6-3;Emilio Gomez;11,83;1,08;4,76;5,81;2023-7288-292;2023;True;;11,0;1,0;93,0;16,0;5,0;105,0
+Bu Yunchaokete;2023-04-24;Seoul CH;Hard;C;W;R32;3-6 6-3 6-1;Altug Celikbilek;13,85;3,08;10,34;5,42;2023-7288-283;2023;True;;9,0;2,0;65,0;12,0;9,0;87,0
+Bu Yunchaokete;2023-04-17;Cuernavaca CH;Hard;C;L;R16;4-6 7-5 6-3;Antoine Escoffier;16,3;6,52;12,24;6,13;2023-6963-290;2023;True;;15,0;6,0;92,0;15,0;12,0;98,0
+Bu Yunchaokete;2023-04-17;Cuernavaca CH;Hard;C;W;R32;6-3 6-3;Aziz Dougaz;11,32;0,0;9,52;5,89;2023-6963-279;2023;True;;6,0;0,0;53,0;9,0;6,0;63,0
+Bu Yunchaokete;2023-04-10;Leon CH;Hard;C;L;R16;6-4 6-3;Maximilian Neuchrist;7,94;3,17;12,0;7,0;2023-2867-287;2023;True;;5,0;2,0;63,0;9,0;6,0;50,0
+Bu Yunchaokete;2023-04-10;Leon CH;Hard;C;W;R32;6-3 6-2;Alan Fernando Rubio Fierros;11,32;3,77;5,56;5,89;2023-2867-272;2023;True;;6,0;2,0;53,0;9,0;3,0;54,0
+Bu Yunchaokete;2023-03-19;Les Franqueses Del Valles CH;Hard;C;L;SF;6-7(7) 6-3 7-6(3);Hugo Grenier;5,08;1,69;17,8;6,94;2023-2853-298;2023;True;;6,0;2,0;118,0;17,0;21,0;118,0
+Bu Yunchaokete;2023-03-19;Les Franqueses Del Valles CH;Hard;C;W;QF;6-3 7-6(5);Gastao Elias;6,76;1,35;6,52;7,4;2023-2853-295;2023;True;;5,0;1,0;74,0;10,0;6,0;92,0
+Bu Yunchaokete;2023-03-19;Les Franqueses Del Valles CH;Hard;C;W;R16;6-2 6-2;Skander Mansouri;0,0;0,0;6,67;5,75;2023-2853-288;2023;True;;0,0;0,0;46,0;8,0;3,0;45,0
+Bu Yunchaokete;2023-03-19;Les Franqueses Del Valles CH;Hard;C;W;R32;6-1 6-2;John Echeverria;3,33;6,67;3,77;7,5;2023-2853-275;2023;True;;2,0;4,0;60,0;8,0;2,0;53,0
+Bu Yunchaokete;2023-03-06;Lugano CH;Hard;C;L;Q1;2-6 6-3 6-2;Edas Butvilas;6,85;2,74;2,63;6,08;2023-9516-244;2023;True;;5,0;2,0;73,0;12,0;2,0;76,0
+Bu Yunchaokete;2023-02-27;Pau CH;Hard;C;L;R32;7-5 7-5;Ricardas Berankis;6,45;2,15;3,12;7,75;2023-9162-275;2023;True;;6,0;2,0;93,0;12,0;2,0;64,0
+Bu Yunchaokete;2023-02-27;Pau CH;Hard;C;W;Q2;7-5 2-6 6-2;Dan Added;7,04;1,41;12,22;5,07;2023-9162-250;2023;True;;5,0;1,0;71,0;14,0;11,0;90,0
+Bu Yunchaokete;2023-02-27;Pau CH;Hard;C;W;Q1;6-2 6-4;Constantin Bittoun Kouzmine;6,45;3,23;0,0;6,89;2023-9162-240;2023;True;;4,0;2,0;62,0;9,0;0,0;53,0
+Bu Yunchaokete;2023-02-20;Rovereto CH;Hard;C;L;R32;6-4 4-6 6-2;Alejandro Moro Canas;1,8;2,7;3,45;7,93;2023-2849-272;2023;True;;2,0;3,0;111,0;14,0;3,0;87,0
+Bu Yunchaokete;2023-02-20;Rovereto CH;Hard;C;W;Q2;6-4 5-7 7-5;Francesco Forti;3,03;2,02;11,11;5,82;2023-2849-254;2023;True;;3,0;2,0;99,0;17,0;12,0;108,0
+Bu Yunchaokete;2023-02-20;Rovereto CH;Hard;C;W;Q1;6-1 6-1;Andrea Del Federico;2,08;6,25;2,38;6,86;2023-2849-248;2023;True;;1,0;3,0;48,0;7,0;1,0;42,0
+Bu Yunchaokete;2023-02-06;Tenerife 3 CH;Hard;C;L;R16;7-6(5) 6-4;Giovanni Fonio;7,35;2,94;4,48;6,18;2023-2847-286;2023;True;;5,0;2,0;68,0;11,0;3,0;67,0
+Bu Yunchaokete;2023-02-06;Tenerife 3 CH;Hard;C;W;R32;3-6 6-1 7-6(2);Alexander Shevchenko;2,11;0,0;3,33;6,79;2023-2847-270;2023;True;;2,0;0,0;95,0;14,0;3,0;90,0
+Bu Yunchaokete;2023-02-06;Tenerife 3 CH;Hard;C;W;Q2;6-2 4-2 RET;Alejandro Moro Canas;13,64;0,0;0,0;6,29;2023-2847-252;2023;True;;6,0;0,0;44,0;7,0;0,0;49,0
+Bu Yunchaokete;2023-02-06;Tenerife 3 CH;Hard;C;W;Q1;6-1 6-0;Miguel Garcia;14,71;0,0;4,88;4,86;2023-2847-244;2023;True;;5,0;0,0;34,0;7,0;2,0;41,0
+Bu Yunchaokete;2023-01-30;Tenerife 2 CH;Hard;C;L;Q2;6-1 6-4;Valentin Royer;3,39;3,39;13,46;7,38;2023-2839-249;2023;True;;2,0;2,0;59,0;8,0;7,0;52,0
+Bu Yunchaokete;2023-01-30;Tenerife 2 CH;Hard;C;W;Q1;6-3 6-0;Hillel Rousseau;18,75;0,0;1,96;4,57;2023-2839-238;2023;True;;6,0;0,0;32,0;7,0;1,0;51,0
+Bu Yunchaokete;2023-01-23;Quimper CH;Hard;C;L;R32;6-3 6-2;Arthur Fils;6,67;3,33;9,43;7,5;2023-6239-280;2023;True;;4,0;2,0;60,0;8,0;5,0;53,0
+Bu Yunchaokete;2023-01-23;Quimper CH;Hard;C;W;Q2;3-6 6-3 7-5;Lucas Poullain;6,32;3,16;0,0;6,33;2023-6239-250;2023;True;;6,0;3,0;95,0;15,0;0,0;104,0
+Bu Yunchaokete;2023-01-23;Quimper CH;Hard;C;W;Q1;6-3 6-2;Sem Verbeek;3,45;1,72;2,67;6,44;2023-6239-240;2023;True;;2,0;1,0;58,0;9,0;2,0;75,0
+Bu Yunchaokete;2023-01-16;Tenerife 1 CH;Hard;C;L;Q1;6-1 6-4;Giovanni Mpetshi Perricard;7,55;3,77;8,06;6,62;2023-9623-245;2023;True;;4,0;2,0;53,0;8,0;5,0;62,0
+Bu Yunchaokete;2022-10-10;Ismaning CH;Carpet;C;L;R16;6-1 7-6(5);Denis Yevseyev;8,54;0,0;7,25;9,11;2022-7793-291;2022;True;;7,0;0,0;82,0;9,0;5,0;69,0
+Bu Yunchaokete;2022-10-10;Ismaning CH;Carpet;C;W;R32;7-6(2) 6-2;Benjamin Hassan;4,69;0,0;6,76;6,4;2022-7793-280;2022;True;;3,0;0,0;64,0;10,0;5,0;74,0
+Bu Yunchaokete;2022-10-10;Ismaning CH;Carpet;C;W;Q2;6-4 6-4;Khumoyun Sultanov;14,29;0,0;5,08;5,6;2022-7793-251;2022;True;;8,0;0,0;56,0;10,0;3,0;59,0
+Bu Yunchaokete;2022-10-10;Ismaning CH;Carpet;C;W;Q1;3-6 6-2 6-3;Lukas Lacko;16,67;2,56;18,67;6,0;2022-7793-242;2022;True;;13,0;2,0;78,0;13,0;14,0;75,0
+Bu Yunchaokete;2022-10-03;Alicante CH;Hard;C;L;R32;7-5 7-5;Raul Brancaccio;9,68;5,38;11,59;7,75;2022-7909-277;2022;True;;9,0;5,0;93,0;12,0;8,0;69,0
+Bu Yunchaokete;2022-10-03;Alicante CH;Hard;C;W;Q2;6-4 7-6(0);Oscar Jose Gutierrez;16,28;3,49;6,58;7,82;2022-7909-253;2022;True;;14,0;3,0;86,0;11,0;5,0;76,0
+Bu Yunchaokete;2022-10-03;Alicante CH;Hard;C;W;Q1;6-2 3-6 6-2;Jose Fco Vidal Azorin;3,41;4,55;1,02;7,33;2022-7909-246;2022;True;;3,0;4,0;88,0;12,0;1,0;98,0
+Bu Yunchaokete;2022-09-26;Orleans CH;Hard;C;L;Q1;6-4 6-4;Terence Atmane;5,63;2,82;11,27;7,1;2022-2273-247;2022;True;;4,0;2,0;71,0;10,0;8,0;71,0
+Bu Yunchaokete;2022-09-05;Nonthaburi 3 CH;Hard;C;L;R32;6-4 7-5;Stuart Parker;6,35;1,59;7,69;5,73;2022-2801-279;2022;True;;4,0;1,0;63,0;11,0;5,0;65,0
+Bu Yunchaokete;2022-08-29;Nonthaburi 2 CH;Hard;C;L;R32;6-7(7) 6-2 6-2;Federico Gaio;7,69;1,92;22,37;7,43;2022-2795-275;2022;True;;8,0;2,0;104,0;14,0;17,0;76,0
+Bu Yunchaokete;2022-08-22;Nonthaburi 1 CH;Hard;C;L;R32;4-6 6-1 3-0 RET;Seong Chan Hong;0,0;4,0;18,18;7,5;2022-2791-271;2022;True;;0,0;3,0;75,0;10,0;8,0;44,0
 Buvaysar Gadamauri;2026-10-12;San Gregorio di Catania Challenger;Clay;C;W;R32;2-6 7-6(3) 6-1;Sandro Kopp;13,75;7,5;6,0;6,15;2026-3155-400;2026;False;;11,0;6,0;80,0;13,0;6,0;100,0
 Buvaysar Gadamauri;2026-10-05;Palermo Challenger;Clay;C;L;R16;6-2 7-6(5);Yanaki Milev;1,28;1,28;0,0;7,8;2026-3153-372;2026;False;;1,0;1,0;78,0;10,0;0,0;68,0
 Buvaysar Gadamauri;2026-10-05;Palermo Challenger;Clay;C;W;R32;7-5 7-5;Pedro Vives Marcos;2,63;3,95;2,82;6,33;2026-3153-358;2026;False;;2,0;3,0;76,0;12,0;2,0;71,0
@@ -18662,7 +18669,7 @@ Camilo Ugo Carabelli;2017-08-07;Floridablanca CH;Clay;C;W;Q3;6-4 7-6(3);Andre Mi
 Camilo Ugo Carabelli;2017-08-07;Floridablanca CH;Clay;C;W;Q2;6-0 7-6(0);Sergio Luis Hernandez Ramirez;3,28;1,64;0,0;6,78;2017-5016-243;2017;True;;2,0;1,0;61,0;9,0;0,0;59,0
 Camilo Ugo Carabelli;2017-08-07;Floridablanca CH;Clay;C;W;Q1;6-1 6-4;Christopher Diaz Figueroa;1,69;5,08;1,96;6,56;2017-5016-227;2017;True;;1,0;3,0;59,0;9,0;1,0;51,0
 Camilo Ugo Carabelli;2016-10-10;Buenos Aires CH;Clay;C;L;R32;6-1 6-3;Horacio Zeballos;4,0;0,0;5,0;6,25;2016-7395-285;2016;True;;2,0;0,0;50,0;8,0;2,0;40,0
-Carl Emil Overbeck;2026-09-28;Porto (Monte Aventino) Challenger;Hard;C;L;R32;6-4 6-2;Hugo Grenier;1,96;13,73;14,29;5,67;2026-9526-357;2026;False;;1,0;7,0;51,0;9,0;7,0;49,0
+Carl Emil Overbeck;2026-09-28;Porto Monte Aventino CH;Hard;C;L;R32;6-4 6-2;Hugo Grenier;1,96;13,73;14,29;5,67;2026-9526-357;2026;False;;1,0;7,0;51,0;9,0;7,0;49,0
 Carl Emil Overbeck;2026-09-07;Istanbul TED Club CH;Hard;C;L;R32;6-2 7-5;Olukayode Alafia Damina Ayeni;6,67;5,0;16,07;6,0;2026-7083-369;2026;False;;4,0;3,0;60,0;10,0;9,0;56,0
 Carl Emil Overbeck;2026-09-01;Manacor CH;Hard;C;L;Q2;6-3 6-3;Luca Potenza;10,17;3,39;3,39;6,56;2026-7973-350;2026;False;;6,0;2,0;59,0;9,0;2,0;59,0
 Carl Emil Overbeck;2026-09-01;Manacor CH;Hard;C;W;Q1;6-2 6-3;Ryan Peniston;1,37;5,48;0,0;8,11;2026-7973-340;2026;False;;1,0;4,0;73,0;9,0;0,0;59,0
@@ -22180,236 +22187,236 @@ Clement Tabur;2019-02-11;Cherbourg CH;Hard;C;L;R64;6-3 6-1;Filip Horansky;1,79;1
 Clement Tabur;2018-11-05;Mouilleron-Le-Captif CH;Hard;C;L;Q2;7-6(2) 6-4;Laurynas Grigelis;6,35;3,17;11,59;5,73;2018-6857-248;2018;False;;4,0;2,0;63,0;11,0;8,0;69,0
 Clement Tabur;2018-11-05;Mouilleron-Le-Captif CH;Hard;C;W;Q1;6-2 6-3;Robert Quentin;3,7;1,85;8,51;6,0;2018-6857-237;2018;False;;2,0;1,0;54,0;9,0;4,0;47,0
 Clement Tabur;2017-11-06;Mouilleron-Le-Captif CH;Hard;C;L;Q2;6-2 6-1;Constant Lestienne;3,77;1,89;4,0;7,57;2017-6857-244;2017;False;;2,0;1,0;53,0;7,0;2,0;50,0
-Coleman Wong;2026-10-07;ATP Shanghai;Hard;M;L;R128;6-4 7-6(5);Quentin Halys;20,0;0,0;31,25;5,91;2026-5014-330;2026;True;;13,0;0,0;65,0;11,0;20,0;64,0
-Coleman Wong;2026-10-07;ATP Shanghai;Hard;M;W;Q2;6-4 3-6 6-2;Lloyd Harris;15,38;2,56;9,3;6,0;2026-5014-291;2026;True;;12,0;2,0;78,0;13,0;8,0;86,0
-Coleman Wong;2026-10-07;ATP Shanghai;Hard;M;W;Q1;6-4 6-1;Cruz Hewitt;17,02;0,0;3,64;5,22;2026-5014-271;2026;True;;8,0;0,0;47,0;9,0;2,0;55,0
-Coleman Wong;2026-09-23;Hangzhou;Hard;A;L;QF;6-3 6-7(2) 6-3;Daniil Medvedev;11,76;1,18;17,82;6,07;2026-4713-382;2026;True;;10,0;1,0;85,0;14,0;18,0;101,0
-Coleman Wong;2026-09-23;Hangzhou;Hard;A;W;R16;7-6(2) 4-6 6-3;Adolfo Daniel Vallejo;19,32;1,14;3,85;5,5;2026-4713-377;2026;True;;17,0;1,0;88,0;16,0;4,0;104,0
-Coleman Wong;2026-09-23;Hangzhou;Hard;A;W;R32;6-3 6-3;Zhizhen Zhang;19,23;3,85;1,96;5,78;2026-4713-369;2026;True;;10,0;2,0;52,0;9,0;1,0;51,0
-Coleman Wong;2026-08-31;US Open;Hard;G;L;R128;6-7(3) 6-1 6-3 6-3;Tommy Paul;11,81;4,72;9,18;7,06;2026-560-159;2026;True;;15,0;6,0;127,0;18,0;9,0;98,0
-Coleman Wong;2026-08-31;US Open;Hard;G;W;Q3;6-4 6-3;Dusan Lajovic;14,75;9,84;6,45;6,1;2026-560-798;2026;True;;9,0;6,0;61,0;10,0;4,0;62,0
-Coleman Wong;2026-08-31;US Open;Hard;G;W;Q2;6-3 6-3;Lukas Neumayer;22,22;4,44;6,25;5,0;2026-560-767;2026;True;;10,0;2,0;45,0;9,0;4,0;64,0
-Coleman Wong;2026-08-31;US Open;Hard;G;W;Q1;5-7 6-3 6-4;Elmer Moller;13,4;7,22;0,78;6,06;2026-560-705;2026;True;;13,0;7,0;97,0;16,0;1,0;129,0
-Coleman Wong;2026-08-18;Cancun CH;Hard;C;L;QF;6-4 6-0;Sebastian Baez;12,07;6,9;6,98;7,25;2026-3009-382;2026;True;;7,0;4,0;58,0;8,0;3,0;43,0
-Coleman Wong;2026-08-18;Cancun CH;Hard;C;W;R16;6-4 1-6 7-6(3);Alan Magadan;18,56;4,12;5,62;6,93;2026-3009-377;2026;True;;18,0;4,0;97,0;14,0;5,0;89,0
-Coleman Wong;2026-08-18;Cancun CH;Hard;C;W;R32;6-2 6-2;Alexandre Muller;21,82;5,45;12,24;6,88;2026-3009-368;2026;True;;12,0;3,0;55,0;8,0;6,0;49,0
-Coleman Wong;2026-08-13;Cincinnati Masters;Hard;M;L;R128;3-6 6-3 6-4;Daniel Altmaier;12,5;7,95;9,89;6,29;2026-0422-280;2026;True;;11,0;7,0;88,0;14,0;9,0;91,0
-Coleman Wong;2026-08-13;Cincinnati Masters;Hard;M;W;Q2;7-6(4) 7-6(2);Otto Virtanen;10,47;6,98;15,85;7,17;2026-0422-268;2026;True;;9,0;6,0;86,0;12,0;13,0;82,0
-Coleman Wong;2026-08-13;Cincinnati Masters;Hard;M;W;Q1;6-4 6-2;Seong Chan Hong;7,35;4,41;12,24;7,56;2026-0422-249;2026;True;;5,0;3,0;68,0;9,0;6,0;49,0
-Coleman Wong;2026-07-27;Los Cabos;Hard;A;L;SF;7-6(7) 6-3;Arthur Gea;10,0;7,14;4,05;6,36;2026-7480-384;2026;True;;7,0;5,0;70,0;11,0;3,0;74,0
-Coleman Wong;2026-07-27;Los Cabos;Hard;A;W;QF;6-1 7-5;Jenson Brooksby;10,77;1,54;3,7;6,5;2026-7480-382;2026;True;;7,0;1,0;65,0;10,0;2,0;54,0
-Coleman Wong;2026-07-27;Los Cabos;Hard;A;W;R16;1-6 6-3 6-4;Jiri Lehecka;19,05;5,95;16,42;6,46;2026-7480-378;2026;True;;16,0;5,0;84,0;13,0;11,0;67,0
-Coleman Wong;2026-07-27;Los Cabos;Hard;A;W;R32;6-3 6-4;Darwin Blanch;13,46;3,85;0,0;5,2;2026-7480-370;2026;True;;7,0;2,0;52,0;10,0;0,0;57,0
-Coleman Wong;2026-07-20;Bloomfield Hills CH;Hard;C;L;R16;6-3 7-5;J J Wolf;15,52;8,62;10,45;5,8;2026-2883-373;2026;True;;9,0;5,0;58,0;10,0;7,0;67,0
-Coleman Wong;2026-07-20;Bloomfield Hills CH;Hard;C;W;R32;6-2 6-4;Spencer Johnson;18,6;0,0;14,29;4,78;2026-2883-359;2026;True;;8,0;0,0;43,0;9,0;6,0;42,0
-Coleman Wong;2026-07-13;Lincoln CH;Hard;C;L;QF;6-3 7-6(2);Spencer Johnson;6,45;6,45;15,87;6,2;2026-2941-381;2026;True;;4,0;4,0;62,0;10,0;10,0;63,0
-Coleman Wong;2026-07-13;Lincoln CH;Hard;C;W;R16;7-5 7-6(5);Anton Shepp;16,18;2,94;3,9;5,67;2026-2941-376;2026;True;;11,0;2,0;68,0;12,0;3,0;77,0
-Coleman Wong;2026-07-13;Lincoln CH;Hard;C;W;R32;6-2 6-2;Tung Lin Wu;13,64;0,0;9,3;5,5;2026-2941-366;2026;True;;6,0;0,0;44,0;8,0;4,0;43,0
-Coleman Wong;2026-06-13;Nottingham 2 CH;Grass;C;L;R32;7-5 3-6 6-1;Billy Harris;12,36;6,74;13,25;6,36;2026-7740-366;2026;True;;11,0;6,0;89,0;14,0;11,0;83,0
-Coleman Wong;2026-06-08;s Hertogenbosch;Grass;A;L;Q1;3-6 6-4 6-3;James Mccabe;10,84;1,2;13,58;5,93;2026-0440-352;2026;True;;9,0;1,0;83,0;14,0;11,0;81,0
-Coleman Wong;2026-06-01;Birmingham CH;Grass;C;L;R16;6-4 7-5;Filippo Romano;20,97;0,0;8,45;5,64;2026-4940-374;2026;True;;13,0;0,0;62,0;11,0;6,0;71,0
-Coleman Wong;2026-06-01;Birmingham CH;Grass;C;W;R32;7-6(5) 7-6(10);Oliver Tarvet;12,35;3,7;5,15;6,75;2026-4940-362;2026;True;;10,0;3,0;81,0;12,0;5,0;97,0
-Coleman Wong;2026-05-12;Bordeaux CH;Clay;C;L;Q1;6-4 7-5;Martin Damm;4,84;4,84;15,25;5,64;2026-3824-354;2026;True;;3,0;3,0;62,0;11,0;9,0;59,0
-Coleman Wong;2026-05-04;Wuxi CH;Hard;C;L;R32;6-4 6-2;Akira Santillan;8,33;2,08;5,26;5,33;2026-2921-355;2026;True;;4,0;1,0;48,0;9,0;3,0;57,0
-Coleman Wong;2026-04-27;Jiujiang CH;Hard;C;W;F;7-5 7-6(4);Adam Walton;11,36;3,41;4,11;7,33;2026-3083-385;2026;True;;10,0;3,0;88,0;12,0;3,0;73,0
-Coleman Wong;2026-04-27;Jiujiang CH;Hard;C;W;SF;6-3 6-4;Fajing Sun;18,75;1,56;2,04;6,4;2026-3083-383;2026;True;;12,0;1,0;64,0;10,0;1,0;49,0
-Coleman Wong;2026-04-27;Jiujiang CH;Hard;C;W;QF;7-6(2) 7-6(8);Bu Yunchaokete;12,79;2,33;8,43;7,17;2026-3083-380;2026;True;;11,0;2,0;86,0;12,0;7,0;83,0
-Coleman Wong;2026-04-27;Jiujiang CH;Hard;C;W;R16;7-6(2) 6-2;Rio Noguchi;9,86;0,0;0,0;7,1;2026-3083-373;2026;True;;7,0;0,0;71,0;10,0;0,0;59,0
-Coleman Wong;2026-04-27;Jiujiang CH;Hard;C;W;R32;6-3 6-3;Mikhail Kukushkin;12,77;2,13;1,72;5,22;2026-3083-359;2026;True;;6,0;1,0;47,0;9,0;1,0;58,0
-Coleman Wong;2026-04-20;Gwangju CH;Hard;C;L;R32;3-6 6-2 6-1;Clement Chidekh;8,33;2,78;1,41;6,0;2026-7490-359;2026;True;;6,0;2,0;72,0;12,0;1,0;71,0
-Coleman Wong;2026-04-13;Busan CH;Hard;C;L;R16;6-2 6-2;Rio Noguchi;0,0;2,33;0,0;5,38;2026-1741-373;2026;True;;0,0;1,0;43,0;8,0;0,0;52,0
-Coleman Wong;2026-04-13;Busan CH;Hard;C;W;R32;7-6(4) 6-4;Renta Tokuda;14,06;0,0;1,33;5,82;2026-1741-359;2026;True;;9,0;0,0;64,0;11,0;1,0;75,0
-Coleman Wong;2026-03-30;Houston;Clay;A;L;R32;6-4 6-2;Alex Michelsen;7,46;2,99;3,92;7,44;2026-0717-361;2026;True;;5,0;2,0;67,0;9,0;2,0;51,0
-Coleman Wong;2026-03-23;Morelia CH;Hard;C;L;R32;7-5 7-6(2);Nicolas Mejia;25,0;1,47;10,61;5,67;2026-2991-366;2026;True;;17,0;1,0;68,0;12,0;7,0;66,0
-Coleman Wong;2026-03-18;Miami Masters;Hard;M;L;Q2;6-2 3-6 6-3;Ignacio Buse;10,26;2,56;2,67;6,0;2026-0403-274;2026;True;;8,0;2,0;78,0;13,0;2,0;75,0
-Coleman Wong;2026-03-18;Miami Masters;Hard;M;W;Q1;5-7 7-6(4) 6-4;Jack Pinnington Jones;16,19;0,95;8,93;6,18;2026-0403-261;2026;True;;17,0;1,0;105,0;17,0;10,0;112,0
-Coleman Wong;2026-03-10;Cap Cana CH;Hard;C;L;QF;4-6 7-5 6-3;Alexander Blockx;9,17;3,67;7,92;7,27;2026-2975-380;2026;True;;10,0;4,0;109,0;15,0;8,0;101,0
-Coleman Wong;2026-03-10;Cap Cana CH;Hard;C;W;R16;3-6 6-4 6-2;Damir Dzumhur;7,84;6,86;1,23;7,29;2026-2975-373;2026;True;;8,0;7,0;102,0;14,0;1,0;81,0
-Coleman Wong;2026-03-10;Cap Cana CH;Hard;C;W;R32;4-6 6-3 6-4;Roman Andres Burruchaga;8,25;6,19;5,81;6,47;2026-2975-362;2026;True;;8,0;6,0;97,0;15,0;5,0;86,0
-Coleman Wong;2026-03-10;Cap Cana CH;Hard;C;L;Q2;3-6 6-3 7-6(2);Martin Landaluce;8,77;6,14;3,08;7,6;2026-2975-356;2026;True;;10,0;7,0;114,0;15,0;4,0;130,0
-Coleman Wong;2026-03-10;Cap Cana CH;Hard;C;W;Q1;6-1 3-6 6-3;Zhizhen Zhang;22,35;4,71;9,59;6,54;2026-2975-350;2026;True;;19,0;4,0;85,0;13,0;7,0;73,0
-Coleman Wong;2026-03-04;Indian Wells Masters;Hard;M;L;Q1;6-3 3-6 7-6(5);Elias Ymer;19,05;3,57;7,21;5,6;2026-0404-241;2026;True;;16,0;3,0;84,0;15,0;8,0;111,0
-Coleman Wong;2026-02-23;Acapulco;Hard;A;L;R32;4-6 6-3 6-2;Valentin Vacherot;8,14;2,33;16,05;6,62;2026-0807-358;2026;True;;7,0;2,0;86,0;13,0;13,0;81,0
-Coleman Wong;2026-02-23;Acapulco;Hard;A;L;Q2;6-3 6-0;Patrick Kypson;10,77;4,62;9,76;9,29;2026-0807-351;2026;True;;7,0;3,0;65,0;7,0;4,0;41,0
-Coleman Wong;2026-02-23;Acapulco;Hard;A;W;Q1;6-3 6-2;Juan Alejandro Hernandez Serrano;22,41;0,0;0,0;6,44;2026-0807-346;2026;True;;13,0;0,0;58,0;9,0;0,0;43,0
-Coleman Wong;2026-02-16;Delray Beach;Hard;A;L;QF;7-5 6-7(7) 6-2;Flavio Cobolli;14,29;1,9;11,96;6,56;2026-0499-380;2026;True;;15,0;2,0;105,0;16,0;11,0;92,0
-Coleman Wong;2026-02-16;Delray Beach;Hard;A;W;R16;6-4 7-6(4);Brandon Nakashima;20,31;0,0;17,46;5,82;2026-0499-374;2026;True;;13,0;0,0;64,0;11,0;11,0;63,0
-Coleman Wong;2026-02-16;Delray Beach;Hard;A;W;R32;7-6(5) 4-6 6-3;Nuno Borges;14,0;3,0;8,16;6,25;2026-0499-363;2026;True;;14,0;3,0;100,0;16,0;8,0;98,0
-Coleman Wong;2026-02-16;Delray Beach;Hard;A;W;Q2;6-4 6-4;Tristan Schoolkate;24,59;3,28;16,42;6,1;2026-0499-356;2026;True;;15,0;2,0;61,0;10,0;11,0;67,0
-Coleman Wong;2026-02-16;Delray Beach;Hard;A;W;Q1;6-2 6-2;Yoshihito Nishioka;34,09;2,27;3,33;5,5;2026-0499-349;2026;True;;15,0;1,0;44,0;8,0;2,0;60,0
-Coleman Wong;2026-01-27;Manama CH;Hard;C;L;R16;6-7(4) 6-3 6-4;Stefano Travaglia;9,38;1,04;4,39;6,4;2026-9635-375;2026;True;;9,0;1,0;96,0;15,0;5,0;114,0
-Coleman Wong;2026-01-27;Manama CH;Hard;C;W;R32;6-3 6-2;Ryan Peniston;11,54;0,0;0,0;5,78;2026-9635-364;2026;True;;6,0;0,0;52,0;9,0;0,0;58,0
-Coleman Wong;2026-01-19;Australian Open;Hard;G;L;Q3;7-6(4) 4-6 6-3;Elias Ymer;23,6;2,25;9,09;5,93;2026-580-804;2026;True;;21,0;2,0;89,0;15,0;10,0;110,0
-Coleman Wong;2026-01-19;Australian Open;Hard;G;W;Q2;7-6(7) 6-0;Pablo Llamas Ruiz;21,05;1,75;1,43;6,33;2026-580-781;2026;True;;12,0;1,0;57,0;9,0;1,0;70,0
-Coleman Wong;2026-01-19;Australian Open;Hard;G;W;Q1;6-3 7-6(6);Ugo Blanchet;26,42;0,0;2,13;4,82;2026-580-735;2026;True;;14,0;0,0;53,0;11,0;2,0;94,0
-Coleman Wong;2026-01-05;Hong Kong;Hard;A;L;QF;6-4 6-4;Lorenzo Musetti;10,53;3,51;3,85;5,7;2026-0336-382;2026;True;;6,0;2,0;57,0;10,0;2,0;52,0
-Coleman Wong;2026-01-05;Hong Kong;Hard;A;W;R16;1-6 7-5 7-5;Gabriel Diallo;9,35;2,8;8,33;7,13;2026-0336-377;2026;True;;10,0;3,0;107,0;15,0;9,0;108,0
-Coleman Wong;2026-01-05;Hong Kong;Hard;A;W;R32;6-3 7-5;Mariano Navone;5,56;2,78;4,05;7,2;2026-0336-369;2026;True;;4,0;2,0;72,0;10,0;3,0;74,0
-Coleman Wong;2025-11-03;Taipei CH;Hard;C;L;SF;6-3 6-4;James Duckworth;19,57;0,0;9,8;5,11;2025-2278-384;2025;True;;9,0;0,0;46,0;9,0;5,0;51,0
-Coleman Wong;2025-11-03;Taipei CH;Hard;C;W;QF;6-4 6-4;Maxime Janvier;17,65;5,88;7,55;5,1;2025-2278-381;2025;True;;9,0;3,0;51,0;10,0;4,0;53,0
-Coleman Wong;2025-11-03;Taipei CH;Hard;C;W;R16;6-4 6-4;Tsung Hao Huang;11,48;0,0;1,43;6,1;2025-2278-376;2025;True;;7,0;0,0;61,0;10,0;1,0;70,0
-Coleman Wong;2025-11-03;Taipei CH;Hard;C;W;R32;6-4 4-6 7-5;Luca Castelnuovo;12,61;1,68;12,5;7,44;2025-2278-366;2025;True;;15,0;2,0;119,0;16,0;11,0;88,0
-Coleman Wong;2025-10-27;Seoul CH;Hard;C;L;F;6-4 6-3;Sho Shimabukuro;5,66;3,77;1,61;5,3;2025-7288-385;2025;True;;3,0;2,0;53,0;10,0;1,0;62,0
-Coleman Wong;2025-10-27;Seoul CH;Hard;C;W;SF;7-6(2) 4-6 6-2;Yi Zhou;14,58;2,08;6,45;6,4;2025-7288-383;2025;True;;14,0;2,0;96,0;15,0;6,0;93,0
-Coleman Wong;2025-10-27;Seoul CH;Hard;C;W;QF;6-3 6-4;Bu Yunchaokete;14,04;3,51;7,58;5,7;2025-7288-379;2025;True;;8,0;2,0;57,0;10,0;5,0;66,0
-Coleman Wong;2025-10-27;Seoul CH;Hard;C;W;R16;6-4 7-6(3);Yu Hsiou Hsu;14,49;5,8;1,61;6,27;2025-7288-372;2025;True;;10,0;4,0;69,0;11,0;1,0;62,0
-Coleman Wong;2025-10-27;Seoul CH;Hard;C;W;R32;6-3 6-2;Hyeon Chung;6,67;0,0;1,75;5,62;2025-7288-358;2025;True;;3,0;0,0;45,0;8,0;1,0;57,0
-Coleman Wong;2025-10-20;Suzhou CH;Hard;C;L;R32;6-7(4) 6-2 7-6(2);Yu Hsiou Hsu;11,61;2,68;0,83;7,0;2025-3033-355;2025;True;;13,0;3,0;112,0;16,0;1,0;120,0
-Coleman Wong;2025-10-06;Jinan CH;Hard;C;L;R16;6-4 6-7(5) 7-6(5);Petr Bar Biryukov;11,22;4,08;16,94;5,76;2025-7746-373;2025;True;;11,0;4,0;98,0;17,0;21,0;124,0
-Coleman Wong;2025-10-06;Jinan CH;Hard;C;W;R32;7-6(10) 6-2;Laslo Djere;7,41;3,7;3,95;8,1;2025-7746-359;2025;True;;6,0;3,0;81,0;10,0;3,0;76,0
-Coleman Wong;2025-10-01;Shanghai Masters;Hard;M;L;Q1;7-6(4) 6-3;Jason Kubler;16,13;4,84;4,94;6,2;2025-5014-245;2025;True;;10,0;3,0;62,0;10,0;4,0;81,0
-Coleman Wong;2025-09-25;Beijing;Hard;A;L;Q1;4-6 6-2 7-6(5);Arthur Cazaux;6,45;2,15;6,45;6,2;2025-0747-340;2025;True;;6,0;2,0;93,0;15,0;6,0;93,0
-Coleman Wong;2025-09-17;Chengdu;Hard;A;L;R32;6-3 6-2;Taro Daniel;11,94;2,99;6,0;7,44;2025-7581-367;2025;True;;8,0;2,0;67,0;9,0;3,0;50,0
-Coleman Wong;2025-08-25;US Open;Hard;G;L;R32;2-6 6-4 6-3 4-6 6-3;Andrey Rublev;17,61;2,82;10,79;6,17;2025-560-201;2025;True;;25,0;4,0;142,0;23,0;15,0;139,0
-Coleman Wong;2025-08-25;US Open;Hard;G;W;R64;7-6(5) 6-2 4-6 6-4;Adam Walton;16,15;3,85;5,19;6,5;2025-560-174;2025;True;;21,0;5,0;130,0;20,0;7,0;135,0
-Coleman Wong;2025-08-25;US Open;Hard;G;W;R128;6-4 7-5 7-6(4);Aleksandar Kovacevic;21,36;0,97;10,0;6,06;2025-560-121;2025;True;;22,0;1,0;103,0;17,0;10,0;100,0
-Coleman Wong;2025-08-12;Cancun CH;Hard;C;L;R16;7-6(1) 6-2;Arthur Cazaux;5,13;6,41;15,79;7,8;2025-3009-373;2025;True;;4,0;5,0;78,0;10,0;9,0;57,0
-Coleman Wong;2025-08-12;Cancun CH;Hard;C;W;R32;6-1 6-4;Andrea Pellegrino;14,0;6,0;4,44;5,56;2025-3009-361;2025;True;;7,0;3,0;50,0;9,0;2,0;45,0
-Coleman Wong;2025-08-07;Cincinnati Masters;Hard;M;L;R64;6-3 6-4;Ugo Humbert;13,33;2,22;17,54;5,0;2025-0422-325;2025;True;;6,0;1,0;45,0;9,0;10,0;57,0
-Coleman Wong;2025-08-07;Cincinnati Masters;Hard;M;W;R128;6-3 6-2;Giovanni Mpetshi Perricard;13,04;2,17;16,67;5,11;2025-0422-293;2025;True;;6,0;1,0;46,0;9,0;7,0;42,0
-Coleman Wong;2025-08-07;Cincinnati Masters;Hard;M;W;Q2;7-6(5) 6-3;Shintaro Mochizuki;9,59;2,74;4,12;7,3;2025-0422-272;2025;True;;7,0;2,0;73,0;10,0;4,0;97,0
-Coleman Wong;2025-08-07;Cincinnati Masters;Hard;M;W;Q1;6-2 6-3;Juan Manuel Cerundolo;4,48;2,99;9,8;7,44;2025-0422-258;2025;True;;3,0;2,0;67,0;9,0;5,0;51,0
-Coleman Wong;2025-07-27;Canada Masters;Hard;M;L;Q1;6-4 6-4;Tomas Barrios Vera;14,81;11,11;5,88;5,4;2025-0421-260;2025;True;;8,0;6,0;54,0;10,0;3,0;51,0
-Coleman Wong;2025-07-14;Gstaad;Clay;A;L;Q1;6-7(7) 7-5 6-4;Facundo Bagnis;10,34;2,07;9,62;8,53;2025-0314-351;2025;True;;15,0;3,0;145,0;17,0;10,0;104,0
-Coleman Wong;2025-06-30;Wimbledon;Grass;G;L;Q2;7-6(1) 7-6(3);Nikoloz Basilashvili;13,41;1,22;2,63;6,83;2025-540-794;2025;True;;11,0;1,0;82,0;12,0;2,0;76,0
-Coleman Wong;2025-06-30;Wimbledon;Grass;G;W;Q1;6-3 6-4;Pol Martin Tiffon;15,87;1,59;8,22;6,3;2025-540-761;2025;True;;10,0;1,0;63,0;10,0;6,0;73,0
-Coleman Wong;2025-06-16;Nottingham 2 CH;Grass;C;L;Q2;6-1 3-6 7-6(4);Matteo Gigante;13,59;2,91;2,15;7,36;2025-7740-353;2025;True;;14,0;3,0;103,0;14,0;2,0;93,0
-Coleman Wong;2025-06-16;Nottingham 2 CH;Grass;C;W;Q1;6-4 7-5;Constant Lestienne;9,38;3,12;4,62;5,82;2025-7740-345;2025;True;;6,0;2,0;64,0;11,0;3,0;65,0
-Coleman Wong;2025-06-09;Ilkley CH;Grass;C;L;R32;6-3 6-2;Henry Searle;3,28;8,2;10,0;6,78;2025-9005-368;2025;True;;2,0;5,0;61,0;9,0;5,0;50,0
-Coleman Wong;2025-06-02;Birmingham CH;Grass;C;L;QF;6-2 7-5;Otto Virtanen;9,43;1,89;12,24;5,3;2025-4940-380;2025;True;;5,0;1,0;53,0;10,0;6,0;49,0
-Coleman Wong;2025-06-02;Birmingham CH;Grass;C;W;R16;4-6 6-3 6-2;Zachary Svajda;12,35;3,7;7,87;5,79;2025-4940-374;2025;True;;10,0;3,0;81,0;14,0;7,0;89,0
-Coleman Wong;2025-06-02;Birmingham CH;Grass;C;W;R32;6-1 5-7 6-3;Johannus Monday;11,69;3,9;6,25;5,5;2025-4940-361;2025;True;;9,0;3,0;77,0;14,0;5,0;80,0
-Coleman Wong;2025-06-02;Birmingham CH;Grass;C;W;Q2;6-4 7-5;Mark Lajal;15,25;0,0;16,9;5,36;2025-4940-352;2025;True;;9,0;0,0;59,0;11,0;12,0;71,0
-Coleman Wong;2025-06-02;Birmingham CH;Grass;C;W;Q1;7-6(3) 6-4;Ryan Peniston;4,23;0,0;3,08;6,45;2025-4940-344;2025;True;;3,0;0,0;71,0;11,0;2,0;65,0
-Coleman Wong;2025-05-26;Roland Garros;Clay;G;L;Q1;7-6(2) 6-3;Bernard Tomic;6,56;0,0;4,23;6,1;2025-520-164;2025;True;;4,0;0,0;61,0;10,0;3,0;71,0
-Coleman Wong;2025-05-26;Vicenza CH;Clay;C;L;Q1;6-2 7-5;Andres Santamarta Roig;1,61;1,61;0,0;6,2;2025-7015-346;2025;True;;1,0;1,0;62,0;10,0;0,0;50,0
-Coleman Wong;2025-05-12;Tunis CH;Clay;C;L;QF;6-7(3) 6-2 6-4;Ivan Gakhov;4,9;1,96;7,0;6,8;2025-1541-380;2025;True;;5,0;2,0;102,0;15,0;7,0;100,0
-Coleman Wong;2025-05-12;Tunis CH;Clay;C;W;R16;7-5 7-5;Murkel Alejandro Dellien Velasco;1,33;5,33;0,0;6,25;2025-1541-373;2025;True;;1,0;4,0;75,0;12,0;0,0;91,0
-Coleman Wong;2025-05-12;Tunis CH;Clay;C;W;R32;6-2 6-2;Rodrigo Pacheco Mendez;6,82;4,55;0,0;5,5;2025-1541-359;2025;True;;3,0;2,0;44,0;8,0;0,0;52,0
-Coleman Wong;2025-04-28;Ostrava CH;Clay;C;L;R32;6-2 5-7 6-3;Gauthier Onclin;3,36;4,2;0,0;7,93;2025-1797-358;2025;True;;4,0;5,0;119,0;15,0;0,0;80,0
-Coleman Wong;2025-04-23;Madrid Masters;Clay;M;L;R128;7-6(5) 6-1;Federico Cina;3,45;0,0;1,59;6,44;2025-1536-296;2025;True;;2,0;0,0;58,0;9,0;1,0;63,0
-Coleman Wong;2025-03-19;Miami Masters;Hard;M;L;R32;7-6(6) 4-6 6-4;Adam Walton;15,15;0,0;9,62;6,19;2025-0403-349;2025;True;;15,0;0,0;99,0;16,0;10,0;104,0
-Coleman Wong;2025-03-19;Miami Masters;Hard;M;W;R64;7-6(3) 2-6 7-6(5);Ben Shelton;7,41;0,0;17,17;6,75;2025-0403-327;2025;True;;8,0;0,0;108,0;16,0;17,0;99,0
-Coleman Wong;2025-03-19;Miami Masters;Hard;M;W;R128;6-4 6-3;Daniel Altmaier;9,62;1,92;12,5;5,2;2025-0403-295;2025;True;;5,0;1,0;52,0;10,0;6,0;48,0
-Coleman Wong;2025-03-11;Cap Cana CH;Hard;C;L;R16;6-2 7-6(6);Aleksandar Kovacevic;9,09;1,52;7,02;6,6;2025-2975-376;2025;True;;6,0;1,0;66,0;10,0;4,0;57,0
-Coleman Wong;2025-03-11;Cap Cana CH;Hard;C;W;R32;6-3 6-7(4) 6-4;Billy Harris;12,24;2,04;6,25;6,12;2025-2975-367;2025;True;;12,0;2,0;98,0;16,0;6,0;96,0
-Coleman Wong;2025-03-05;Indian Wells Masters;Hard;M;L;Q1;7-6(5) 5-7 6-1;Pavel Kotov;2,08;4,17;1,0;6,4;2025-0404-249;2025;True;;2,0;4,0;96,0;15,0;1,0;100,0
-Coleman Wong;2025-02-24;San Diego CH;Hard;C;L;R32;6-2 6-4;Jenson Brooksby;4,84;4,84;0,0;6,89;2025-2971-368;2025;True;;3,0;3,0;62,0;9,0;0,0;60,0
-Coleman Wong;2025-02-17;Glasgow CH;Hard;C;L;R16;4-6 6-1 6-2;Viktor Durasovic;10,67;2,67;11,63;6,25;2025-7916-371;2025;True;;8,0;2,0;75,0;12,0;10,0;86,0
-Coleman Wong;2025-02-17;Glasgow CH;Hard;C;W;R32;6-3 6-2;Rudolf Molleker;8,89;4,44;6,78;5,0;2025-7916-355;2025;True;;4,0;2,0;45,0;9,0;4,0;59,0
-Coleman Wong;2025-02-10;Manama CH;Hard;C;L;R16;6-1 6-4;Terence Atmane;6,78;5,08;19,61;7,38;2025-9635-372;2025;True;;4,0;3,0;59,0;8,0;10,0;51,0
-Coleman Wong;2025-02-10;Manama CH;Hard;C;W;R32;7-5 7-5;Aleksandre Bakshi;16,67;2,38;6,25;7,0;2025-9635-357;2025;True;;14,0;2,0;84,0;12,0;5,0;80,0
-Coleman Wong;2025-01-13;Nonthaburi 3 CH;Hard;C;L;R16;6-4 6-1;Brandon Holt;12,5;10,42;10,91;6,0;2025-2801-375;2025;True;;6,0;5,0;48,0;8,0;6,0;55,0
-Coleman Wong;2025-01-13;Nonthaburi 3 CH;Hard;C;W;R32;7-6(2) 7-6(4);Benjamin Hassan;11,84;1,32;5,56;6,33;2025-2801-363;2025;True;;9,0;1,0;76,0;12,0;5,0;90,0
-Coleman Wong;2025-01-13;Australian Open;Hard;G;L;Q2;6-0 6-3;Joao Fonseca;7,27;5,45;15,79;7,86;2025-580-787;2025;True;;4,0;3,0;55,0;7,0;6,0;38,0
-Coleman Wong;2025-01-13;Australian Open;Hard;G;W;Q1;7-5 3-6 7-5;Dmitry Popko;11,24;2,25;7,27;5,24;2025-580-746;2025;True;;10,0;2,0;89,0;17,0;8,0;110,0
-Coleman Wong;2024-12-30;Hong Kong;Hard;A;L;R32;7-6(3) 6-4;Juncheng Shang;22,37;1,32;6,78;6,91;2025-0336-370;2024;True;;17,0;1,0;76,0;11,0;4,0;59,0
-Coleman Wong;2024-11-25;Yokkaichi CH;Hard;C;L;R16;6-3 2-6 6-4;Philip Sekulic;7,79;2,6;0,0;5,92;2024-8268-373;2024;True;;6,0;2,0;77,0;13,0;0,0;78,0
-Coleman Wong;2024-11-25;Yokkaichi CH;Hard;C;W;R32;2-6 7-5 6-4;Masamichi Imamura;7,53;3,23;2,13;6,2;2024-8268-359;2024;True;;7,0;3,0;93,0;15,0;2,0;94,0
-Coleman Wong;2024-11-18;Yokohama CH;Hard;C;L;QF;6-0 6-4;Li Tu;3,57;5,36;7,69;7,0;2024-6626-381;2024;True;;2,0;3,0;56,0;8,0;3,0;39,0
-Coleman Wong;2024-11-18;Yokohama CH;Hard;C;W;R16;7-6(2) 6-3;Shintaro Mochizuki;1,25;3,75;0,0;7,27;2024-6626-376;2024;True;;1,0;3,0;80,0;11,0;0,0;64,0
-Coleman Wong;2024-11-18;Yokohama CH;Hard;C;W;R32;6-2 6-1;Lennon Roark Jones;7,5;5,0;3,7;5,0;2024-6626-366;2024;True;;3,0;2,0;40,0;8,0;2,0;54,0
-Coleman Wong;2024-11-11;Kobe CH;Hard;C;L;R32;7-6(5) 6-2;Sho Shimabukuro;11,76;2,94;5,48;6,8;2024-7397-367;2024;True;;8,0;2,0;68,0;10,0;4,0;73,0
-Coleman Wong;2024-11-04;Matsuyama CH;Hard;C;L;R16;7-6(5) 6-2;Alex Bolt;15,25;5,08;9,46;5,9;2024-8386-376;2024;True;;9,0;3,0;59,0;10,0;7,0;74,0
-Coleman Wong;2024-11-04;Matsuyama CH;Hard;C;W;R32;6-2 6-2;Chun Hsin Tseng;13,11;9,84;5,88;7,62;2024-8386-366;2024;True;;8,0;6,0;61,0;8,0;3,0;51,0
-Coleman Wong;2024-10-28;Seoul CH;Hard;C;L;R16;6-7(1) 7-5 6-4;Kasidit Samrej;12,3;5,74;3,82;7,18;2024-7288-376;2024;True;;15,0;7,0;122,0;17,0;5,0;131,0
-Coleman Wong;2024-10-28;Seoul CH;Hard;C;W;R32;6-3 3-6 6-3;Yan Bai;7,5;1,25;4,48;5,71;2024-7288-366;2024;True;;6,0;1,0;80,0;14,0;3,0;67,0
-Coleman Wong;2024-10-21;Taipei 2 CH;Hard;C;L;QF;6-4 6-4;Taro Daniel;16,9;2,82;7,84;7,1;2024-2949-379;2024;True;;12,0;2,0;71,0;10,0;4,0;51,0
-Coleman Wong;2024-10-21;Taipei 2 CH;Hard;C;W;R16;6-1 6-7(3) 6-3;Kuan Yi Lee;24,14;5,75;3,41;5,8;2024-2949-372;2024;True;;21,0;5,0;87,0;15,0;3,0;88,0
-Coleman Wong;2024-10-21;Taipei 2 CH;Hard;C;W;R32;6-4 3-6 6-1;San Hui Sin;11,96;4,35;1,33;7,08;2024-2949-358;2024;True;;11,0;4,0;92,0;13,0;1,0;75,0
-Coleman Wong;2024-10-14;Almaty;Hard;A;L;R32;7-5 6-4;Justin Engel;12,35;2,47;6,76;7,36;2024-9410-362;2024;True;;10,0;2,0;81,0;11,0;5,0;74,0
-Coleman Wong;2024-10-02;Shanghai Masters;Hard;M;L;R128;6-4 6-4;Juncheng Shang;11,43;2,86;7,14;7,0;2024-5014-298;2024;True;;8,0;2,0;70,0;10,0;4,0;56,0
-Coleman Wong;2024-09-24;Nonthaburi 4 CH;Hard;C;L;SF;6-3 6-4;Mackenzie Mcdonald;9,62;3,85;12,07;5,78;2024-2939-399;2024;True;;5,0;2,0;52,0;9,0;7,0;58,0
-Coleman Wong;2024-09-24;Nonthaburi 4 CH;Hard;C;W;QF;6-4 6-4;Adam Walton;20,0;0,0;6,78;5,5;2024-2939-396;2024;True;;11,0;0,0;55,0;10,0;4,0;59,0
-Coleman Wong;2024-09-24;Nonthaburi 4 CH;Hard;C;W;R16;6-4 7-5;Daniel Evans;11,49;2,3;2,78;7,91;2024-2939-388;2024;True;;10,0;2,0;87,0;11,0;2,0;72,0
-Coleman Wong;2024-09-24;Nonthaburi 4 CH;Hard;C;W;R32;6-4 6-3;Kasidit Samrej;12,28;3,51;4,84;6,33;2024-2939-378;2024;True;;7,0;2,0;57,0;9,0;3,0;62,0
-Coleman Wong;2024-09-18;Hangzhou;Hard;A;L;R16;6-7(7) 7-6(4) 6-1;Brandon Nakashima;10,64;0,0;20,79;6,27;2024-4713-391;2024;True;;10,0;0,0;94,0;15,0;21,0;101,0
-Coleman Wong;2024-09-18;Hangzhou;Hard;A;W;R32;6-3 0-0 RET;Yibing Wu;38,1;0,0;0,0;5,25;2024-4713-374;2024;True;;8,0;0,0;21,0;4,0;0,0;35,0
-Coleman Wong;2024-09-18;Hangzhou;Hard;A;W;Q2;6-7(9) 6-4 6-4;Rigele Te;15,84;1,98;8,74;6,31;2024-4713-371;2024;True;;16,0;2,0;101,0;16,0;9,0;103,0
-Coleman Wong;2024-09-18;Hangzhou;Hard;A;W;Q1;6-3 6-2;Linang Xiao;14,89;2,13;1,82;5,88;2024-4713-366;2024;True;;7,0;1,0;47,0;8,0;1,0;55,0
-Coleman Wong;2024-09-14;Davis Cup WG2 R1: HKG vs ECU;Hard;D;W;RR;6-3 3-6 6-1;Marcos Lee Chan Baratau;13,51;2,7;1,32;5,69;2024-M-DC-2024-WG2-M-HKG-ECU-01-002;2024;True;;10,0;2,0;74,0;13,0;1,0;76,0
-Coleman Wong;2024-09-14;Davis Cup WG2 R1: HKG vs ECU;Hard;D;W;RR;6-4 6-2;Andres Andrade;17,65;0,0;6,67;5,67;2024-M-DC-2024-WG2-M-HKG-ECU-01-004;2024;True;;9,0;0,0;51,0;9,0;3,0;45,0
-Coleman Wong;2024-09-02;Shanghai CH;Hard;C;L;SF;6-3 7-6(2);Sho Shimabukuro;6,67;1,33;17,14;6,82;2024-6313-298;2024;True;;5,0;1,0;75,0;11,0;12,0;70,0
-Coleman Wong;2024-09-02;Shanghai CH;Hard;C;W;QF;7-6(6) 6-3;Beibit Zhukayev;17,46;3,17;16,9;5,73;2024-6313-295;2024;True;;11,0;2,0;63,0;11,0;12,0;71,0
-Coleman Wong;2024-09-02;Shanghai CH;Hard;C;W;R16;6-2 6-3;Ryan Peniston;14,81;1,85;7,27;6,0;2024-6313-288;2024;True;;8,0;1,0;54,0;9,0;4,0;55,0
-Coleman Wong;2024-09-02;Shanghai CH;Hard;C;W;R32;7-6(4) 6-1;Egor Gerasimov;12,31;3,08;5,71;7,22;2024-6313-274;2024;True;;8,0;2,0;65,0;9,0;4,0;70,0
-Coleman Wong;2024-08-26;Zhangjiagang CH;Hard;C;L;R16;6-2 7-6(3);Norbert Gombos;13,04;0,0;10,14;6,9;2024-7783-393;2024;True;;9,0;0,0;69,0;10,0;7,0;69,0
-Coleman Wong;2024-08-26;Zhangjiagang CH;Hard;C;W;R32;6-3 5-7 6-4;Egor Agafonov;7,14;3,06;5,49;6,12;2024-7783-385;2024;True;;7,0;3,0;98,0;16,0;5,0;91,0
-Coleman Wong;2024-08-12;Cary CH;Hard;C;L;R32;6-2 1-6 6-2;Gabriel Diallo;2,63;3,95;12,0;6,91;2024-7316-272;2024;True;;2,0;3,0;76,0;11,0;9,0;75,0
-Coleman Wong;2024-08-05;Lincoln CH;Hard;C;L;F;6-4 6-2;Jacob Fearnley;5,26;3,51;3,64;6,33;2024-2941-300;2024;True;;3,0;2,0;57,0;9,0;2,0;55,0
-Coleman Wong;2024-08-05;Lincoln CH;Hard;C;W;SF;6-7(5) 7-6(3) 6-0;Nishesh Basavareddy;20,0;0,95;5,83;7,0;2024-2941-298;2024;True;;21,0;1,0;105,0;15,0;6,0;103,0
-Coleman Wong;2024-08-05;Lincoln CH;Hard;C;W;QF;7-5 6-1;Li Tu;5,56;0,0;4,08;7,2;2024-2941-294;2024;True;;4,0;0,0;72,0;10,0;2,0;49,0
-Coleman Wong;2024-08-05;Lincoln CH;Hard;C;W;R16;1-6 6-2 6-4;Jack Pinnington Jones;1,33;4,0;5,13;5,77;2024-2941-287;2024;True;;1,0;3,0;75,0;13,0;4,0;78,0
-Coleman Wong;2024-08-05;Lincoln CH;Hard;C;W;R32;6-1 6-3;Ethan Quinn;17,24;1,72;2,99;7,25;2024-2941-272;2024;True;;10,0;1,0;58,0;8,0;2,0;67,0
-Coleman Wong;2024-07-29;Lexington CH;Hard;C;L;SF;6-2 6-3;Li Tu;3,77;1,89;11,11;5,89;2024-0586-298;2024;True;;2,0;1,0;53,0;9,0;5,0;45,0
-Coleman Wong;2024-07-29;Lexington CH;Hard;C;W;QF;6-4 7-6(3);Micah Braswell;12,5;1,56;1,43;5,82;2024-0586-295;2024;True;;8,0;1,0;64,0;11,0;1,0;70,0
-Coleman Wong;2024-07-29;Lexington CH;Hard;C;W;R16;4-6 6-1 6-2;Andres Andrade;4,26;3,19;5,13;7,83;2024-0586-288;2024;True;;4,0;3,0;94,0;12,0;4,0;78,0
-Coleman Wong;2024-07-29;Lexington CH;Hard;C;W;R32;6-4 3-6 6-3;Matias Soto;21,62;1,35;7,04;5,29;2024-0586-274;2024;True;;16,0;1,0;74,0;14,0;5,0;71,0
-Coleman Wong;2024-07-22;Chicago CH;Hard;C;L;R32;6-2 6-1;Philip Sekulic;8,93;3,57;0,0;7,0;2024-2797-278;2024;True;;5,0;2,0;56,0;8,0;0,0;37,0
-Coleman Wong;2024-07-15;Newport;Grass;A;L;R32;6-1 6-2;Aleksandar Vukic;9,43;9,43;7,14;7,57;2024-0315-277;2024;True;;5,0;5,0;53,0;7,0;4,0;56,0
-Coleman Wong;2024-07-01;Wimbledon;Grass;G;L;Q1;6-4 6-4;Zachary Svajda;19,67;11,48;2,0;6,1;2024-540-719;2024;True;;12,0;7,0;61,0;10,0;1,0;50,0
-Coleman Wong;2024-06-17;Ilkley CH;Grass;C;L;R32;6-4 6-4;Stefano Napolitano;17,86;0,0;16,33;5,6;2024-9005-277;2024;True;;10,0;0,0;56,0;10,0;8,0;49,0
-Coleman Wong;2024-06-10;Nottingham CH;Grass;C;L;R32;6-3 6-4;Billy Harris;8,7;2,17;7,55;5,11;2024-7740-373;2024;True;;4,0;1,0;46,0;9,0;4,0;53,0
-Coleman Wong;2024-06-03;Tyler CH;Hard;C;L;SF;6-2 4-6 7-6(4);James Trotter;7,96;1,77;3,7;7,53;2024-2873-298;2024;True;;9,0;2,0;113,0;15,0;4,0;108,0
-Coleman Wong;2024-06-03;Tyler CH;Hard;C;W;QF;6-2 6-2;Ethan Quinn;12,0;4,0;0,0;6,25;2024-2873-294;2024;True;;6,0;2,0;50,0;8,0;0,0;53,0
-Coleman Wong;2024-06-03;Tyler CH;Hard;C;W;R16;4-6 6-4 4-1 RET;Stefan Kozlov;8,64;3,7;2,22;6,75;2024-2873-286;2024;True;;7,0;3,0;81,0;12,0;2,0;90,0
-Coleman Wong;2024-06-03;Tyler CH;Hard;C;W;R32;7-5 6-4;Cannon Kingsley;14,75;3,28;3,9;5,55;2024-2873-270;2024;True;;9,0;2,0;61,0;11,0;3,0;77,0
-Coleman Wong;2024-05-27;Little Rock CH;Hard;C;L;R32;6-7(5) 6-4 6-3;Andres Andrade;3,16;4,21;2,08;5,94;2024-9188-270;2024;True;;3,0;4,0;95,0;16,0;2,0;96,0
-Coleman Wong;2024-05-27;Roland Garros;Clay;G;L;Q1;7-5 6-2;Patrick Kypson;8,45;5,63;10,0;7,1;2024-520-175;2024;True;;6,0;4,0;71,0;10,0;6,0;60,0
-Coleman Wong;2024-05-13;Oeiras CH;Clay;C;L;R32;6-3 6-1;Patrick Kypson;6,98;11,63;1,79;5,38;2024-2871-277;2024;True;;3,0;5,0;43,0;8,0;1,0;56,0
-Coleman Wong;2024-04-29;Guangzhou CH;Hard;C;L;R32;6-3 6-2;Yuta Shimizu;5,88;5,88;5,66;7,56;2024-6965-281;2024;True;;4,0;4,0;68,0;9,0;3,0;53,0
-Coleman Wong;2024-04-22;Shenzhen CH;Hard;C;L;R16;6-4 6-4;Remy Bertola;15,94;1,45;11,27;6,9;2024-2897-290;2024;True;;11,0;1,0;69,0;10,0;8,0;71,0
-Coleman Wong;2024-04-22;Shenzhen CH;Hard;C;W;R32;7-5 6-2;James Trotter;11,27;4,23;9,38;7,1;2024-2897-278;2024;True;;8,0;3,0;71,0;10,0;6,0;64,0
-Coleman Wong;2024-04-15;Gwangju CH;Hard;C;L;R16;6-3 1-6 7-5;Tung Lin Wu;8,33;0,0;3,06;6,0;2024-7490-287;2024;True;;7,0;0,0;84,0;14,0;3,0;98,0
-Coleman Wong;2024-04-15;Gwangju CH;Hard;C;W;R32;6-7(6) 7-5 6-3;Moez Echargui;3,64;3,64;3,7;6,88;2024-7490-273;2024;True;;4,0;4,0;110,0;16,0;4,0;108,0
-Coleman Wong;2024-04-08;Busan CH;Hard;C;L;QF;6-4 3-6 6-2;Seong Chan Hong;1,22;4,88;6,1;5,86;2024-1741-294;2024;True;;1,0;4,0;82,0;14,0;5,0;82,0
-Coleman Wong;2024-04-08;Busan CH;Hard;C;W;R16;7-5 6-2;Blake Ellis;19,64;1,79;7,58;5,6;2024-1741-287;2024;True;;11,0;1,0;56,0;10,0;5,0;66,0
-Coleman Wong;2024-04-08;Busan CH;Hard;C;W;R32;6-3 6-3;Alexander Blockx;1,92;1,92;1,79;5,78;2024-1741-273;2024;True;;1,0;1,0;52,0;9,0;1,0;56,0
-Coleman Wong;2024-03-18;Miami Masters;Hard;M;L;R128;7-5 7-6(3);Laslo Djere;6,98;5,81;4,49;7,17;2024-0403-215;2024;True;;6,0;5,0;86,0;12,0;4,0;89,0
-Coleman Wong;2024-03-18;Miami Masters;Hard;M;W;Q2;3-6 6-1 7-5;Sumit Nagal;17,02;5,32;2,0;6,71;2024-0403-137;2024;True;;16,0;5,0;94,0;14,0;2,0;100,0
-Coleman Wong;2024-03-18;Miami Masters;Hard;M;W;Q1;6-2 3-6 6-2;Hugo Gaston;13,89;5,56;7,79;6,0;2024-0403-120;2024;True;;10,0;4,0;72,0;12,0;6,0;77,0
-Coleman Wong;2024-03-04;Lugano CH;Hard;C;L;R32;3-6 6-3 6-4;Jan Choinski;14,44;5,56;12,5;6,43;2024-9516-277;2024;True;;13,0;5,0;90,0;14,0;9,0;72,0
-Coleman Wong;2024-02-26;New Delhi CH;Hard;C;L;F;6-4 6-2;Geoffrey Blancaneaux;1,92;3,85;8,45;5,78;2024-6961-300;2024;True;;1,0;2,0;52,0;9,0;6,0;71,0
-Coleman Wong;2024-02-26;New Delhi CH;Hard;C;W;SF;7-6(5) 6-4;Yuta Shimizu;3,45;1,15;3,37;7,91;2024-6961-299;2024;True;;3,0;1,0;87,0;11,0;3,0;89,0
-Coleman Wong;2024-02-26;New Delhi CH;Hard;C;W;QF;7-6(10) 6-3;Tristan Schoolkate;4,62;1,54;5,88;5,91;2024-6961-296;2024;True;;3,0;1,0;65,0;11,0;4,0;68,0
-Coleman Wong;2024-02-26;New Delhi CH;Hard;C;W;R32;6-4 4-6 7-5;Sasi Kumar Mukund;12,15;3,74;3,25;6,69;2024-6961-280;2024;True;;13,0;4,0;107,0;16,0;4,0;123,0
-Coleman Wong;2024-02-19;Pune CH;Hard;C;L;R32;7-6(4) 4-6 6-3;Felix Gill;15,0;1,25;6,06;5,33;2024-7100-276;2024;True;;12,0;1,0;80,0;15,0;6,0;99,0
-Coleman Wong;2024-02-12;Bengaluru CH;Hard;C;L;R16;6-2 7-5;Sumit Nagal;5,8;4,35;6,02;6,9;2024-7808-286;2024;True;;4,0;3,0;69,0;10,0;5,0;83,0
-Coleman Wong;2024-02-12;Bengaluru CH;Hard;C;W;R32;6-4 7-6(4);Raphael Collignon;14,06;3,12;1,45;5,82;2024-7808-271;2024;True;;9,0;2,0;64,0;11,0;1,0;69,0
-Coleman Wong;2024-02-03;Davis Cup WG2 PO: HKG vs ZIM;Hard;D;W;RR;6-2 6-0;Courtney John Lock;25,0;5,0;1,96;5,71;2024-M-DC-2024-WG2-PO-HKG-ZIM-01-002;2024;True;;10,0;2,0;40,0;7,0;1,0;51,0
-Coleman Wong;2024-01-08;Nonthaburi 2 CH;Hard;C;L;R16;6-7(6) 6-1 6-4;Yasutaka Uchiyama;6,93;4,95;12,9;7,21;2024-2795-289;2024;True;;7,0;5,0;101,0;14,0;12,0;93,0
-Coleman Wong;2024-01-08;Nonthaburi 2 CH;Hard;C;W;R32;7-6(6) 6-3;Chun Hsin Tseng;12,35;3,7;16,95;7,36;2024-2795-277;2024;True;;10,0;3,0;81,0;11,0;10,0;59,0
-Coleman Wong;2023-11-27;Yokkaichi CH;Hard;C;L;SF;6-2 6-2;Michael Mmoh;0,0;1,85;8,33;6,75;2023-8268-298;2023;True;;0,0;1,0;54,0;8,0;4,0;48,0
-Coleman Wong;2023-11-27;Yokkaichi CH;Hard;C;W;QF;4-6 7-5 6-4;August Holmgren;12,5;2,88;7,53;6,5;2023-8268-294;2023;True;;13,0;3,0;104,0;16,0;7,0;93,0
-Coleman Wong;2023-11-27;Yokkaichi CH;Hard;C;W;R16;6-3 6-2;Rei Sakamoto;17,02;2,13;1,92;5,22;2023-8268-286;2023;True;;8,0;1,0;47,0;9,0;1,0;52,0
-Coleman Wong;2023-11-27;Yokkaichi CH;Hard;C;W;R32;6-2 6-7(5) 6-4;Naoki Nakagawa;11,63;3,49;9,09;5,73;2023-8268-271;2023;True;;10,0;3,0;86,0;15,0;9,0;99,0
-Coleman Wong;2023-11-20;Yokohama CH;Hard;C;L;QF;7-6(7) 6-7(1) 7-6(4);Yuta Shimizu;13,28;1,56;2,4;7,11;2023-6626-295;2023;True;;17,0;2,0;128,0;18,0;3,0;125,0
-Coleman Wong;2023-11-20;Yokohama CH;Hard;C;W;R32;2-6 6-3 6-2;Altug Celikbilek;6,33;3,8;2,17;6,58;2023-6626-275;2023;True;;5,0;3,0;79,0;12,0;2,0;92,0
-Coleman Wong;2023-10-30;Sydney CH;Hard;C;L;R16;4-6 6-3 6-2;Rinky Hijikata;10,99;3,3;7,78;7,0;2023-2817-286;2023;True;;10,0;3,0;91,0;13,0;7,0;90,0
-Coleman Wong;2023-10-30;Sydney CH;Hard;C;W;R32;7-6(5) 6-2;Pavle Marinkov;14,29;2,6;4,62;7,7;2023-2817-271;2023;True;;11,0;2,0;77,0;10,0;3,0;65,0
-Coleman Wong;2023-10-23;Playford CH;Hard;C;L;F;7-5 7-5;James Duckworth;8,0;1,33;6,67;6,25;2023-7586-270;2023;True;;6,0;1,0;75,0;12,0;5,0;75,0
-Coleman Wong;2023-10-23;Playford CH;Hard;C;W;SF;4-6 7-6(5) 7-5;Taro Daniel;4,67;2,8;4,39;6,29;2023-7586-300;2023;True;;5,0;3,0;107,0;17,0;5,0;114,0
-Coleman Wong;2023-10-23;Playford CH;Hard;C;W;QF;6-7(7) 7-6(3) 7-6(2);Tristan Schoolkate;7,59;0,69;14,41;8,06;2023-7586-298;2023;True;;11,0;1,0;145,0;18,0;17,0;118,0
-Coleman Wong;2023-10-23;Playford CH;Hard;C;W;R16;7-6(1) 2-0 RET;Thanasi Kokkinakis;7,5;0,0;13,51;5,71;2023-7586-294;2023;True;;3,0;0,0;40,0;7,0;5,0;37,0
-Coleman Wong;2023-10-23;Playford CH;Hard;C;W;R32;3-6 6-2 6-2;Ajeet Rai;10,67;0,0;7,61;6,25;2023-7586-285;2023;True;;8,0;0,0;75,0;12,0;7,0;92,0
-Coleman Wong;2023-10-16;Shenzhen CH;Hard;C;L;F;6-0 6-1;James Duckworth;4,88;7,32;2,78;6,83;2023-2897-300;2023;True;;2,0;3,0;41,0;6,0;1,0;36,0
-Coleman Wong;2023-10-16;Shenzhen CH;Hard;C;W;QF;4-6 7-5 6-3;Tsung Hao Huang;9,28;4,12;1,63;6,47;2023-2897-295;2023;True;;9,0;4,0;97,0;15,0;2,0;123,0
-Coleman Wong;2023-10-16;Shenzhen CH;Hard;C;W;R16;3-6 6-3 7-5;Terence Atmane;4,72;4,72;2,02;7,07;2023-2897-288;2023;True;;5,0;5,0;106,0;15,0;2,0;99,0
-Coleman Wong;2023-10-16;Shenzhen CH;Hard;C;W;R32;6-3 7-6(4);Linang Xiao;17,65;3,53;6,49;7,73;2023-2897-275;2023;True;;15,0;3,0;85,0;11,0;5,0;77,0
-Coleman Wong;2023-08-28;Mallorca CH;Hard;C;L;R32;6-3 3-6 6-4;Nick Hardt;8,05;1,15;2,38;6,21;2023-7973-284;2023;True;;7,0;1,0;87,0;14,0;2,0;84,0
-Coleman Wong;2023-04-03;Murcia CH;Clay;C;L;Q1;6-2 6-3;Alvaro Lopez San Martin;1,49;1,49;6,38;7,44;2023-9171-240;2023;True;;1,0;1,0;67,0;9,0;3,0;47,0
-Coleman Wong;2023-03-27;Girona CH;Clay;C;L;Q1;6-1 6-4;Daniel Rincon;0,0;3,33;1,28;7,5;2023-2855-237;2023;True;;0,0;2,0;60,0;8,0;1,0;78,0
-Coleman Wong;2023-02-27;Waco CH;Hard;C;L;R32;6-3 6-1;Mitchell Krueger;1,85;7,41;5,36;6,75;2023-2857-284;2023;True;;1,0;4,0;54,0;8,0;3,0;56,0
-Coleman Wong;2023-02-27;Waco CH;Hard;C;W;Q2;1-6 7-6(5) 5-4 RET;Henri Squire;2,2;3,3;22,09;7,0;2023-2857-251;2023;True;;2,0;3,0;91,0;13,0;19,0;86,0
-Coleman Wong;2023-02-27;Waco CH;Hard;C;W;Q1;6-4 7-6(8);Evan Zhu;2,6;3,9;2,74;7,0;2023-2857-242;2023;True;;2,0;3,0;77,0;11,0;2,0;73,0
-Coleman Wong;2023-02-20;Rome GA CH;Hard;C;L;R32;6-3 6-1;Zachary Svajda;1,45;2,9;8,89;8,62;2023-2781-280;2023;True;;1,0;2,0;69,0;8,0;4,0;45,0
-Coleman Wong;2023-02-20;Rome GA CH;Hard;C;W;Q2;6-3 6-4;Strong Kirchheimer;12,28;3,51;8,06;5,7;2023-2781-251;2023;True;;7,0;2,0;57,0;10,0;5,0;62,0
-Coleman Wong;2023-02-20;Rome GA CH;Hard;C;W;Q1;4-6 6-3 6-0;Gage Brymer;12,82;5,13;1,49;6,0;2023-2781-241;2023;True;;10,0;4,0;78,0;13,0;1,0;67,0
-Coleman Wong;2022-11-21;Yokkaichi CH;Hard;C;L;Q1;6-2 6-1;Shuichi Sekiguchi;4,76;0,0;4,17;5,25;2022-8268-245;2022;True;;2,0;0,0;42,0;8,0;2,0;48,0
-Coleman Wong;2022-08-29;Manacor CH;Hard;C;L;Q1;6-4 6-4;Terence Atmane;1,89;7,55;7,81;5,3;2022-7973-239;2022;True;;1,0;4,0;53,0;10,0;5,0;64,0
-Coleman Wong;2022-03-04;Davis Cup WG2 PO: HKG vs BEN;Hard;D;W;RR;6-4 6-4;Delmas Ntcha;2,94;2,94;1,72;6,8;2022-M-DC-2022-WG2-PO-HKG-BEN-01-002;2022;True;;2,0;2,0;68,0;10,0;1,0;58,0
-Colton Smith;2026-09-28;Columbus Challenger;Hard;C;L;R16;6-2 7-6(8);Aidan Mayo;8,82;2,94;10,45;6,8;2026-8281-373;2026;False;;6,0;2,0;68,0;10,0;7,0;67,0
-Colton Smith;2026-09-28;Columbus Challenger;Hard;C;W;R32;6-2 6-4;Duncan Chan;3,77;7,55;4,29;5,89;2026-8281-359;2026;False;;2,0;4,0;53,0;9,0;3,0;70,0
+Coleman Wong;2026-10-07;ATP Shanghai;Hard;M;L;R128;6-4 7-6(5);Quentin Halys;20,0;0,0;31,25;5,91;2026-5014-330;2026;False;;13,0;0,0;65,0;11,0;20,0;64,0
+Coleman Wong;2026-10-07;ATP Shanghai;Hard;M;W;Q2;6-4 3-6 6-2;Lloyd Harris;15,38;2,56;9,3;6,0;2026-5014-291;2026;False;;12,0;2,0;78,0;13,0;8,0;86,0
+Coleman Wong;2026-10-07;ATP Shanghai;Hard;M;W;Q1;6-4 6-1;Cruz Hewitt;17,02;0,0;3,64;5,22;2026-5014-271;2026;False;;8,0;0,0;47,0;9,0;2,0;55,0
+Coleman Wong;2026-09-23;Hangzhou;Hard;A;L;QF;6-3 6-7(2) 6-3;Daniil Medvedev;11,76;1,18;17,82;6,07;2026-4713-382;2026;False;;10,0;1,0;85,0;14,0;18,0;101,0
+Coleman Wong;2026-09-23;Hangzhou;Hard;A;W;R16;7-6(2) 4-6 6-3;Adolfo Daniel Vallejo;19,32;1,14;3,85;5,5;2026-4713-377;2026;False;;17,0;1,0;88,0;16,0;4,0;104,0
+Coleman Wong;2026-09-23;Hangzhou;Hard;A;W;R32;6-3 6-3;Zhizhen Zhang;19,23;3,85;1,96;5,78;2026-4713-369;2026;False;;10,0;2,0;52,0;9,0;1,0;51,0
+Coleman Wong;2026-08-31;US Open;Hard;G;L;R128;6-7(3) 6-1 6-3 6-3;Tommy Paul;11,81;4,72;9,18;7,06;2026-560-159;2026;False;;15,0;6,0;127,0;18,0;9,0;98,0
+Coleman Wong;2026-08-31;US Open;Hard;G;W;Q3;6-4 6-3;Dusan Lajovic;14,75;9,84;6,45;6,1;2026-560-798;2026;False;;9,0;6,0;61,0;10,0;4,0;62,0
+Coleman Wong;2026-08-31;US Open;Hard;G;W;Q2;6-3 6-3;Lukas Neumayer;22,22;4,44;6,25;5,0;2026-560-767;2026;False;;10,0;2,0;45,0;9,0;4,0;64,0
+Coleman Wong;2026-08-31;US Open;Hard;G;W;Q1;5-7 6-3 6-4;Elmer Moller;13,4;7,22;0,78;6,06;2026-560-705;2026;False;;13,0;7,0;97,0;16,0;1,0;129,0
+Coleman Wong;2026-08-18;Cancun CH;Hard;C;L;QF;6-4 6-0;Sebastian Baez;12,07;6,9;6,98;7,25;2026-3009-382;2026;False;;7,0;4,0;58,0;8,0;3,0;43,0
+Coleman Wong;2026-08-18;Cancun CH;Hard;C;W;R16;6-4 1-6 7-6(3);Alan Magadan;18,56;4,12;5,62;6,93;2026-3009-377;2026;False;;18,0;4,0;97,0;14,0;5,0;89,0
+Coleman Wong;2026-08-18;Cancun CH;Hard;C;W;R32;6-2 6-2;Alexandre Muller;21,82;5,45;12,24;6,88;2026-3009-368;2026;False;;12,0;3,0;55,0;8,0;6,0;49,0
+Coleman Wong;2026-08-13;Cincinnati Masters;Hard;M;L;R128;3-6 6-3 6-4;Daniel Altmaier;12,5;7,95;9,89;6,29;2026-0422-280;2026;False;;11,0;7,0;88,0;14,0;9,0;91,0
+Coleman Wong;2026-08-13;Cincinnati Masters;Hard;M;W;Q2;7-6(4) 7-6(2);Otto Virtanen;10,47;6,98;15,85;7,17;2026-0422-268;2026;False;;9,0;6,0;86,0;12,0;13,0;82,0
+Coleman Wong;2026-08-13;Cincinnati Masters;Hard;M;W;Q1;6-4 6-2;Seong Chan Hong;7,35;4,41;12,24;7,56;2026-0422-249;2026;False;;5,0;3,0;68,0;9,0;6,0;49,0
+Coleman Wong;2026-07-27;Los Cabos;Hard;A;L;SF;7-6(7) 6-3;Arthur Gea;10,0;7,14;4,05;6,36;2026-7480-384;2026;False;;7,0;5,0;70,0;11,0;3,0;74,0
+Coleman Wong;2026-07-27;Los Cabos;Hard;A;W;QF;6-1 7-5;Jenson Brooksby;10,77;1,54;3,7;6,5;2026-7480-382;2026;False;;7,0;1,0;65,0;10,0;2,0;54,0
+Coleman Wong;2026-07-27;Los Cabos;Hard;A;W;R16;1-6 6-3 6-4;Jiri Lehecka;19,05;5,95;16,42;6,46;2026-7480-378;2026;False;;16,0;5,0;84,0;13,0;11,0;67,0
+Coleman Wong;2026-07-27;Los Cabos;Hard;A;W;R32;6-3 6-4;Darwin Blanch;13,46;3,85;0,0;5,2;2026-7480-370;2026;False;;7,0;2,0;52,0;10,0;0,0;57,0
+Coleman Wong;2026-07-20;Bloomfield Hills CH;Hard;C;L;R16;6-3 7-5;J J Wolf;15,52;8,62;10,45;5,8;2026-2883-373;2026;False;;9,0;5,0;58,0;10,0;7,0;67,0
+Coleman Wong;2026-07-20;Bloomfield Hills CH;Hard;C;W;R32;6-2 6-4;Spencer Johnson;18,6;0,0;14,29;4,78;2026-2883-359;2026;False;;8,0;0,0;43,0;9,0;6,0;42,0
+Coleman Wong;2026-07-13;Lincoln CH;Hard;C;L;QF;6-3 7-6(2);Spencer Johnson;6,45;6,45;15,87;6,2;2026-2941-381;2026;False;;4,0;4,0;62,0;10,0;10,0;63,0
+Coleman Wong;2026-07-13;Lincoln CH;Hard;C;W;R16;7-5 7-6(5);Anton Shepp;16,18;2,94;3,9;5,67;2026-2941-376;2026;False;;11,0;2,0;68,0;12,0;3,0;77,0
+Coleman Wong;2026-07-13;Lincoln CH;Hard;C;W;R32;6-2 6-2;Tung Lin Wu;13,64;0,0;9,3;5,5;2026-2941-366;2026;False;;6,0;0,0;44,0;8,0;4,0;43,0
+Coleman Wong;2026-06-13;Nottingham 2 CH;Grass;C;L;R32;7-5 3-6 6-1;Billy Harris;12,36;6,74;13,25;6,36;2026-7740-366;2026;False;;11,0;6,0;89,0;14,0;11,0;83,0
+Coleman Wong;2026-06-08;s Hertogenbosch;Grass;A;L;Q1;3-6 6-4 6-3;James Mccabe;10,84;1,2;13,58;5,93;2026-0440-352;2026;False;;9,0;1,0;83,0;14,0;11,0;81,0
+Coleman Wong;2026-06-01;Birmingham CH;Grass;C;L;R16;6-4 7-5;Filippo Romano;20,97;0,0;8,45;5,64;2026-4940-374;2026;False;;13,0;0,0;62,0;11,0;6,0;71,0
+Coleman Wong;2026-06-01;Birmingham CH;Grass;C;W;R32;7-6(5) 7-6(10);Oliver Tarvet;12,35;3,7;5,15;6,75;2026-4940-362;2026;False;;10,0;3,0;81,0;12,0;5,0;97,0
+Coleman Wong;2026-05-12;Bordeaux CH;Clay;C;L;Q1;6-4 7-5;Martin Damm;4,84;4,84;15,25;5,64;2026-3824-354;2026;False;;3,0;3,0;62,0;11,0;9,0;59,0
+Coleman Wong;2026-05-04;Wuxi CH;Hard;C;L;R32;6-4 6-2;Akira Santillan;8,33;2,08;5,26;5,33;2026-2921-355;2026;False;;4,0;1,0;48,0;9,0;3,0;57,0
+Coleman Wong;2026-04-27;Jiujiang CH;Hard;C;W;F;7-5 7-6(4);Adam Walton;11,36;3,41;4,11;7,33;2026-3083-385;2026;False;;10,0;3,0;88,0;12,0;3,0;73,0
+Coleman Wong;2026-04-27;Jiujiang CH;Hard;C;W;SF;6-3 6-4;Fajing Sun;18,75;1,56;2,04;6,4;2026-3083-383;2026;False;;12,0;1,0;64,0;10,0;1,0;49,0
+Coleman Wong;2026-04-27;Jiujiang CH;Hard;C;W;QF;7-6(2) 7-6(8);Bu Yunchaokete;12,79;2,33;8,43;7,17;2026-3083-380;2026;False;;11,0;2,0;86,0;12,0;7,0;83,0
+Coleman Wong;2026-04-27;Jiujiang CH;Hard;C;W;R16;7-6(2) 6-2;Rio Noguchi;9,86;0,0;0,0;7,1;2026-3083-373;2026;False;;7,0;0,0;71,0;10,0;0,0;59,0
+Coleman Wong;2026-04-27;Jiujiang CH;Hard;C;W;R32;6-3 6-3;Mikhail Kukushkin;12,77;2,13;1,72;5,22;2026-3083-359;2026;False;;6,0;1,0;47,0;9,0;1,0;58,0
+Coleman Wong;2026-04-20;Gwangju CH;Hard;C;L;R32;3-6 6-2 6-1;Clement Chidekh;8,33;2,78;1,41;6,0;2026-7490-359;2026;False;;6,0;2,0;72,0;12,0;1,0;71,0
+Coleman Wong;2026-04-13;Busan CH;Hard;C;L;R16;6-2 6-2;Rio Noguchi;0,0;2,33;0,0;5,38;2026-1741-373;2026;False;;0,0;1,0;43,0;8,0;0,0;52,0
+Coleman Wong;2026-04-13;Busan CH;Hard;C;W;R32;7-6(4) 6-4;Renta Tokuda;14,06;0,0;1,33;5,82;2026-1741-359;2026;False;;9,0;0,0;64,0;11,0;1,0;75,0
+Coleman Wong;2026-03-30;Houston;Clay;A;L;R32;6-4 6-2;Alex Michelsen;7,46;2,99;3,92;7,44;2026-0717-361;2026;False;;5,0;2,0;67,0;9,0;2,0;51,0
+Coleman Wong;2026-03-23;Morelia CH;Hard;C;L;R32;7-5 7-6(2);Nicolas Mejia;25,0;1,47;10,61;5,67;2026-2991-366;2026;False;;17,0;1,0;68,0;12,0;7,0;66,0
+Coleman Wong;2026-03-18;Miami Masters;Hard;M;L;Q2;6-2 3-6 6-3;Ignacio Buse;10,26;2,56;2,67;6,0;2026-0403-274;2026;False;;8,0;2,0;78,0;13,0;2,0;75,0
+Coleman Wong;2026-03-18;Miami Masters;Hard;M;W;Q1;5-7 7-6(4) 6-4;Jack Pinnington Jones;16,19;0,95;8,93;6,18;2026-0403-261;2026;False;;17,0;1,0;105,0;17,0;10,0;112,0
+Coleman Wong;2026-03-10;Cap Cana CH;Hard;C;L;QF;4-6 7-5 6-3;Alexander Blockx;9,17;3,67;7,92;7,27;2026-2975-380;2026;False;;10,0;4,0;109,0;15,0;8,0;101,0
+Coleman Wong;2026-03-10;Cap Cana CH;Hard;C;W;R16;3-6 6-4 6-2;Damir Dzumhur;7,84;6,86;1,23;7,29;2026-2975-373;2026;False;;8,0;7,0;102,0;14,0;1,0;81,0
+Coleman Wong;2026-03-10;Cap Cana CH;Hard;C;W;R32;4-6 6-3 6-4;Roman Andres Burruchaga;8,25;6,19;5,81;6,47;2026-2975-362;2026;False;;8,0;6,0;97,0;15,0;5,0;86,0
+Coleman Wong;2026-03-10;Cap Cana CH;Hard;C;L;Q2;3-6 6-3 7-6(2);Martin Landaluce;8,77;6,14;3,08;7,6;2026-2975-356;2026;False;;10,0;7,0;114,0;15,0;4,0;130,0
+Coleman Wong;2026-03-10;Cap Cana CH;Hard;C;W;Q1;6-1 3-6 6-3;Zhizhen Zhang;22,35;4,71;9,59;6,54;2026-2975-350;2026;False;;19,0;4,0;85,0;13,0;7,0;73,0
+Coleman Wong;2026-03-04;Indian Wells Masters;Hard;M;L;Q1;6-3 3-6 7-6(5);Elias Ymer;19,05;3,57;7,21;5,6;2026-0404-241;2026;False;;16,0;3,0;84,0;15,0;8,0;111,0
+Coleman Wong;2026-02-23;Acapulco;Hard;A;L;R32;4-6 6-3 6-2;Valentin Vacherot;8,14;2,33;16,05;6,62;2026-0807-358;2026;False;;7,0;2,0;86,0;13,0;13,0;81,0
+Coleman Wong;2026-02-23;Acapulco;Hard;A;L;Q2;6-3 6-0;Patrick Kypson;10,77;4,62;9,76;9,29;2026-0807-351;2026;False;;7,0;3,0;65,0;7,0;4,0;41,0
+Coleman Wong;2026-02-23;Acapulco;Hard;A;W;Q1;6-3 6-2;Juan Alejandro Hernandez Serrano;22,41;0,0;0,0;6,44;2026-0807-346;2026;False;;13,0;0,0;58,0;9,0;0,0;43,0
+Coleman Wong;2026-02-16;Delray Beach;Hard;A;L;QF;7-5 6-7(7) 6-2;Flavio Cobolli;14,29;1,9;11,96;6,56;2026-0499-380;2026;False;;15,0;2,0;105,0;16,0;11,0;92,0
+Coleman Wong;2026-02-16;Delray Beach;Hard;A;W;R16;6-4 7-6(4);Brandon Nakashima;20,31;0,0;17,46;5,82;2026-0499-374;2026;False;;13,0;0,0;64,0;11,0;11,0;63,0
+Coleman Wong;2026-02-16;Delray Beach;Hard;A;W;R32;7-6(5) 4-6 6-3;Nuno Borges;14,0;3,0;8,16;6,25;2026-0499-363;2026;False;;14,0;3,0;100,0;16,0;8,0;98,0
+Coleman Wong;2026-02-16;Delray Beach;Hard;A;W;Q2;6-4 6-4;Tristan Schoolkate;24,59;3,28;16,42;6,1;2026-0499-356;2026;False;;15,0;2,0;61,0;10,0;11,0;67,0
+Coleman Wong;2026-02-16;Delray Beach;Hard;A;W;Q1;6-2 6-2;Yoshihito Nishioka;34,09;2,27;3,33;5,5;2026-0499-349;2026;False;;15,0;1,0;44,0;8,0;2,0;60,0
+Coleman Wong;2026-01-27;Manama CH;Hard;C;L;R16;6-7(4) 6-3 6-4;Stefano Travaglia;9,38;1,04;4,39;6,4;2026-9635-375;2026;False;;9,0;1,0;96,0;15,0;5,0;114,0
+Coleman Wong;2026-01-27;Manama CH;Hard;C;W;R32;6-3 6-2;Ryan Peniston;11,54;0,0;0,0;5,78;2026-9635-364;2026;False;;6,0;0,0;52,0;9,0;0,0;58,0
+Coleman Wong;2026-01-19;Australian Open;Hard;G;L;Q3;7-6(4) 4-6 6-3;Elias Ymer;23,6;2,25;9,09;5,93;2026-580-804;2026;False;;21,0;2,0;89,0;15,0;10,0;110,0
+Coleman Wong;2026-01-19;Australian Open;Hard;G;W;Q2;7-6(7) 6-0;Pablo Llamas Ruiz;21,05;1,75;1,43;6,33;2026-580-781;2026;False;;12,0;1,0;57,0;9,0;1,0;70,0
+Coleman Wong;2026-01-19;Australian Open;Hard;G;W;Q1;6-3 7-6(6);Ugo Blanchet;26,42;0,0;2,13;4,82;2026-580-735;2026;False;;14,0;0,0;53,0;11,0;2,0;94,0
+Coleman Wong;2026-01-05;Hong Kong;Hard;A;L;QF;6-4 6-4;Lorenzo Musetti;10,53;3,51;3,85;5,7;2026-0336-382;2026;False;;6,0;2,0;57,0;10,0;2,0;52,0
+Coleman Wong;2026-01-05;Hong Kong;Hard;A;W;R16;1-6 7-5 7-5;Gabriel Diallo;9,35;2,8;8,33;7,13;2026-0336-377;2026;False;;10,0;3,0;107,0;15,0;9,0;108,0
+Coleman Wong;2026-01-05;Hong Kong;Hard;A;W;R32;6-3 7-5;Mariano Navone;5,56;2,78;4,05;7,2;2026-0336-369;2026;False;;4,0;2,0;72,0;10,0;3,0;74,0
+Coleman Wong;2025-11-03;Taipei CH;Hard;C;L;SF;6-3 6-4;James Duckworth;19,57;0,0;9,8;5,11;2025-2278-384;2025;False;;9,0;0,0;46,0;9,0;5,0;51,0
+Coleman Wong;2025-11-03;Taipei CH;Hard;C;W;QF;6-4 6-4;Maxime Janvier;17,65;5,88;7,55;5,1;2025-2278-381;2025;False;;9,0;3,0;51,0;10,0;4,0;53,0
+Coleman Wong;2025-11-03;Taipei CH;Hard;C;W;R16;6-4 6-4;Tsung Hao Huang;11,48;0,0;1,43;6,1;2025-2278-376;2025;False;;7,0;0,0;61,0;10,0;1,0;70,0
+Coleman Wong;2025-11-03;Taipei CH;Hard;C;W;R32;6-4 4-6 7-5;Luca Castelnuovo;12,61;1,68;12,5;7,44;2025-2278-366;2025;False;;15,0;2,0;119,0;16,0;11,0;88,0
+Coleman Wong;2025-10-27;Seoul CH;Hard;C;L;F;6-4 6-3;Sho Shimabukuro;5,66;3,77;1,61;5,3;2025-7288-385;2025;False;;3,0;2,0;53,0;10,0;1,0;62,0
+Coleman Wong;2025-10-27;Seoul CH;Hard;C;W;SF;7-6(2) 4-6 6-2;Yi Zhou;14,58;2,08;6,45;6,4;2025-7288-383;2025;False;;14,0;2,0;96,0;15,0;6,0;93,0
+Coleman Wong;2025-10-27;Seoul CH;Hard;C;W;QF;6-3 6-4;Bu Yunchaokete;14,04;3,51;7,58;5,7;2025-7288-379;2025;False;;8,0;2,0;57,0;10,0;5,0;66,0
+Coleman Wong;2025-10-27;Seoul CH;Hard;C;W;R16;6-4 7-6(3);Yu Hsiou Hsu;14,49;5,8;1,61;6,27;2025-7288-372;2025;False;;10,0;4,0;69,0;11,0;1,0;62,0
+Coleman Wong;2025-10-27;Seoul CH;Hard;C;W;R32;6-3 6-2;Hyeon Chung;6,67;0,0;1,75;5,62;2025-7288-358;2025;False;;3,0;0,0;45,0;8,0;1,0;57,0
+Coleman Wong;2025-10-20;Suzhou CH;Hard;C;L;R32;6-7(4) 6-2 7-6(2);Yu Hsiou Hsu;11,61;2,68;0,83;7,0;2025-3033-355;2025;False;;13,0;3,0;112,0;16,0;1,0;120,0
+Coleman Wong;2025-10-06;Jinan CH;Hard;C;L;R16;6-4 6-7(5) 7-6(5);Petr Bar Biryukov;11,22;4,08;16,94;5,76;2025-7746-373;2025;False;;11,0;4,0;98,0;17,0;21,0;124,0
+Coleman Wong;2025-10-06;Jinan CH;Hard;C;W;R32;7-6(10) 6-2;Laslo Djere;7,41;3,7;3,95;8,1;2025-7746-359;2025;False;;6,0;3,0;81,0;10,0;3,0;76,0
+Coleman Wong;2025-10-01;Shanghai Masters;Hard;M;L;Q1;7-6(4) 6-3;Jason Kubler;16,13;4,84;4,94;6,2;2025-5014-245;2025;False;;10,0;3,0;62,0;10,0;4,0;81,0
+Coleman Wong;2025-09-25;Beijing;Hard;A;L;Q1;4-6 6-2 7-6(5);Arthur Cazaux;6,45;2,15;6,45;6,2;2025-0747-340;2025;False;;6,0;2,0;93,0;15,0;6,0;93,0
+Coleman Wong;2025-09-17;Chengdu;Hard;A;L;R32;6-3 6-2;Taro Daniel;11,94;2,99;6,0;7,44;2025-7581-367;2025;False;;8,0;2,0;67,0;9,0;3,0;50,0
+Coleman Wong;2025-08-25;US Open;Hard;G;L;R32;2-6 6-4 6-3 4-6 6-3;Andrey Rublev;17,61;2,82;10,79;6,17;2025-560-201;2025;False;;25,0;4,0;142,0;23,0;15,0;139,0
+Coleman Wong;2025-08-25;US Open;Hard;G;W;R64;7-6(5) 6-2 4-6 6-4;Adam Walton;16,15;3,85;5,19;6,5;2025-560-174;2025;False;;21,0;5,0;130,0;20,0;7,0;135,0
+Coleman Wong;2025-08-25;US Open;Hard;G;W;R128;6-4 7-5 7-6(4);Aleksandar Kovacevic;21,36;0,97;10,0;6,06;2025-560-121;2025;False;;22,0;1,0;103,0;17,0;10,0;100,0
+Coleman Wong;2025-08-12;Cancun CH;Hard;C;L;R16;7-6(1) 6-2;Arthur Cazaux;5,13;6,41;15,79;7,8;2025-3009-373;2025;False;;4,0;5,0;78,0;10,0;9,0;57,0
+Coleman Wong;2025-08-12;Cancun CH;Hard;C;W;R32;6-1 6-4;Andrea Pellegrino;14,0;6,0;4,44;5,56;2025-3009-361;2025;False;;7,0;3,0;50,0;9,0;2,0;45,0
+Coleman Wong;2025-08-07;Cincinnati Masters;Hard;M;L;R64;6-3 6-4;Ugo Humbert;13,33;2,22;17,54;5,0;2025-0422-325;2025;False;;6,0;1,0;45,0;9,0;10,0;57,0
+Coleman Wong;2025-08-07;Cincinnati Masters;Hard;M;W;R128;6-3 6-2;Giovanni Mpetshi Perricard;13,04;2,17;16,67;5,11;2025-0422-293;2025;False;;6,0;1,0;46,0;9,0;7,0;42,0
+Coleman Wong;2025-08-07;Cincinnati Masters;Hard;M;W;Q2;7-6(5) 6-3;Shintaro Mochizuki;9,59;2,74;4,12;7,3;2025-0422-272;2025;False;;7,0;2,0;73,0;10,0;4,0;97,0
+Coleman Wong;2025-08-07;Cincinnati Masters;Hard;M;W;Q1;6-2 6-3;Juan Manuel Cerundolo;4,48;2,99;9,8;7,44;2025-0422-258;2025;False;;3,0;2,0;67,0;9,0;5,0;51,0
+Coleman Wong;2025-07-27;Canada Masters;Hard;M;L;Q1;6-4 6-4;Tomas Barrios Vera;14,81;11,11;5,88;5,4;2025-0421-260;2025;False;;8,0;6,0;54,0;10,0;3,0;51,0
+Coleman Wong;2025-07-14;Gstaad;Clay;A;L;Q1;6-7(7) 7-5 6-4;Facundo Bagnis;10,34;2,07;9,62;8,53;2025-0314-351;2025;False;;15,0;3,0;145,0;17,0;10,0;104,0
+Coleman Wong;2025-06-30;Wimbledon;Grass;G;L;Q2;7-6(1) 7-6(3);Nikoloz Basilashvili;13,41;1,22;2,63;6,83;2025-540-794;2025;False;;11,0;1,0;82,0;12,0;2,0;76,0
+Coleman Wong;2025-06-30;Wimbledon;Grass;G;W;Q1;6-3 6-4;Pol Martin Tiffon;15,87;1,59;8,22;6,3;2025-540-761;2025;False;;10,0;1,0;63,0;10,0;6,0;73,0
+Coleman Wong;2025-06-16;Nottingham 2 CH;Grass;C;L;Q2;6-1 3-6 7-6(4);Matteo Gigante;13,59;2,91;2,15;7,36;2025-7740-353;2025;False;;14,0;3,0;103,0;14,0;2,0;93,0
+Coleman Wong;2025-06-16;Nottingham 2 CH;Grass;C;W;Q1;6-4 7-5;Constant Lestienne;9,38;3,12;4,62;5,82;2025-7740-345;2025;False;;6,0;2,0;64,0;11,0;3,0;65,0
+Coleman Wong;2025-06-09;Ilkley CH;Grass;C;L;R32;6-3 6-2;Henry Searle;3,28;8,2;10,0;6,78;2025-9005-368;2025;False;;2,0;5,0;61,0;9,0;5,0;50,0
+Coleman Wong;2025-06-02;Birmingham CH;Grass;C;L;QF;6-2 7-5;Otto Virtanen;9,43;1,89;12,24;5,3;2025-4940-380;2025;False;;5,0;1,0;53,0;10,0;6,0;49,0
+Coleman Wong;2025-06-02;Birmingham CH;Grass;C;W;R16;4-6 6-3 6-2;Zachary Svajda;12,35;3,7;7,87;5,79;2025-4940-374;2025;False;;10,0;3,0;81,0;14,0;7,0;89,0
+Coleman Wong;2025-06-02;Birmingham CH;Grass;C;W;R32;6-1 5-7 6-3;Johannus Monday;11,69;3,9;6,25;5,5;2025-4940-361;2025;False;;9,0;3,0;77,0;14,0;5,0;80,0
+Coleman Wong;2025-06-02;Birmingham CH;Grass;C;W;Q2;6-4 7-5;Mark Lajal;15,25;0,0;16,9;5,36;2025-4940-352;2025;False;;9,0;0,0;59,0;11,0;12,0;71,0
+Coleman Wong;2025-06-02;Birmingham CH;Grass;C;W;Q1;7-6(3) 6-4;Ryan Peniston;4,23;0,0;3,08;6,45;2025-4940-344;2025;False;;3,0;0,0;71,0;11,0;2,0;65,0
+Coleman Wong;2025-05-26;Roland Garros;Clay;G;L;Q1;7-6(2) 6-3;Bernard Tomic;6,56;0,0;4,23;6,1;2025-520-164;2025;False;;4,0;0,0;61,0;10,0;3,0;71,0
+Coleman Wong;2025-05-26;Vicenza CH;Clay;C;L;Q1;6-2 7-5;Andres Santamarta Roig;1,61;1,61;0,0;6,2;2025-7015-346;2025;False;;1,0;1,0;62,0;10,0;0,0;50,0
+Coleman Wong;2025-05-12;Tunis CH;Clay;C;L;QF;6-7(3) 6-2 6-4;Ivan Gakhov;4,9;1,96;7,0;6,8;2025-1541-380;2025;False;;5,0;2,0;102,0;15,0;7,0;100,0
+Coleman Wong;2025-05-12;Tunis CH;Clay;C;W;R16;7-5 7-5;Murkel Alejandro Dellien Velasco;1,33;5,33;0,0;6,25;2025-1541-373;2025;False;;1,0;4,0;75,0;12,0;0,0;91,0
+Coleman Wong;2025-05-12;Tunis CH;Clay;C;W;R32;6-2 6-2;Rodrigo Pacheco Mendez;6,82;4,55;0,0;5,5;2025-1541-359;2025;False;;3,0;2,0;44,0;8,0;0,0;52,0
+Coleman Wong;2025-04-28;Ostrava CH;Clay;C;L;R32;6-2 5-7 6-3;Gauthier Onclin;3,36;4,2;0,0;7,93;2025-1797-358;2025;False;;4,0;5,0;119,0;15,0;0,0;80,0
+Coleman Wong;2025-04-23;Madrid Masters;Clay;M;L;R128;7-6(5) 6-1;Federico Cina;3,45;0,0;1,59;6,44;2025-1536-296;2025;False;;2,0;0,0;58,0;9,0;1,0;63,0
+Coleman Wong;2025-03-19;Miami Masters;Hard;M;L;R32;7-6(6) 4-6 6-4;Adam Walton;15,15;0,0;9,62;6,19;2025-0403-349;2025;False;;15,0;0,0;99,0;16,0;10,0;104,0
+Coleman Wong;2025-03-19;Miami Masters;Hard;M;W;R64;7-6(3) 2-6 7-6(5);Ben Shelton;7,41;0,0;17,17;6,75;2025-0403-327;2025;False;;8,0;0,0;108,0;16,0;17,0;99,0
+Coleman Wong;2025-03-19;Miami Masters;Hard;M;W;R128;6-4 6-3;Daniel Altmaier;9,62;1,92;12,5;5,2;2025-0403-295;2025;False;;5,0;1,0;52,0;10,0;6,0;48,0
+Coleman Wong;2025-03-11;Cap Cana CH;Hard;C;L;R16;6-2 7-6(6);Aleksandar Kovacevic;9,09;1,52;7,02;6,6;2025-2975-376;2025;False;;6,0;1,0;66,0;10,0;4,0;57,0
+Coleman Wong;2025-03-11;Cap Cana CH;Hard;C;W;R32;6-3 6-7(4) 6-4;Billy Harris;12,24;2,04;6,25;6,12;2025-2975-367;2025;False;;12,0;2,0;98,0;16,0;6,0;96,0
+Coleman Wong;2025-03-05;Indian Wells Masters;Hard;M;L;Q1;7-6(5) 5-7 6-1;Pavel Kotov;2,08;4,17;1,0;6,4;2025-0404-249;2025;False;;2,0;4,0;96,0;15,0;1,0;100,0
+Coleman Wong;2025-02-24;San Diego CH;Hard;C;L;R32;6-2 6-4;Jenson Brooksby;4,84;4,84;0,0;6,89;2025-2971-368;2025;False;;3,0;3,0;62,0;9,0;0,0;60,0
+Coleman Wong;2025-02-17;Glasgow CH;Hard;C;L;R16;4-6 6-1 6-2;Viktor Durasovic;10,67;2,67;11,63;6,25;2025-7916-371;2025;False;;8,0;2,0;75,0;12,0;10,0;86,0
+Coleman Wong;2025-02-17;Glasgow CH;Hard;C;W;R32;6-3 6-2;Rudolf Molleker;8,89;4,44;6,78;5,0;2025-7916-355;2025;False;;4,0;2,0;45,0;9,0;4,0;59,0
+Coleman Wong;2025-02-10;Manama CH;Hard;C;L;R16;6-1 6-4;Terence Atmane;6,78;5,08;19,61;7,38;2025-9635-372;2025;False;;4,0;3,0;59,0;8,0;10,0;51,0
+Coleman Wong;2025-02-10;Manama CH;Hard;C;W;R32;7-5 7-5;Aleksandre Bakshi;16,67;2,38;6,25;7,0;2025-9635-357;2025;False;;14,0;2,0;84,0;12,0;5,0;80,0
+Coleman Wong;2025-01-13;Nonthaburi 3 CH;Hard;C;L;R16;6-4 6-1;Brandon Holt;12,5;10,42;10,91;6,0;2025-2801-375;2025;False;;6,0;5,0;48,0;8,0;6,0;55,0
+Coleman Wong;2025-01-13;Nonthaburi 3 CH;Hard;C;W;R32;7-6(2) 7-6(4);Benjamin Hassan;11,84;1,32;5,56;6,33;2025-2801-363;2025;False;;9,0;1,0;76,0;12,0;5,0;90,0
+Coleman Wong;2025-01-13;Australian Open;Hard;G;L;Q2;6-0 6-3;Joao Fonseca;7,27;5,45;15,79;7,86;2025-580-787;2025;False;;4,0;3,0;55,0;7,0;6,0;38,0
+Coleman Wong;2025-01-13;Australian Open;Hard;G;W;Q1;7-5 3-6 7-5;Dmitry Popko;11,24;2,25;7,27;5,24;2025-580-746;2025;False;;10,0;2,0;89,0;17,0;8,0;110,0
+Coleman Wong;2024-12-30;Hong Kong;Hard;A;L;R32;7-6(3) 6-4;Juncheng Shang;22,37;1,32;6,78;6,91;2025-0336-370;2024;False;;17,0;1,0;76,0;11,0;4,0;59,0
+Coleman Wong;2024-11-25;Yokkaichi CH;Hard;C;L;R16;6-3 2-6 6-4;Philip Sekulic;7,79;2,6;0,0;5,92;2024-8268-373;2024;False;;6,0;2,0;77,0;13,0;0,0;78,0
+Coleman Wong;2024-11-25;Yokkaichi CH;Hard;C;W;R32;2-6 7-5 6-4;Masamichi Imamura;7,53;3,23;2,13;6,2;2024-8268-359;2024;False;;7,0;3,0;93,0;15,0;2,0;94,0
+Coleman Wong;2024-11-18;Yokohama CH;Hard;C;L;QF;6-0 6-4;Li Tu;3,57;5,36;7,69;7,0;2024-6626-381;2024;False;;2,0;3,0;56,0;8,0;3,0;39,0
+Coleman Wong;2024-11-18;Yokohama CH;Hard;C;W;R16;7-6(2) 6-3;Shintaro Mochizuki;1,25;3,75;0,0;7,27;2024-6626-376;2024;False;;1,0;3,0;80,0;11,0;0,0;64,0
+Coleman Wong;2024-11-18;Yokohama CH;Hard;C;W;R32;6-2 6-1;Lennon Roark Jones;7,5;5,0;3,7;5,0;2024-6626-366;2024;False;;3,0;2,0;40,0;8,0;2,0;54,0
+Coleman Wong;2024-11-11;Kobe CH;Hard;C;L;R32;7-6(5) 6-2;Sho Shimabukuro;11,76;2,94;5,48;6,8;2024-7397-367;2024;False;;8,0;2,0;68,0;10,0;4,0;73,0
+Coleman Wong;2024-11-04;Matsuyama CH;Hard;C;L;R16;7-6(5) 6-2;Alex Bolt;15,25;5,08;9,46;5,9;2024-8386-376;2024;False;;9,0;3,0;59,0;10,0;7,0;74,0
+Coleman Wong;2024-11-04;Matsuyama CH;Hard;C;W;R32;6-2 6-2;Chun Hsin Tseng;13,11;9,84;5,88;7,62;2024-8386-366;2024;False;;8,0;6,0;61,0;8,0;3,0;51,0
+Coleman Wong;2024-10-28;Seoul CH;Hard;C;L;R16;6-7(1) 7-5 6-4;Kasidit Samrej;12,3;5,74;3,82;7,18;2024-7288-376;2024;False;;15,0;7,0;122,0;17,0;5,0;131,0
+Coleman Wong;2024-10-28;Seoul CH;Hard;C;W;R32;6-3 3-6 6-3;Yan Bai;7,5;1,25;4,48;5,71;2024-7288-366;2024;False;;6,0;1,0;80,0;14,0;3,0;67,0
+Coleman Wong;2024-10-21;Taipei 2 CH;Hard;C;L;QF;6-4 6-4;Taro Daniel;16,9;2,82;7,84;7,1;2024-2949-379;2024;False;;12,0;2,0;71,0;10,0;4,0;51,0
+Coleman Wong;2024-10-21;Taipei 2 CH;Hard;C;W;R16;6-1 6-7(3) 6-3;Kuan Yi Lee;24,14;5,75;3,41;5,8;2024-2949-372;2024;False;;21,0;5,0;87,0;15,0;3,0;88,0
+Coleman Wong;2024-10-21;Taipei 2 CH;Hard;C;W;R32;6-4 3-6 6-1;San Hui Sin;11,96;4,35;1,33;7,08;2024-2949-358;2024;False;;11,0;4,0;92,0;13,0;1,0;75,0
+Coleman Wong;2024-10-14;Almaty;Hard;A;L;R32;7-5 6-4;Justin Engel;12,35;2,47;6,76;7,36;2024-9410-362;2024;False;;10,0;2,0;81,0;11,0;5,0;74,0
+Coleman Wong;2024-10-02;Shanghai Masters;Hard;M;L;R128;6-4 6-4;Juncheng Shang;11,43;2,86;7,14;7,0;2024-5014-298;2024;False;;8,0;2,0;70,0;10,0;4,0;56,0
+Coleman Wong;2024-09-24;Nonthaburi 4 CH;Hard;C;L;SF;6-3 6-4;Mackenzie Mcdonald;9,62;3,85;12,07;5,78;2024-2939-399;2024;False;;5,0;2,0;52,0;9,0;7,0;58,0
+Coleman Wong;2024-09-24;Nonthaburi 4 CH;Hard;C;W;QF;6-4 6-4;Adam Walton;20,0;0,0;6,78;5,5;2024-2939-396;2024;False;;11,0;0,0;55,0;10,0;4,0;59,0
+Coleman Wong;2024-09-24;Nonthaburi 4 CH;Hard;C;W;R16;6-4 7-5;Daniel Evans;11,49;2,3;2,78;7,91;2024-2939-388;2024;False;;10,0;2,0;87,0;11,0;2,0;72,0
+Coleman Wong;2024-09-24;Nonthaburi 4 CH;Hard;C;W;R32;6-4 6-3;Kasidit Samrej;12,28;3,51;4,84;6,33;2024-2939-378;2024;False;;7,0;2,0;57,0;9,0;3,0;62,0
+Coleman Wong;2024-09-18;Hangzhou;Hard;A;L;R16;6-7(7) 7-6(4) 6-1;Brandon Nakashima;10,64;0,0;20,79;6,27;2024-4713-391;2024;False;;10,0;0,0;94,0;15,0;21,0;101,0
+Coleman Wong;2024-09-18;Hangzhou;Hard;A;W;R32;6-3 0-0 RET;Yibing Wu;38,1;0,0;0,0;5,25;2024-4713-374;2024;False;;8,0;0,0;21,0;4,0;0,0;35,0
+Coleman Wong;2024-09-18;Hangzhou;Hard;A;W;Q2;6-7(9) 6-4 6-4;Rigele Te;15,84;1,98;8,74;6,31;2024-4713-371;2024;False;;16,0;2,0;101,0;16,0;9,0;103,0
+Coleman Wong;2024-09-18;Hangzhou;Hard;A;W;Q1;6-3 6-2;Linang Xiao;14,89;2,13;1,82;5,88;2024-4713-366;2024;False;;7,0;1,0;47,0;8,0;1,0;55,0
+Coleman Wong;2024-09-14;Davis Cup WG2 R1: HKG vs ECU;Hard;D;W;RR;6-3 3-6 6-1;Marcos Lee Chan Baratau;13,51;2,7;1,32;5,69;2024-M-DC-2024-WG2-M-HKG-ECU-01-002;2024;False;;10,0;2,0;74,0;13,0;1,0;76,0
+Coleman Wong;2024-09-14;Davis Cup WG2 R1: HKG vs ECU;Hard;D;W;RR;6-4 6-2;Andres Andrade;17,65;0,0;6,67;5,67;2024-M-DC-2024-WG2-M-HKG-ECU-01-004;2024;False;;9,0;0,0;51,0;9,0;3,0;45,0
+Coleman Wong;2024-09-02;Shanghai CH;Hard;C;L;SF;6-3 7-6(2);Sho Shimabukuro;6,67;1,33;17,14;6,82;2024-6313-298;2024;False;;5,0;1,0;75,0;11,0;12,0;70,0
+Coleman Wong;2024-09-02;Shanghai CH;Hard;C;W;QF;7-6(6) 6-3;Beibit Zhukayev;17,46;3,17;16,9;5,73;2024-6313-295;2024;False;;11,0;2,0;63,0;11,0;12,0;71,0
+Coleman Wong;2024-09-02;Shanghai CH;Hard;C;W;R16;6-2 6-3;Ryan Peniston;14,81;1,85;7,27;6,0;2024-6313-288;2024;False;;8,0;1,0;54,0;9,0;4,0;55,0
+Coleman Wong;2024-09-02;Shanghai CH;Hard;C;W;R32;7-6(4) 6-1;Egor Gerasimov;12,31;3,08;5,71;7,22;2024-6313-274;2024;False;;8,0;2,0;65,0;9,0;4,0;70,0
+Coleman Wong;2024-08-26;Zhangjiagang CH;Hard;C;L;R16;6-2 7-6(3);Norbert Gombos;13,04;0,0;10,14;6,9;2024-7783-393;2024;False;;9,0;0,0;69,0;10,0;7,0;69,0
+Coleman Wong;2024-08-26;Zhangjiagang CH;Hard;C;W;R32;6-3 5-7 6-4;Egor Agafonov;7,14;3,06;5,49;6,12;2024-7783-385;2024;False;;7,0;3,0;98,0;16,0;5,0;91,0
+Coleman Wong;2024-08-12;Cary CH;Hard;C;L;R32;6-2 1-6 6-2;Gabriel Diallo;2,63;3,95;12,0;6,91;2024-7316-272;2024;False;;2,0;3,0;76,0;11,0;9,0;75,0
+Coleman Wong;2024-08-05;Lincoln CH;Hard;C;L;F;6-4 6-2;Jacob Fearnley;5,26;3,51;3,64;6,33;2024-2941-300;2024;False;;3,0;2,0;57,0;9,0;2,0;55,0
+Coleman Wong;2024-08-05;Lincoln CH;Hard;C;W;SF;6-7(5) 7-6(3) 6-0;Nishesh Basavareddy;20,0;0,95;5,83;7,0;2024-2941-298;2024;False;;21,0;1,0;105,0;15,0;6,0;103,0
+Coleman Wong;2024-08-05;Lincoln CH;Hard;C;W;QF;7-5 6-1;Li Tu;5,56;0,0;4,08;7,2;2024-2941-294;2024;False;;4,0;0,0;72,0;10,0;2,0;49,0
+Coleman Wong;2024-08-05;Lincoln CH;Hard;C;W;R16;1-6 6-2 6-4;Jack Pinnington Jones;1,33;4,0;5,13;5,77;2024-2941-287;2024;False;;1,0;3,0;75,0;13,0;4,0;78,0
+Coleman Wong;2024-08-05;Lincoln CH;Hard;C;W;R32;6-1 6-3;Ethan Quinn;17,24;1,72;2,99;7,25;2024-2941-272;2024;False;;10,0;1,0;58,0;8,0;2,0;67,0
+Coleman Wong;2024-07-29;Lexington CH;Hard;C;L;SF;6-2 6-3;Li Tu;3,77;1,89;11,11;5,89;2024-0586-298;2024;False;;2,0;1,0;53,0;9,0;5,0;45,0
+Coleman Wong;2024-07-29;Lexington CH;Hard;C;W;QF;6-4 7-6(3);Micah Braswell;12,5;1,56;1,43;5,82;2024-0586-295;2024;False;;8,0;1,0;64,0;11,0;1,0;70,0
+Coleman Wong;2024-07-29;Lexington CH;Hard;C;W;R16;4-6 6-1 6-2;Andres Andrade;4,26;3,19;5,13;7,83;2024-0586-288;2024;False;;4,0;3,0;94,0;12,0;4,0;78,0
+Coleman Wong;2024-07-29;Lexington CH;Hard;C;W;R32;6-4 3-6 6-3;Matias Soto;21,62;1,35;7,04;5,29;2024-0586-274;2024;False;;16,0;1,0;74,0;14,0;5,0;71,0
+Coleman Wong;2024-07-22;Chicago CH;Hard;C;L;R32;6-2 6-1;Philip Sekulic;8,93;3,57;0,0;7,0;2024-2797-278;2024;False;;5,0;2,0;56,0;8,0;0,0;37,0
+Coleman Wong;2024-07-15;Newport;Grass;A;L;R32;6-1 6-2;Aleksandar Vukic;9,43;9,43;7,14;7,57;2024-0315-277;2024;False;;5,0;5,0;53,0;7,0;4,0;56,0
+Coleman Wong;2024-07-01;Wimbledon;Grass;G;L;Q1;6-4 6-4;Zachary Svajda;19,67;11,48;2,0;6,1;2024-540-719;2024;False;;12,0;7,0;61,0;10,0;1,0;50,0
+Coleman Wong;2024-06-17;Ilkley CH;Grass;C;L;R32;6-4 6-4;Stefano Napolitano;17,86;0,0;16,33;5,6;2024-9005-277;2024;False;;10,0;0,0;56,0;10,0;8,0;49,0
+Coleman Wong;2024-06-10;Nottingham CH;Grass;C;L;R32;6-3 6-4;Billy Harris;8,7;2,17;7,55;5,11;2024-7740-373;2024;False;;4,0;1,0;46,0;9,0;4,0;53,0
+Coleman Wong;2024-06-03;Tyler CH;Hard;C;L;SF;6-2 4-6 7-6(4);James Trotter;7,96;1,77;3,7;7,53;2024-2873-298;2024;False;;9,0;2,0;113,0;15,0;4,0;108,0
+Coleman Wong;2024-06-03;Tyler CH;Hard;C;W;QF;6-2 6-2;Ethan Quinn;12,0;4,0;0,0;6,25;2024-2873-294;2024;False;;6,0;2,0;50,0;8,0;0,0;53,0
+Coleman Wong;2024-06-03;Tyler CH;Hard;C;W;R16;4-6 6-4 4-1 RET;Stefan Kozlov;8,64;3,7;2,22;6,75;2024-2873-286;2024;False;;7,0;3,0;81,0;12,0;2,0;90,0
+Coleman Wong;2024-06-03;Tyler CH;Hard;C;W;R32;7-5 6-4;Cannon Kingsley;14,75;3,28;3,9;5,55;2024-2873-270;2024;False;;9,0;2,0;61,0;11,0;3,0;77,0
+Coleman Wong;2024-05-27;Little Rock CH;Hard;C;L;R32;6-7(5) 6-4 6-3;Andres Andrade;3,16;4,21;2,08;5,94;2024-9188-270;2024;False;;3,0;4,0;95,0;16,0;2,0;96,0
+Coleman Wong;2024-05-27;Roland Garros;Clay;G;L;Q1;7-5 6-2;Patrick Kypson;8,45;5,63;10,0;7,1;2024-520-175;2024;False;;6,0;4,0;71,0;10,0;6,0;60,0
+Coleman Wong;2024-05-13;Oeiras CH;Clay;C;L;R32;6-3 6-1;Patrick Kypson;6,98;11,63;1,79;5,38;2024-2871-277;2024;False;;3,0;5,0;43,0;8,0;1,0;56,0
+Coleman Wong;2024-04-29;Guangzhou CH;Hard;C;L;R32;6-3 6-2;Yuta Shimizu;5,88;5,88;5,66;7,56;2024-6965-281;2024;False;;4,0;4,0;68,0;9,0;3,0;53,0
+Coleman Wong;2024-04-22;Shenzhen CH;Hard;C;L;R16;6-4 6-4;Remy Bertola;15,94;1,45;11,27;6,9;2024-2897-290;2024;False;;11,0;1,0;69,0;10,0;8,0;71,0
+Coleman Wong;2024-04-22;Shenzhen CH;Hard;C;W;R32;7-5 6-2;James Trotter;11,27;4,23;9,38;7,1;2024-2897-278;2024;False;;8,0;3,0;71,0;10,0;6,0;64,0
+Coleman Wong;2024-04-15;Gwangju CH;Hard;C;L;R16;6-3 1-6 7-5;Tung Lin Wu;8,33;0,0;3,06;6,0;2024-7490-287;2024;False;;7,0;0,0;84,0;14,0;3,0;98,0
+Coleman Wong;2024-04-15;Gwangju CH;Hard;C;W;R32;6-7(6) 7-5 6-3;Moez Echargui;3,64;3,64;3,7;6,88;2024-7490-273;2024;False;;4,0;4,0;110,0;16,0;4,0;108,0
+Coleman Wong;2024-04-08;Busan CH;Hard;C;L;QF;6-4 3-6 6-2;Seong Chan Hong;1,22;4,88;6,1;5,86;2024-1741-294;2024;False;;1,0;4,0;82,0;14,0;5,0;82,0
+Coleman Wong;2024-04-08;Busan CH;Hard;C;W;R16;7-5 6-2;Blake Ellis;19,64;1,79;7,58;5,6;2024-1741-287;2024;False;;11,0;1,0;56,0;10,0;5,0;66,0
+Coleman Wong;2024-04-08;Busan CH;Hard;C;W;R32;6-3 6-3;Alexander Blockx;1,92;1,92;1,79;5,78;2024-1741-273;2024;False;;1,0;1,0;52,0;9,0;1,0;56,0
+Coleman Wong;2024-03-18;Miami Masters;Hard;M;L;R128;7-5 7-6(3);Laslo Djere;6,98;5,81;4,49;7,17;2024-0403-215;2024;False;;6,0;5,0;86,0;12,0;4,0;89,0
+Coleman Wong;2024-03-18;Miami Masters;Hard;M;W;Q2;3-6 6-1 7-5;Sumit Nagal;17,02;5,32;2,0;6,71;2024-0403-137;2024;False;;16,0;5,0;94,0;14,0;2,0;100,0
+Coleman Wong;2024-03-18;Miami Masters;Hard;M;W;Q1;6-2 3-6 6-2;Hugo Gaston;13,89;5,56;7,79;6,0;2024-0403-120;2024;False;;10,0;4,0;72,0;12,0;6,0;77,0
+Coleman Wong;2024-03-04;Lugano CH;Hard;C;L;R32;3-6 6-3 6-4;Jan Choinski;14,44;5,56;12,5;6,43;2024-9516-277;2024;False;;13,0;5,0;90,0;14,0;9,0;72,0
+Coleman Wong;2024-02-26;New Delhi CH;Hard;C;L;F;6-4 6-2;Geoffrey Blancaneaux;1,92;3,85;8,45;5,78;2024-6961-300;2024;False;;1,0;2,0;52,0;9,0;6,0;71,0
+Coleman Wong;2024-02-26;New Delhi CH;Hard;C;W;SF;7-6(5) 6-4;Yuta Shimizu;3,45;1,15;3,37;7,91;2024-6961-299;2024;False;;3,0;1,0;87,0;11,0;3,0;89,0
+Coleman Wong;2024-02-26;New Delhi CH;Hard;C;W;QF;7-6(10) 6-3;Tristan Schoolkate;4,62;1,54;5,88;5,91;2024-6961-296;2024;False;;3,0;1,0;65,0;11,0;4,0;68,0
+Coleman Wong;2024-02-26;New Delhi CH;Hard;C;W;R32;6-4 4-6 7-5;Sasi Kumar Mukund;12,15;3,74;3,25;6,69;2024-6961-280;2024;False;;13,0;4,0;107,0;16,0;4,0;123,0
+Coleman Wong;2024-02-19;Pune CH;Hard;C;L;R32;7-6(4) 4-6 6-3;Felix Gill;15,0;1,25;6,06;5,33;2024-7100-276;2024;False;;12,0;1,0;80,0;15,0;6,0;99,0
+Coleman Wong;2024-02-12;Bengaluru CH;Hard;C;L;R16;6-2 7-5;Sumit Nagal;5,8;4,35;6,02;6,9;2024-7808-286;2024;False;;4,0;3,0;69,0;10,0;5,0;83,0
+Coleman Wong;2024-02-12;Bengaluru CH;Hard;C;W;R32;6-4 7-6(4);Raphael Collignon;14,06;3,12;1,45;5,82;2024-7808-271;2024;False;;9,0;2,0;64,0;11,0;1,0;69,0
+Coleman Wong;2024-02-03;Davis Cup WG2 PO: HKG vs ZIM;Hard;D;W;RR;6-2 6-0;Courtney John Lock;25,0;5,0;1,96;5,71;2024-M-DC-2024-WG2-PO-HKG-ZIM-01-002;2024;False;;10,0;2,0;40,0;7,0;1,0;51,0
+Coleman Wong;2024-01-08;Nonthaburi 2 CH;Hard;C;L;R16;6-7(6) 6-1 6-4;Yasutaka Uchiyama;6,93;4,95;12,9;7,21;2024-2795-289;2024;False;;7,0;5,0;101,0;14,0;12,0;93,0
+Coleman Wong;2024-01-08;Nonthaburi 2 CH;Hard;C;W;R32;7-6(6) 6-3;Chun Hsin Tseng;12,35;3,7;16,95;7,36;2024-2795-277;2024;False;;10,0;3,0;81,0;11,0;10,0;59,0
+Coleman Wong;2023-11-27;Yokkaichi CH;Hard;C;L;SF;6-2 6-2;Michael Mmoh;0,0;1,85;8,33;6,75;2023-8268-298;2023;False;;0,0;1,0;54,0;8,0;4,0;48,0
+Coleman Wong;2023-11-27;Yokkaichi CH;Hard;C;W;QF;4-6 7-5 6-4;August Holmgren;12,5;2,88;7,53;6,5;2023-8268-294;2023;False;;13,0;3,0;104,0;16,0;7,0;93,0
+Coleman Wong;2023-11-27;Yokkaichi CH;Hard;C;W;R16;6-3 6-2;Rei Sakamoto;17,02;2,13;1,92;5,22;2023-8268-286;2023;False;;8,0;1,0;47,0;9,0;1,0;52,0
+Coleman Wong;2023-11-27;Yokkaichi CH;Hard;C;W;R32;6-2 6-7(5) 6-4;Naoki Nakagawa;11,63;3,49;9,09;5,73;2023-8268-271;2023;False;;10,0;3,0;86,0;15,0;9,0;99,0
+Coleman Wong;2023-11-20;Yokohama CH;Hard;C;L;QF;7-6(7) 6-7(1) 7-6(4);Yuta Shimizu;13,28;1,56;2,4;7,11;2023-6626-295;2023;False;;17,0;2,0;128,0;18,0;3,0;125,0
+Coleman Wong;2023-11-20;Yokohama CH;Hard;C;W;R32;2-6 6-3 6-2;Altug Celikbilek;6,33;3,8;2,17;6,58;2023-6626-275;2023;False;;5,0;3,0;79,0;12,0;2,0;92,0
+Coleman Wong;2023-10-30;Sydney CH;Hard;C;L;R16;4-6 6-3 6-2;Rinky Hijikata;10,99;3,3;7,78;7,0;2023-2817-286;2023;False;;10,0;3,0;91,0;13,0;7,0;90,0
+Coleman Wong;2023-10-30;Sydney CH;Hard;C;W;R32;7-6(5) 6-2;Pavle Marinkov;14,29;2,6;4,62;7,7;2023-2817-271;2023;False;;11,0;2,0;77,0;10,0;3,0;65,0
+Coleman Wong;2023-10-23;Playford CH;Hard;C;L;F;7-5 7-5;James Duckworth;8,0;1,33;6,67;6,25;2023-7586-270;2023;False;;6,0;1,0;75,0;12,0;5,0;75,0
+Coleman Wong;2023-10-23;Playford CH;Hard;C;W;SF;4-6 7-6(5) 7-5;Taro Daniel;4,67;2,8;4,39;6,29;2023-7586-300;2023;False;;5,0;3,0;107,0;17,0;5,0;114,0
+Coleman Wong;2023-10-23;Playford CH;Hard;C;W;QF;6-7(7) 7-6(3) 7-6(2);Tristan Schoolkate;7,59;0,69;14,41;8,06;2023-7586-298;2023;False;;11,0;1,0;145,0;18,0;17,0;118,0
+Coleman Wong;2023-10-23;Playford CH;Hard;C;W;R16;7-6(1) 2-0 RET;Thanasi Kokkinakis;7,5;0,0;13,51;5,71;2023-7586-294;2023;False;;3,0;0,0;40,0;7,0;5,0;37,0
+Coleman Wong;2023-10-23;Playford CH;Hard;C;W;R32;3-6 6-2 6-2;Ajeet Rai;10,67;0,0;7,61;6,25;2023-7586-285;2023;False;;8,0;0,0;75,0;12,0;7,0;92,0
+Coleman Wong;2023-10-16;Shenzhen CH;Hard;C;L;F;6-0 6-1;James Duckworth;4,88;7,32;2,78;6,83;2023-2897-300;2023;False;;2,0;3,0;41,0;6,0;1,0;36,0
+Coleman Wong;2023-10-16;Shenzhen CH;Hard;C;W;QF;4-6 7-5 6-3;Tsung Hao Huang;9,28;4,12;1,63;6,47;2023-2897-295;2023;False;;9,0;4,0;97,0;15,0;2,0;123,0
+Coleman Wong;2023-10-16;Shenzhen CH;Hard;C;W;R16;3-6 6-3 7-5;Terence Atmane;4,72;4,72;2,02;7,07;2023-2897-288;2023;False;;5,0;5,0;106,0;15,0;2,0;99,0
+Coleman Wong;2023-10-16;Shenzhen CH;Hard;C;W;R32;6-3 7-6(4);Linang Xiao;17,65;3,53;6,49;7,73;2023-2897-275;2023;False;;15,0;3,0;85,0;11,0;5,0;77,0
+Coleman Wong;2023-08-28;Mallorca CH;Hard;C;L;R32;6-3 3-6 6-4;Nick Hardt;8,05;1,15;2,38;6,21;2023-7973-284;2023;False;;7,0;1,0;87,0;14,0;2,0;84,0
+Coleman Wong;2023-04-03;Murcia CH;Clay;C;L;Q1;6-2 6-3;Alvaro Lopez San Martin;1,49;1,49;6,38;7,44;2023-9171-240;2023;False;;1,0;1,0;67,0;9,0;3,0;47,0
+Coleman Wong;2023-03-27;Girona CH;Clay;C;L;Q1;6-1 6-4;Daniel Rincon;0,0;3,33;1,28;7,5;2023-2855-237;2023;False;;0,0;2,0;60,0;8,0;1,0;78,0
+Coleman Wong;2023-02-27;Waco CH;Hard;C;L;R32;6-3 6-1;Mitchell Krueger;1,85;7,41;5,36;6,75;2023-2857-284;2023;False;;1,0;4,0;54,0;8,0;3,0;56,0
+Coleman Wong;2023-02-27;Waco CH;Hard;C;W;Q2;1-6 7-6(5) 5-4 RET;Henri Squire;2,2;3,3;22,09;7,0;2023-2857-251;2023;False;;2,0;3,0;91,0;13,0;19,0;86,0
+Coleman Wong;2023-02-27;Waco CH;Hard;C;W;Q1;6-4 7-6(8);Evan Zhu;2,6;3,9;2,74;7,0;2023-2857-242;2023;False;;2,0;3,0;77,0;11,0;2,0;73,0
+Coleman Wong;2023-02-20;Rome GA CH;Hard;C;L;R32;6-3 6-1;Zachary Svajda;1,45;2,9;8,89;8,62;2023-2781-280;2023;False;;1,0;2,0;69,0;8,0;4,0;45,0
+Coleman Wong;2023-02-20;Rome GA CH;Hard;C;W;Q2;6-3 6-4;Strong Kirchheimer;12,28;3,51;8,06;5,7;2023-2781-251;2023;False;;7,0;2,0;57,0;10,0;5,0;62,0
+Coleman Wong;2023-02-20;Rome GA CH;Hard;C;W;Q1;4-6 6-3 6-0;Gage Brymer;12,82;5,13;1,49;6,0;2023-2781-241;2023;False;;10,0;4,0;78,0;13,0;1,0;67,0
+Coleman Wong;2022-11-21;Yokkaichi CH;Hard;C;L;Q1;6-2 6-1;Shuichi Sekiguchi;4,76;0,0;4,17;5,25;2022-8268-245;2022;False;;2,0;0,0;42,0;8,0;2,0;48,0
+Coleman Wong;2022-08-29;Manacor CH;Hard;C;L;Q1;6-4 6-4;Terence Atmane;1,89;7,55;7,81;5,3;2022-7973-239;2022;False;;1,0;4,0;53,0;10,0;5,0;64,0
+Coleman Wong;2022-03-04;Davis Cup WG2 PO: HKG vs BEN;Hard;D;W;RR;6-4 6-4;Delmas Ntcha;2,94;2,94;1,72;6,8;2022-M-DC-2022-WG2-PO-HKG-BEN-01-002;2022;False;;2,0;2,0;68,0;10,0;1,0;58,0
+Colton Smith;2026-09-28;Columbus CH;Hard;C;L;R16;6-2 7-6(8);Aidan Mayo;8,82;2,94;10,45;6,8;2026-8281-373;2026;False;;6,0;2,0;68,0;10,0;7,0;67,0
+Colton Smith;2026-09-28;Columbus CH;Hard;C;W;R32;6-2 6-4;Duncan Chan;3,77;7,55;4,29;5,89;2026-8281-359;2026;False;;2,0;4,0;53,0;9,0;3,0;70,0
 Colton Smith;2026-09-21;San Diego 2 CH;Hard;C;L;R16;6-3 6-3;Timo Legout;11,54;3,85;2,0;5,78;2026-3175-373;2026;False;;6,0;2,0;52,0;9,0;1,0;50,0
 Colton Smith;2026-09-21;San Diego 2 CH;Hard;C;W;R32;6-4 6-2;Stefan Kozlov;2,22;4,44;1,89;5,0;2026-3175-359;2026;False;;1,0;2,0;45,0;9,0;1,0;53,0
 Colton Smith;2026-08-31;US Open;Hard;G;L;Q3;1-6 6-4 6-2;Hugo Gaston;3,7;6,17;6,35;6,23;2026-560-799;2026;False;;3,0;5,0;81,0;13,0;4,0;63,0
@@ -28155,9 +28162,9 @@ Daniil Medvedev;2015-02-16;Marseille;Hard;A;W;Q1;6-4 6-1;Martin Vaisse;10,14;8,7
 Daniil Medvedev;2014-10-13;Moscow;Hard;A;L;Q2;6-2 6-7(3) 6-2;Aslan Karatsev;6,17;3,7;12,16;5,79;2014-438-724;2014;True;;5,0;3,0;81,0;14,0;9,0;74,0
 Daniil Medvedev;2014-10-13;Moscow;Hard;A;W;Q1;6-3 7-6(6);Mikhail Ledovskikh;9,23;1,54;6,96;6,5;2014-438-715;2014;True;;6,0;1,0;65,0;10,0;8,0;115,0
 Daniil Medvedev;2013-10-14;Moscow;Hard;A;L;Q1;6-4 6-0;Victor Baluda;12,77;14,89;3,85;5,88;2013-438-714;2013;True;;6,0;7,0;47,0;8,0;2,0;52,0
-Darwin Blanch;2026-09-28;Columbus Challenger;Hard;C;L;QF;6-3 6-3;Dylan Dietrich;14,06;1,56;16,36;7,11;2026-8281-382;2026;False;;9,0;1,0;64,0;9,0;9,0;55,0
-Darwin Blanch;2026-09-28;Columbus Challenger;Hard;C;W;R16;6-3 1-6 6-3;Daniel Milavsky;12,84;3,67;8,22;8,38;2026-8281-378;2026;False;;14,0;4,0;109,0;13,0;6,0;73,0
-Darwin Blanch;2026-09-28;Columbus Challenger;Hard;C;W;R32;6-4 7-5;Patrick Maloney;20,69;1,72;8,0;5,27;2026-8281-370;2026;False;;12,0;1,0;58,0;11,0;6,0;75,0
+Darwin Blanch;2026-09-28;Columbus CH;Hard;C;L;QF;6-3 6-3;Dylan Dietrich;14,06;1,56;16,36;7,11;2026-8281-382;2026;False;;9,0;1,0;64,0;9,0;9,0;55,0
+Darwin Blanch;2026-09-28;Columbus CH;Hard;C;W;R16;6-3 1-6 6-3;Daniel Milavsky;12,84;3,67;8,22;8,38;2026-8281-378;2026;False;;14,0;4,0;109,0;13,0;6,0;73,0
+Darwin Blanch;2026-09-28;Columbus CH;Hard;C;W;R32;6-4 7-5;Patrick Maloney;20,69;1,72;8,0;5,27;2026-8281-370;2026;False;;12,0;1,0;58,0;11,0;6,0;75,0
 Darwin Blanch;2026-09-21;San Diego 2 CH;Hard;C;L;R16;3-6 6-3 7-5;Andres Andrade;11,11;3,03;4,08;6,6;2026-3175-377;2026;False;;11,0;3,0;99,0;15,0;4,0;98,0
 Darwin Blanch;2026-09-21;San Diego 2 CH;Hard;C;W;R32;4-6 7-6(9) 6-1;J J Wolf;10,58;5,77;6,25;6,93;2026-3175-368;2026;False;;11,0;6,0;104,0;15,0;5,0;80,0
 Darwin Blanch;2026-09-14;Tiburon CH;Hard;C;W;F;3-6 6-4 6-2;Michael Mmoh;7,59;0,0;6,9;5,64;2026-1768-385;2026;False;;6,0;0,0;79,0;14,0;6,0;87,0
@@ -31385,6 +31392,63 @@ Dusan Lajovic;2010-07-26;Umag;Clay;A;L;Q1;5-7 7-5 6-1;Goran Tosic;0,0;5,0;1,72;6
 Dusan Lajovic;2010-05-03;Belgrade;Clay;A;L;R32;7-6(4) 6-4;Ivo Karlovic;6,15;3,08;15,62;5,91;2010-5053-006;2010;False;;4,0;2,0;65,0;11,0;10,0;64,0
 Dusan Lajovic;2010-02-15;Belgrade CH;Carpet;C;L;R32;6-4 6-3;Stefan Koubek;1,92;5,77;4,92;5,78;2010-835-005;2010;False;;1,0;3,0;52,0;9,0;3,0;61,0
 Dusan Lajovic;2010-02-01;Zagreb;Hard;A;L;Q1;6-1 7-5;Ante Pavic;1,02;5,1;4,48;10,89;2010-2276-710;2010;False;;1,0;5,0;98,0;9,0;3,0;67,0
+Dylan Dietrich;2026-09-28;Columbus CH;Hard;C;W;F;6-3 6-2;Abedallah Shelbayh;11,63;0,0;2,13;5,38;2026-8281-385;2026;False;;5,0;0,0;43,0;8,0;1,0;47,0
+Dylan Dietrich;2026-09-28;Columbus CH;Hard;C;W;SF;6-3 1-0 RET;Andres Andrade;14,29;7,14;0,0;5,6;2026-8281-384;2026;False;;4,0;2,0;28,0;5,0;0,0;24,0
+Dylan Dietrich;2026-09-28;Columbus CH;Hard;C;W;QF;6-3 6-3;Darwin Blanch;16,36;3,64;14,06;6,11;2026-8281-382;2026;False;;9,0;2,0;55,0;9,0;9,0;64,0
+Dylan Dietrich;2026-09-28;Columbus CH;Hard;C;W;R16;7-5 6-2;Andrew Fenty;11,43;0,0;11,43;7,0;2026-8281-377;2026;False;;8,0;0,0;70,0;10,0;8,0;70,0
+Dylan Dietrich;2026-09-28;Columbus CH;Hard;C;W;R32;7-6(6) 6-3;J J Wolf;15,28;2,78;5,97;6,55;2026-8281-367;2026;False;;11,0;2,0;72,0;11,0;4,0;67,0
+Dylan Dietrich;2026-09-21;San Diego 2 CH;Hard;C;L;SF;6-7(10) 6-4 5-1 RET;Nishesh Basavareddy;8,82;7,84;3,74;7,29;2026-3175-384;2026;False;;9,0;8,0;102,0;14,0;4,0;107,0
+Dylan Dietrich;2026-09-21;San Diego 2 CH;Hard;C;W;QF;6-3 7-5;Henry Searle;3,23;3,23;5,45;5,64;2026-3175-381;2026;False;;2,0;2,0;62,0;11,0;3,0;55,0
+Dylan Dietrich;2026-09-21;San Diego 2 CH;Hard;C;W;R16;6-2 7-6(4);Keegan Smith;13,79;0,0;7,69;5,8;2026-3175-376;2026;False;;8,0;0,0;58,0;10,0;6,0;78,0
+Dylan Dietrich;2026-09-21;San Diego 2 CH;Hard;C;W;R32;6-3 6-1;Dinko Dinev;12,5;5,36;2,08;7,0;2026-3175-365;2026;False;;7,0;3,0;56,0;8,0;1,0;48,0
+Dylan Dietrich;2026-08-10;Hamburg CH;Clay;C;L;QF;4-6 6-3 6-4;Matheus Pucinelli De Almeida;6,67;1,11;2,44;6,43;2026-8297-382;2026;False;;6,0;1,0;90,0;14,0;3,0;123,0
+Dylan Dietrich;2026-08-10;Hamburg CH;Clay;C;W;R16;7-6(6) 7-6(5);Vitaliy Sachko;7,69;4,4;6,17;7,58;2026-8297-377;2026;False;;7,0;4,0;91,0;12,0;5,0;81,0
+Dylan Dietrich;2026-08-10;Hamburg CH;Clay;C;W;R32;6-3 7-6(4);Oleksii Krutykh;9,23;4,62;4,11;5,91;2026-8297-368;2026;False;;6,0;3,0;65,0;11,0;3,0;73,0
+Dylan Dietrich;2026-07-20;Zug CH;Clay;C;L;SF;6-4 6-3;Thiago Seyboth Wild;13,21;13,21;21,43;5,89;2026-2785-383;2026;False;;7,0;7,0;53,0;9,0;12,0;56,0
+Dylan Dietrich;2026-07-20;Zug CH;Clay;C;W;QF;6-3 6-3;Harold Mayot;20,75;1,89;3,33;5,89;2026-2785-379;2026;False;;11,0;1,0;53,0;9,0;2,0;60,0
+Dylan Dietrich;2026-07-20;Zug CH;Clay;C;W;R16;6-3 6-3;Max Alcala Gurri;18,87;0,0;5,17;5,89;2026-2785-371;2026;False;;10,0;0,0;53,0;9,0;3,0;58,0
+Dylan Dietrich;2026-07-20;Zug CH;Clay;C;W;R32;6-4 4-6 6-1;Tomas Barrios Vera;22,37;9,21;2,15;5,43;2026-2785-355;2026;False;;17,0;7,0;76,0;14,0;2,0;93,0
+Dylan Dietrich;2026-07-13;Gstaad;Clay;A;L;R32;7-6(3) 2-6 7-6(5);Jerome Kym;6,8;3,88;8,85;6,44;2026-0314-366;2026;False;;7,0;4,0;103,0;16,0;10,0;113,0
+Dylan Dietrich;2026-07-13;Gstaad;Clay;A;W;Q2;3-6 6-3 6-4;Thiago Monteiro;8,57;2,86;1,05;5,0;2026-0314-358;2026;False;;6,0;2,0;70,0;14,0;1,0;95,0
+Dylan Dietrich;2026-07-13;Gstaad;Clay;A;W;Q1;6-4 7-6(4);Otto Virtanen;4,23;1,41;14,06;6,45;2026-0314-354;2026;False;;3,0;1,0;71,0;11,0;9,0;64,0
+Dylan Dietrich;2026-07-06;Trieste CH;Clay;C;L;R32;7-6(7) 2-6 6-3;Nikolas Sanchez Izquierdo;3,77;4,72;2,22;7,57;2026-9351-359;2026;False;;4,0;5,0;106,0;14,0;3,0;135,0
+Dylan Dietrich;2026-06-22;M25 Brussels;Clay;25;L;F;6-1 6-2;Max Hans Rehberg;0,0;0,0;2,17;6,71;2026-M-ITF-BEL-2026-001-501;2026;False;;0,0;0,0;47,0;7,0;1,0;46,0
+Dylan Dietrich;2026-06-22;M25 Brussels;Clay;25;W;SF;6-2 7-5;Marvin Moeller;4,17;2,78;0,0;7,2;2026-M-ITF-BEL-2026-001-401;2026;False;;3,0;2,0;72,0;10,0;0,0;63,0
+Dylan Dietrich;2026-06-22;M25 Brussels;Clay;25;W;QF;6-0 2-1;Fadi Bidan;6,25;0,0;0,0;6,4;2026-M-ITF-BEL-2026-001-302;2026;False;;2,0;0,0;32,0;5,0;0,0;24,0
+Dylan Dietrich;2026-06-22;M25 Brussels;Clay;25;W;R16;6-3 6-4;Robert Strombachs;6,45;4,84;0,0;6,2;2026-M-ITF-BEL-2026-001-204;2026;False;;4,0;3,0;62,0;10,0;0,0;72,0
+Dylan Dietrich;2026-06-22;M25 Brussels;Clay;25;W;R32;6-4 6-2;Adan Freire Da Silva;7,55;1,89;1,89;5,89;2026-M-ITF-BEL-2026-001-107;2026;False;;4,0;1,0;53,0;9,0;1,0;53,0
+Dylan Dietrich;2026-06-15;M25 Klosters;Clay;25;L;F;7-6(1) 7-6(4);Sandro Kopp;2,74;0,0;1,22;6,08;2026-M-ITF-SUI-2026-002-501;2026;False;;2,0;0,0;73,0;12,0;1,0;82,0
+Dylan Dietrich;2026-06-15;M25 Klosters;Clay;25;W;SF;6-4 4-6 6-1;Kai Wehnelt;2,33;3,49;5,21;6,62;2026-M-ITF-SUI-2026-002-401;2026;False;;2,0;3,0;86,0;13,0;5,0;96,0
+Dylan Dietrich;2026-06-15;M25 Klosters;Clay;25;W;QF;6-1 0-6 6-3;Adrien Burdet;0,0;5,26;2,5;5,18;2026-M-ITF-SUI-2026-002-301;2026;False;;0,0;3,0;57,0;11,0;2,0;80,0
+Dylan Dietrich;2026-06-15;M25 Klosters;Clay;25;W;R16;6-3 6-1;Louis Wessels;2,27;0,0;2,27;5,5;2026-M-ITF-SUI-2026-002-201;2026;False;;1,0;0,0;44,0;8,0;1,0;44,0
+Dylan Dietrich;2026-06-15;M25 Klosters;Clay;25;W;R32;7-6(2) 4-6 6-2;Inaki Montes De La Torre;2,15;3,23;3,09;6,2;2026-M-ITF-SUI-2026-002-101;2026;False;;2,0;3,0;93,0;15,0;3,0;97,0
+Dylan Dietrich;2026-06-01;M15 Ljubljana;Clay;15;W;F;4-6 6-2 6-2;Jan Kupcic;5,56;1,39;1,02;5,54;2026-M-ITF-SLO-2026-003-501;2026;False;;4,0;1,0;72,0;13,0;1,0;98,0
+Dylan Dietrich;2026-06-01;M15 Ljubljana;Clay;15;W;SF;7-6(6) 6-1;Yanaki Milev;4,29;0,0;1,43;7,0;2026-M-ITF-SLO-2026-003-401;2026;False;;3,0;0,0;70,0;10,0;1,0;70,0
+Dylan Dietrich;2026-06-01;M15 Ljubljana;Clay;15;W;QF;6-2 6-1;Calvin Mueller;14,29;2,86;3,51;5,0;2026-M-ITF-SLO-2026-003-301;2026;False;;5,0;1,0;35,0;7,0;2,0;57,0
+Dylan Dietrich;2026-06-01;M15 Ljubljana;Clay;15;W;R16;7-6(7) 6-2;Duje Ajdukovic;8,22;1,37;0,0;7,3;2026-M-ITF-SLO-2026-003-201;2026;False;;6,0;1,0;73,0;10,0;0,0;71,0
+Dylan Dietrich;2026-06-01;M15 Ljubljana;Clay;15;W;R32;7-6(6) 6-3;Dmitry Kopilevich;6,33;2,53;4,0;7,18;2026-M-ITF-SLO-2026-003-102;2026;False;;5,0;2,0;79,0;11,0;3,0;75,0
+Dylan Dietrich;2026-02-23;Lugano CH;Hard;C;L;R32;6-3 6-4;Daniil Glinka;12,9;1,61;14,29;6,89;2026-9516-355;2026;False;;8,0;1,0;62,0;9,0;8,0;56,0
+Dylan Dietrich;2026-02-23;Lugano CH;Hard;C;W;Q2;7-5 6-4;Alex Rybakov;14,29;0,0;3,12;5,09;2026-9516-353;2026;False;;8,0;0,0;56,0;11,0;2,0;64,0
+Dylan Dietrich;2026-02-23;Lugano CH;Hard;C;W;Q1;7-6(5) 6-4;Luca Potenza;12,9;1,61;3,12;5,64;2026-9516-345;2026;False;;8,0;1,0;62,0;11,0;3,0;96,0
+Dylan Dietrich;2025-10-27;Charlottesville CH;Hard;C;L;QF;7-5 6-3;Rafael Jodar;6,85;8,22;5,95;7,3;2025-6055-380;2025;False;;5,0;6,0;73,0;10,0;5,0;84,0
+Dylan Dietrich;2025-10-27;Charlottesville CH;Hard;C;W;R16;7-6(6) 6-2;Jay Clarke;25,81;1,61;2,86;6,2;2025-6055-373;2025;False;;16,0;1,0;62,0;10,0;2,0;70,0
+Dylan Dietrich;2025-10-27;Charlottesville CH;Hard;C;W;R32;6-3 6-4;Alfredo Perez;18,64;5,08;1,59;5,9;2025-6055-360;2025;False;;11,0;3,0;59,0;10,0;1,0;63,0
+Dylan Dietrich;2025-07-07;Nottingham 3 CH;Grass;C;L;Q2;6-4 6-1;Patrick Zahraj;7,69;4,62;11,36;7,22;2025-3007-354;2025;False;;5,0;3,0;65,0;9,0;5,0;44,0
+Dylan Dietrich;2025-07-07;Nottingham 3 CH;Grass;C;W;Q1;5-7 6-4 6-3;Niklas Schell;5,95;9,52;5,65;5,6;2025-3007-347;2025;False;;5,0;8,0;84,0;15,0;7,0;124,0
+Dylan Dietrich;2025-06-30;M15 Getxo;Clay;15;L;R16;6-3 6-3;Pierre Delage;1,89;11,32;5,0;5,89;2025-M-ITF-ESP-2025-013-202;2025;False;;1,0;6,0;53,0;9,0;3,0;60,0
+Dylan Dietrich;2025-06-30;M15 Getxo;Clay;15;W;R32;6-3 6-1;Valentin Basel;0,0;1,92;5,48;6,5;2025-M-ITF-ESP-2025-013-103;2025;False;;0,0;1,0;52,0;8,0;4,0;73,0
+Dylan Dietrich;2024-10-28;Charlottesville CH;Hard;C;L;R16;6-2 7-6(5);Alexis Galarneau;10,13;10,13;4,23;7,9;2024-6055-376;2024;False;;8,0;8,0;79,0;10,0;3,0;71,0
+Dylan Dietrich;2024-10-28;Charlottesville CH;Hard;C;W;R32;6-3 6-3;Zachary Svajda;16,67;6,25;1,67;5,33;2024-6055-366;2024;False;;8,0;3,0;48,0;9,0;1,0;60,0
+Dylan Dietrich;2024-07-22;Zug CH;Clay;C;L;R32;6-7(7) 7-5 7-6(2);Roman Andres Burruchaga;6,35;7,94;3,28;7,0;2024-2785-383;2024;False;;8,0;10,0;126,0;18,0;4,0;122,0
+Dylan Dietrich;2024-07-22;Zug CH;Clay;C;W;Q2;6-4 6-3;Andrea Guerrieri;5,33;5,33;0,0;7,5;2024-2785-364;2024;False;;4,0;4,0;75,0;10,0;0,0;57,0
+Dylan Dietrich;2024-07-22;Zug CH;Clay;C;W;Q1;6-3 6-1;Vladimir Uzhylovsky;7,32;4,88;11,76;5,12;2024-2785-352;2024;False;;3,0;2,0;41,0;8,0;8,0;68,0
+Dylan Dietrich;2023-10-30;Charlottesville CH;Hard;C;L;Q2;7-6(1) 6-3;Ethan Quinn;0,0;2,63;11,29;6,91;2023-6055-249;2023;False;;0,0;2,0;76,0;11,0;7,0;62,0
+Dylan Dietrich;2023-10-30;Charlottesville CH;Hard;C;W;Q1;6-4 6-7(4) 6-3;Alexander Cozbinov;5,41;5,41;10,48;7,4;2023-6055-237;2023;False;;6,0;6,0;111,0;15,0;11,0;105,0
+Dylan Dietrich;2023-07-24;Zug CH;Clay;C;L;R32;6-2 6-1;Dimitar Kuzmanov;2,08;2,08;7,25;6,86;2023-2785-273;2023;False;;1,0;1,0;48,0;7,0;5,0;69,0
+Dylan Dietrich;2023-07-24;Zug CH;Clay;C;W;Q2;6-2 5-7 6-4;Kyrian Jacquet;2,91;4,85;3,49;6,87;2023-2785-250;2023;False;;3,0;5,0;103,0;15,0;3,0;86,0
+Dylan Dietrich;2023-07-24;Zug CH;Clay;C;W;Q1;6-3 6-3;Giovanni Fonio;12,24;6,12;11,54;5,44;2023-2785-240;2023;False;;6,0;3,0;49,0;9,0;6,0;52,0
+Dylan Dietrich;2023-03-20;Biel-Bienne CH;Hard;C;L;R32;4-6 6-1 6-4;Gabriel Diallo;10,26;5,13;10,96;6,0;2023-9575-278;2023;False;;8,0;4,0;78,0;13,0;8,0;73,0
+Dylan Dietrich;2023-03-06;Lugano CH;Hard;C;L;Q1;6-4 6-2;Gauthier Onclin;4,76;7,94;0,0;7,0;2023-9516-248;2023;False;;3,0;5,0;63,0;9,0;0,0;60,0
 Edas Butvilas;2026-10-05;Villena Challenger;Hard;C;L;R32;1-6 6-4 7-5;Max Hans Rehberg;2,56;0,0;1,22;5,2;2026-7909-356;2026;False;;2,0;0,0;78,0;15,0;1,0;82,0
 Edas Butvilas;2026-09-28;Porto Monte Aventino CH;Hard;C;L;QF;6-7(5) 6-3 7-6(5);Jerome Kym;6,96;2,61;16,82;6,76;2026-9526-381;2026;False;;8,0;3,0;115,0;17,0;18,0;107,0
 Edas Butvilas;2026-09-28;Porto Monte Aventino CH;Hard;C;W;R16;6-1 7-5;Moez Echargui;1,79;0,0;4,62;6,22;2026-9526-375;2026;False;;1,0;0,0;56,0;9,0;3,0;65,0
@@ -44525,9 +44589,9 @@ Hamad Medjedovic;2021-04-19;Belgrade;Clay;A;L;Q2;6-4 6-2;Facundo Bagnis;3,33;8,3
 Hamad Medjedovic;2021-04-19;Belgrade;Clay;A;W;Q1;7-6(4) 7-6(5);Daniel Elahi Galan;6,82;4,55;3,53;7,33;2021-5053-247;2021;True;;6,0;4,0;88,0;12,0;3,0;85,0
 Hamad Medjedovic;2021-04-12;Belgrade CH;Clay;C;L;R16;6-2 6-2;Facundo Bagnis;1,72;6,9;1,96;7,25;2021-0835-286;2021;True;;1,0;4,0;58,0;8,0;1,0;51,0
 Hamad Medjedovic;2021-04-12;Belgrade CH;Clay;C;W;R32;6-3 1-6 6-3;Oscar Otte;8,6;3,23;12,86;7,15;2021-0835-271;2021;True;;8,0;3,0;93,0;13,0;9,0;70,0
-Harold Mayot;2026-09-28;Mouilleron le Captif Challenger;Hard;C;L;QF;3-6 6-2 2-0 RET;Clement Chidekh;5,77;1,92;1,89;5,2;2026-6857-380;2026;False;;3,0;1,0;52,0;10,0;1,0;53,0
-Harold Mayot;2026-09-28;Mouilleron le Captif Challenger;Hard;C;W;R16;6-4 2-6 6-4;Tristan Schoolkate;13,51;0,0;7,5;5,29;2026-6857-373;2026;False;;10,0;0,0;74,0;14,0;6,0;80,0
-Harold Mayot;2026-09-28;Mouilleron le Captif Challenger;Hard;C;W;R32;6-3 7-5;Niels Visker;4,17;2,08;13,85;4,8;2026-6857-360;2026;False;;2,0;1,0;48,0;10,0;9,0;65,0
+Harold Mayot;2026-09-28;Mouilleron le Captif CH;Hard;C;L;QF;3-6 6-2 2-0 RET;Clement Chidekh;5,77;1,92;1,89;5,2;2026-6857-380;2026;False;;3,0;1,0;52,0;10,0;1,0;53,0
+Harold Mayot;2026-09-28;Mouilleron le Captif CH;Hard;C;W;R16;6-4 2-6 6-4;Tristan Schoolkate;13,51;0,0;7,5;5,29;2026-6857-373;2026;False;;10,0;0,0;74,0;14,0;6,0;80,0
+Harold Mayot;2026-09-28;Mouilleron le Captif CH;Hard;C;W;R32;6-3 7-5;Niels Visker;4,17;2,08;13,85;4,8;2026-6857-360;2026;False;;2,0;1,0;48,0;10,0;9,0;65,0
 Harold Mayot;2026-09-21;Saint-Tropez CH;Hard;C;L;F;6-3 7-5;Titouan Droguet;3,57;8,93;7,35;5,6;2026-9552-385;2026;False;;2,0;5,0;56,0;10,0;5,0;68,0
 Harold Mayot;2026-09-21;Saint-Tropez CH;Hard;C;W;SF;5-7 6-2 4-2 RET;Murphy Cassone;3,23;3,23;6,98;7,15;2026-9552-383;2026;False;;3,0;3,0;93,0;13,0;6,0;86,0
 Harold Mayot;2026-09-21;Saint-Tropez CH;Hard;C;W;QF;6-3 4-6 7-5;Jesper De Jong;6,67;2,67;4,5;5,0;2026-9552-380;2026;False;;5,0;2,0;75,0;15,0;5,0;111,0
@@ -44844,8 +44908,8 @@ Harold Mayot;2020-01-06;Noumea CH;Hard;C;L;R16;6-2 6-2;Roberto Marcora;4,35;0,0;
 Harold Mayot;2020-01-06;Noumea CH;Hard;C;W;R32;3-6 6-3 6-3;Facundo Bagnis;8,22;1,37;6,9;5,62;2020-2205-277;2020;False;;6,0;1,0;73,0;13,0;6,0;87,0
 Harold Mayot;2020-01-06;Noumea CH;Hard;C;W;R64;4-6 6-3 6-2;Colin Sinclair;8,24;5,88;12,22;6,07;2020-2205-252;2020;False;;7,0;5,0;85,0;14,0;11,0;90,0
 Harold Mayot;2019-09-16;Metz;Hard;A;L;Q1;3-6 6-3 7-6(2);Adrian Menendez Maceiras;2,52;0,84;3,7;7,93;2019-0341-249;2019;False;;3,0;1,0;119,0;15,0;4,0;108,0
-Harry Wendelken;2026-09-28;Mouilleron le Captif Challenger;Hard;C;L;R16;6-4 6-3;Joel Schwaerzler;1,52;6,06;11,67;7,33;2026-6857-377;2026;False;;1,0;4,0;66,0;9,0;7,0;60,0
-Harry Wendelken;2026-09-28;Mouilleron le Captif Challenger;Hard;C;W;R32;6-3 6-1;Filippo Romano;2,17;2,17;10,91;5,75;2026-6857-367;2026;False;;1,0;1,0;46,0;8,0;6,0;55,0
+Harry Wendelken;2026-09-28;Mouilleron le Captif CH;Hard;C;L;R16;6-4 6-3;Joel Schwaerzler;1,52;6,06;11,67;7,33;2026-6857-377;2026;False;;1,0;4,0;66,0;9,0;7,0;60,0
+Harry Wendelken;2026-09-28;Mouilleron le Captif CH;Hard;C;W;R32;6-3 6-1;Filippo Romano;2,17;2,17;10,91;5,75;2026-6857-367;2026;False;;1,0;1,0;46,0;8,0;6,0;55,0
 Harry Wendelken;2026-09-21;Saint-Tropez CH;Hard;C;L;R32;6-2 6-4;David Jorda Sanchis;1,75;8,77;19,15;6,33;2026-9552-365;2026;False;;1,0;5,0;57,0;9,0;9,0;47,0
 Harry Wendelken;2026-08-31;US Open;Hard;G;L;R128;6-2 3-6 6-2 7-5;Luciano Darderi;7,87;5,51;10,0;7,06;2026-560-104;2026;False;;10,0;7,0;127,0;18,0;15,0;150,0
 Harry Wendelken;2026-08-31;US Open;Hard;G;W;Q3;6-7(3) 7-6(5) 7-6(5);Vilius Gaubas;8,33;2,5;8,21;6,67;2026-560-810;2026;False;;10,0;3,0;120,0;18,0;11,0;134,0
@@ -48640,7 +48704,7 @@ Ignacio Buse;2022-08-08;Lima CH;Clay;C;L;R16;7-6(5) 6-1;Gastao Elias;0,0;1,59;0,
 Ignacio Buse;2022-08-08;Lima CH;Clay;C;W;R32;6-0 6-2;Eduardo Ribeiro;0,0;2,56;0,0;5,57;2022-2787-276;2022;True;;0,0;1,0;39,0;7,0;0,0;54,0
 Ignacio Buse;2021-10-25;Lima 2 CH;Clay;C;L;Q1;7-6(2) 4-6 6-3;Alexis Galarneau;0,92;0,92;4,49;6,81;2021-9602-248;2021;True;;1,0;1,0;109,0;16,0;4,0;89,0
 Ignacio Buse;2021-09-27;Lima 1 CH;Clay;C;L;Q1;6-4 6-1;Oscar Jose Gutierrez;0,0;5,88;1,39;8,5;2021-6579-245;2021;True;;0,0;4,0;68,0;8,0;1,0;72,0
-Igor Ribeiro Marcondes;2026-09-28;Columbus Challenger;Hard;C;L;R32;6-2 6-4;Andrew Fenty;1,75;5,26;6,0;6,33;2026-8281-368;2026;False;;1,0;3,0;57,0;9,0;3,0;50,0
+Igor Ribeiro Marcondes;2026-09-28;Columbus CH;Hard;C;L;R32;6-2 6-4;Andrew Fenty;1,75;5,26;6,0;6,33;2026-8281-368;2026;False;;1,0;3,0;57,0;9,0;3,0;50,0
 Igor Ribeiro Marcondes;2026-09-21;San Diego 2 CH;Hard;C;L;F;7-5 6-4;Nishesh Basavareddy;2,9;1,45;4,55;6,27;2026-3175-385;2026;False;;2,0;1,0;69,0;11,0;3,0;66,0
 Igor Ribeiro Marcondes;2026-09-21;San Diego 2 CH;Hard;C;W;SF;6-7(5) 7-5 7-5;Timo Legout;6,11;1,53;1,94;7,28;2026-3175-383;2026;False;;8,0;2,0;131,0;18,0;2,0;103,0
 Igor Ribeiro Marcondes;2026-09-21;San Diego 2 CH;Hard;C;W;QF;4-6 6-4 6-1;Federico Agustin Gomez;6,58;3,95;7,5;5,43;2026-3175-379;2026;False;;5,0;3,0;76,0;14,0;6,0;80,0
@@ -49376,11 +49440,11 @@ Ilya Ivashka;2015-09-08;St Remy CH;Hard;C;L;R16;6-4 7-6(1);Quentin Halys;3,12;1,
 Ilya Ivashka;2015-09-08;St Remy CH;Hard;C;W;R32;6-1 6-4;James Ward;1,75;1,75;2,22;6,33;2015-6014-012;2015;False;;1,0;1,0;57,0;9,0;1,0;45,0
 Ilya Ivashka;2015-07-27;Astana CH;Hard;C;L;R32;7-5 2-6 6-2;Franco Skugor;6,0;2,0;1,23;7,14;2015-3618-011;2015;False;;6,0;2,0;100,0;14,0;1,0;81,0
 Ilya Ivashka;2015-06-15;Fergana CH;Hard;C;L;R32;7-6(6) 3-6 6-4;Adrien Bossel;4,13;2,48;11,11;7,56;2015-603-015;2015;False;;5,0;3,0;121,0;16,0;10,0;90,0
-Inaki Montes De La Torre;2026-09-28;Porto (Monte Aventino) Challenger;Hard;C;L;F;2-6 6-4 6-4;Henrique Rocha;0,0;9,38;4,71;6,86;2026-9526-385;2026;False;;0,0;9,0;96,0;14,0;4,0;85,0
-Inaki Montes De La Torre;2026-09-28;Porto (Monte Aventino) Challenger;Hard;C;W;SF;6-2 6-3;David Jorda Sanchis;2,38;9,52;4,17;5,25;2026-9526-383;2026;False;;1,0;4,0;42,0;8,0;3,0;72,0
-Inaki Montes De La Torre;2026-09-28;Porto (Monte Aventino) Challenger;Hard;C;W;QF;6-2 7-6(3);Hugo Grenier;0,0;8,86;6,85;7,9;2026-9526-379;2026;False;;0,0;7,0;79,0;10,0;5,0;73,0
-Inaki Montes De La Torre;2026-09-28;Porto (Monte Aventino) Challenger;Hard;C;W;R16;7-6(4) 3-0 RET;Jacob Fearnley;0,0;8,16;6,94;7,0;2026-9526-371;2026;False;;0,0;4,0;49,0;7,0;5,0;72,0
-Inaki Montes De La Torre;2026-09-28;Porto (Monte Aventino) Challenger;Hard;C;W;R32;6-3 6-2;Luca Potenza;1,64;11,48;1,67;6,78;2026-9526-356;2026;False;;1,0;7,0;61,0;9,0;1,0;60,0
+Inaki Montes De La Torre;2026-09-28;Porto Monte Aventino CH;Hard;C;L;F;2-6 6-4 6-4;Henrique Rocha;0,0;9,38;4,71;6,86;2026-9526-385;2026;False;;0,0;9,0;96,0;14,0;4,0;85,0
+Inaki Montes De La Torre;2026-09-28;Porto Monte Aventino CH;Hard;C;W;SF;6-2 6-3;David Jorda Sanchis;2,38;9,52;4,17;5,25;2026-9526-383;2026;False;;1,0;4,0;42,0;8,0;3,0;72,0
+Inaki Montes De La Torre;2026-09-28;Porto Monte Aventino CH;Hard;C;W;QF;6-2 7-6(3);Hugo Grenier;0,0;8,86;6,85;7,9;2026-9526-379;2026;False;;0,0;7,0;79,0;10,0;5,0;73,0
+Inaki Montes De La Torre;2026-09-28;Porto Monte Aventino CH;Hard;C;W;R16;7-6(4) 3-0 RET;Jacob Fearnley;0,0;8,16;6,94;7,0;2026-9526-371;2026;False;;0,0;4,0;49,0;7,0;5,0;72,0
+Inaki Montes De La Torre;2026-09-28;Porto Monte Aventino CH;Hard;C;W;R32;6-3 6-2;Luca Potenza;1,64;11,48;1,67;6,78;2026-9526-356;2026;False;;1,0;7,0;61,0;9,0;1,0;60,0
 Inaki Montes De La Torre;2026-09-14;Rennes CH;Hard;C;L;R32;6-3 7-6(8);Murphy Cassone;5,08;3,39;8,45;5,9;2026-3503-365;2026;False;;3,0;2,0;59,0;10,0;6,0;71,0
 Inaki Montes De La Torre;2026-09-01;Manacor CH;Hard;C;L;F;3-6 6-2 6-3;Felix Balshaw;0,0;6,17;13,58;6,23;2026-7973-385;2026;False;;0,0;5,0;81,0;13,0;11,0;81,0
 Inaki Montes De La Torre;2026-09-01;Manacor CH;Hard;C;W;SF;2-6 7-6(2) 7-6(2);Luca Potenza;4,39;5,26;5,1;7,12;2026-7973-384;2026;False;;5,0;6,0;114,0;16,0;5,0;98,0
@@ -49551,7 +49615,7 @@ Inaki Montes De La Torre;2021-11-01;Charlottesville CH;Hard;C;W;Q2;7-6(9) 7-5;Ma
 Inaki Montes De La Torre;2021-11-01;Charlottesville CH;Hard;C;W;Q1;3-6 6-1 6-0;Jc Aragone;0,0;11,59;7,69;6,27;2021-6055-245;2021;False;;0,0;8,0;69,0;11,0;5,0;65,0
 Inaki Montes De La Torre;2021-07-19;Pozoblanco CH;Hard;C;L;Q2;6-7(6) 7-6(1) 7-5;Emilio Nava;0,82;4,1;6,32;6,78;2021-9538-251;2021;False;;1,0;5,0;122,0;18,0;6,0;95,0
 Inaki Montes De La Torre;2021-07-19;Pozoblanco CH;Hard;C;W;Q1;5-7 6-4 6-3;Alejandro Gonzalez;0,85;4,24;2,52;7,87;2021-9538-243;2021;False;;1,0;5,0;118,0;15,0;3,0;119,0
-J J Wolf;2026-09-28;Columbus Challenger;Hard;C;L;R32;7-6(6) 6-3;Dylan Dietrich;5,97;7,46;15,28;6,7;2026-8281-367;2026;False;;4,0;5,0;67,0;10,0;11,0;72,0
+J J Wolf;2026-09-28;Columbus CH;Hard;C;L;R32;7-6(6) 6-3;Dylan Dietrich;5,97;7,46;15,28;6,7;2026-8281-367;2026;False;;4,0;5,0;67,0;10,0;11,0;72,0
 J J Wolf;2026-09-21;San Diego 2 CH;Hard;C;L;R32;4-6 7-6(9) 6-1;Darwin Blanch;6,25;3,75;10,58;5,71;2026-3175-368;2026;False;;5,0;3,0;80,0;14,0;11,0;104,0
 J J Wolf;2026-09-14;Tiburon CH;Hard;C;L;SF;6-2 6-2;Michael Mmoh;4,65;6,98;10,0;5,38;2026-1768-383;2026;False;;2,0;3,0;43,0;8,0;5,0;50,0
 J J Wolf;2026-09-14;Tiburon CH;Hard;C;W;QF;7-6(5) 1-6 7-5;Sebastian Gorzny;10,91;0,91;14,71;6,88;2026-1768-379;2026;False;;12,0;1,0;110,0;16,0;15,0;102,0
@@ -59236,8 +59300,8 @@ Juan Pablo Varillas;2015-10-05;Medellin CH;Clay;C;W;R32;7-6(7) 6-4;Fabricio Neis
 Juan Pablo Varillas;2014-11-17;Lima CH;Clay;C;L;R32;6-2 6-2;Grzegorz Panfil;7,55;16,98;3,92;6,62;2014-6579-006;2014;False;;4,0;9,0;53,0;8,0;2,0;51,0
 Juan Pablo Varillas;2014-09-22;Pereira CH;Clay;C;L;R32;6-4 6-4;Guido Pella;15,38;10,26;12,7;7,8;2014-5063-008;2014;False;;12,0;8,0;78,0;10,0;8,0;63,0
 Juan Pablo Varillas;2013-11-11;Lima CH;Clay;C;L;R32;6-2 6-3;Andrea Collarini;3,39;6,78;4,0;6,56;2013-6579-014;2013;False;;2,0;4,0;59,0;9,0;2,0;50,0
-Juncheng Shang;2026-09-30;ATP Beijing;Hard;A;L;R16;6-0 6-3;Alexander Zverev;2,5;2,5;24,32;5,71;2026-0747-378;2026;False;;1,0;1,0;40,0;7,0;9,0;37,0
-Juncheng Shang;2026-09-30;ATP Beijing;Hard;A;W;R32;5-7 6-3 7-5;Sebastian Baez;2,8;1,87;2,54;6,69;2026-0747-369;2026;False;;3,0;2,0;107,0;16,0;3,0;118,0
+Juncheng Shang;2026-09-30;Beijing;Hard;A;L;R16;6-0 6-3;Alexander Zverev;2,5;2,5;24,32;5,71;2026-0747-378;2026;False;;1,0;1,0;40,0;7,0;9,0;37,0
+Juncheng Shang;2026-09-30;Beijing;Hard;A;W;R32;5-7 6-3 7-5;Sebastian Baez;2,8;1,87;2,54;6,69;2026-0747-369;2026;False;;3,0;2,0;107,0;16,0;3,0;118,0
 Juncheng Shang;2026-09-23;Chengdu;Hard;A;L;R32;7-6(9) 6-2;Adrian Mannarino;10,0;1,25;14,04;8,0;2026-7581-367;2026;False;;8,0;1,0;80,0;10,0;8,0;57,0
 Juncheng Shang;2026-08-31;US Open;Hard;G;L;R128;0-6 7-6(5) 1-6 6-3 6-4;Marco Trungelliti;8,33;4,55;7,19;6,0;2026-560-129;2026;False;;11,0;6,0;132,0;22,0;10,0;139,0
 Juncheng Shang;2026-08-13;Cincinnati Masters;Hard;M;L;R128;6-3 6-3;Lorenzo Sonego;1,85;9,26;11,67;6,0;2026-0422-278;2026;False;;1,0;5,0;54,0;9,0;7,0;60,0
@@ -73960,7 +74024,7 @@ Marin Cilic;2006-06-19;s Hertogenbosch;Grass;A;L;R32;6-4 6-4;Tommy Robredo;4,6;4
 Marin Cilic;2006-01-30;Zagreb;Carpet;A;L;R16;4-6 6-4 6-4;Andreas Seppi;11,63;6,98;3,66;5,73;2006-2276-021;2006;True;;10,0;6,0;86,0;15,0;3,0;82,0
 Marin Cilic;2006-01-30;Zagreb;Carpet;A;W;R32;6-3 1-6 6-3;Igor Andreev;5,21;6,25;0,0;7,38;2006-2276-009;2006;True;;5,0;6,0;96,0;13,0;0,0;71,0
 Marin Cilic;2005-07-25;Umag;Clay;A;L;R32;7-5 6-2;Kristof Vliegen;3,17;3,17;3,17;6,3;2005-439-007;2005;True;;2,0;2,0;63,0;10,0;2,0;63,0
-Mark Lajal;2026-09-28;Mouilleron le Captif Challenger;Hard;C;L;R32;7-6(4) 5-7 6-3;Lucas Poullain;14,16;1,77;3,36;7,06;2026-6857-370;2026;False;;16,0;2,0;113,0;16,0;4,0;119,0
+Mark Lajal;2026-09-28;Mouilleron le Captif CH;Hard;C;L;R32;7-6(4) 5-7 6-3;Lucas Poullain;14,16;1,77;3,36;7,06;2026-6857-370;2026;False;;16,0;2,0;113,0;16,0;4,0;119,0
 Mark Lajal;2026-09-21;Saint-Tropez CH;Hard;C;L;QF;6-4 7-6(1);Titouan Droguet;4,62;7,69;11,48;5,91;2026-9552-382;2026;False;;3,0;5,0;65,0;11,0;7,0;61,0
 Mark Lajal;2026-09-21;Saint-Tropez CH;Hard;C;W;R16;6-1 6-2;Thomas Faurel;8,33;5,0;2,56;7,5;2026-9552-377;2026;False;;5,0;3,0;60,0;8,0;1,0;39,0
 Mark Lajal;2026-09-21;Saint-Tropez CH;Hard;C;W;R32;6-3 6-4;David Goffin;6,58;5,26;4,92;7,6;2026-9552-367;2026;False;;5,0;4,0;76,0;10,0;3,0;61,0
@@ -78336,7 +78400,7 @@ Max Alcala Gurri;2022-09-05;Seville CH;Clay;C;L;Q2;6-4 6-3;Bogdan Bobrov;0,0;3,6
 Max Alcala Gurri;2022-09-05;Seville CH;Clay;C;W;Q1;7-6(5) 7-6(7);Alberto Barroso Campos;1,12;3,37;7,23;7,42;2022-0784-241;2022;False;;1,0;3,0;89,0;12,0;6,0;83,0
 Max Alcala Gurri;2022-04-18;Barcelona;Clay;A;L;Q2;6-4 6-3;Nicolas Alvarez Varona;0,0;3,57;3,51;5,6;2022-0425-219;2022;False;;0,0;2,0;56,0;10,0;2,0;57,0
 Max Alcala Gurri;2022-04-18;Barcelona;Clay;A;W;Q1;6-3 0-0 RET;Peter Gojowczyk;2,78;8,33;3,33;7,2;2022-0425-210;2022;False;;1,0;3,0;36,0;5,0;1,0;30,0
-Max Basing;2026-09-28;Porto (Monte Aventino) Challenger;Hard;C;L;R32;6-1 6-4;Mili Poljicak;0,0;6,0;12,82;5,56;2026-9526-368;2026;False;;0,0;3,0;50,0;9,0;5,0;39,0
+Max Basing;2026-09-28;Porto Monte Aventino CH;Hard;C;L;R32;6-1 6-4;Mili Poljicak;0,0;6,0;12,82;5,56;2026-9526-368;2026;False;;0,0;3,0;50,0;9,0;5,0;39,0
 Max Basing;2026-09-07;Istanbul TED Club CH;Hard;C;W;F;6-3 1-6 6-0;Jay Dylan Hara Friend;1,49;2,99;0,0;6,09;2026-7083-385;2026;False;;1,0;2,0;67,0;11,0;0,0;63,0
 Max Basing;2026-09-07;Istanbul TED Club CH;Hard;C;W;SF;6-1 6-3;Harold Mayot;0,0;2,27;1,82;5,5;2026-7083-383;2026;False;;0,0;1,0;44,0;8,0;1,0;55,0
 Max Basing;2026-09-07;Istanbul TED Club CH;Hard;C;W;QF;6-3 6-4;Edas Butvilas;0,0;2,94;3,28;6,8;2026-7083-379;2026;False;;0,0;2,0;68,0;10,0;2,0;61,0
@@ -88785,9 +88849,14 @@ Petr Bar Biryukov;2024-05-20;Kachreti CH;Hard;C;L;Q2;6-1 6-1;Hamish Stewart;10,0
 Petr Bar Biryukov;2024-05-20;Kachreti CH;Hard;C;W;Q1;6-1 7-6(5);Ilia Simakin;6,94;4,17;3,08;8,0;2024-2925-245;2024;False;;5,0;3,0;72,0;9,0;2,0;65,0
 Petr Bar Biryukov;2024-02-12;Manama CH;Hard;C;L;Q1;6-4 6-1;Yanki Erel;10,0;13,33;3,45;7,5;2024-9635-239;2024;False;;6,0;8,0;60,0;8,0;2,0;58,0
 Petr Bar Biryukov;2024-01-22;Quimper CH;Hard;C;L;Q1;7-6(5) 6-4;Mathias Bourgue;15,49;16,9;5,13;6,45;2024-6239-242;2024;False;;11,0;12,0;71,0;11,0;4,0;78,0
-Petr Nesterov;2026-09-28;Porto (Monte Aventino) Challenger;Hard;C;L;R32;7-5 1-6 6-4;Goncalo Marques;7,06;3,53;8,14;6,07;2026-9526-364;2026;False;;6,0;3,0;85,0;14,0;7,0;86,0
-Petr Nesterov;2026-09-28;Porto (Monte Aventino) Challenger;Hard;C;W;Q2;6-4 6-2;Marko Topo;13,04;2,17;1,37;5,11;2026-9526-357;2026;False;;6,0;1,0;46,0;9,0;1,0;73,0
-Petr Nesterov;2026-09-28;Porto (Monte Aventino) Challenger;Hard;C;W;Q1;6-4 4-6 6-3;Giorgio Tabacco;4,08;6,12;3,85;7,0;2026-9526-350;2026;False;;4,0;6,0;98,0;14,0;4,0;104,0
+Petr Nesterov;2026-10-12;Olbia Challenger;Hard;C;L;Q1;6-2 6-1;Christian Langmo;6,15;3,08;15,22;8,12;2026-2893-390;2026;False;;4,0;2,0;65,0;8,0;7,0;46,0
+Petr Nesterov;2026-10-05;Villena Challenger;Hard;C;L;R16;3-6 7-6(5) 6-3;Pablo Llamas Ruiz;6,42;1,83;3,85;6,81;2026-7909-374;2026;False;;7,0;2,0;109,0;16,0;4,0;104,0
+Petr Nesterov;2026-10-05;Villena Challenger;Hard;C;W;R32;6-3 7-6(4);Carles Hernandez;12,12;3,03;1,19;6,6;2026-7909-361;2026;False;;8,0;2,0;66,0;10,0;1,0;84,0
+Petr Nesterov;2026-10-05;Villena Challenger;Hard;C;W;Q2;3-6 6-4 6-1;Hynek Barton;2,56;3,85;8,51;6,0;2026-7909-350;2026;False;;2,0;3,0;78,0;13,0;8,0;94,0
+Petr Nesterov;2026-10-05;Villena Challenger;Hard;C;W;Q1;3-6 6-3 6-2;Charles Chen;16,09;3,45;4,35;6,69;2026-7909-339;2026;False;;14,0;3,0;87,0;13,0;3,0;69,0
+Petr Nesterov;2026-09-28;Porto Monte Aventino CH;Hard;C;L;R32;7-5 1-6 6-4;Goncalo Marques;7,06;3,53;8,14;6,07;2026-9526-360;2026;False;;6,0;3,0;85,0;14,0;7,0;86,0
+Petr Nesterov;2026-09-28;Porto Monte Aventino CH;Hard;C;W;Q2;6-4 6-2;Marko Topo;13,04;2,17;1,37;5,11;2026-9526-353;2026;False;;6,0;1,0;46,0;9,0;1,0;73,0
+Petr Nesterov;2026-09-28;Porto Monte Aventino CH;Hard;C;W;Q1;6-4 4-6 6-3;Giorgio Tabacco;4,08;6,12;3,85;7,0;2026-9526-346;2026;False;;4,0;6,0;98,0;14,0;4,0;104,0
 Petr Nesterov;2026-09-21;Plovdiv 4 CH;Clay;C;L;R32;6-4 1-6 6-0;Carlos Taberner;3,03;4,55;3,33;5,5;2026-3173-363;2026;False;;2,0;3,0;66,0;12,0;2,0;60,0
 Petr Nesterov;2026-08-31;Plovdiv 3 CH;Clay;C;L;R32;7-6(6) 3-6 6-4;Yanaki Milev;3,16;3,16;1,01;5,94;2026-3171-365;2026;False;;3,0;3,0;95,0;16,0;1,0;99,0
 Petr Nesterov;2026-08-10;M25 Muttenz;Clay;25;L;R32;6-7(3) 7-6(4) 6-3;Dimitris Sakellaridis;5,79;1,65;1,69;7,56;2026-M-ITF-SUI-2026-003-112;2026;False;;7,0;2,0;121,0;16,0;2,0;118,0
@@ -99729,8 +99798,8 @@ Stefan Dostanic;2022-08-01;Lexington CH;Hard;C;W;Q2;7-5 6-4;Kyle Seelig;9,09;6,0
 Stefan Dostanic;2022-08-01;Lexington CH;Hard;C;W;Q1;7-6(3) 6-3;Evan King;7,94;6,35;7,89;5,73;2022-0586-246;2022;False;;5,0;4,0;63,0;11,0;6,0;76,0
 Stefan Dostanic;2021-07-26;Lexington CH;Hard;C;L;R32;6-2 6-0;Alejandro Tabilo;2,5;12,5;12,96;5,71;2021-0586-278;2021;False;;1,0;5,0;40,0;7,0;7,0;54,0
 Stefan Dostanic;2019-07-08;Winnetka CH;Hard;C;L;R64;6-2 7-6(4);Ulises Blanch;6,76;8,11;15,25;7,4;2019-0228-263;2019;False;;5,0;6,0;74,0;10,0;9,0;59,0
-Stefan Kozlov;2026-09-28;Columbus Challenger;Hard;C;L;R16;6-2 3-6 6-3;Mitchell Krueger;4,0;7,0;10,59;7,69;2026-8281-372;2026;False;;4,0;7,0;100,0;13,0;9,0;85,0
-Stefan Kozlov;2026-09-28;Columbus Challenger;Hard;C;W;R32;6-3 6-2;James Trotter;0,0;1,92;7,55;5,78;2026-8281-358;2026;False;;0,0;1,0;52,0;9,0;4,0;53,0
+Stefan Kozlov;2026-09-28;Columbus CH;Hard;C;L;R16;6-2 3-6 6-3;Mitchell Krueger;4,0;7,0;10,59;7,69;2026-8281-372;2026;False;;4,0;7,0;100,0;13,0;9,0;85,0
+Stefan Kozlov;2026-09-28;Columbus CH;Hard;C;W;R32;6-3 6-2;James Trotter;0,0;1,92;7,55;5,78;2026-8281-358;2026;False;;0,0;1,0;52,0;9,0;4,0;53,0
 Stefan Kozlov;2026-09-21;San Diego 2 CH;Hard;C;L;R32;6-4 6-2;Colton Smith;1,89;3,77;2,22;5,89;2026-3175-359;2026;False;;1,0;2,0;53,0;9,0;1,0;45,0
 Stefan Kozlov;2026-09-14;Tiburon CH;Hard;C;L;R32;6-3 2-6 7-6(10);Darwin Blanch;0,96;1,92;4,85;7,43;2026-1768-365;2026;False;;1,0;2,0;104,0;14,0;5,0;103,0
 Stefan Kozlov;2026-08-10;Brownsburg CH;Hard;C;L;R16;2-6 6-4 6-1;Harry Wendelken;1,08;0,0;6,94;7,15;2026-3131-371;2026;False;;1,0;0,0;93,0;13,0;5,0;72,0
@@ -111719,10 +111788,10 @@ Vit Kopriva;2017-06-26;Milan CH;Clay;C;W;Q1;3-6 6-4 6-3;Andrey Golubev;2,5;7,5;1
 Vit Kopriva;2017-06-05;Prostejov CH;Clay;C;L;Q1;6-7(4) 7-5 6-3;David Poljak;3,7;6,48;3,25;6,75;2017-0558-229;2017;True;;4,0;7,0;108,0;16,0;4,0;123,0
 Vit Kopriva;2016-11-07;Bratislava CH;Hard;C;L;Q1;7-6(2) 6-4;Jurij Rodionov;10,53;3,95;4,23;6,91;2016-0444-231;2016;True;;8,0;3,0;76,0;11,0;3,0;71,0
 Vit Kopriva;2016-05-30;Prostejov CH;Clay;C;L;Q1;6-2 6-1;Marton Fucsovics;0,0;10,53;0,0;5,43;2016-0558-249;2016;True;;0,0;4,0;38,0;7,0;0,0;47,0
-Vitaliy Sachko;2026-09-28;Bari Challenger;Clay;C;L;SF;5-7 6-4 6-2;Samuele Pieri;2,97;3,96;2,15;6,73;2026-3151-383;2026;False;;3,0;4,0;101,0;15,0;2,0;93,0
-Vitaliy Sachko;2026-09-28;Bari Challenger;Clay;C;W;QF;4-6 6-2 3-0 RET;Gianluca Cadenasso;4,55;9,09;1,33;6,6;2026-3151-380;2026;False;;3,0;6,0;66,0;10,0;1,0;75,0
-Vitaliy Sachko;2026-09-28;Bari Challenger;Clay;C;W;R16;6-3 6-1;Dimitar Kuzmanov;13,33;2,22;4,84;5,62;2026-3151-373;2026;False;;6,0;1,0;45,0;8,0;3,0;62,0
-Vitaliy Sachko;2026-09-28;Bari Challenger;Clay;C;W;R32;6-2 6-1;Mika Petkovic;9,09;0,0;1,92;4,71;2026-3151-359;2026;False;;3,0;0,0;33,0;7,0;1,0;52,0
+Vitaliy Sachko;2026-09-28;Bari CH;Clay;C;L;SF;5-7 6-4 6-2;Samuele Pieri;2,97;3,96;2,15;6,73;2026-3151-383;2026;False;;3,0;4,0;101,0;15,0;2,0;93,0
+Vitaliy Sachko;2026-09-28;Bari CH;Clay;C;W;QF;4-6 6-2 3-0 RET;Gianluca Cadenasso;4,55;9,09;1,33;6,6;2026-3151-380;2026;False;;3,0;6,0;66,0;10,0;1,0;75,0
+Vitaliy Sachko;2026-09-28;Bari CH;Clay;C;W;R16;6-3 6-1;Dimitar Kuzmanov;13,33;2,22;4,84;5,62;2026-3151-373;2026;False;;6,0;1,0;45,0;8,0;3,0;62,0
+Vitaliy Sachko;2026-09-28;Bari CH;Clay;C;W;R32;6-2 6-1;Mika Petkovic;9,09;0,0;1,92;4,71;2026-3151-359;2026;False;;3,0;0,0;33,0;7,0;1,0;52,0
 Vitaliy Sachko;2026-09-14;Szczecin CH;Clay;C;L;R16;6-7(3) 6-4 7-6(3);Thiago Monteiro;7,96;6,19;7,14;6,65;2026-0448-373;2026;False;;9,0;7,0;113,0;17,0;8,0;112,0
 Vitaliy Sachko;2026-09-14;Szczecin CH;Clay;C;W;R32;6-3 6-1;Filip Cristian Jianu;11,36;2,27;0,0;5,5;2026-0448-360;2026;False;;5,0;1,0;44,0;8,0;0,0;53,0
 Vitaliy Sachko;2026-09-07;Tulln CH;Clay;C;L;SF;6-0 6-2;Mika Brunold;1,85;1,85;7,14;7,71;2026-9556-383;2026;False;;1,0;1,0;54,0;7,0;3,0;42,0
@@ -112092,6 +112161,12 @@ Vitaliy Sachko;2016-06-13;Poprad CH;Clay;C;W;Q3;6-3 7-6(4);Dragos Dima;0,0;4,26;
 Vitaliy Sachko;2016-06-13;Poprad CH;Clay;C;W;Q2;3-6 6-3 6-1;Tsung Hua Yang;2,86;8,57;4,12;5,83;2016-9003-259;2016;False;;2,0;6,0;70,0;12,0;4,0;97,0
 Vitaliy Sachko;2016-06-13;Poprad CH;Clay;C;W;Q1;6-3 6-4;Peter Samosi;3,33;13,33;0,0;6,67;2016-9003-244;2016;False;;2,0;8,0;60,0;9,0;0,0;67,0
 Vitaliy Sachko;2016-04-25;Ostrava CH;Clay;C;L;Q1;6-4 6-2;Sadio Doumbia;2,04;0,0;0,0;5,44;2016-1797-244;2016;False;;1,0;0,0;49,0;9,0;0,0;63,0
+Yanki Erel;2026-09-07;Istanbul TED Club CH;Hard;C;L;QF;3-6 6-4 6-3;Jay Dylan Hara Friend;6,67;4,44;4,44;6,43;2026-7083-381;2026;False;;6,0;4,0;90,0;14,0;4,0;90,0
+Yanki Erel;2026-09-07;Istanbul TED Club CH;Hard;C;W;R16;6-4 6-2;Radu Albot;4,08;8,16;0,0;5,44;2026-7083-376;2026;False;;2,0;4,0;49,0;9,0;0,0;62,0
+Yanki Erel;2026-09-07;Istanbul TED Club CH;Hard;C;W;R32;7-6(2) 6-4;Timofey Skatov;7,79;3,9;9,21;7,0;2026-7083-366;2026;False;;6,0;3,0;77,0;11,0;7,0;76,0
+Yanki Erel;2026-08-24;M25 Taipei;Hard;25;L;QF;6-4 6-4;Luca Castelnuovo;4,69;6,25;14,29;6,4;2026-M-ITF-TPE-2026-002-301;2026;False;;3,0;4,0;64,0;10,0;8,0;56,0
+Yanki Erel;2026-08-24;M25 Taipei;Hard;25;W;R16;7-6(1) 7-5;Hikaru Shiraishi;25,76;4,55;2,9;5,5;2026-M-ITF-TPE-2026-002-201;2026;False;;17,0;3,0;66,0;12,0;2,0;69,0
+Yanki Erel;2026-08-24;M25 Taipei;Hard;25;W;R32;6-4 6-0;Kokoro Isomura;9,43;3,77;0,0;6,62;2026-M-ITF-TPE-2026-002-101;2026;False;;5,0;2,0;53,0;8,0;0,0;56,0
 Yanki Erel;2026-08-03;Istanbul Enka CH;Hard;C;L;R16;4-1 RET;Gijs Brouwer;13,33;0,0;4,76;7,5;2026-3111-375;2026;False;;2,0;0,0;15,0;2,0;1,0;21,0
 Yanki Erel;2026-08-03;Istanbul Enka CH;Hard;C;W;R32;6-4 4-6 6-1;Denis Yevseyev;6,58;2,63;3,09;5,43;2026-3111-363;2026;False;;5,0;2,0;76,0;14,0;3,0;97,0
 Yanki Erel;2026-07-27;Samsun CH;Hard;C;L;QF;3-6 6-3 6-4;Paul Inchauspe;3,85;5,13;7,61;5,57;2026-3167-380;2026;False;;3,0;4,0;78,0;14,0;7,0;92,0
