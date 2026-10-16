@@ -1,5 +1,5 @@
 ﻿Player;Date;Tournament;Surface;Level;Result;Round;Score;Opponent;A%;DF%;vA%;Pts/SG;MatchID;Year;IsTop100;Rank;Aces;DoubleFaults;ServePoints;ServiceGames;OppAces;OppServePoints
-Abedallah Shelbayh;2026-10-12;Olbia Challenger;Hard;C;L;R32;6-2 6-3;Andrea Guerrieri;2,0;2,0;4,08;6,25;2026-2893-382;2026;False;;1,0;1,0;50,0;8,0;2,0;49,0
+Abedallah Shelbayh;2026-10-12;Olbia Challenger;Hard;C;L;R32;6-2 6-3;Andrea Guerrieri;2,0;2,0;4,08;6,25;2026-2893-376;2026;False;;1,0;1,0;50,0;8,0;2,0;49,0
 Abedallah Shelbayh;2026-10-05;Villena Challenger;Hard;C;L;QF;7-6(2) 4-6 6-3;Daniil Glinka;9,09;4,55;3,57;5,87;2026-7909-381;2026;False;;8,0;4,0;88,0;15,0;4,0;112,0
 Abedallah Shelbayh;2026-10-05;Villena Challenger;Hard;C;W;R16;7-5 3-6 6-3;Damir Dzumhur;6,56;4,1;0,0;8,13;2026-7909-376;2026;False;;8,0;5,0;122,0;15,0;0,0;85,0
 Abedallah Shelbayh;2026-10-05;Villena Challenger;Hard;C;W;R32;6-4 6-3;David Jorda Sanchis;1,67;1,67;6,78;6,0;2026-7909-365;2026;False;;1,0;1,0;60,0;10,0;4,0;59,0
@@ -248,7 +248,7 @@ Abedallah Shelbayh;2022-08-29;Manacor CH;Hard;C;L;SF;6-4 6-4;Zizou Bergs;5,56;2,
 Abedallah Shelbayh;2022-08-29;Manacor CH;Hard;C;W;QF;5-7 6-3 6-1;Dmitry Popko;3,41;4,55;8,11;6,29;2022-7973-297;2022;False;;3,0;4,0;88,0;14,0;6,0;74,0
 Abedallah Shelbayh;2022-08-29;Manacor CH;Hard;C;W;R16;6-1 4-1 RET;Adrian Menendez Maceiras;20,45;4,55;1,96;7,33;2022-7973-293;2022;False;;9,0;2,0;44,0;6,0;1,0;51,0
 Abedallah Shelbayh;2022-08-29;Manacor CH;Hard;C;W;R32;6-2 7-5;Dominic Stricker;7,94;3,17;10,13;6,3;2022-7973-285;2022;False;;5,0;2,0;63,0;10,0;8,0;79,0
-Adam Walton;2026-10-12;Jinan Challenger;Hard;C;L;R32;6-3 3-6 6-1;Marin Cilic;7,46;0,0;24,64;5,58;2026-7746-383;2026;True;;5,0;0,0;67,0;12,0;17,0;69,0
+Adam Walton;2026-10-12;Jinan Challenger;Hard;C;L;R32;6-3 3-6 6-1;Marin Cilic;7,46;0,0;24,64;5,58;2026-7746-374;2026;True;;5,0;0,0;67,0;12,0;17,0;69,0
 Adam Walton;2026-10-07;ATP Shanghai;Hard;M;L;Q1;5-7 6-3 6-4;Rigele Te;7,61;1,09;12,12;6,13;2026-5014-268;2026;True;;7,0;1,0;92,0;15,0;12,0;99,0
 Adam Walton;2026-09-29;Jingshan Challenger;Hard;C;L;R16;7-5 6-2;Mattia Bellucci;6,25;0,0;11,86;6,4;2026-3013-390;2026;True;;4,0;0,0;64,0;10,0;7,0;59,0
 Adam Walton;2026-09-29;Jingshan Challenger;Hard;C;W;R32;6-1 6-4;Moise Kouame;17,78;0,0;1,79;5,62;2026-3013-381;2026;True;;8,0;0,0;45,0;8,0;1,0;56,0
@@ -2847,7 +2847,7 @@ Alejandro Davidovich Fokina;2017-09-04;Sevilla CH;Hard;C;L;R16;6-4 6-3;Filip Kra
 Alejandro Davidovich Fokina;2017-09-04;Sevilla CH;Hard;C;W;R32;6-4 6-4;Pedro Cachin;1,47;1,47;3,39;6,8;2017-0784-272;2017;True;;1,0;1,0;68,0;10,0;2,0;59,0
 Alejandro Davidovich Fokina;2017-04-24;Barcelona;Clay;A;L;Q2;5-7 6-3 6-2;Santiago Giraldo;1,2;2,41;0,99;5,53;2017-0425-219;2017;True;;1,0;2,0;83,0;15,0;1,0;101,0
 Alejandro Davidovich Fokina;2017-04-24;Barcelona;Clay;A;W;Q1;3-6 6-2 6-2;Roberto Carballes Baena;0,0;3,17;3,23;5,25;2017-0425-209;2017;True;;0,0;2,0;63,0;12,0;3,0;93,0
-Alejandro Moro Canas;2026-10-12;Maia Challenger;Clay;C;L;R32;6-4 6-2;Tristan Boyer;1,59;0,0;6,9;7,0;2026-8312-388;2026;False;;1,0;0,0;63,0;9,0;4,0;58,0
+Alejandro Moro Canas;2026-10-12;Maia Challenger;Clay;C;L;R32;6-4 6-2;Tristan Boyer;1,59;0,0;6,9;7,0;2026-8312-380;2026;False;;1,0;0,0;63,0;9,0;4,0;58,0
 Alejandro Moro Canas;2026-10-05;Palermo Challenger;Clay;C;L;SF;6-7(1) 6-4 7-6(4);Jonas Forejtek;5,04;1,68;2,63;7,0;2026-3153-384;2026;False;;6,0;2,0;119,0;17,0;3,0;114,0
 Alejandro Moro Canas;2026-10-05;Palermo Challenger;Clay;C;W;QF;6-4 6-7(2) 7-6(10);Massimo Giunta;4,35;0,0;7,38;6,76;2026-3153-381;2026;False;;5,0;0,0;115,0;17,0;9,0;122,0
 Alejandro Moro Canas;2026-10-05;Palermo Challenger;Clay;C;W;R16;6-0 6-3;Andrej Martin;0,0;3,12;6,98;8,0;2026-3153-375;2026;False;;0,0;2,0;64,0;8,0;3,0;43,0
@@ -3961,7 +3961,8 @@ Aleksandar Kovacevic;2018-09-03;Chicago CH;Hard;C;L;Q1;3-6 6-3 6-4;Hugo Nys;6,58
 Aleksandar Kovacevic;2018-07-09;Winnetka CH;Hard;C;L;Q1;6-1 6-7(4) 6-2;Alex Rybakov;3,57;8,33;3,3;6,46;2018-0228-239;2018;True;;3,0;7,0;84,0;13,0;3,0;91,0
 Aleksandar Kovacevic;2017-11-13;Champaign CH;Hard;C;L;Q2;6-3 6-4;Samuel Monette;11,11;6,35;11,67;7,0;2017-0637-247;2017;True;;7,0;4,0;63,0;9,0;7,0;60,0
 Aleksandar Kovacevic;2016-11-14;Champaign CH;Hard;C;L;Q2;2-6 7-5 6-2;Luke Bambridge;5,94;7,92;17,33;7,21;2016-0637-245;2016;True;;6,0;8,0;101,0;14,0;13,0;75,0
-Aleksandar Vukic;2026-10-12;Jinan Challenger;Hard;C;W;R32;6-2 6-3;Hayato Matsuoka;0,0;5,36;3,7;6,22;2026-7746-377;2026;False;;0,0;3,0;56,0;9,0;2,0;54,0
+Aleksandar Vukic;2026-10-12;Jinan Challenger;Hard;C;L;R16;6-2 6-1;Tomas Machac;4,26;4,26;10,87;6,71;2026-7746-383;2026;False;;2,0;2,0;47,0;7,0;5,0;46,0
+Aleksandar Vukic;2026-10-12;Jinan Challenger;Hard;C;W;R32;6-2 6-3;Hayato Matsuoka;0,0;5,36;3,7;6,22;2026-7746-368;2026;False;;0,0;3,0;56,0;9,0;2,0;54,0
 Aleksandar Vukic;2026-10-07;ATP Shanghai;Hard;M;L;Q2;6-3 6-3;Pavel Kotov;5,88;3,92;8,77;5,67;2026-5014-283;2026;False;;3,0;2,0;51,0;9,0;5,0;57,0
 Aleksandar Vukic;2026-10-07;ATP Shanghai;Hard;M;W;Q1;4-6 7-6(3) 7-6(5);Jie Cui;12,5;2,5;9,77;7,06;2026-5014-261;2026;False;;15,0;3,0;120,0;17,0;13,0;133,0
 Aleksandar Vukic;2026-09-29;Jingshan Challenger;Hard;C;L;Q2;6-3 4-2 RET;Evan Zhu;6,12;4,08;4,26;7,0;2026-3013-369;2026;False;;3,0;2,0;49,0;7,0;2,0;47,0
@@ -4492,7 +4493,8 @@ Aleksandar Vukic;2016-01-11;Sydney;Hard;A;W;Q1;3-6 6-3 6-4;Sergiy Stakhovsky;10,
 Aleksandar Vukic;2016-01-04;Happy Valley CH;Hard;C;L;Q3;7-6(5) 6-2;Andrew Whittington;5,8;4,35;7,35;6,9;2016-7182-268;2016;False;;4,0;3,0;69,0;10,0;5,0;68,0
 Aleksandar Vukic;2016-01-04;Happy Valley CH;Hard;C;W;Q2;1-6 7-6(3) 7-6(8);Zhe Li;4,46;2,68;7,92;7,47;2016-7182-263;2016;False;;5,0;3,0;112,0;15,0;8,0;101,0
 Aleksandar Vukic;2016-01-04;Happy Valley CH;Hard;C;W;Q1;6-1 6-1;Lawrence Bataljin;4,92;1,64;0,0;8,71;2016-7182-252;2016;False;;3,0;1,0;61,0;7,0;0,0;46,0
-Alex Barrena;2026-10-12;Santa Cruz de la Sierra 2 Challenger;Clay;C;W;R32;7-6(4) 6-0;Juan Bautista Torres;5,56;5,56;1,47;8,0;2026-3143-394;2026;False;;4,0;4,0;72,0;9,0;1,0;68,0
+Alex Barrena;2026-10-12;Santa Cruz de la Sierra 2 Challenger;Clay;C;L;R16;3-6 6-3 6-4;Genaro Alberto Olivieri;1,14;1,14;1,19;6,29;2026-3143-391;2026;False;;1,0;1,0;88,0;14,0;1,0;84,0
+Alex Barrena;2026-10-12;Santa Cruz de la Sierra 2 Challenger;Clay;C;W;R32;7-6(4) 6-0;Juan Bautista Torres;5,56;5,56;1,47;8,0;2026-3143-385;2026;False;;4,0;4,0;72,0;9,0;1,0;68,0
 Alex Barrena;2026-10-05;Antofagasta Challenger;Clay;C;L;R32;7-5 6-3;Matheus Pucinelli De Almeida;0,0;5,56;1,39;5,4;2026-2889-358;2026;False;;0,0;3,0;54,0;10,0;1,0;72,0
 Alex Barrena;2026-09-21;Buenos Aires 2 CH;Clay;C;W;F;6-4 6-0;Facundo Mena;2,08;2,08;4,26;6,0;2026-7395-385;2026;False;;1,0;1,0;48,0;8,0;2,0;47,0
 Alex Barrena;2026-09-21;Buenos Aires 2 CH;Clay;C;W;SF;6-4 6-3;Joaquin Aguilar Cardozo;3,28;1,64;1,82;6,1;2026-7395-384;2026;False;;2,0;1,0;61,0;10,0;1,0;55,0
@@ -7282,7 +7284,8 @@ Alexander Bublik;2016-06-06;Moscow CH;Clay;C;W;R32;6-0 0-0 RET;Farrukh Dustov;11
 Alexander Bublik;2016-03-14;Kazan CH;Hard;C;L;R16;6-2 7-6(3);Daniil Medvedev;8,22;5,48;11,11;7,3;2016-6114-293;2016;True;;6,0;4,0;73,0;10,0;7,0;63,0
 Alexander Bublik;2016-03-14;Kazan CH;Hard;C;W;R32;4-6 7-5 6-4;Aldin Setkic;9,17;10,83;2,11;7,5;2016-6114-284;2016;True;;11,0;13,0;120,0;16,0;2,0;95,0
 Alexander Bublik;2014-10-13;Moscow;Hard;A;L;Q1;6-7(8) 6-3 6-2;Damir Dzumhur;2,54;5,93;2,06;7,87;2014-438-701;2014;True;;3,0;7,0;118,0;15,0;2,0;97,0
-Alexander Shevchenko;2026-10-12;Jinan Challenger;Hard;C;W;R32;6-3 6-4;Miomir Kecmanovic;9,09;1,82;2,13;5,5;2026-7746-390;2026;False;;5,0;1,0;55,0;10,0;1,0;47,0
+Alexander Shevchenko;2026-10-12;Jinan Challenger;Hard;C;W;R16;6-0 6-4;Jay Dylan Hara Friend;1,85;0,0;4,08;6,75;2026-7746-389;2026;False;;1,0;0,0;54,0;8,0;2,0;49,0
+Alexander Shevchenko;2026-10-12;Jinan Challenger;Hard;C;W;R32;6-3 6-4;Miomir Kecmanovic;9,09;1,82;2,13;5,5;2026-7746-381;2026;False;;5,0;1,0;55,0;10,0;1,0;47,0
 Alexander Shevchenko;2026-10-07;ATP Shanghai;Hard;M;L;Q1;6-2 6-4;Yoshihito Nishioka;3,28;1,64;8,33;6,78;2026-5014-260;2026;False;;2,0;1,0;61,0;9,0;4,0;48,0
 Alexander Shevchenko;2026-09-23;Chengdu;Hard;A;L;R32;6-3 7-6(10);Hubert Hurkacz;17,91;2,99;24,19;6,09;2026-7581-368;2026;False;;12,0;2,0;67,0;11,0;15,0;62,0
 Alexander Shevchenko;2026-08-31;US Open;Hard;G;L;R128;2-6 6-3 6-3 5-7 7-5;Dino Prizmic;9,33;4,67;5,06;6,0;2026-560-158;2026;False;;14,0;7,0;150,0;25,0;8,0;158,0
@@ -8496,7 +8499,7 @@ Alexander Zverev;2013-09-16;Metz;Hard;A;W;Q1;6-2 6-4;Marcelo Demoliner;4,35;4,35
 Alexander Zverev;2013-08-12;Meerbusch CH;Clay;C;L;R32;6-3 6-2;Maximo Gonzalez;2,78;4,17;0,0;9,0;2013-6809-015;2013;True;;2,0;3,0;72,0;8,0;0,0;50,0
 Alexander Zverev;2013-07-15;Hamburg;Clay;A;L;R64;6-3 6-2;Roberto Bautista Agut;2,56;17,95;3,57;4,88;2013-414-006;2013;True;;1,0;7,0;39,0;8,0;2,0;56,0
 Alexander Zverev;2011-09-19;Metz;Hard;A;L;Q2;6-1 6-1;Jonathan Dasnieres De Veigy;0,0;6,67;10,42;6,43;2011-341-706;2011;True;;0,0;3,0;45,0;7,0;5,0;48,0
-Alexandre Muller;2026-10-12;Jinan Challenger;Hard;C;L;R32;6-3 6-4;Tomas Machac;2,99;1,49;7,69;6,7;2026-7746-378;2026;False;;2,0;1,0;67,0;10,0;4,0;52,0
+Alexandre Muller;2026-10-12;Jinan Challenger;Hard;C;L;R32;6-3 6-4;Tomas Machac;2,99;1,49;7,69;6,7;2026-7746-369;2026;False;;2,0;1,0;67,0;10,0;4,0;52,0
 Alexandre Muller;2026-10-07;ATP Shanghai;Hard;M;L;Q2;6-4 6-2;Mattia Bellucci;6,0;0,0;19,23;5,56;2026-5014-288;2026;False;;3,0;0,0;50,0;9,0;10,0;52,0
 Alexandre Muller;2026-10-07;ATP Shanghai;Hard;M;W;Q1;6-3 4-6 6-1;Rio Noguchi;12,82;2,56;1,39;6,0;2026-5014-271;2026;False;;10,0;2,0;78,0;13,0;1,0;72,0
 Alexandre Muller;2026-09-29;Jingshan Challenger;Hard;C;L;R32;6-0 6-3;Mattia Bellucci;3,33;3,33;22,86;7,5;2026-3013-380;2026;False;;2,0;2,0;60,0;8,0;8,0;35,0
@@ -10081,7 +10084,7 @@ Alvaro Guillen Meza;2022-04-04;Salinas CH;Hard;C;L;R32;6-3 6-3;Emilio Gomez;1,54
 Alvaro Guillen Meza;2021-11-01;Guayaquil CH;Clay;C;L;R32;0-6 6-3 6-4;Darian King;0,0;6,41;1,33;6,5;2021-7391-284;2021;False;;0,0;5,0;78,0;12,0;1,0;75,0
 Alvaro Guillen Meza;2021-09-20;Ambato CH;Clay;C;L;Q1;6-3 6-3;Patrick Kypson;2,04;2,04;3,7;5,44;2021-9573-243;2021;False;;1,0;1,0;49,0;9,0;2,0;54,0
 Alvaro Guillen Meza;2021-09-13;Quito CH;Clay;C;L;R32;7-5 4-6 6-2;Gonzalo Lama;0,0;10,68;5,21;6,87;2021-9571-280;2021;False;;0,0;11,0;103,0;15,0;5,0;96,0
-Andre Ilagan;2026-10-12;Jinan Challenger;Hard;C;L;R32;6-2 6-2;Yosuke Watanuki;3,45;5,17;24,44;7,25;2026-7746-384;2026;False;;2,0;3,0;58,0;8,0;11,0;45,0
+Andre Ilagan;2026-10-12;Jinan Challenger;Hard;C;L;R32;6-2 6-2;Yosuke Watanuki;3,45;5,17;24,44;7,25;2026-7746-375;2026;False;;2,0;3,0;58,0;8,0;11,0;45,0
 Andre Ilagan;2026-10-07;ATP Shanghai;Hard;M;L;Q1;6-3 6-7(1) 7-5;Nikoloz Basilashvili;7,96;2,65;10,48;7,06;2026-5014-273;2026;False;;9,0;3,0;113,0;16,0;11,0;105,0
 Andre Ilagan;2026-09-29;Jingshan Challenger;Hard;C;W;R32;6-4 6-3;Matthew Dellavedova;14,29;0,0;5,41;4,67;2026-3013-377;2026;False;;6,0;0,0;42,0;9,0;4,0;74,0
 Andre Ilagan;2026-09-23;Chengdu;Hard;A;L;Q1;7-6(4) 7-6(5);Petr Bar Biryukov;15,79;2,63;19,1;6,33;2026-7581-351;2026;False;;12,0;2,0;76,0;12,0;17,0;89,0
@@ -10253,8 +10256,8 @@ Andre Ilagan;2024-01-22;Indian Wells 2 CH;Hard;C;W;Q2;6-1 6-1;Jaimee Floyd Angel
 Andre Ilagan;2024-01-22;Indian Wells 2 CH;Hard;C;W;Q1;6-4 5-7 6-2;Darian King;1,1;2,2;2,27;6,07;2024-2905-240;2024;False;;1,0;2,0;91,0;15,0;2,0;88,0
 Andre Ilagan;2024-01-15;Indian Wells 1 CH;Hard;C;L;Q1;6-2 6-3;Maxwell Mckennon;0,0;6,52;9,09;5,75;2024-2903-237;2024;False;;0,0;3,0;46,0;8,0;6,0;66,0
 Andre Ilagan;2023-07-31;Lexington CH;Hard;C;L;Q1;6-4 7-6(5);Yuki Mochizuki;4,41;2,94;1,28;6,18;2023-0586-242;2023;False;;3,0;2,0;68,0;11,0;1,0;78,0
-Andrea Guerrieri;2026-10-12;Olbia Challenger;Hard;C;L;R16;6-3 6-4;Maks Kasnikowski;1,45;2,9;9,43;7,67;2026-2893-392;2026;False;;1,0;2,0;69,0;9,0;5,0;53,0
-Andrea Guerrieri;2026-10-12;Olbia Challenger;Hard;C;W;R32;6-2 6-3;Abedallah Shelbayh;4,08;0,0;2,0;5,44;2026-2893-382;2026;False;;2,0;0,0;49,0;9,0;1,0;50,0
+Andrea Guerrieri;2026-10-12;Olbia Challenger;Hard;C;L;R16;6-3 6-4;Maks Kasnikowski;1,45;2,9;9,43;7,67;2026-2893-387;2026;False;;1,0;2,0;69,0;9,0;5,0;53,0
+Andrea Guerrieri;2026-10-12;Olbia Challenger;Hard;C;W;R32;6-2 6-3;Abedallah Shelbayh;4,08;0,0;2,0;5,44;2026-2893-376;2026;False;;2,0;0,0;49,0;9,0;1,0;50,0
 Andrea Guerrieri;2026-09-28;Porto Monte Aventino CH;Hard;C;L;R16;7-5 6-1;August Holmgren;1,52;6,06;6,56;6,6;2026-9526-378;2026;False;;1,0;4,0;66,0;10,0;4,0;61,0
 Andrea Guerrieri;2026-09-28;Porto Monte Aventino CH;Hard;C;W;R32;6-4 4-6 6-0;Anton Matusevich;1,37;8,22;4,05;5,62;2026-9526-369;2026;False;;1,0;6,0;73,0;13,0;3,0;74,0
 Andrea Guerrieri;2026-09-21;Saint-Tropez CH;Hard;C;L;R16;3-6 7-6(8) 7-6(2);Jesper De Jong;3,88;6,8;5,65;6,44;2026-9552-373;2026;False;;4,0;7,0;103,0;16,0;7,0;124,0
@@ -10409,7 +10412,7 @@ Andrea Guerrieri;2018-04-09;Barletta CH;Clay;C;L;Q1;6-4 6-1;Kimmer Coppejans;0,0
 Andrea Guerrieri;2017-11-20;Andria CH;Hard;C;L;Q3;6-1 7-5;Gianluca Di Nicola;1,43;8,57;6,9;7,78;2017-6911-251;2017;False;;1,0;6,0;70,0;9,0;4,0;58,0
 Andrea Guerrieri;2017-11-20;Andria CH;Hard;C;W;Q2;2-6 6-4 7-6(4);Adrian Andrzejczuk;2,83;5,66;6,86;7,07;2017-6911-243;2017;False;;3,0;6,0;106,0;15,0;7,0;102,0
 Andrea Guerrieri;2017-11-13;Brescia CH;Hard;C;L;Q2;6-3 6-4;Denis Matsukevitch;2,17;6,52;19,61;5,11;2017-7121-247;2017;False;;1,0;3,0;46,0;9,0;10,0;51,0
-Andrea Pellegrino;2026-10-12;Maia Challenger;Clay;C;L;R32;6-4 2-6 6-1;Lorenzo Giustino;8,24;5,88;8,54;7,08;2026-8312-386;2026;False;;7,0;5,0;85,0;12,0;7,0;82,0
+Andrea Pellegrino;2026-10-12;Maia Challenger;Clay;C;L;R32;6-4 2-6 6-1;Lorenzo Giustino;8,24;5,88;8,54;7,08;2026-8312-378;2026;False;;7,0;5,0;85,0;12,0;7,0;82,0
 Andrea Pellegrino;2026-10-05;Braga Challenger;Clay;C;L;R32;6-3 3-6 6-1;Matej Dodig;1,33;2,67;7,04;6,25;2026-7913-359;2026;False;;1,0;2,0;75,0;12,0;5,0;71,0
 Andrea Pellegrino;2026-09-07;Genoa Nuova Valletta CH;Clay;C;L;R16;6-3 6-2;Valerio Aboian;3,77;5,66;4,26;6,62;2026-1763-371;2026;False;;2,0;3,0;53,0;8,0;2,0;47,0
 Andrea Pellegrino;2026-09-07;Genoa Nuova Valletta CH;Clay;C;W;R32;7-6(8) 6-4;Mika Petkovic;12,2;1,22;2,94;7,45;2026-1763-355;2026;False;;10,0;1,0;82,0;11,0;2,0;68,0
@@ -10905,7 +10908,8 @@ Andrea Pellegrino;2016-04-04;Napoli CH;Clay;C;W;Q1;6-3 4-6 6-1;Martin Blasko;5,0
 Andrea Pellegrino;2015-11-23;Andria CH;Hard;C;L;R32;6-3 6-4;Ivan Dodig;3,28;6,56;21,15;6,78;2015-6911-012;2015;False;;2,0;4,0;61,0;9,0;11,0;52,0
 Andrea Pellegrino;2015-11-16;Brescia CH;Hard;C;L;R32;7-5 6-3;Dimitar Kuzmanov;5,56;3,7;6,06;5,4;2015-7121-016;2015;False;;3,0;2,0;54,0;10,0;4,0;66,0
 Andrea Pellegrino;2015-08-17;Cordenons CH;Clay;C;L;R32;6-4 3-6 7-5;Matteo Viola;1,2;1,2;1,02;5,19;2015-2120-014;2015;False;;1,0;1,0;83,0;16,0;1,0;98,0
-Andrej Nedic;2026-10-12;Maia Challenger;Clay;C;W;R32;7-6(2) 6-3;Filippo Romano;2,63;2,63;6,85;6,91;2026-8312-381;2026;False;;2,0;2,0;76,0;11,0;5,0;73,0
+Andrej Nedic;2026-10-12;Maia Challenger;Clay;C;L;R16;6-3 6-4;Alejo Sanchez Quilez;2,9;1,45;1,79;7,67;2026-8312-388;2026;False;;2,0;1,0;69,0;9,0;1,0;56,0
+Andrej Nedic;2026-10-12;Maia Challenger;Clay;C;W;R32;7-6(2) 6-3;Filippo Romano;2,63;2,63;6,85;6,91;2026-8312-373;2026;False;;2,0;2,0;76,0;11,0;5,0;73,0
 Andrej Nedic;2026-10-05;Braga Challenger;Clay;C;L;R32;6-1 7-6(1);Patrick Schoen;1,22;1,22;1,61;8,2;2026-7913-356;2026;False;;1,0;1,0;82,0;10,0;1,0;62,0
 Andrej Nedic;2026-08-31;Como CH;Clay;C;L;QF;4-6 6-2 6-1;Johan Nikles;1,2;4,82;4,0;6,92;2026-3473-382;2026;False;;1,0;4,0;83,0;12,0;3,0;75,0
 Andrej Nedic;2026-08-31;Como CH;Clay;C;W;R16;7-6(6) 6-3;Kilian Feldbausch;1,16;1,16;1,33;7,82;2026-3473-378;2026;False;;1,0;1,0;86,0;11,0;1,0;75,0
@@ -13335,7 +13339,7 @@ Arthur Rinderknech;2018-09-03;Cassis CH;Hard;C;L;R32;7-6(7) 6-3;Adrian Menendez 
 Arthur Rinderknech;2018-03-12;Irving CH;Hard;C;L;R16;6-3 4-6 6-2;Petros Chrysochos;3,96;7,92;3,75;7,21;2018-6486-290;2018;True;;4,0;8,0;101,0;14,0;3,0;80,0
 Arthur Rinderknech;2018-03-12;Irving CH;Hard;C;W;R32;3-6 7-5 6-4;Or Ram Harel;1,94;3,88;1,16;6,44;2018-6486-279;2018;True;;2,0;4,0;103,0;16,0;1,0;86,0
 Arthur Rinderknech;2018-03-12;Irving CH;Hard;C;W;Q2;6-1 6-4;Jonathan Chang;14,55;0,0;3,77;6,11;2018-6486-251;2018;True;;8,0;0,0;55,0;9,0;2,0;53,0
-August Holmgren;2026-10-12;Olbia Challenger;Hard;C;L;R32;4-6 6-4 6-4;Luca Nardi;4,6;3,45;6,8;5,8;2026-2893-384;2026;False;;4,0;3,0;87,0;15,0;7,0;103,0
+August Holmgren;2026-10-12;Olbia Challenger;Hard;C;L;R32;4-6 6-4 6-4;Luca Nardi;4,6;3,45;6,8;5,8;2026-2893-378;2026;False;;4,0;3,0;87,0;15,0;7,0;103,0
 August Holmgren;2026-10-05;Villena Challenger;Hard;C;L;R32;2-6 7-6(1) 7-5;Pedro Martinez;8,42;7,37;1,9;5,94;2026-7909-359;2026;False;;8,0;7,0;95,0;16,0;2,0;105,0
 August Holmgren;2026-09-28;Porto Monte Aventino CH;Hard;C;L;QF;6-3 7-6(7);Henrique Rocha;5,71;1,43;5,63;7,0;2026-9526-382;2026;False;;4,0;1,0;70,0;10,0;4,0;71,0
 August Holmgren;2026-09-28;Porto Monte Aventino CH;Hard;C;W;R16;7-5 6-1;Andrea Guerrieri;6,56;8,2;1,52;6,78;2026-9526-378;2026;False;;4,0;5,0;61,0;9,0;1,0;66,0
@@ -13833,8 +13837,8 @@ Ben Shelton;2021-11-15;Champaign CH;Hard;C;W;Q2;6-3 6-3;Hunter Heck;14,55;5,45;1
 Ben Shelton;2021-11-15;Champaign CH;Hard;C;W;Q1;6-4 6-4;Govind Nanda;6,45;4,84;3,23;6,2;2021-0637-249;2021;True;;4,0;3,0;62,0;10,0;2,0;62,0
 Ben Shelton;2021-07-19;Cary 1 CH;Hard;C;L;Q2;6-3 6-4;Aleksandar Kovacevic;12,73;9,09;12,16;6,11;2021-7316-254;2021;True;;7,0;5,0;55,0;9,0;9,0;74,0
 Ben Shelton;2021-07-19;Cary 1 CH;Hard;C;W;Q1;6-3 6-2;Michail Pervolarakis;6,78;5,08;4,35;6,56;2021-7316-249;2021;True;;4,0;3,0;59,0;9,0;2,0;46,0
-Benjamin Bonzi;2026-10-12;Roanne Challenger;Hard;C;L;R16;6-2 2-6 6-4;Mika Brunold;12,82;3,85;5,33;6,0;2026-9625-391;2026;True;;10,0;3,0;78,0;13,0;4,0;75,0
-Benjamin Bonzi;2026-10-12;Roanne Challenger;Hard;C;W;R32;6-7(5) 6-1 6-3;Hugo Grenier;5,05;3,03;17,05;7,07;2026-9625-375;2026;True;;5,0;3,0;99,0;14,0;15,0;88,0
+Benjamin Bonzi;2026-10-12;Roanne Challenger;Hard;C;L;R16;6-2 2-6 6-4;Mika Brunold;12,82;3,85;5,33;6,0;2026-9625-388;2026;True;;10,0;3,0;78,0;13,0;4,0;75,0
+Benjamin Bonzi;2026-10-12;Roanne Challenger;Hard;C;W;R32;6-7(5) 6-1 6-3;Hugo Grenier;5,05;3,03;17,05;7,07;2026-9625-372;2026;True;;5,0;3,0;99,0;14,0;15,0;88,0
 Benjamin Bonzi;2026-09-28;Porto Monte Aventino CH;Hard;C;L;R32;6-3 6-4;August Holmgren;3,92;5,88;7,41;5,67;2026-9526-370;2026;True;;2,0;3,0;51,0;9,0;4,0;54,0
 Benjamin Bonzi;2026-08-31;US Open;Hard;G;L;R32;6-3 6-2 6-4;Karen Khachanov;7,32;8,54;12,77;6,31;2026-560-200;2026;True;;6,0;7,0;82,0;13,0;12,0;94,0
 Benjamin Bonzi;2026-08-31;US Open;Hard;G;W;R64;6-2 7-6(4) 6-0;Ignacio Buse;9,64;1,2;7,23;6,38;2026-560-173;2026;True;;8,0;1,0;83,0;13,0;6,0;83,0
@@ -14362,7 +14366,7 @@ Benjamin Bonzi;2016-07-11;San Benedetto del Tronto CH;Clay;C;W;Q1;7-5 2-6 6-3;Al
 Benjamin Bonzi;2016-07-04;Todi CH;Clay;C;L;Q3;6-4 6-1;Ramkumar Ramanathan;1,82;10,91;7,46;6,11;2016-3627-269;2016;True;;1,0;6,0;55,0;9,0;5,0;67,0
 Benjamin Bonzi;2016-07-04;Todi CH;Clay;C;W;Q2;4-6 6-3 6-4;Gianluca Di Nicola;8,82;6,86;0,93;6,8;2016-3627-264;2016;True;;9,0;7,0;102,0;15,0;1,0;107,0
 Benjamin Bonzi;2016-07-04;Todi CH;Clay;C;W;Q1;6-4 6-4;Ivan Nedelko;1,61;8,06;1,45;6,2;2016-3627-254;2016;True;;1,0;5,0;62,0;10,0;1,0;69,0
-Bernard Tomic;2026-10-12;Jinan Challenger;Hard;C;L;R32;2-2 RET;Dane Sweeny;18,75;0,0;0,0;8,0;2026-7746-385;2026;False;;3,0;0,0;16,0;2,0;0,0;12,0
+Bernard Tomic;2026-10-12;Jinan Challenger;Hard;C;L;R32;2-2 RET;Dane Sweeny;18,75;0,0;0,0;8,0;2026-7746-376;2026;False;;3,0;0,0;16,0;2,0;0,0;12,0
 Bernard Tomic;2026-10-07;ATP Shanghai;Hard;M;L;R128;6-3 6-1;Matteo Arnaldi;4,35;0,0;13,04;5,75;2026-5014-297;2026;False;;2,0;0,0;46,0;8,0;6,0;46,0
 Bernard Tomic;2026-10-07;ATP Shanghai;Hard;M;W;Q2;7-5 6-4;Timofey Skatov;7,81;0,0;10,45;5,82;2026-5014-285;2026;False;;5,0;0,0;64,0;11,0;7,0;67,0
 Bernard Tomic;2026-10-07;ATP Shanghai;Hard;M;W;Q1;6-3 4-6 5-3 RET;Terence Atmane;3,95;0,0;18,27;5,85;2026-5014-266;2026;False;;3,0;0,0;76,0;13,0;19,0;104,0
@@ -15096,7 +15100,7 @@ Bernard Tomic;2009-05-25;Roland Garros;Clay;G;L;R128;6-1 6-2 6-2;Philipp Kohlsch
 Bernard Tomic;2009-01-19;Australian Open;Hard;G;L;R64;3-6 6-1 6-4 6-2;Gilles Muller;4,31;5,17;28,12;6,82;2009-580-090;2009;False;;5,0;6,0;116,0;17,0;27,0;96,0
 Bernard Tomic;2009-01-19;Australian Open;Hard;G;W;R128;7-6(5) 1-6 7-6(5) 7-6(6);Potito Starace;6,8;0,68;8,28;7,0;2009-580-051;2009;False;;10,0;1,0;147,0;21,0;14,0;169,0
 Bernard Tomic;2009-01-04;Brisbane;Hard;A;L;R32;6-4 6-2;Fernando Verdasco;5,36;1,79;2,0;6,22;2009-339-005;2009;False;;3,0;1,0;56,0;9,0;1,0;50,0
-Billy Harris;2026-10-12;Roanne Challenger;Hard;C;L;R32;7-5 7-6(5);Matisse Bobichon;2,38;3,57;11,84;7,0;2026-9625-377;2026;False;;2,0;3,0;84,0;12,0;9,0;76,0
+Billy Harris;2026-10-12;Roanne Challenger;Hard;C;L;R32;7-5 7-6(5);Matisse Bobichon;2,38;3,57;11,84;7,0;2026-9625-374;2026;False;;2,0;3,0;84,0;12,0;9,0;76,0
 Billy Harris;2026-10-07;ATP Shanghai;Hard;M;L;Q1;4-6 7-6(6) 7-5;Dalibor Svrcina;12,5;0,83;8,41;7,06;2026-5014-259;2026;False;;15,0;1,0;120,0;17,0;9,0;107,0
 Billy Harris;2026-09-28;Mouilleron le Captif CH;Hard;C;L;R32;7-6(6) 3-6 7-6(3);Felix Balshaw;1,92;1,92;7,27;6,12;2026-6857-356;2026;False;;2,0;2,0;104,0;17,0;8,0;110,0
 Billy Harris;2026-09-21;Saint-Tropez CH;Hard;C;L;R16;7-6(3) 6-4;Murphy Cassone;10,17;5,08;6,78;5,36;2026-9552-372;2026;False;;6,0;3,0;59,0;11,0;4,0;59,0
@@ -17039,7 +17043,7 @@ Bu Yunchaokete;2022-09-05;Nonthaburi 3 CH;Hard;C;L;R32;6-4 7-5;Stuart Parker;6,3
 Bu Yunchaokete;2022-08-29;Nonthaburi 2 CH;Hard;C;L;R32;6-7(7) 6-2 6-2;Federico Gaio;7,69;1,92;22,37;7,43;2022-2795-275;2022;True;;8,0;2,0;104,0;14,0;17,0;76,0
 Bu Yunchaokete;2022-08-22;Nonthaburi 1 CH;Hard;C;L;R32;4-6 6-1 3-0 RET;Seong Chan Hong;0,0;4,0;18,18;7,5;2022-2791-271;2022;True;;0,0;3,0;75,0;10,0;8,0;44,0
 Buvaysar Gadamauri;2026-10-12;San Gregorio di Catania Challenger;Clay;C;W;R16;1-6 6-3 6-2;Enrico Dalla Valle;4,23;4,23;2,53;5,92;2026-3155-392;2026;False;;3,0;3,0;71,0;12,0;2,0;79,0
-Buvaysar Gadamauri;2026-10-12;San Gregorio di Catania Challenger;Clay;C;W;R32;2-6 7-6(3) 6-1;Sandro Kopp;13,75;7,5;6,0;6,15;2026-3155-381;2026;False;;11,0;6,0;80,0;13,0;6,0;100,0
+Buvaysar Gadamauri;2026-10-12;San Gregorio di Catania Challenger;Clay;C;W;R32;2-6 7-6(3) 6-1;Sandro Kopp;13,75;7,5;6,0;6,15;2026-3155-380;2026;False;;11,0;6,0;80,0;13,0;6,0;100,0
 Buvaysar Gadamauri;2026-10-05;Palermo Challenger;Clay;C;L;R16;6-2 7-6(5);Yanaki Milev;1,28;1,28;0,0;7,8;2026-3153-372;2026;False;;1,0;1,0;78,0;10,0;0,0;68,0
 Buvaysar Gadamauri;2026-10-05;Palermo Challenger;Clay;C;W;R32;7-5 7-5;Pedro Vives Marcos;2,63;3,95;2,82;6,33;2026-3153-358;2026;False;;2,0;3,0;76,0;12,0;2,0;71,0
 Buvaysar Gadamauri;2026-09-28;Bari CH;Clay;C;L;R32;2-6 6-3 6-2;Enrico Dalla Valle;0,0;5,56;5,81;6,0;2026-3151-369;2026;False;;0,0;4,0;72,0;12,0;5,0;86,0
@@ -20376,7 +20380,7 @@ Casper Ruud;2016-09-05;Seville CH;Clay;C;W;Q2;5-7 6-3 6-4;Carlos Gomez Herrera;3
 Casper Ruud;2016-03-21;Miami Masters;Hard;M;L;Q1;6-4 6-7(6) 6-1;Tatsuma Ito;0,0;3,74;2,06;7,64;2016-M007-139;2016;True;;0,0;4,0;107,0;14,0;2,0;97,0
 Casper Ruud;2016-03-04;Davis Cup G2 R1: LTU vs NOR;Hard;D;L;RR;6-2 6-1 6-4;Ricardas Berankis;7,25;7,25;9,72;5,75;2016-M-DC-2016-G2-EPA-M-LTU-NOR-01-002;2016;True;;5,0;5,0;69,0;12,0;7,0;72,0
 Casper Ruud;2016-03-04;Davis Cup G2 R1: LTU vs NOR;Hard;D;W;RR;6-3 6-3;Lukas Mugevicius;11,63;2,33;5,36;4,78;2016-M-DC-2016-G2-EPA-M-LTU-NOR-01-005;2016;True;;5,0;1,0;43,0;9,0;3,0;56,0
-Cezar Cretu;2026-10-12;Olbia Challenger;Hard;C;L;R32;6-2 6-1;Maks Kasnikowski;0,0;6,67;2,86;7,5;2026-2893-381;2026;False;;0,0;4,0;60,0;8,0;1,0;35,0
+Cezar Cretu;2026-10-12;Olbia Challenger;Hard;C;L;R32;6-2 6-1;Maks Kasnikowski;0,0;6,67;2,86;7,5;2026-2893-375;2026;False;;0,0;4,0;60,0;8,0;1,0;35,0
 Cezar Cretu;2026-09-28;Porto Monte Aventino CH;Hard;C;L;R32;7-5 6-3;Henrique Rocha;1,47;8,82;5,97;6,18;2026-9526-367;2026;False;;1,0;6,0;68,0;11,0;4,0;67,0
 Cezar Cretu;2026-09-07;Istanbul TED Club CH;Hard;C;L;R32;6-2 6-4;Harold Mayot;0,0;0,0;2,08;6,22;2026-7083-359;2026;False;;0,0;0,0;56,0;9,0;1,0;48,0
 Cezar Cretu;2026-08-24;Augsburg CH;Clay;C;W;F;6-2 6-0;Facundo Mena;7,5;0,0;4,26;5,71;2026-8266-385;2026;False;;3,0;0,0;40,0;7,0;2,0;47,0
@@ -21774,7 +21778,7 @@ Chun Hsin Tseng;2018-09-17;Kaohsiung CH;Hard;C;W;R32;6-7(4) 7-5 6-3;Max Purcell;
 Chun Hsin Tseng;2018-04-09;Taipei CH;Hard;C;L;R32;7-6(4) 6-1;Yusuke Takahashi;4,76;5,95;5,8;9,33;2018-2278-279;2018;False;;4,0;5,0;84,0;9,0;4,0;69,0
 Chun Hsin Tseng;2018-02-03;Davis Cup G2 R1: LBN vs TPE;Hard;D;W;RR;6-0 6-0;Michel Saade;0,0;3,7;0,0;4,5;2018-M-DC-2018-G2-AO-M-LBN-TPE-01-004;2018;False;;0,0;1,0;27,0;6,0;0,0;32,0
 Chun Hsin Tseng;2017-10-02;Kaohsiung CH;Hard;C;L;Q2;4-6 6-1 6-4;Yuuya Kibi;2,15;4,3;1,35;6,64;2017-6490-249;2017;False;;2,0;4,0;93,0;14,0;1,0;74,0
-Clement Chidekh;2026-10-12;Roanne Challenger;Hard;C;L;R32;7-6(6) 7-6(3);Jerome Kym;3,66;4,88;15,96;6,83;2026-9625-382;2026;False;;3,0;4,0;82,0;12,0;15,0;94,0
+Clement Chidekh;2026-10-12;Roanne Challenger;Hard;C;L;R32;7-6(6) 7-6(3);Jerome Kym;3,66;4,88;15,96;6,83;2026-9625-379;2026;False;;3,0;4,0;82,0;12,0;15,0;94,0
 Clement Chidekh;2026-09-28;Mouilleron le Captif CH;Hard;C;W;F;6-2 6-0;Sascha Gueymard Wayenburg;2,78;0,0;12,24;5,14;2026-6857-385;2026;False;;1,0;0,0;36,0;7,0;6,0;49,0
 Clement Chidekh;2026-09-28;Mouilleron le Captif CH;Hard;C;W;SF;6-2 6-4;Henry Bernet;9,43;3,77;14,75;5,89;2026-6857-383;2026;False;;5,0;2,0;53,0;9,0;9,0;61,0
 Clement Chidekh;2026-09-28;Mouilleron le Captif CH;Hard;C;W;QF;3-6 6-2 2-0 RET;Harold Mayot;1,89;0,0;5,77;5,89;2026-6857-380;2026;False;;1,0;0,0;53,0;9,0;3,0;52,0
@@ -21975,8 +21979,8 @@ Clement Chidekh;2021-09-06;Cassis CH;Hard;C;L;QF;7-6(1) 6-4;Lucas Pouille;6,9;3,
 Clement Chidekh;2021-09-06;Cassis CH;Hard;C;W;R16;6-3 6-0;Hiroki Moriya;4,55;0,0;3,85;6,29;2021-9120-286;2021;False;;2,0;0,0;44,0;7,0;2,0;52,0
 Clement Chidekh;2021-09-06;Cassis CH;Hard;C;W;R32;6-4 6-4;Arthur Cazaux;0,0;1,92;8,2;5,2;2021-9120-270;2021;False;;0,0;1,0;52,0;10,0;5,0;61,0
 Clement Chidekh;2016-09-05;St Remy de Provence CH;Hard;C;L;Q2;6-2 6-2;Albano Olivetti;0,0;7,69;34,78;6,5;2016-6014-263;2016;False;;0,0;4,0;52,0;8,0;16,0;46,0
-Clement Tabur;2026-10-12;Roanne Challenger;Hard;C;L;R16;7-6(10) 6-3;Sascha Gueymard Wayenburg;7,81;3,12;12,2;6,4;2026-9625-392;2026;False;;5,0;2,0;64,0;10,0;10,0;82,0
-Clement Tabur;2026-10-12;Roanne Challenger;Hard;C;W;R32;7-6(5) 3-6 6-3;Henry Bernet;6,93;2,97;6,59;6,73;2026-9625-383;2026;False;;7,0;3,0;101,0;15,0;6,0;91,0
+Clement Tabur;2026-10-12;Roanne Challenger;Hard;C;L;R16;7-6(10) 6-3;Sascha Gueymard Wayenburg;7,81;3,12;12,2;6,4;2026-9625-391;2026;False;;5,0;2,0;64,0;10,0;10,0;82,0
+Clement Tabur;2026-10-12;Roanne Challenger;Hard;C;W;R32;7-6(5) 3-6 6-3;Henry Bernet;6,93;2,97;6,59;6,73;2026-9625-380;2026;False;;7,0;3,0;101,0;15,0;6,0;91,0
 Clement Tabur;2026-09-28;Mouilleron le Captif CH;Hard;C;L;QF;2-6 6-3 6-4;Sascha Gueymard Wayenburg;7,59;1,27;11,39;6,08;2026-6857-381;2026;False;;6,0;1,0;79,0;13,0;9,0;79,0
 Clement Tabur;2026-09-28;Mouilleron le Captif CH;Hard;C;W;R16;6-1 6-4;Thomas Faurel;7,84;1,96;4,88;5,67;2026-6857-376;2026;False;;4,0;1,0;51,0;9,0;2,0;41,0
 Clement Tabur;2026-09-28;Mouilleron le Captif CH;Hard;C;W;R32;7-6(4) 6-7(5) 6-3;Matteo Martineau;4,95;0,99;8,4;6,31;2026-6857-366;2026;False;;5,0;1,0;101,0;16,0;11,0;131,0
@@ -23978,7 +23982,7 @@ Dalibor Svrcina;2021-04-26;Ostrava CH;Clay;C;L;Q1;6-4 2-6 6-3;Rudolf Molleker;2,
 Dalibor Svrcina;2020-09-07;Prostejov CH;Clay;C;L;R32;3-6 6-1 6-1;Stefano Travaglia;1,14;6,82;1,39;7,33;2020-0558-281;2020;False;;1,0;6,0;88,0;12,0;1,0;72,0
 Dalibor Svrcina;2020-08-31;Ostrava CH;Clay;C;L;R32;6-4 6-1;Ernests Gulbis;0,0;10,0;12,07;6,25;2020-1797-281;2020;False;;0,0;5,0;50,0;8,0;7,0;58,0
 Dalibor Svrcina;2019-04-29;Ostrava CH;Clay;C;L;R64;7-5 4-6 6-1;Jiri Lehecka;0,0;11,24;2,88;6,36;2019-1797-244;2019;False;;0,0;10,0;89,0;14,0;3,0;104,0
-Damir Dzumhur;2026-10-12;Olbia Challenger;Hard;C;W;R32;6-3 2-6 6-3;Aziz Dougaz;0,0;3,85;2,5;6,0;2026-2893-375;2026;False;;0,0;3,0;78,0;13,0;2,0;80,0
+Damir Dzumhur;2026-10-12;Olbia Challenger;Hard;C;W;R32;6-3 2-6 6-3;Aziz Dougaz;0,0;3,85;2,5;6,0;2026-2893-369;2026;False;;0,0;3,0;78,0;13,0;2,0;80,0
 Damir Dzumhur;2026-10-05;Villena Challenger;Hard;C;L;R16;7-5 3-6 6-3;Abedallah Shelbayh;0,0;5,88;6,56;5,67;2026-7909-376;2026;False;;0,0;5,0;85,0;15,0;8,0;122,0
 Damir Dzumhur;2026-10-05;Villena Challenger;Hard;C;W;R32;7-5 6-3;Georgii Kravchenko;2,63;3,95;4,76;6,91;2026-7909-366;2026;False;;2,0;3,0;76,0;11,0;3,0;63,0
 Damir Dzumhur;2026-09-28;Porto Monte Aventino CH;Hard;C;L;R32;7-5 6-0;Moez Echargui;0,0;3,64;3,39;6,11;2026-9526-363;2026;False;;0,0;2,0;55,0;9,0;2,0;59,0
@@ -25113,7 +25117,8 @@ Dan Added;2018-11-05;Mouilleron-Le-Captif CH;Hard;C;L;Q2;6-2 6-4;Fabrice Martin;
 Dan Added;2018-11-05;Mouilleron-Le-Captif CH;Hard;C;W;Q1;3-6 6-3 7-5;Romain Barbosa;5,38;2,15;4,85;6,2;2018-6857-241;2018;False;;5,0;2,0;93,0;15,0;5,0;103,0
 Dan Added;2018-07-16;Scheveningen CH;Clay;C;L;Q1;6-1 6-2;Jeremy Jahn;2,86;8,57;15,56;5,0;2018-0686-230;2018;False;;1,0;3,0;35,0;7,0;7,0;45,0
 Dan Added;2018-05-07;Aix En Provence CH;Clay;C;L;Q2;7-5 2-6 7-6(5);Maxime Janvier;1,68;3,36;2,65;7,44;2018-7009-250;2018;False;;2,0;4,0;119,0;16,0;3,0;113,0
-Dane Sweeny;2026-10-12;Jinan Challenger;Hard;C;W;R32;2-2 RET;Bernard Tomic;0,0;0,0;18,75;6,0;2026-7746-385;2026;False;;0,0;0,0;12,0;2,0;3,0;16,0
+Dane Sweeny;2026-10-12;Jinan Challenger;Hard;C;L;R16;6-3 7-6(5);Shintaro Mochizuki;1,43;7,14;5,13;7,0;2026-7746-387;2026;False;;1,0;5,0;70,0;10,0;4,0;78,0
+Dane Sweeny;2026-10-12;Jinan Challenger;Hard;C;W;R32;2-2 RET;Bernard Tomic;0,0;0,0;18,75;6,0;2026-7746-376;2026;False;;0,0;0,0;12,0;2,0;3,0;16,0
 Dane Sweeny;2026-10-07;ATP Shanghai;Hard;M;L;Q2;6-3 6-2;Kimmer Coppejans;0,0;7,27;6,15;6,88;2026-5014-281;2026;False;;0,0;4,0;55,0;8,0;4,0;65,0
 Dane Sweeny;2026-10-07;ATP Shanghai;Hard;M;W;Q1;3-6 6-3 6-2;Tristan Schoolkate;7,41;1,23;12,33;6,23;2026-5014-258;2026;False;;6,0;1,0;81,0;13,0;9,0;73,0
 Dane Sweeny;2026-09-29;Jingshan Challenger;Hard;C;W;R16;6-4 6-1;Petr Bar Biryukov;5,41;2,7;15,0;4,62;2026-3013-388;2026;False;;2,0;1,0;37,0;8,0;9,0;60,0
@@ -26990,7 +26995,8 @@ Daniel Michalski;2019-06-03;Poznan CH;Clay;C;L;R64;4-6 6-3 6-2;Tallon Griekspoor
 Daniel Michalski;2018-07-30;Sopot CH;Clay;C;L;R16;6-1 6-1;Daniel Gimeno Traver;2,78;5,56;1,82;5,14;2018-7922-292;2018;False;;1,0;2,0;36,0;7,0;1,0;55,0
 Daniel Michalski;2018-07-30;Sopot CH;Clay;C;W;R32;6-2 6-4;Michal Dembek;0,0;0,0;0,0;5,11;2018-7922-283;2018;False;;0,0;0,0;46,0;9,0;0,0;49,0
 Daniel Michalski;2018-04-07;Davis Cup G2 R2: POL vs ZIM;Hard;D;W;RR;6-3 6-4;Mark Chigaazira;1,89;1,89;0,0;5,3;2018-M-DC-2018-G2-EPA-M-POL-ZIM-01-005;2018;False;;1,0;1,0;53,0;10,0;0,0;47,0
-Daniel Rincon;2026-10-12;Olbia Challenger;Hard;C;W;R32;6-0 6-2;Samuele Pieri;11,36;2,27;0,0;6,29;2026-2893-385;2026;False;;5,0;1,0;44,0;7,0;0,0;52,0
+Daniel Rincon;2026-10-12;Olbia Challenger;Hard;C;L;R16;7-5 6-2;Michael Mmoh;6,49;2,6;1,69;7,7;2026-2893-389;2026;False;;5,0;2,0;77,0;10,0;1,0;59,0
+Daniel Rincon;2026-10-12;Olbia Challenger;Hard;C;W;R32;6-0 6-2;Samuele Pieri;11,36;2,27;0,0;6,29;2026-2893-379;2026;False;;5,0;1,0;44,0;7,0;0,0;52,0
 Daniel Rincon;2026-10-05;Villena Challenger;Hard;C;L;R16;7-5 6-4;Pedro Martinez;12,12;3,03;3,33;6,0;2026-7909-373;2026;False;;8,0;2,0;66,0;11,0;2,0;60,0
 Daniel Rincon;2026-10-05;Villena Challenger;Hard;C;W;R32;6-2 6-4;Alejo Sanchez Quilez;5,26;8,77;4,84;6,33;2026-7909-360;2026;False;;3,0;5,0;57,0;9,0;3,0;62,0
 Daniel Rincon;2026-09-28;Porto Monte Aventino CH;Hard;C;L;QF;6-3 6-4;David Jorda Sanchis;0,0;4,17;2,99;5,33;2026-9526-380;2026;False;;0,0;2,0;48,0;9,0;2,0;67,0
@@ -29934,7 +29940,7 @@ Denis Shapovalov;2016-03-14;Drummondville CH;Hard;C;W;QF;6-6 RET;Renzo Olivo;16,
 Denis Shapovalov;2016-03-14;Drummondville CH;Hard;C;W;R16;6-3 7-5;Austin Krajicek;24,53;7,55;0,0;4,82;2016-7235-286;2016;True;;13,0;4,0;53,0;11,0;0,0;54,0
 Denis Shapovalov;2016-03-14;Drummondville CH;Hard;C;W;R32;6-2 3-6 6-1;Filip Peliwo;14,29;4,29;2,7;5,83;2016-7235-271;2016;True;;10,0;3,0;70,0;12,0;2,0;74,0
 Denis Shapovalov;2015-07-20;Granby CH;Hard;C;L;R32;3-6 6-4 6-4;Alex Bolt;6,98;9,3;2,5;5,73;2015-877-015;2015;True;;6,0;8,0;86,0;15,0;2,0;80,0
-Diego Dedura Palomero;2026-10-12;Roanne Challenger;Hard;C;L;R32;6-1 6-4;Moise Kouame;0,0;0,0;2,9;5,5;2026-9625-388;2026;False;;0,0;0,0;44,0;8,0;2,0;69,0
+Diego Dedura Palomero;2026-10-12;Roanne Challenger;Hard;C;L;R32;6-1 6-4;Moise Kouame;0,0;0,0;2,9;5,5;2026-9625-385;2026;False;;0,0;0,0;44,0;8,0;2,0;69,0
 Diego Dedura Palomero;2026-10-05;Villena Challenger;Hard;C;L;R32;6-4 6-2;Jack Pinnington Jones;1,89;3,77;0,0;5,89;2026-7909-370;2026;False;;1,0;2,0;53,0;9,0;0,0;59,0
 Diego Dedura Palomero;2026-10-05;Villena Challenger;Hard;C;L;Q2;6-3 7-5;Oliver Tarvet;0,0;2,0;4,62;5,0;2026-7909-354;2026;False;;0,0;1,0;50,0;10,0;3,0;65,0
 Diego Dedura Palomero;2026-10-05;Villena Challenger;Hard;C;W;Q1;6-0 6-7(4) 6-2;Vadym Ursu;0,0;0,0;2,47;7,0;2026-7909-348;2026;False;;0,0;0,0;91,0;13,0;2,0;81,0
@@ -30270,7 +30276,8 @@ Dino Prizmic;2022-05-09;Zagreb CH;Clay;C;L;R32;6-4 6-2;Nino Serdarusic;0,0;1,92;
 Dino Prizmic;2022-04-18;Split CH;Clay;C;L;R32;6-4 6-0;Andrea Arnaboldi;0,0;2,17;2,13;5,75;2022-8388-283;2022;True;;0,0;1,0;46,0;8,0;1,0;47,0
 Dino Prizmic;2022-03-21;Zadar CH;Clay;C;L;R16;2-6 7-5 6-2;Flavio Cobolli;1,19;4,76;1,0;6,0;2022-9472-287;2022;True;;1,0;4,0;84,0;14,0;1,0;100,0
 Dino Prizmic;2022-03-21;Zadar CH;Clay;C;W;R32;7-5 6-3;Denis Istomin;0,0;7,02;0,0;5,18;2022-9472-272;2022;True;;0,0;4,0;57,0;11,0;0,0;74,0
-Dominic Stricker;2026-10-12;Roanne Challenger;Hard;C;W;R32;6-2 6-3;Philip Henning;13,95;0,0;1,56;5,38;2026-9625-380;2026;False;;6,0;0,0;43,0;8,0;1,0;64,0
+Dominic Stricker;2026-10-12;Roanne Challenger;Hard;C;W;R16;7-5 5-7 6-3;Otto Virtanen;10,23;2,27;19,32;5,18;2026-9625-390;2026;False;;9,0;2,0;88,0;17,0;17,0;88,0
+Dominic Stricker;2026-10-12;Roanne Challenger;Hard;C;W;R32;6-2 6-3;Philip Henning;13,95;0,0;1,56;5,38;2026-9625-377;2026;False;;6,0;0,0;43,0;8,0;1,0;64,0
 Dominic Stricker;2026-10-05;Villena Challenger;Hard;C;L;R32;6-1 7-5;Laslo Djere;3,7;5,56;9,84;6,0;2026-7909-357;2026;False;;2,0;3,0;54,0;9,0;6,0;61,0
 Dominic Stricker;2026-10-05;Villena Challenger;Hard;C;W;Q2;6-2 6-2;Marko Topo;15,38;0,0;8,93;4,88;2026-7909-353;2026;False;;6,0;0,0;39,0;8,0;5,0;56,0
 Dominic Stricker;2026-10-05;Villena Challenger;Hard;C;W;Q1;6-3 7-5;Enrique Carrascosa Diaz;6,25;0,0;4,17;6,4;2026-7909-346;2026;False;;4,0;0,0;64,0;10,0;3,0;72,0
@@ -31478,7 +31485,7 @@ Dylan Dietrich;2023-07-24;Zug CH;Clay;C;W;Q2;6-2 5-7 6-4;Kyrian Jacquet;2,91;4,8
 Dylan Dietrich;2023-07-24;Zug CH;Clay;C;W;Q1;6-3 6-3;Giovanni Fonio;12,24;6,12;11,54;5,44;2023-2785-240;2023;False;;6,0;3,0;49,0;9,0;6,0;52,0
 Dylan Dietrich;2023-03-20;Biel-Bienne CH;Hard;C;L;R32;4-6 6-1 6-4;Gabriel Diallo;10,26;5,13;10,96;6,0;2023-9575-278;2023;False;;8,0;4,0;78,0;13,0;8,0;73,0
 Dylan Dietrich;2023-03-06;Lugano CH;Hard;C;L;Q1;6-4 6-2;Gauthier Onclin;4,76;7,94;0,0;7,0;2023-9516-248;2023;False;;3,0;5,0;63,0;9,0;0,0;60,0
-Edas Butvilas;2026-10-12;Olbia Challenger;Hard;C;L;R32;7-6(4) 7-6(5);Jan Kumstat;8,33;2,38;8,33;7,0;2026-2893-389;2026;False;;7,0;2,0;84,0;12,0;7,0;84,0
+Edas Butvilas;2026-10-12;Olbia Challenger;Hard;C;L;R32;7-6(4) 7-6(5);Jan Kumstat;8,33;2,38;8,33;7,0;2026-2893-383;2026;False;;7,0;2,0;84,0;12,0;7,0;84,0
 Edas Butvilas;2026-10-05;Villena Challenger;Hard;C;L;R32;1-6 6-4 7-5;Max Hans Rehberg;2,56;0,0;1,22;5,2;2026-7909-356;2026;False;;2,0;0,0;78,0;15,0;1,0;82,0
 Edas Butvilas;2026-09-28;Porto Monte Aventino CH;Hard;C;L;QF;6-7(5) 6-3 7-6(5);Jerome Kym;6,96;2,61;16,82;6,76;2026-9526-381;2026;False;;8,0;3,0;115,0;17,0;18,0;107,0
 Edas Butvilas;2026-09-28;Porto Monte Aventino CH;Hard;C;W;R16;6-1 7-5;Moez Echargui;1,79;0,0;4,62;6,22;2026-9526-375;2026;False;;1,0;0,0;56,0;9,0;3,0;65,0
@@ -31658,7 +31665,7 @@ Edas Butvilas;2023-02-06;Vilnius CH;Hard;C;L;R32;1-6 7-5 7-6(5);Antoine Escoffie
 Edas Butvilas;2022-10-17;Vilnius CH;Hard;C;L;R16;6-0 7-6(6);Antoine Escoffier;4,48;4,48;5,45;7,44;2022-2815-292;2022;False;;3,0;3,0;67,0;9,0;3,0;55,0
 Edas Butvilas;2022-10-17;Vilnius CH;Hard;C;W;R32;3-6 7-6(5) 6-1;Johan Nikles;4,21;3,16;0,0;7,31;2022-2815-283;2022;False;;4,0;3,0;95,0;13,0;0,0;113,0
 Edas Butvilas;2022-03-04;Davis Cup WG1 PO: PAK vs LTU;Grass;D;L;RR;6-4 7-6(2);Aisam Ul Haq Qureshi;10,53;5,26;9,23;6,91;2022-M-DC-2022-WG1-PO-PAK-LTU-01-005;2022;False;;8,0;4,0;76,0;11,0;6,0;65,0
-Elias Ymer;2026-10-12;Jinan Challenger;Hard;C;L;R32;6-2 6-1;Mattia Bellucci;3,85;1,92;11,11;6,5;2026-7746-387;2026;False;;2,0;1,0;52,0;8,0;6,0;54,0
+Elias Ymer;2026-10-12;Jinan Challenger;Hard;C;L;R32;6-2 6-1;Mattia Bellucci;3,85;1,92;11,11;6,5;2026-7746-378;2026;False;;2,0;1,0;52,0;8,0;6,0;54,0
 Elias Ymer;2026-10-07;ATP Shanghai;Hard;M;L;Q1;4-6 7-5 7-6(3);Mattia Bellucci;5,0;3,33;7,27;7,06;2026-5014-272;2026;False;;6,0;4,0;120,0;17,0;8,0;110,0
 Elias Ymer;2026-09-29;Jingshan Challenger;Hard;C;W;R32;4-6 7-5 5-5 RET;Terence Atmane;4,21;0,0;12,12;5,94;2026-3013-385;2026;False;;4,0;0,0;95,0;16,0;12,0;99,0
 Elias Ymer;2026-09-23;Chengdu;Hard;A;L;Q1;7-5 6-4;Alexis Galarneau;19,0;3,0;3,45;8,33;2026-7581-349;2026;False;;19,0;3,0;100,0;12,0;3,0;87,0
@@ -32506,7 +32513,7 @@ Eliot Spizzirri;2023-07-31;Lexington CH;Hard;C;W;R32;7-6(4) 6-4;Christian Harris
 Eliot Spizzirri;2023-07-17;Newport;Grass;A;L;R32;7-6(7) 6-0;Corentin Moutet;2,47;4,94;4,84;9,0;2023-0315-282;2023;False;;2,0;4,0;81,0;9,0;3,0;62,0
 Eliot Spizzirri;2023-07-10;Chicago CH;Hard;C;L;R32;6-2 6-2;Adam Walton;4,17;9,72;7,14;9,0;2023-2797-279;2023;False;;3,0;7,0;72,0;8,0;4,0;56,0
 Eliot Spizzirri;2023-07-03;Bloomfield Hills CH;Hard;C;L;R32;7-6(3) 6-3;Alexis Galarneau;13,51;1,35;11,29;7,4;2023-2883-282;2023;False;;10,0;1,0;74,0;10,0;7,0;62,0
-Elmer Moller;2026-10-12;Maia Challenger;Clay;C;L;R32;6-4 4-6 6-2;Lukas Neumayer;5,0;2,5;3,33;5,71;2026-8312-389;2026;False;;4,0;2,0;80,0;14,0;3,0;90,0
+Elmer Moller;2026-10-12;Maia Challenger;Clay;C;L;R32;6-4 4-6 6-2;Lukas Neumayer;5,0;2,5;3,33;5,71;2026-8312-381;2026;False;;4,0;2,0;80,0;14,0;3,0;90,0
 Elmer Moller;2026-10-05;Braga Challenger;Clay;C;L;F;3-6 6-3 6-2;Matej Dodig;0,0;5,21;5,26;7,38;2026-7913-385;2026;False;;0,0;5,0;96,0;13,0;4,0;76,0
 Elmer Moller;2026-10-05;Braga Challenger;Clay;C;W;SF;6-2 4-6 6-4;Vilius Gaubas;0,0;5,43;0,97;6,57;2026-7913-384;2026;False;;0,0;5,0;92,0;14,0;1,0;103,0
 Elmer Moller;2026-10-05;Braga Challenger;Clay;C;W;QF;5-7 6-2 6-1;Tiago Pereira;3,75;6,25;1,64;6,15;2026-7913-382;2026;False;;3,0;5,0;80,0;13,0;2,0;122,0
@@ -33537,7 +33544,7 @@ Fabian Marozsan;2021-11-01;Bergamo CH;Hard;C;W;R32;4-6 6-1 6-3;Nikola Milojevic;
 Fabian Marozsan;2021-11-01;Bergamo CH;Hard;C;W;Q2;7-6(5) 7-6(4);Calvin Hemery;3,53;2,35;11,24;7,08;2021-0854-253;2021;True;;3,0;2,0;85,0;12,0;10,0;89,0
 Fabian Marozsan;2021-11-01;Bergamo CH;Hard;C;W;Q1;6-1 6-4;Tobias Kamke;10,91;0,0;1,92;6,11;2021-0854-248;2021;True;;6,0;0,0;55,0;9,0;1,0;52,0
 Fabian Marozsan;2017-02-06;Budapest CH;Hard;C;L;Q1;6-0 7-5;David Poljak;0,0;6,67;6,94;5,0;2017-7584-237;2017;True;;0,0;3,0;45,0;9,0;5,0;72,0
-Facundo Diaz Acosta;2026-10-12;Jinan Challenger;Hard;C;L;R32;6-2 7-6(6);Shintaro Mochizuki;4,48;1,49;5,71;6,7;2026-7746-386;2026;True;;3,0;1,0;67,0;10,0;4,0;70,0
+Facundo Diaz Acosta;2026-10-12;Jinan Challenger;Hard;C;L;R32;6-2 7-6(6);Shintaro Mochizuki;4,48;1,49;5,71;6,7;2026-7746-377;2026;True;;3,0;1,0;67,0;10,0;4,0;70,0
 Facundo Diaz Acosta;2026-10-07;ATP Shanghai;Hard;M;L;R128;7-6(5) 6-2;Nuno Borges;3,12;0,0;12,33;6,4;2026-5014-306;2026;True;;2,0;0,0;64,0;10,0;9,0;73,0
 Facundo Diaz Acosta;2026-09-14;Szczecin CH;Clay;C;L;R32;5-7 6-2 6-3;Daniel Elahi Galan;2,3;4,6;8,24;5,8;2026-0448-370;2026;True;;2,0;4,0;87,0;15,0;7,0;85,0
 Facundo Diaz Acosta;2026-09-07;Seville CH;Clay;C;W;F;6-2 6-1;Dusan Lajovic;6,52;0,0;2,27;5,75;2026-0784-385;2026;True;;3,0;0,0;46,0;8,0;1,0;44,0
@@ -33860,7 +33867,7 @@ Facundo Diaz Acosta;2018-11-05;Montevideo CH;Clay;C;L;R32;6-2 7-5;Thiago Monteir
 Facundo Diaz Acosta;2018-11-05;Montevideo CH;Clay;C;W;Q3;6-4 6-2;Camilo Ugo Carabelli;5,0;5,0;0,0;6,67;2018-0544-252;2018;True;;3,0;3,0;60,0;9,0;0,0;62,0
 Facundo Diaz Acosta;2018-11-05;Montevideo CH;Clay;C;W;Q2;7-6(3) 6-2;Tomas Barrios Vera;4,69;12,5;4,94;6,4;2018-0544-246;2018;True;;3,0;8,0;64,0;10,0;4,0;81,0
 Facundo Diaz Acosta;2018-11-05;Montevideo CH;Clay;C;W;Q1;2-6 6-3 7-5;Joao Pedro Sorgi;7,87;10,11;0,0;5,93;2018-0544-233;2018;True;;7,0;9,0;89,0;15,0;0,0;91,0
-Facundo Mena;2026-10-12;Santa Cruz de la Sierra 2 Challenger;Clay;C;W;R32;7-5 6-4;Pedro Boscardin Dias;7,46;2,99;1,39;6,09;2026-3143-390;2026;False;;5,0;2,0;67,0;11,0;1,0;72,0
+Facundo Mena;2026-10-12;Santa Cruz de la Sierra 2 Challenger;Clay;C;W;R32;7-5 6-4;Pedro Boscardin Dias;7,46;2,99;1,39;6,09;2026-3143-381;2026;False;;5,0;2,0;67,0;11,0;1,0;72,0
 Facundo Mena;2026-09-28;Curitiba CH;Clay;C;L;R32;6-2 2-1 RET;Luis Guto Miguel;4,88;7,32;4,17;6,83;2026-2895-363;2026;False;;2,0;3,0;41,0;6,0;2,0;48,0
 Facundo Mena;2026-09-21;Buenos Aires 2 CH;Clay;C;L;F;6-4 6-0;Alex Barrena;4,26;2,13;2,08;5,88;2026-7395-385;2026;False;;2,0;1,0;47,0;8,0;1,0;48,0
 Facundo Mena;2026-09-21;Buenos Aires 2 CH;Clay;C;W;SF;7-5 6-0;Pedro Boscardin Dias;4,08;4,08;1,54;5,44;2026-7395-383;2026;False;;2,0;2,0;49,0;9,0;1,0;65,0
@@ -35561,7 +35568,8 @@ Felix Auger Aliassime;2016-04-04;Le Gosier CH;Hard;C;L;R32;2-6 6-3 3-1 RET;Giann
 Felix Auger Aliassime;2015-07-20;Granby CH;Hard;C;L;QF;4-6 6-2 6-1;Yoshihito Nishioka;3,96;3,96;2,7;7,77;2015-877-027;2015;True;;4,0;4,0;101,0;13,0;2,0;74,0
 Felix Auger Aliassime;2015-07-20;Granby CH;Hard;C;W;R16;7-5 6-3;Darian King;1,47;2,94;0,0;6,18;2015-877-021;2015;True;;1,0;2,0;68,0;11,0;0,0;75,0
 Felix Auger Aliassime;2015-07-20;Granby CH;Hard;C;W;R32;6-3 6-2;Andrew Whittington;1,67;1,67;1,85;6,67;2015-877-010;2015;True;;1,0;1,0;60,0;9,0;1,0;54,0
-Felix Balshaw;2026-10-12;Roanne Challenger;Hard;C;W;R32;6-4 6-7(3) 6-4;Gauthier Onclin;13,98;4,3;1,92;5,81;2026-9625-378;2026;False;;13,0;4,0;93,0;16,0;2,0;104,0
+Felix Balshaw;2026-10-12;Roanne Challenger;Hard;C;W;R16;6-3 6-4;Matisse Bobichon;13,43;7,46;3,85;6,7;2026-9625-389;2026;False;;9,0;5,0;67,0;10,0;2,0;52,0
+Felix Balshaw;2026-10-12;Roanne Challenger;Hard;C;W;R32;6-4 6-7(3) 6-4;Gauthier Onclin;13,98;4,3;1,92;5,81;2026-9625-375;2026;False;;13,0;4,0;93,0;16,0;2,0;104,0
 Felix Balshaw;2026-10-05;Villena Challenger;Hard;C;L;R32;6-7(1) 6-3 7-5;Joel Schwaerzler;16,83;3,96;6,25;6,31;2026-7909-369;2026;False;;17,0;4,0;101,0;16,0;7,0;112,0
 Felix Balshaw;2026-09-28;Mouilleron le Captif CH;Hard;C;L;QF;3-6 6-2 6-3;Henry Bernet;7,5;1,25;6,33;6,15;2026-6857-379;2026;False;;6,0;1,0;80,0;13,0;5,0;79,0
 Felix Balshaw;2026-09-28;Mouilleron le Captif CH;Hard;C;W;R16;7-5 4-6 7-6(5);Nicolai Budkov Kjaer;12,61;3,6;0,88;6,53;2026-6857-371;2026;False;;14,0;4,0;111,0;17,0;1,0;113,0
@@ -35676,7 +35684,7 @@ Felix Balshaw;2025-01-27;M15 Sharm ElSheikh;Hard;15;L;QF;6-2 4-6 7-6(5);Martin K
 Felix Balshaw;2025-01-27;M15 Sharm ElSheikh;Hard;15;W;R16;7-5 7-6(5);Aleksandr Braynin;2,33;4,65;5,0;7,17;2025-M-ITF-EGY-2025-001-207;2025;False;;2,0;4,0;86,0;12,0;4,0;80,0
 Felix Balshaw;2025-01-27;M15 Sharm ElSheikh;Hard;15;W;R32;3-6 6-4 6-3;Nikita Ianin;6,45;6,45;4,55;6,64;2025-M-ITF-EGY-2025-001-114;2025;False;;6,0;6,0;93,0;14,0;4,0;88,0
 Felix Gill;2026-10-12;San Gregorio di Catania Challenger;Clay;C;W;R16;6-4 6-1;Izan Almazan Valiente;0,0;1,69;6,35;6,56;2026-3155-391;2026;False;;0,0;1,0;59,0;9,0;4,0;63,0
-Felix Gill;2026-10-12;San Gregorio di Catania Challenger;Clay;C;W;R32;6-2 6-1;Gabriele Piraino;4,44;0,0;1,82;5,62;2026-3155-378;2026;False;;2,0;0,0;45,0;8,0;1,0;55,0
+Felix Gill;2026-10-12;San Gregorio di Catania Challenger;Clay;C;W;R32;6-2 6-1;Gabriele Piraino;4,44;0,0;1,82;5,62;2026-3155-377;2026;False;;2,0;0,0;45,0;8,0;1,0;55,0
 Felix Gill;2026-09-21;Plovdiv 4 CH;Clay;C;L;QF;7-6(3) 6-0;Jonas Forejtek;4,84;4,84;3,23;6,89;2026-3173-379;2026;False;;3,0;3,0;62,0;9,0;2,0;62,0
 Felix Gill;2026-09-21;Plovdiv 4 CH;Clay;C;W;R16;7-5 6-4;Iliyan Radulov;7,58;3,03;5,63;6,0;2026-3173-372;2026;False;;5,0;2,0;66,0;11,0;4,0;71,0
 Felix Gill;2026-09-21;Plovdiv 4 CH;Clay;C;W;R32;6-1 6-0;Alexander Vasilev;0,0;2,33;3,85;6,14;2026-3173-358;2026;False;;0,0;1,0;43,0;7,0;2,0;52,0
@@ -35854,8 +35862,8 @@ Felix Gill;2022-05-16;Tunis CH;Clay;C;W;Q1;6-2 6-1;Wissam Abderrahman;6,25;6,25;
 Felix Gill;2021-06-28;Wimbledon;Grass;G;L;Q2;7-6(8) 6-2;Marc Polmans;5,71;1,43;10,53;6,36;2021-540-189;2021;False;;4,0;1,0;70,0;11,0;6,0;57,0
 Felix Gill;2021-06-28;Wimbledon;Grass;G;W;Q1;7-5 7-6(6);Danilo Petrovic;1,27;0,0;4,94;6,08;2021-540-150;2021;False;;1,0;0,0;79,0;13,0;4,0;81,0
 Felix Gill;2021-06-14;Nottingham 2 CH;Grass;C;L;Q1;7-6(9) 6-4;Alex Bolt;7,14;2,38;18,31;7,64;2021-9522-243;2021;False;;6,0;2,0;84,0;11,0;13,0;71,0
-Filip Cristian Jianu;2026-10-12;San Gregorio di Catania Challenger;Clay;C;L;R16;6-4 6-2;Zdenek Kolar;2,13;4,26;1,79;5,22;2026-3155-390;2026;False;;1,0;2,0;47,0;9,0;1,0;56,0
-Filip Cristian Jianu;2026-10-12;San Gregorio di Catania Challenger;Clay;C;W;R32;6-3 6-4;Federico Iannaccone;1,67;0,0;0,0;6,0;2026-3155-375;2026;False;;1,0;0,0;60,0;10,0;0,0;48,0
+Filip Cristian Jianu;2026-10-12;San Gregorio di Catania Challenger;Clay;C;L;R16;6-4 6-2;Zdenek Kolar;2,13;4,26;1,79;5,22;2026-3155-389;2026;False;;1,0;2,0;47,0;9,0;1,0;56,0
+Filip Cristian Jianu;2026-10-12;San Gregorio di Catania Challenger;Clay;C;W;R32;6-3 6-4;Federico Iannaccone;1,67;0,0;0,0;6,0;2026-3155-374;2026;False;;1,0;0,0;60,0;10,0;0,0;48,0
 Filip Cristian Jianu;2026-10-05;Braga Challenger;Clay;C;L;R32;6-2 6-2;Duje Ajdukovic;1,79;0,0;12,96;7,0;2026-7913-365;2026;False;;1,0;0,0;56,0;8,0;7,0;54,0
 Filip Cristian Jianu;2026-09-21;Plovdiv 4 CH;Clay;C;L;R32;7-6(5) 6-3;Ivan Ivanov;0,0;1,16;2,94;7,82;2026-3173-362;2026;False;;0,0;1,0;86,0;11,0;2,0;68,0
 Filip Cristian Jianu;2026-09-14;Szczecin CH;Clay;C;L;R32;6-3 6-1;Vitaliy Sachko;0,0;5,66;11,36;6,62;2026-0448-360;2026;False;;0,0;3,0;53,0;8,0;5,0;44,0
@@ -37770,7 +37778,7 @@ Frances Tiafoe;2014-08-25;US Open;Hard;G;L;Q1;7-6(6) 4-6 6-3;Tatsuma Ito;6,96;0,
 Frances Tiafoe;2014-07-28;Washington;Hard;A;L;R64;6-4 6-4;Evgeny Donskoy;2,82;8,45;8,93;7,1;2014-418-009;2014;True;;2,0;6,0;71,0;10,0;5,0;56,0
 Frances Tiafoe;2014-07-21;Atlanta;Hard;A;L;Q2;6-3 6-7(3) 7-6(3);Michael Venus;4,76;6,67;11,81;6,56;2014-6116-714;2014;True;;5,0;7,0;105,0;16,0;15,0;127,0
 Frances Tiafoe;2014-07-21;Atlanta;Hard;A;W;Q1;6-4 6-2;Benjamin Balleret;7,55;7,55;6,06;5,89;2014-6116-706;2014;True;;4,0;4,0;53,0;9,0;4,0;66,0
-Francesco Maestrelli;2026-10-12;Olbia Challenger;Hard;C;W;R32;6-2 6-3;Mili Poljicak;10,0;0,0;8,7;5,56;2026-2893-387;2026;False;;5,0;0,0;50,0;9,0;4,0;46,0
+Francesco Maestrelli;2026-10-12;Olbia Challenger;Hard;C;W;R32;6-2 6-3;Mili Poljicak;10,0;0,0;8,7;5,56;2026-2893-381;2026;False;;5,0;0,0;50,0;9,0;4,0;46,0
 Francesco Maestrelli;2026-10-05;Villena Challenger;Hard;C;L;R32;4-6 6-3 6-4;Oliver Tarvet;11,63;3,49;8,14;6,14;2026-7909-358;2026;False;;10,0;3,0;86,0;14,0;7,0;86,0
 Francesco Maestrelli;2026-09-21;Saint-Tropez CH;Hard;C;L;R32;6-3 6-7(4) 6-3;Andrea Guerrieri;9,64;0,0;0,0;5,93;2026-9552-360;2026;False;;8,0;0,0;83,0;14,0;0,0;112,0
 Francesco Maestrelli;2026-09-14;Rennes CH;Hard;C;L;QF;6-0 6-3;Sascha Gueymard Wayenburg;4,35;0,0;22,22;6,57;2026-3503-380;2026;False;;2,0;0,0;46,0;7,0;8,0;36,0
@@ -38069,6 +38077,7 @@ Francesco Maestrelli;2021-08-09;San Marino CH;Clay;C;L;Q1;7-5 6-2;Julian Ocleppo
 Francesco Maestrelli;2021-07-12;Todi CH;Clay;C;L;Q1;6-2 7-5;Cristian Rodriguez;5,63;5,63;5,88;7,1;2021-8392-247;2021;False;;4,0;4,0;71,0;10,0;3,0;51,0
 Francesco Maestrelli;2020-08-31;Cordenons CH;Clay;C;L;Q1;6-3 6-4;Marco Trungelliti;5,77;5,77;0,0;5,78;2020-2120-246;2020;False;;3,0;3,0;52,0;9,0;0,0;68,0
 Francesco Maestrelli;2020-02-17;Bergamo CH;Hard;C;L;R64;6-2 4-6 6-2;Daniel Michalski;6,67;5,56;0,0;6,92;2020-0854-260;2020;False;;6,0;5,0;90,0;13,0;0,0;98,0
+Francesco Passaro;2026-10-12;Maia Challenger;Clay;C;W;R32;6-3 6-0;Tiago Torres;15,79;0,0;2,7;4,75;2026-8312-384;2026;False;;6,0;0,0;38,0;8,0;1,0;37,0
 Francesco Passaro;2026-10-05;Palermo Challenger;Clay;C;W;F;6-3 6-7(2) 7-6(4);Jonas Forejtek;4,85;2,91;0,86;6,06;2026-3153-385;2026;False;;5,0;3,0;103,0;17,0;1,0;116,0
 Francesco Passaro;2026-10-05;Palermo Challenger;Clay;C;W;SF;6-2 6-1;Yanaki Milev;5,0;2,5;0,0;5,0;2026-3153-383;2026;False;;2,0;1,0;40,0;8,0;0,0;49,0
 Francesco Passaro;2026-10-05;Palermo Challenger;Clay;C;W;QF;6-3 6-4;Enrico Dalla Valle;2,22;2,22;3,77;4,5;2026-3153-380;2026;False;;1,0;1,0;45,0;10,0;2,0;53,0
@@ -38808,7 +38817,8 @@ Francisco Cerundolo;2018-11-12;Buenos Aires CH;Clay;C;L;R32;6-3 3-6 6-4;Orlando 
 Francisco Cerundolo;2017-03-13;Tigre CH;Hard;C;L;Q1;5-7 6-4 6-3;Alan Kohen;0,89;4,46;0,0;7,0;2017-7440-229;2017;True;;1,0;5,0;112,0;16,0;0,0;87,0
 Francisco Cerundolo;2016-10-10;Buenos Aires CH;Clay;C;L;Q2;6-0 6-4;Joao Pedro Sorgi;0,0;7,41;2,27;6,75;2016-7395-249;2016;True;;0,0;4,0;54,0;8,0;1,0;44,0
 Francisco Cerundolo;2016-10-10;Buenos Aires CH;Clay;C;W;Q1;2-0 RET;Manuel Pena Lopez;0,0;20,0;0,0;5,0;2016-7395-240;2016;True;;0,0;1,0;5,0;1,0;0,0;8,0
-Francisco Comesana;2026-10-12;Santa Cruz de la Sierra 2 Challenger;Clay;C;W;R32;6-3 4-6 6-2;Nick Hardt;6,67;5,56;0,0;6,43;2026-3143-397;2026;False;;6,0;5,0;90,0;14,0;0,0;87,0
+Francisco Comesana;2026-10-12;Santa Cruz de la Sierra 2 Challenger;Clay;C;W;R16;6-1 6-4;Felipe Meligeni Alves;0,0;3,33;2,08;6,67;2026-3143-392;2026;False;;0,0;2,0;60,0;9,0;1,0;48,0
+Francisco Comesana;2026-10-12;Santa Cruz de la Sierra 2 Challenger;Clay;C;W;R32;6-3 4-6 6-2;Nick Hardt;6,67;5,56;0,0;6,43;2026-3143-388;2026;False;;6,0;5,0;90,0;14,0;0,0;87,0
 Francisco Comesana;2026-10-05;Antofagasta Challenger;Clay;C;L;R32;6-7(6) 7-6(4) 6-1;Guido Ivan Justo;11,96;0,0;3,54;6,13;2026-2889-355;2026;False;;11,0;0,0;92,0;15,0;4,0;113,0
 Francisco Comesana;2026-09-21;Buenos Aires 2 CH;Clay;C;L;R16;7-5 6-7(5) 6-4;Joaquin Aguilar Cardozo;7,44;1,65;0,0;7,12;2026-7395-378;2026;False;;9,0;2,0;121,0;17,0;0,0;133,0
 Francisco Comesana;2026-09-21;Buenos Aires 2 CH;Clay;C;W;R32;6-1 4-6 6-2;Juan Estevez;5,88;4,71;0,0;6,54;2026-7395-370;2026;False;;5,0;4,0;85,0;13,0;0,0;70,0
@@ -39417,7 +39427,7 @@ Franco Agamenone;2016-01-11;Buenos Aires CH;Clay;C;W;Q1;6-3 6-4;Luciano Doria;0,
 Franco Agamenone;2016-01-04;Mendoza CH;Clay;C;L;Q3;3-6 6-0 6-4;Maximiliano Estevez;0,0;0,0;4,49;6,08;2016-7436-268;2016;False;;0,0;0,0;79,0;13,0;4,0;89,0
 Franco Agamenone;2016-01-04;Mendoza CH;Clay;C;W;Q2;6-1 6-4;Nicolas Alejandro De Gregorio;1,79;7,14;0,0;6,22;2016-7436-262;2016;False;;1,0;4,0;56,0;9,0;0,0;50,0
 Franco Agamenone;2015-10-12;Corrientes CH;Clay;C;L;R32;6-3 6-1;Guido Andreozzi;0,0;3,92;0,0;6,38;2015-7337-006;2015;False;;0,0;2,0;51,0;8,0;0,0;41,0
-Franco Roncadelli;2026-10-12;Santa Cruz de la Sierra 2 Challenger;Clay;C;W;R32;5-7 6-0 6-3;Valerio Aboian;0,0;2,13;2,7;6,71;2026-3143-387;2026;False;;0,0;2,0;94,0;14,0;2,0;74,0
+Franco Roncadelli;2026-10-12;Santa Cruz de la Sierra 2 Challenger;Clay;C;W;R32;5-7 6-0 6-3;Valerio Aboian;0,0;2,13;2,7;6,71;2026-3143-378;2026;False;;0,0;2,0;94,0;14,0;2,0;74,0
 Franco Roncadelli;2026-10-05;Antofagasta Challenger;Clay;C;L;R32;6-4 6-2;Tomas Barrios Vera;0,0;0,0;1,79;7,22;2026-2889-359;2026;False;;0,0;0,0;65,0;9,0;1,0;56,0
 Franco Roncadelli;2026-09-28;Curitiba CH;Clay;C;L;R32;7-6(6) 6-2;Guido Ivan Justo;0,0;2,41;1,28;8,3;2026-2895-362;2026;False;;0,0;2,0;83,0;10,0;1,0;78,0
 Franco Roncadelli;2026-09-21;Buenos Aires 2 CH;Clay;C;L;R16;0-6 7-6(5) 6-3;Pedro Boscardin Dias;0,0;0,0;1,06;5,85;2026-7395-374;2026;False;;0,0;0,0;76,0;13,0;1,0;94,0
@@ -41215,7 +41225,7 @@ Gael Monfils;2004-11-01;Paris Masters;Carpet;M;W;R64;1-6 6-4 6-3;Thomas Enqvist;
 Gael Monfils;2004-10-11;Metz;Hard;A;L;QF;7-5 6-1;Richard Gasquet;4,29;4,29;4,05;7,78;2004-341-028;2004;False;;3,0;3,0;70,0;9,0;3,0;74,0
 Gael Monfils;2004-10-11;Metz;Hard;A;W;R16;6-4 6-4;Olivier Patience;16,88;3,9;1,69;7,7;2004-341-024;2004;False;;13,0;3,0;77,0;10,0;1,0;59,0
 Gael Monfils;2004-10-11;Metz;Hard;A;W;R32;3-6 7-6(4) RET;Xavier Malisse;8,86;8,86;3,23;7,18;2004-341-016;2004;False;;7,0;7,0;79,0;11,0;2,0;62,0
-Gauthier Onclin;2026-10-12;Roanne Challenger;Hard;C;L;R32;6-4 6-7(3) 6-4;Felix Balshaw;1,92;5,77;13,98;6,5;2026-9625-378;2026;False;;2,0;6,0;104,0;16,0;13,0;93,0
+Gauthier Onclin;2026-10-12;Roanne Challenger;Hard;C;L;R32;6-4 6-7(3) 6-4;Felix Balshaw;1,92;5,77;13,98;6,5;2026-9625-375;2026;False;;2,0;6,0;104,0;16,0;13,0;93,0
 Gauthier Onclin;2026-10-05;Villena Challenger;Hard;C;L;R32;4-6 6-2 6-3;Daniil Glinka;5,56;2,22;9,18;6,92;2026-7909-363;2026;False;;5,0;2,0;90,0;13,0;9,0;98,0
 Gauthier Onclin;2026-09-28;Mouilleron le Captif CH;Hard;C;L;R16;6-1 6-4;Sascha Gueymard Wayenburg;4,65;0,0;18,52;5,38;2026-6857-375;2026;False;;2,0;0,0;43,0;8,0;10,0;54,0
 Gauthier Onclin;2026-09-28;Mouilleron le Captif CH;Hard;C;W;R32;7-6(4) 6-2;Dan Added;4,55;3,41;16,18;8,8;2026-6857-363;2026;False;;4,0;3,0;88,0;10,0;11,0;68,0
@@ -41442,7 +41452,8 @@ Gauthier Onclin;2022-07-11;Amersfoort CH;Clay;C;W;Q1;6-4 7-5;Mats Rosenkranz;1,5
 Gauthier Onclin;2021-10-18;Antwerp;Hard;A;L;Q1;6-4 7-5;Andreas Seppi;1,32;7,89;6,49;6,91;2021-7485-244;2021;False;;1,0;6,0;76,0;11,0;5,0;77,0
 Gauthier Onclin;2021-07-12;Amersfoort CH;Clay;C;L;Q1;7-5 6-3;Deney Wassermann;0,0;10,17;11,11;5,9;2021-9198-245;2021;False;;0,0;6,0;59,0;10,0;7,0;63,0
 Gauthier Onclin;2016-10-03;Mons CH;Hard;C;L;Q1;7-6(4) 6-2;Christopher Heyman;0,0;5,97;1,49;6,7;2016-3350-239;2016;False;;0,0;4,0;67,0;10,0;1,0;67,0
-Genaro Alberto Olivieri;2026-10-12;Santa Cruz de la Sierra 2 Challenger;Clay;C;W;R32;6-4 4-6 6-2;Lucio Ratti;3,45;2,3;1,9;6,21;2026-3143-395;2026;False;;3,0;2,0;87,0;14,0;2,0;105,0
+Genaro Alberto Olivieri;2026-10-12;Santa Cruz de la Sierra 2 Challenger;Clay;C;W;R16;3-6 6-3 6-4;Alex Barrena;1,19;0,0;1,14;6,0;2026-3143-391;2026;False;;1,0;0,0;84,0;14,0;1,0;88,0
+Genaro Alberto Olivieri;2026-10-12;Santa Cruz de la Sierra 2 Challenger;Clay;C;W;R32;6-4 4-6 6-2;Lucio Ratti;3,45;2,3;1,9;6,21;2026-3143-386;2026;False;;3,0;2,0;87,0;14,0;2,0;105,0
 Genaro Alberto Olivieri;2026-10-05;Antofagasta Challenger;Clay;C;L;R16;6-3 6-3;Matheus Pucinelli De Almeida;2,04;2,04;0,0;5,44;2026-2889-372;2026;False;;1,0;1,0;49,0;9,0;0,0;45,0
 Genaro Alberto Olivieri;2026-10-05;Antofagasta Challenger;Clay;C;W;R32;6-1 6-4;Valerio Aboian;0,0;1,79;0,0;6,22;2026-2889-357;2026;False;;0,0;1,0;56,0;9,0;0,0;66,0
 Genaro Alberto Olivieri;2026-09-28;Curitiba CH;Clay;C;L;R16;6-4 6-2;Pedro Boscardin Dias;0,0;2,0;3,33;5,56;2026-2895-376;2026;False;;0,0;1,0;50,0;9,0;2,0;60,0
@@ -41786,7 +41797,7 @@ Genaro Alberto Olivieri;2017-03-13;Tigre CH;Hard;C;L;R16;4-6 6-3 6-3;Tristan Lam
 Genaro Alberto Olivieri;2017-03-13;Tigre CH;Hard;C;W;R32;6-2 6-4;Andrea Collarini;0,0;4,26;0,0;5,22;2017-7440-280;2017;False;;0,0;2,0;47,0;9,0;0,0;58,0
 Genaro Alberto Olivieri;2017-03-13;Tigre CH;Hard;C;W;Q3;7-5 6-3;Juan Pablo Varillas;5,26;3,95;2,94;6,91;2017-7440-253;2017;False;;4,0;3,0;76,0;11,0;2,0;68,0
 Genaro Alberto Olivieri;2017-03-13;Tigre CH;Hard;C;W;Q2;7-5 6-3;Fabricio Neis;0,0;8,2;0,0;5,55;2017-7440-248;2017;False;;0,0;5,0;61,0;11,0;0,0;62,0
-Gianluca Cadenasso;2026-10-12;San Gregorio di Catania Challenger;Clay;C;W;R32;6-7(8) 6-3 6-4;Kai Wehnelt;1,96;4,9;6,25;6,38;2026-3155-385;2026;False;;2,0;5,0;102,0;16,0;6,0;96,0
+Gianluca Cadenasso;2026-10-12;San Gregorio di Catania Challenger;Clay;C;W;R32;6-7(8) 6-3 6-4;Kai Wehnelt;1,96;4,9;6,25;6,38;2026-3155-384;2026;False;;2,0;5,0;102,0;16,0;6,0;96,0
 Gianluca Cadenasso;2026-10-05;Palermo Challenger;Clay;C;L;R16;7-6(9) 7-5;Massimo Giunta;8,54;4,88;5,38;6,83;2026-3153-376;2026;False;;7,0;4,0;82,0;12,0;5,0;93,0
 Gianluca Cadenasso;2026-10-05;Palermo Challenger;Clay;C;W;R32;3-6 6-4 6-3;Filippo Moroni;5,49;5,49;1,04;6,5;2026-3153-366;2026;False;;5,0;5,0;91,0;14,0;1,0;96,0
 Gianluca Cadenasso;2026-09-28;Bari CH;Clay;C;L;QF;4-6 6-2 3-0 RET;Vitaliy Sachko;1,33;2,67;4,55;6,82;2026-3151-380;2026;False;;1,0;2,0;75,0;11,0;3,0;66,0
@@ -42169,7 +42180,7 @@ Gilles Arnaud Bailly;2023-05-15;Tunis CH;Clay;C;L;R32;2-6 6-3 7-6(3);Dennis Nova
 Gilles Arnaud Bailly;2023-03-27;Girona CH;Clay;C;L;R32;3-6 6-4 6-3;Pedro Cachin;1,89;2,83;11,11;7,57;2023-2855-285;2023;False;;2,0;3,0;106,0;14,0;9,0;81,0
 Gilles Arnaud Bailly;2023-01-23;Ottignies Louvain CH;Hard;C;L;Q1;7-5 6-0;Mikael Ymer;0,0;2,99;3,28;7,44;2023-2837-248;2023;False;;0,0;2,0;67,0;9,0;2,0;61,0
 Gilles Arnaud Bailly;2022-10-17;Antwerp;Hard;A;L;R32;7-6(7) 5-7 6-4;David Goffin;1,45;4,35;6,0;8,12;2022-7485-275;2022;False;;2,0;6,0;138,0;17,0;6,0;100,0
-Giovanni Mpetshi Perricard;2026-10-12;Roanne Challenger;Hard;C;L;R32;7-6(5) 7-6(3);Etienne Donnet;30,14;5,48;3,49;6,08;2026-9625-386;2026;False;;22,0;4,0;73,0;12,0;3,0;86,0
+Giovanni Mpetshi Perricard;2026-10-12;Roanne Challenger;Hard;C;L;R32;7-6(5) 7-6(3);Etienne Donnet;30,14;5,48;3,49;6,08;2026-9625-383;2026;False;;22,0;4,0;73,0;12,0;3,0;86,0
 Giovanni Mpetshi Perricard;2026-08-31;US Open;Hard;G;L;R128;7-6(2) 6-0 7-6(4);Jurij Rodionov;9,52;6,67;8,16;7,0;2026-560-121;2026;False;;10,0;7,0;105,0;15,0;8,0;98,0
 Giovanni Mpetshi Perricard;2026-08-23;Winston-Salem;Hard;A;L;R64;6-3 6-2;Jenson Brooksby;10,71;8,93;12,2;6,22;2026-6242-347;2026;False;;6,0;5,0;56,0;9,0;5,0;41,0
 Giovanni Mpetshi Perricard;2026-08-13;Cincinnati Masters;Hard;M;L;Q1;6-1 1-6 6-2;Trevor Svajda;12,31;1,54;4,55;5,91;2026-0422-251;2026;False;;8,0;1,0;65,0;11,0;3,0;66,0
@@ -42751,7 +42762,7 @@ Giulio Zeppieri;2019-04-22;Francavilla Al Mare CH;Clay;C;W;R64;6-1 6-3;Javier Ba
 Giulio Zeppieri;2019-04-08;Barletta CH;Clay;C;L;R32;6-4 4-6 6-4;Thanasi Kokkinakis;7,06;0,0;7,06;5,67;2019-7494-272;2019;False;;6,0;0,0;85,0;15,0;6,0;85,0
 Giulio Zeppieri;2019-04-08;Barletta CH;Clay;C;W;R64;6-0 6-1;Giuseppe Tresca;2,38;0,0;0,0;6,0;2019-7494-243;2019;False;;1,0;0,0;42,0;7,0;0,0;29,0
 Giulio Zeppieri;2019-02-18;Bergamo CH;Hard;C;L;R64;4-6 6-3 6-4;Viktor Galovic;5,56;6,94;10,96;5,14;2019-0854-255;2019;False;;4,0;5,0;72,0;14,0;8,0;73,0
-Gonzalo Bueno;2026-10-12;Santa Cruz de la Sierra 2 Challenger;Clay;C;L;R32;6-1 6-3;Maximo Zeitune;1,89;9,43;4,17;6,62;2026-3143-385;2026;False;;1,0;5,0;53,0;8,0;2,0;48,0
+Gonzalo Bueno;2026-10-12;Santa Cruz de la Sierra 2 Challenger;Clay;C;L;R32;6-1 6-3;Maximo Zeitune;1,89;9,43;4,17;6,62;2026-3143-376;2026;False;;1,0;5,0;53,0;8,0;2,0;48,0
 Gonzalo Bueno;2026-09-07;Seville CH;Clay;C;W;R32;0-6 6-4 6-4;Carlos Sanchez Jover;1,79;3,57;1,96;8,62;2026-0784-369;2026;False;;2,0;4,0;112,0;13,0;2,0;102,0
 Gonzalo Bueno;2026-08-31;Como CH;Clay;C;L;R16;6-1 6-3;Max Schoenhaus;0,0;2,08;3,45;6,0;2026-3473-376;2026;False;;0,0;1,0;48,0;8,0;2,0;58,0
 Gonzalo Bueno;2026-08-31;Como CH;Clay;C;W;R32;6-2 7-5;Joao Lucas Reis Da Silva;1,61;1,61;2,82;6,2;2026-3473-366;2026;False;;1,0;1,0;62,0;10,0;2,0;71,0
@@ -43845,7 +43856,7 @@ Grigor Dimitrov;2009-02-16;Marseille;Hard;A;L;R32;4-6 6-3 7-5;Gilles Simon;3,03;
 Grigor Dimitrov;2009-02-09;Rotterdam;Hard;A;L;R16;7-5 3-6 6-2;Rafael Nadal;9,78;6,52;3,57;6,13;2009-407-017;2009;False;;9,0;6,0;92,0;15,0;3,0;84,0
 Grigor Dimitrov;2009-02-09;Rotterdam;Hard;A;W;R32;4-6 6-3 6-4;Tomas Berdych;9,8;0,98;11,25;6,8;2009-407-002;2009;False;;10,0;1,0;102,0;15,0;9,0;80,0
 Grigor Dimitrov;2008-06-15;s Hertogenbosch;Grass;A;L;R32;6-1 6-3;Igor Andreev;2,08;6,25;11,63;6,0;2008-440-013;2008;False;;1,0;3,0;48,0;8,0;5,0;43,0
-Guido Ivan Justo;2026-10-12;Santa Cruz de la Sierra 2 Challenger;Clay;C;W;R32;6-1 2-6 6-0;Arklon Huertas Del Pino;1,47;2,94;2,78;6,8;2026-3143-389;2026;False;;1,0;2,0;68,0;10,0;2,0;72,0
+Guido Ivan Justo;2026-10-12;Santa Cruz de la Sierra 2 Challenger;Clay;C;W;R32;6-1 2-6 6-0;Arklon Huertas Del Pino;1,47;2,94;2,78;6,8;2026-3143-380;2026;False;;1,0;2,0;68,0;10,0;2,0;72,0
 Guido Ivan Justo;2026-10-05;Antofagasta Challenger;Clay;C;L;R16;7-5 0-0 RET;Joao Lucas Reis Da Silva;2,38;2,38;5,88;7,0;2026-2889-371;2026;False;;1,0;1,0;42,0;6,0;2,0;34,0
 Guido Ivan Justo;2026-10-05;Antofagasta Challenger;Clay;C;W;R32;6-7(6) 7-6(4) 6-1;Francisco Comesana;3,54;4,42;11,96;7,06;2026-2889-355;2026;False;;4,0;5,0;113,0;16,0;11,0;92,0
 Guido Ivan Justo;2026-09-28;Curitiba CH;Clay;C;W;F;6-1 6-4;Gustavo Heide;1,61;4,84;5,56;6,89;2026-2895-385;2026;False;;1,0;3,0;62,0;9,0;3,0;54,0
@@ -45098,9 +45109,9 @@ Harry Wendelken;2023-06-05;Surbiton CH;Grass;C;W;Q1;7-6(6) 6-3;Li Tu;4,41;1,47;8
 Harry Wendelken;2022-06-06;Nottingham CH;Grass;C;L;Q1;6-4 7-5;Marius Copil;5,95;2,38;18,57;7,64;2022-7740-242;2022;False;;5,0;2,0;84,0;11,0;13,0;70,0
 Harry Wendelken;2022-05-30;Surbiton CH;Grass;C;L;Q1;6-4 6-3;Gijs Brouwer;3,28;1,64;16,36;6,1;2022-7297-240;2022;False;;2,0;1,0;61,0;10,0;9,0;55,0
 Harry Wendelken;2019-09-16;Glasgow CH;Hard;C;L;R64;7-6(7) 6-3;Jonathan Mridha;2,94;4,41;10,39;6,8;2019-7916-248;2019;False;;2,0;3,0;68,0;10,0;8,0;77,0
-Hayato Matsuoka;2026-10-12;Jinan Challenger;Hard;C;L;R32;6-2 6-3;Aleksandar Vukic;3,7;5,56;0,0;6,75;2026-7746-377;2026;False;;2,0;3,0;54,0;8,0;0,0;56,0
-Hayato Matsuoka;2026-10-12;Jinan Challenger;Hard;C;W;Q2;6-3 6-4;James Mccabe;12,5;2,08;5,8;5,33;2026-7746-369;2026;False;;6,0;1,0;48,0;9,0;4,0;69,0
-Hayato Matsuoka;2026-10-12;Jinan Challenger;Hard;C;W;Q1;6-2 6-7(5) 6-4;Qian Sun;3,0;4,0;2,91;6,67;2026-7746-358;2026;False;;3,0;4,0;100,0;15,0;3,0;103,0
+Hayato Matsuoka;2026-10-12;Jinan Challenger;Hard;C;L;R32;6-2 6-3;Aleksandar Vukic;3,7;5,56;0,0;6,75;2026-7746-368;2026;False;;2,0;3,0;54,0;8,0;0,0;56,0
+Hayato Matsuoka;2026-10-12;Jinan Challenger;Hard;C;W;Q2;6-3 6-4;James Mccabe;12,5;2,08;5,8;5,33;2026-7746-360;2026;False;;6,0;1,0;48,0;9,0;4,0;69,0
+Hayato Matsuoka;2026-10-12;Jinan Challenger;Hard;C;W;Q1;6-2 6-7(5) 6-4;Qian Sun;3,0;4,0;2,91;6,67;2026-7746-349;2026;False;;3,0;4,0;100,0;15,0;3,0;103,0
 Hayato Matsuoka;2026-09-23;Hangzhou;Hard;A;L;Q2;6-4 7-6(9);Taro Daniel;6,02;4,82;5,19;7,55;2026-4713-355;2026;False;;5,0;4,0;83,0;11,0;4,0;77,0
 Hayato Matsuoka;2026-09-23;Hangzhou;Hard;A;W;Q1;6-4 7-5;Arthur Weber;11,54;1,92;0,0;4,73;2026-4713-347;2026;False;;6,0;1,0;52,0;11,0;0,0;81,0
 Hayato Matsuoka;2026-09-14;Guangzhou Huangpu CH;Hard;C;L;R32;6-7(6) 7-5 7-6(4);Lloyd Harris;3,67;0,92;20,35;6,06;2026-2937-359;2026;False;;4,0;1,0;109,0;18,0;23,0;113,0
@@ -45524,7 +45535,7 @@ Henri Squire;2021-10-25;Ismaning CH;Hard;C;L;R32;6-3 6-4;Ruben Bemelmans;15,22;8
 Henri Squire;2019-08-12;Meerbusch CH;Clay;C;L;R64;6-1 6-3;Julian Lenz;1,89;5,66;7,55;6,62;2019-6809-267;2019;False;;1,0;3,0;53,0;8,0;4,0;53,0
 Henri Squire;2018-08-13;Meerbusch CH;Clay;C;L;Q1;6-3 6-1;Yshai Oliel;4,44;4,44;4,26;5,62;2018-6809-232;2018;False;;2,0;2,0;45,0;8,0;2,0;47,0
 Henri Squire;2017-08-14;Meerbusch CH;Clay;C;L;R32;6-4 6-2;Steven Diez;5,56;1,85;3,64;6,0;2017-6809-272;2017;False;;3,0;1,0;54,0;9,0;2,0;55,0
-Henrique Rocha;2026-10-12;Maia Challenger;Clay;C;L;R32;3-6 7-5 7-6(5);Sumit Nagal;2,94;0,98;2,86;6,0;2026-8312-379;2026;False;;3,0;1,0;102,0;17,0;3,0;105,0
+Henrique Rocha;2026-10-12;Maia Challenger;Clay;C;L;R32;3-6 7-5 7-6(5);Sumit Nagal;2,94;0,98;2,86;6,0;2026-8312-371;2026;False;;3,0;1,0;102,0;17,0;3,0;105,0
 Henrique Rocha;2026-09-28;Porto Monte Aventino CH;Hard;C;W;F;2-6 6-4 6-4;Inaki Montes De La Torre;4,71;2,35;0,0;6,07;2026-9526-385;2026;False;;4,0;2,0;85,0;14,0;0,0;96,0
 Henrique Rocha;2026-09-28;Porto Monte Aventino CH;Hard;C;W;QF;6-3 7-6(7);August Holmgren;5,63;0,0;5,71;6,45;2026-9526-382;2026;False;;4,0;0,0;71,0;11,0;4,0;70,0
 Henrique Rocha;2026-09-28;Porto Monte Aventino CH;Hard;C;W;R16;6-2 6-0;Mili Poljicak;10,64;10,64;1,89;6,71;2026-9526-377;2026;False;;5,0;5,0;47,0;7,0;1,0;53,0
@@ -45732,7 +45743,7 @@ Henrique Rocha;2022-04-04;Oeiras 2 CH;Clay;C;W;Q1;6-3 6-1;Marek Gengel;4,26;2,13
 Henrique Rocha;2021-12-13;Maia 2 CH;Clay;C;L;Q1;7-6(3) 6-2;Elmar Ejupovic;2,38;3,57;5,36;8,4;2021-9653-250;2021;False;;2,0;3,0;84,0;10,0;3,0;56,0
 Henrique Rocha;2021-09-27;Lisboa CH;Clay;C;L;Q1;6-4 6-2;Benjamin Hassan;0,0;11,11;5,56;8,0;2021-7742-250;2021;False;;0,0;8,0;72,0;9,0;3,0;54,0
 Henrique Rocha;2021-09-20;Braga CH;Clay;C;L;Q1;6-2 7-5;Nikolas Sanchez Izquierdo;2,56;5,13;3,08;7,8;2021-7913-246;2021;False;;2,0;4,0;78,0;10,0;2,0;65,0
-Henry Searle;2026-10-12;San Gregorio di Catania Challenger;Clay;C;L;R32;6-7(7) 6-2 6-2;Massimo Giunta;9,09;0,0;8,25;7,07;2026-3155-386;2026;False;;9,0;0,0;99,0;14,0;8,0;97,0
+Henry Searle;2026-10-12;San Gregorio di Catania Challenger;Clay;C;L;R32;6-7(7) 6-2 6-2;Massimo Giunta;9,09;0,0;8,25;7,07;2026-3155-385;2026;False;;9,0;0,0;99,0;14,0;8,0;97,0
 Henry Searle;2026-09-21;San Diego 2 CH;Hard;C;L;QF;6-3 7-5;Dylan Dietrich;5,45;5,45;3,23;5,5;2026-3175-381;2026;False;;3,0;3,0;55,0;10,0;2,0;62,0
 Henry Searle;2026-09-21;San Diego 2 CH;Hard;C;W;R16;7-6(7) 2-6 6-4;Liam Draxl;14,61;2,25;4,44;5,93;2026-3175-375;2026;False;;13,0;2,0;89,0;15,0;4,0;90,0
 Henry Searle;2026-09-21;San Diego 2 CH;Hard;C;W;R32;6-3 6-7(8) 6-3;Evan Zhu;5,36;6,25;2,17;7,0;2026-3175-364;2026;False;;6,0;7,0;112,0;16,0;2,0;92,0
@@ -46829,7 +46840,8 @@ Hubert Hurkacz;2015-09-14;Szczecin CH;Clay;C;L;R16;3-6 6-4 6-3;Pablo Carreno Bus
 Hubert Hurkacz;2015-09-14;Szczecin CH;Clay;C;W;R32;6-3 6-3;Tristan Lamasine;8,77;1,75;1,59;6,33;2015-448-002;2015;True;;5,0;1,0;57,0;9,0;1,0;63,0
 Hubert Hurkacz;2015-07-13;Poznan CH;Clay;C;L;R32;6-2 6-1;Andre Ghem;1,54;7,69;2,33;8,12;2015-786-007;2015;True;;1,0;5,0;65,0;8,0;1,0;43,0
 Hubert Hurkacz;2015-02-16;Wroclaw CH;Hard;C;L;R32;7-6(4) 7-5;Ricardas Berankis;6,14;7,02;5,8;9,5;2015-7205-001;2015;True;;7,0;8,0;114,0;12,0;4,0;69,0
-Hugo Dellien;2026-10-12;Santa Cruz de la Sierra 2 Challenger;Clay;C;W;R32;6-3 7-5;Bernardo Munk Mesa;3,17;1,59;0,0;5,73;2026-3143-382;2026;False;;2,0;1,0;63,0;11,0;0,0;60,0
+Hugo Dellien;2026-10-12;Santa Cruz de la Sierra 2 Challenger;Clay;C;W;R16;6-3 7-5;Rodrigo Pacheco Mendez;3,57;5,36;2,99;5,6;2026-3143-389;2026;False;;2,0;3,0;56,0;10,0;2,0;67,0
+Hugo Dellien;2026-10-12;Santa Cruz de la Sierra 2 Challenger;Clay;C;W;R32;6-3 7-5;Bernardo Munk Mesa;3,17;1,59;0,0;5,73;2026-3143-373;2026;False;;2,0;1,0;63,0;11,0;0,0;60,0
 Hugo Dellien;2026-09-21;Buenos Aires 2 CH;Clay;C;L;R16;4-6 7-5 6-0;Nicolas Kicker;3,53;3,53;2,33;6,07;2026-7395-371;2026;False;;3,0;3,0;85,0;14,0;2,0;86,0
 Hugo Dellien;2026-09-21;Buenos Aires 2 CH;Clay;C;W;R32;5-7 6-4 6-4;Matheus Pucinelli De Almeida;1,72;0,86;2,06;7,25;2026-7395-355;2026;False;;2,0;1,0;116,0;16,0;2,0;97,0
 Hugo Dellien;2026-09-07;Genoa Nuova Valletta CH;Clay;C;L;R16;5-3 RET;Matej Dodig;3,12;3,12;15,0;8,0;2026-1763-376;2026;False;;1,0;1,0;32,0;4,0;3,0;20,0
@@ -47420,7 +47432,8 @@ Hugo Dellien;2013-11-11;Guayaquil CH;Clay;C;W;R32;6-4 6-4;Gabriel Alejandro Hida
 Hugo Dellien;2013-09-16;Quito CH;Clay;C;L;R16;6-3 6-2;Marco Trungelliti;3,85;5,13;12,24;8,67;2013-589-022;2013;False;;3,0;4,0;78,0;9,0;6,0;49,0
 Hugo Dellien;2013-09-16;Quito CH;Clay;C;W;R32;6-1 6-4;Juan Carlos Saez;1,85;5,56;7,55;6,0;2013-589-011;2013;False;;1,0;3,0;54,0;9,0;4,0;53,0
 Hugo Dellien;2013-09-09;Cali CH;Clay;C;L;R32;6-2 6-3;Facundo Bagnis;0,0;14,04;3,23;7,12;2013-3994-005;2013;False;;0,0;8,0;57,0;8,0;2,0;62,0
-Hugo Gaston;2026-10-12;Roanne Challenger;Hard;C;W;R32;6-1 6-1;Daniel Jade;2,44;2,44;2,22;5,86;2026-9625-390;2026;True;;1,0;1,0;41,0;7,0;1,0;45,0
+Hugo Gaston;2026-10-12;Roanne Challenger;Hard;C;W;R16;3-6 6-3 6-4;Pierre Hugues Herbert;4,6;0,0;8,86;6,21;2026-9625-392;2026;True;;4,0;0,0;87,0;14,0;7,0;79,0
+Hugo Gaston;2026-10-12;Roanne Challenger;Hard;C;W;R32;6-1 6-1;Daniel Jade;2,44;2,44;2,22;5,86;2026-9625-387;2026;True;;1,0;1,0;41,0;7,0;1,0;45,0
 Hugo Gaston;2026-10-07;ATP Shanghai;Hard;M;L;Q1;7-5 6-4;Liam Draxl;2,47;0,0;15,15;7,36;2026-5014-274;2026;True;;2,0;0,0;81,0;11,0;10,0;66,0
 Hugo Gaston;2026-09-23;Hangzhou;Hard;A;L;QF;6-7(6) 7-6(4) 6-1;Andrey Rublev;4,63;4,63;10,19;7,2;2026-4713-379;2026;True;;5,0;5,0;108,0;15,0;11,0;108,0
 Hugo Gaston;2026-09-23;Hangzhou;Hard;A;W;R16;4-6 7-6(5) 6-4;Jaime Faria;4,17;1,04;10,0;6,0;2026-4713-372;2026;True;;4,0;1,0;96,0;16,0;11,0;110,0
@@ -47850,7 +47863,7 @@ Hugo Gaston;2019-01-21;Rennes CH;Hard;C;L;R64;7-5 3-6 6-3;Alexander Bublik;6,12;
 Hugo Gaston;2018-05-14;Bordeaux CH;Clay;C;L;Q1;7-6(8) 6-2;Hugo Grenier;5,71;5,71;7,23;7,0;2018-3824-227;2018;True;;4,0;4,0;70,0;10,0;6,0;83,0
 Hugo Gaston;2018-05-07;Aix En Provence CH;Clay;C;L;Q1;6-3 6-0;Maximo Gonzalez;0,0;8,33;9,52;5,14;2018-7009-233;2018;True;;0,0;3,0;36,0;7,0;4,0;42,0
 Hugo Gaston;2018-02-19;Marseille;Hard;A;L;R32;6-2 6-2;Stefano Travaglia;7,27;1,82;16,67;6,88;2018-0496-280;2018;True;;4,0;1,0;55,0;8,0;7,0;42,0
-Hugo Grenier;2026-10-12;Roanne Challenger;Hard;C;L;R32;6-7(5) 6-1 6-3;Benjamin Bonzi;17,05;6,82;5,05;6,29;2026-9625-375;2026;False;;15,0;6,0;88,0;14,0;5,0;99,0
+Hugo Grenier;2026-10-12;Roanne Challenger;Hard;C;L;R32;6-7(5) 6-1 6-3;Benjamin Bonzi;17,05;6,82;5,05;6,29;2026-9625-372;2026;False;;15,0;6,0;88,0;14,0;5,0;99,0
 Hugo Grenier;2026-10-05;Villena Challenger;Hard;C;L;Q2;7-6(5) 6-4;Georgii Kravchenko;4,82;2,41;1,67;7,55;2026-7909-349;2026;False;;4,0;2,0;83,0;11,0;1,0;60,0
 Hugo Grenier;2026-10-05;Villena Challenger;Hard;C;W;Q1;6-4 6-3;Bruno Pujol Navarro;9,8;5,88;0,0;5,1;2026-7909-338;2026;False;;5,0;3,0;51,0;10,0;0,0;58,0
 Hugo Grenier;2026-09-28;Porto Monte Aventino CH;Hard;C;L;QF;6-2 7-6(3);Inaki Montes De La Torre;6,85;8,22;0,0;7,3;2026-9526-379;2026;False;;5,0;6,0;73,0;10,0;0,0;79,0
@@ -48366,7 +48379,7 @@ Hugo Grenier;2016-06-13;Blois CH;Clay;C;L;R32;6-1 5-7 6-4;Juan Pablo Paz;4,94;2,
 Hugo Grenier;2016-02-22;Cherbourg CH;Hard;C;L;Q2;6-3 6-2;Miliaan Niesten;7,02;5,26;1,64;7,12;2016-0398-265;2016;False;;4,0;3,0;57,0;8,0;1,0;61,0
 Hugo Grenier;2016-02-22;Cherbourg CH;Hard;C;W;Q1;5-7 6-1 6-1;Jan Satral;10,23;4,55;8,43;6,77;2016-0398-257;2016;False;;9,0;4,0;88,0;13,0;7,0;83,0
 Hugo Grenier;2015-09-08;St Remy CH;Hard;C;L;R32;6-2 6-3;Hugo Nys;5,0;3,33;11,11;7,5;2015-6014-015;2015;False;;3,0;2,0;60,0;8,0;6,0;54,0
-Hynek Barton;2026-10-12;Olbia Challenger;Hard;C;L;R32;6-2 2-1 RET;Maxim Mrva;12,5;0,0;5,0;5,33;2026-2893-388;2026;False;;4,0;0,0;32,0;6,0;2,0;40,0
+Hynek Barton;2026-10-12;Olbia Challenger;Hard;C;L;R32;6-2 2-1 RET;Maxim Mrva;12,5;0,0;5,0;5,33;2026-2893-382;2026;False;;4,0;0,0;32,0;6,0;2,0;40,0
 Hynek Barton;2026-10-05;Villena Challenger;Hard;C;L;QF;6-3 7-5;Laslo Djere;5,77;0,0;7,14;4,73;2026-7909-379;2026;False;;3,0;0,0;52,0;11,0;4,0;56,0
 Hynek Barton;2026-10-05;Villena Challenger;Hard;C;W;R16;6-1 6-7(1) 7-6(3);Max Hans Rehberg;9,78;5,43;1,79;6,13;2026-7909-371;2026;False;;9,0;5,0;92,0;15,0;2,0;112,0
 Hynek Barton;2026-10-05;Villena Challenger;Hard;C;W;R32;7-6(11) 6-3;Toby Samuel;8,79;3,3;4,17;8,27;2026-7909-355;2026;False;;8,0;3,0;91,0;11,0;3,0;72,0
@@ -48880,7 +48893,7 @@ Igor Ribeiro Marcondes;2016-08-29;Curitiba CH;Hard;C;W;R32;6-4 6-1;Maximiliano E
 Igor Ribeiro Marcondes;2016-04-18;Sao Paulo CH;Clay;C;L;Q2;6-2 3-6 6-1;Joao Pedro Sorgi;5,33;4,0;8,0;6,25;2016-6492-262;2016;False;;4,0;3,0;75,0;12,0;6,0;75,0
 Igor Ribeiro Marcondes;2016-04-18;Sao Paulo CH;Clay;C;W;Q1;6-1 6-0;Americo Lanzoni;6,52;6,52;0,0;6,57;2016-6492-251;2016;False;;3,0;3,0;46,0;7,0;0,0;33,0
 Igor Ribeiro Marcondes;2016-01-18;Rio de Janeiro CH;Clay;C;L;Q2;6-2 4-6 7-5;Tiago Lopes;4,67;6,54;3,03;7,13;2016-7474-262;2016;False;;5,0;7,0;107,0;15,0;3,0;99,0
-Ilia Simakin;2026-10-12;Jinan Challenger;Hard;C;L;R32;6-3 6-3;Martin Landaluce;3,51;5,26;4,48;6,33;2026-7746-382;2026;False;;2,0;3,0;57,0;9,0;3,0;67,0
+Ilia Simakin;2026-10-12;Jinan Challenger;Hard;C;L;R32;6-3 6-3;Martin Landaluce;3,51;5,26;4,48;6,33;2026-7746-373;2026;False;;2,0;3,0;57,0;9,0;3,0;67,0
 Ilia Simakin;2026-10-07;ATP Shanghai;Hard;M;L;R128;2-6 6-2 7-5;Camilo Ugo Carabelli;5,15;7,22;6,25;6,93;2026-5014-301;2026;False;;5,0;7,0;97,0;14,0;6,0;96,0
 Ilia Simakin;2026-10-07;ATP Shanghai;Hard;M;W;Q2;6-3 6-2;Rigele Te;10,53;3,51;3,85;6,33;2026-5014-286;2026;False;;6,0;2,0;57,0;9,0;2,0;52,0
 Ilia Simakin;2026-10-07;ATP Shanghai;Hard;M;W;Q1;4-6 6-4 6-1;Luka Pavlovic;7,35;4,41;12,68;4,86;2026-5014-267;2026;False;;5,0;3,0;68,0;14,0;9,0;71,0
@@ -49022,9 +49035,10 @@ Ilia Simakin;2024-07-15;Astana CH;Hard;C;W;R32;3-6 7-6(5) 7-5;Siddharth Vishwaka
 Ilia Simakin;2024-05-20;Kachreti CH;Hard;C;L;Q1;6-1 7-6(5);Petr Bar Biryukov;3,08;6,15;6,94;6,5;2024-2925-245;2024;False;;2,0;4,0;65,0;10,0;5,0;72,0
 Ilia Simakin;2023-07-24;Astana CH;Hard;C;L;Q2;7-6(4) 4-6 7-5;Egor Gerasimov;0,86;4,31;8,08;6,82;2023-9533-249;2023;False;;1,0;5,0;116,0;17,0;8,0;99,0
 Ilia Simakin;2023-07-24;Astana CH;Hard;C;W;Q1;2-6 6-2 6-3;Siddhant Banthia;2,78;6,94;6,67;5,54;2023-9533-238;2023;False;;2,0;5,0;72,0;13,0;5,0;75,0
-Ilya Ivashka;2026-10-12;Jinan Challenger;Hard;C;W;R32;3-4 RET;Marat Sharipov;7,41;0,0;12,12;9,0;2026-7746-376;2026;False;;2,0;0,0;27,0;3,0;4,0;33,0
-Ilya Ivashka;2026-10-12;Jinan Challenger;Hard;C;W;Q2;6-2 6-4;Kaichi Uchida;12,96;1,85;12,12;6,0;2026-7746-370;2026;False;;7,0;1,0;54,0;9,0;8,0;66,0
-Ilya Ivashka;2026-10-12;Jinan Challenger;Hard;C;W;Q1;6-0 6-4;Beibit Zhukayev;2,56;5,13;5,88;4,88;2026-7746-360;2026;False;;1,0;2,0;39,0;8,0;3,0;51,0
+Ilya Ivashka;2026-10-12;Jinan Challenger;Hard;C;L;R16;6-4 0-6 6-4;Liam Draxl;10,67;6,67;11,69;5,77;2026-7746-382;2026;False;;8,0;5,0;75,0;13,0;9,0;77,0
+Ilya Ivashka;2026-10-12;Jinan Challenger;Hard;C;W;R32;3-4 RET;Marat Sharipov;7,41;0,0;12,12;9,0;2026-7746-367;2026;False;;2,0;0,0;27,0;3,0;4,0;33,0
+Ilya Ivashka;2026-10-12;Jinan Challenger;Hard;C;W;Q2;6-2 6-4;Kaichi Uchida;12,96;1,85;12,12;6,0;2026-7746-361;2026;False;;7,0;1,0;54,0;9,0;8,0;66,0
+Ilya Ivashka;2026-10-12;Jinan Challenger;Hard;C;W;Q1;6-0 6-4;Beibit Zhukayev;2,56;5,13;5,88;4,88;2026-7746-351;2026;False;;1,0;2,0;39,0;8,0;3,0;51,0
 Ilya Ivashka;2026-09-07;Shanghai CH;Hard;C;W;F;6-4 3-6 7-6(7);Marat Sharipov;7,69;0,0;12,5;6,07;2026-6313-385;2026;False;;7,0;0,0;91,0;15,0;13,0;104,0
 Ilya Ivashka;2026-09-07;Shanghai CH;Hard;C;W;SF;6-3 6-4;Luca Castelnuovo;3,51;0,0;6,78;5,7;2026-6313-384;2026;False;;2,0;0,0;57,0;10,0;4,0;59,0
 Ilya Ivashka;2026-09-07;Shanghai CH;Hard;C;W;QF;6-3 6-3;Yi Zhou;9,09;2,27;4,41;4,89;2026-6313-381;2026;False;;4,0;1,0;44,0;9,0;3,0;68,0
@@ -50404,7 +50418,7 @@ Jack Pinnington Jones;2022-05-16;Francavilla Al Mare CH;Clay;C;L;Q2;6-1 6-4;Omar
 Jack Pinnington Jones;2022-03-07;Monterrey CH;Hard;C;L;Q1;6-3 7-6(3);Sho Shimabukuro;1,23;4,94;4,62;7,36;2022-7351-242;2022;False;;1,0;4,0;81,0;11,0;3,0;65,0
 Jack Pinnington Jones;2021-06-28;Wimbledon;Grass;G;L;Q2;6-3 6-2;Arthur Rinderknech;0,0;6,25;21,28;6,0;2021-540-176;2021;False;;0,0;3,0;48,0;8,0;10,0;47,0
 Jack Pinnington Jones;2021-06-28;Wimbledon;Grass;G;W;Q1;6-4 6-3;Joao Menezes;1,92;1,92;1,41;5,78;2021-540-125;2021;False;;1,0;1,0;52,0;9,0;1,0;71,0
-Jacob Fearnley;2026-10-12;Olbia Challenger;Hard;C;W;R32;6-1 6-3;George Loffhagen;7,84;5,88;5,17;6,38;2026-2893-390;2026;True;;4,0;3,0;51,0;8,0;3,0;58,0
+Jacob Fearnley;2026-10-12;Olbia Challenger;Hard;C;W;R32;6-1 6-3;George Loffhagen;7,84;5,88;5,17;6,38;2026-2893-384;2026;True;;4,0;3,0;51,0;8,0;3,0;58,0
 Jacob Fearnley;2026-09-28;Porto Monte Aventino CH;Hard;C;L;R16;7-6(4) 3-0 RET;Inaki Montes De La Torre;6,94;9,72;0,0;9,0;2026-9526-371;2026;True;;5,0;7,0;72,0;8,0;0,0;49,0
 Jacob Fearnley;2026-09-28;Porto Monte Aventino CH;Hard;C;W;R32;6-1 6-2;Alejo Sanchez Quilez;4,76;9,52;1,54;6,0;2026-9526-355;2026;True;;2,0;4,0;42,0;7,0;1,0;65,0
 Jacob Fearnley;2026-08-31;US Open;Hard;G;L;R64;6-3 6-3 3-6 6-3;Tomas Martin Etcheverry;7,63;8,4;7,63;7,28;2026-560-186;2026;True;;10,0;11,0;131,0;18,0;9,0;118,0
@@ -50975,7 +50989,7 @@ Jakub Mensik;2022-05-02;Prague CH;Clay;C;L;Q1;6-0 0-0 RET;Tristan Lamasine;0,0;8
 Jakub Mensik;2022-04-25;Ostrava CH;Clay;C;L;R32;6-1 6-1;Lucas Miedler;5,45;9,09;5,0;7,86;2022-1797-284;2022;True;;3,0;5,0;55,0;7,0;2,0;40,0
 Jakub Mensik;2022-04-18;Belgrade ;Clay;A;L;Q1;6-2 6-1;Liam Broady;1,96;5,88;7,69;6,38;2022-5053-247;2022;True;;1,0;3,0;51,0;8,0;3,0;39,0
 Jakub Mensik;2021-06-14;Prostejov CH;Clay;C;L;Q1;6-3 6-4;Alexander Erler;10,91;7,27;10,0;6,11;2021-0558-244;2021;True;;6,0;4,0;55,0;9,0;5,0;50,0
-James Duckworth;2026-10-12;Jinan Challenger;Hard;C;L;R32;6-4 6-4;Liam Draxl;3,12;3,12;10,94;6,4;2026-7746-375;2026;True;;2,0;2,0;64,0;10,0;7,0;64,0
+James Duckworth;2026-10-12;Jinan Challenger;Hard;C;L;R32;6-4 6-4;Liam Draxl;3,12;3,12;10,94;6,4;2026-7746-366;2026;True;;2,0;2,0;64,0;10,0;7,0;64,0
 James Duckworth;2026-10-07;ATP Shanghai;Hard;M;L;R128;6-3 7-6(4);Hubert Hurkacz;10,17;1,69;26,39;5,9;2026-5014-312;2026;True;;6,0;1,0;59,0;10,0;19,0;72,0
 James Duckworth;2026-09-23;Chengdu;Hard;A;L;R32;6-4 6-4;Lorenzo Sonego;6,56;1,64;17,86;6,1;2026-7581-363;2026;True;;4,0;1,0;61,0;10,0;10,0;56,0
 James Duckworth;2026-08-31;US Open;Hard;G;L;R64;7-5 6-3 6-1;Yibing Wu;8,65;7,69;16,44;7,43;2026-560-194;2026;True;;9,0;8,0;104,0;14,0;12,0;73,0
@@ -51766,8 +51780,8 @@ James Duckworth;2011-01-17;Australian Open;Hard;G;L;Q1;6-3 6-7(3) 6-2;Tim Smycze
 James Duckworth;2011-01-02;Brisbane;Hard;A;L;Q1;6-3 6-4;Dmitry Tursunov;10,14;4,35;15,09;7,67;2011-339-707;2011;True;;7,0;3,0;69,0;9,0;8,0;53,0
 James Duckworth;2010-01-18;Australian Open;Hard;G;L;Q1;6-2 6-1;Somdev Devvarman;3,85;0,0;0,0;6,5;2010-580-748;2010;True;;2,0;0,0;52,0;8,0;0,0;35,0
 James Duckworth;2010-01-11;Sydney;Hard;A;L;Q1;6-1 6-3;Marinko Matosevic;3,85;3,85;9,62;6,5;2010-338-706;2010;True;;2,0;2,0;52,0;8,0;5,0;52,0
-James Mccabe;2026-10-12;Jinan Challenger;Hard;C;L;Q2;6-3 6-4;Hayato Matsuoka;5,8;2,9;12,5;6,9;2026-7746-369;2026;False;;4,0;2,0;69,0;10,0;6,0;48,0
-James Mccabe;2026-10-12;Jinan Challenger;Hard;C;W;Q1;6-0 3-1 RET;Siddhant Banthia;23,08;11,54;0,0;5,2;2026-7746-357;2026;False;;6,0;3,0;26,0;5,0;0,0;34,0
+James Mccabe;2026-10-12;Jinan Challenger;Hard;C;L;Q2;6-3 6-4;Hayato Matsuoka;5,8;2,9;12,5;6,9;2026-7746-360;2026;False;;4,0;2,0;69,0;10,0;6,0;48,0
+James Mccabe;2026-10-12;Jinan Challenger;Hard;C;W;Q1;6-0 3-1 RET;Siddhant Banthia;23,08;11,54;0,0;5,2;2026-7746-348;2026;False;;6,0;3,0;26,0;5,0;0,0;34,0
 James Mccabe;2026-09-29;Jingshan Challenger;Hard;C;L;R32;6-2 6-3;Federico Cina;16,36;1,82;12,2;6,11;2026-3013-384;2026;False;;9,0;1,0;55,0;9,0;5,0;41,0
 James Mccabe;2026-08-31;US Open;Hard;G;L;Q1;6-1 6-4;Lukas Neumayer;5,45;1,82;9,76;6,88;2026-560-706;2026;False;;3,0;1,0;55,0;8,0;4,0;41,0
 James Mccabe;2026-08-10;M25 East Lansing MI;Hard;25;L;R32;4-6 6-3 7-6(2);Noah Zamora;3,85;2,88;3,12;6,5;2026-M-ITF-USA-2026-034-101;2026;False;;4,0;3,0;104,0;16,0;3,0;96,0
@@ -52430,7 +52444,7 @@ Jan Choinski;2015-04-27;Munich;Clay;A;L;Q1;7-6(3) 6-3;Daniel Brands;5,71;4,29;19
 Jan Choinski;2014-09-15;Trnava CH;Clay;C;L;R32;6-1 6-0;Jan Mertl;2,56;10,26;21,21;5,57;2014-3628-007;2014;True;;1,0;4,0;39,0;7,0;7,0;33,0
 Jan Choinski;2014-07-07;Stuttgart;Clay;A;L;Q2;6-2 6-7(4) 6-2;Yann Marti;1,1;3,3;6,45;6,5;2014-321-722;2014;True;;1,0;3,0;91,0;14,0;6,0;93,0
 Jan Choinski;2014-07-07;Stuttgart;Clay;A;W;Q1;6-3 6-3;David Estruch;7,02;5,26;0,0;6,33;2014-321-711;2014;True;;4,0;3,0;57,0;9,0;0,0;65,0
-Jan Kumstat;2026-10-12;Olbia Challenger;Hard;C;W;R32;7-6(4) 7-6(5);Edas Butvilas;8,33;3,57;8,33;7,0;2026-2893-389;2026;False;;7,0;3,0;84,0;12,0;7,0;84,0
+Jan Kumstat;2026-10-12;Olbia Challenger;Hard;C;W;R32;7-6(4) 7-6(5);Edas Butvilas;8,33;3,57;8,33;7,0;2026-2893-383;2026;False;;7,0;3,0;84,0;12,0;7,0;84,0
 Jan Kumstat;2026-08-31;Como CH;Clay;C;L;R32;6-4 6-3;Juan Pablo Varillas;6,56;4,92;5,26;6,78;2026-3473-359;2026;False;;4,0;3,0;61,0;9,0;3,0;57,0
 Jan Kumstat;2026-08-17;Prague CH;Clay;C;W;F;5-7 6-3 6-0;Chun Hsin Tseng;4,0;2,67;2,25;5,36;2026-0600-385;2026;False;;3,0;2,0;75,0;14,0;2,0;89,0
 Jan Kumstat;2026-08-17;Prague CH;Clay;C;W;SF;6-1 6-4;Filip Cristian Jianu;14,63;0,0;4,35;4,56;2026-0600-383;2026;False;;6,0;0,0;41,0;9,0;2,0;46,0
@@ -54911,7 +54925,8 @@ Jay Clarke;2017-05-15;Busan CH;Hard;C;L;Q1;7-6(2) 6-4;Ji Hoon Son;2,82;2,82;3,92
 Jay Clarke;2017-05-08;Seoul CH;Hard;C;L;Q1;7-6(2) 6-2;Matthew Ebden;5,06;2,53;1,64;7,9;2017-7288-230;2017;False;;4,0;2,0;79,0;10,0;1,0;61,0
 Jay Clarke;2016-06-20;Nottingham;Grass;A;L;Q1;6-4 7-5;Matthew Barton;1,59;0,0;15,62;5,73;2016-0741-232;2016;False;;1,0;0,0;63,0;11,0;10,0;64,0
 Jay Clarke;2016-06-13;Ilkley CH;Grass;C;L;Q1;7-6(6) 7-6(2);Joe Salisbury;4,0;5,33;10,53;6,25;2016-9005-243;2016;False;;3,0;4,0;75,0;12,0;8,0;76,0
-Jay Dylan Hara Friend;2026-10-12;Jinan Challenger;Hard;C;W;R32;6-7(4) 7-5 6-3;Alibek Kachmazov;7,02;4,39;12,75;6,71;2026-7746-389;2026;False;;8,0;5,0;114,0;17,0;13,0;102,0
+Jay Dylan Hara Friend;2026-10-12;Jinan Challenger;Hard;C;L;R16;6-0 6-4;Alexander Shevchenko;4,08;8,16;1,85;6,12;2026-7746-389;2026;False;;2,0;4,0;49,0;8,0;1,0;54,0
+Jay Dylan Hara Friend;2026-10-12;Jinan Challenger;Hard;C;W;R32;6-7(4) 7-5 6-3;Alibek Kachmazov;7,02;4,39;12,75;6,71;2026-7746-380;2026;False;;8,0;5,0;114,0;17,0;13,0;102,0
 Jay Dylan Hara Friend;2026-10-05;Wuning 3 Challenger;Hard;C;L;F;4-6 7-6(7) 7-6(6);Alibek Kachmazov;13,33;3,81;6,36;6,18;2026-3183-385;2026;False;;14,0;4,0;105,0;17,0;7,0;110,0
 Jay Dylan Hara Friend;2026-10-05;Wuning 3 Challenger;Hard;C;W;SF;6-2 6-1;Keisuke Saitoh;14,29;4,76;0,0;6,0;2026-3183-384;2026;False;;6,0;2,0;42,0;7,0;0,0;48,0
 Jay Dylan Hara Friend;2026-10-05;Wuning 3 Challenger;Hard;C;W;QF;7-6(5) 6-2;Ryan Seggerman;9,52;1,59;24,62;6,3;2026-3183-381;2026;False;;6,0;1,0;63,0;10,0;16,0;65,0
@@ -55210,7 +55225,7 @@ Jenson Brooksby;2017-10-02;Stockton CH;Hard;C;L;Q2;6-4 6-3;Eric Johnson;0,0;1,59
 Jenson Brooksby;2017-10-02;Stockton CH;Hard;C;W;Q1;6-0 6-3;Takanyi Garanganga;1,75;1,75;2,22;7,12;2017-3351-239;2017;False;;1,0;1,0;57,0;8,0;1,0;45,0
 Jenson Brooksby;2016-10-03;Stockton CH;Hard;C;L;Q2;6-2 6-7(5) 6-3;Marco Trungelliti;0,0;2,78;4,12;7,71;2016-3351-250;2016;False;;0,0;3,0;108,0;14,0;4,0;97,0
 Jenson Brooksby;2016-10-03;Stockton CH;Hard;C;W;Q1;6-3 6-3;Miguel Diaz;0,0;4,08;0,0;5,44;2016-3351-241;2016;False;;0,0;2,0;49,0;9,0;0,0;55,0
-Jerome Kym;2026-10-12;Roanne Challenger;Hard;C;W;R32;7-6(6) 7-6(3);Clement Chidekh;15,96;1,06;3,66;7,83;2026-9625-382;2026;False;;15,0;1,0;94,0;12,0;3,0;82,0
+Jerome Kym;2026-10-12;Roanne Challenger;Hard;C;W;R32;7-6(6) 7-6(3);Clement Chidekh;15,96;1,06;3,66;7,83;2026-9625-379;2026;False;;15,0;1,0;94,0;12,0;3,0;82,0
 Jerome Kym;2026-09-28;Porto Monte Aventino CH;Hard;C;W;QF;6-7(5) 6-3 7-6(5);Edas Butvilas;16,82;2,8;6,96;6,69;2026-9526-381;2026;False;;18,0;3,0;107,0;16,0;8,0;115,0
 Jerome Kym;2026-09-28;Porto Monte Aventino CH;Hard;C;W;R16;6-2 4-6 6-2;Toby Samuel;9,52;2,38;4,0;6,46;2026-9526-376;2026;False;;8,0;2,0;84,0;13,0;3,0;75,0
 Jerome Kym;2026-09-28;Porto Monte Aventino CH;Hard;C;W;R32;3-6 7-5 6-1;Tiago Torres;14,94;8,05;1,11;6,21;2026-9526-365;2026;False;;13,0;7,0;87,0;14,0;1,0;90,0
@@ -57440,7 +57455,7 @@ Jordan Thompson;2013-01-28;Burnie CH;Hard;C;W;R32;3-6 6-3 6-0;Alexander Lobkov;5
 Jordan Thompson;2013-01-14;Australian Open;Hard;G;L;Q2;6-2 6-4;Ryan Sweeting;1,64;6,56;1,79;6,78;2013-580-776;2013;False;;;;;;;
 Jordan Thompson;2013-01-14;Australian Open;Hard;G;W;Q1;4-6 6-2 9-7;Nicolas Renavand;4,5;4,5;7,48;6,53;2013-580-723;2013;False;;;;;;;
 Jordan Thompson;2013-01-07;Sydney;Hard;A;L;Q1;7-6(5) 6-1;Guillermo Garcia Lopez;1,43;7,14;7,02;7,78;2013-338-713;2013;False;;;;;;;
-Juan Bautista Torres;2026-10-12;Santa Cruz de la Sierra 2 Challenger;Clay;C;L;R32;7-6(4) 6-0;Alex Barrena;1,47;2,94;5,56;7,56;2026-3143-394;2026;False;;1,0;2,0;68,0;9,0;4,0;72,0
+Juan Bautista Torres;2026-10-12;Santa Cruz de la Sierra 2 Challenger;Clay;C;L;R32;7-6(4) 6-0;Alex Barrena;1,47;2,94;5,56;7,56;2026-3143-385;2026;False;;1,0;2,0;68,0;9,0;4,0;72,0
 Juan Bautista Torres;2026-10-05;Antofagasta Challenger;Clay;C;L;R32;6-2 7-6(2);Pedro Boscardin Dias;1,52;7,58;2,74;6,6;2026-2889-361;2026;False;;1,0;5,0;66,0;10,0;2,0;73,0
 Juan Bautista Torres;2026-09-28;Curitiba CH;Clay;C;L;R16;6-2 6-3;Tomas Barrios Vera;0,0;10,53;3,23;7,12;2026-2895-371;2026;False;;0,0;6,0;57,0;8,0;2,0;62,0
 Juan Bautista Torres;2026-09-28;Curitiba CH;Clay;C;W;R32;6-2 3-6 6-1;Miguel Tobon;0,0;3,41;2,56;7,33;2026-2895-356;2026;False;;0,0;3,0;88,0;12,0;2,0;78,0
@@ -57728,7 +57743,7 @@ Juan Bautista Torres;2022-01-02;Tigre CH;Clay;C;W;R32;6-1 6-2;Strong Kirchheimer
 Juan Bautista Torres;2021-11-01;Guayaquil CH;Clay;C;L;Q2;6-3 6-7(4) 7-5;Facundo Juarez;0,96;1,92;0,0;6,5;2021-7391-251;2021;False;;1,0;2,0;104,0;16,0;0,0;120,0
 Juan Bautista Torres;2021-11-01;Guayaquil CH;Clay;C;W;Q1;6-2 6-2;Cristian Rodriguez;0,0;5,13;3,33;4,88;2021-7391-244;2021;False;;0,0;2,0;39,0;8,0;2,0;60,0
 Juan Bautista Torres;2021-10-18;Buenos Aires CH;Clay;C;L;R32;6-2 6-4;Felipe Meligeni Alves;1,47;2,94;0,0;7,56;2021-7395-272;2021;False;;1,0;2,0;68,0;9,0;0,0;52,0
-Juan Carlos Prado Angelo;2026-10-12;Santa Cruz de la Sierra 2 Challenger;Clay;C;W;R32;6-4 6-4;Eduardo Ribeiro;1,54;1,54;0,0;6,5;2026-3143-386;2026;False;;1,0;1,0;65,0;10,0;0,0;57,0
+Juan Carlos Prado Angelo;2026-10-12;Santa Cruz de la Sierra 2 Challenger;Clay;C;W;R32;6-4 6-4;Eduardo Ribeiro;1,54;1,54;0,0;6,5;2026-3143-377;2026;False;;1,0;1,0;65,0;10,0;0,0;57,0
 Juan Carlos Prado Angelo;2026-10-05;Antofagasta Challenger;Clay;C;L;SF;6-3 6-4;Joao Lucas Reis Da Silva;5,56;0,0;3,17;6,0;2026-2889-383;2026;False;;3,0;0,0;54,0;9,0;2,0;63,0
 Juan Carlos Prado Angelo;2026-10-05;Antofagasta Challenger;Clay;C;W;QF;6-2 6-2;Miguel Tobon;6,38;0,0;0,0;5,88;2026-2889-380;2026;False;;3,0;0,0;47,0;8,0;0,0;46,0
 Juan Carlos Prado Angelo;2026-10-05;Antofagasta Challenger;Clay;C;W;R16;6-2 6-3;Pedro Boscardin Dias;1,75;0,0;2,17;6,33;2026-2889-374;2026;False;;1,0;0,0;57,0;9,0;1,0;46,0
@@ -58323,7 +58338,7 @@ Juan Manuel Cerundolo;2019-11-04;Montevideo CH;Clay;C;W;R16;6-3 7-6(6);Pablo Cue
 Juan Manuel Cerundolo;2019-11-04;Montevideo CH;Clay;C;W;R32;7-6(4) 7-5;Joao Menezes;0,0;3,53;2,56;7,08;2019-0544-284;2019;True;;0,0;3,0;85,0;12,0;2,0;78,0
 Juan Manuel Cerundolo;2019-11-04;Montevideo CH;Clay;C;W;R64;6-2 6-3;Francisco Llanes;0,0;2,33;0,0;5,38;2019-0544-267;2019;True;;0,0;1,0;43,0;8,0;0,0;50,0
 Juan Manuel Cerundolo;2019-09-23;Buenos Aires CH;Clay;C;L;R64;6-3 6-0;Nicolas Alvarez;1,72;0,0;10,0;8,29;2019-7395-267;2019;True;;1,0;0,0;58,0;7,0;5,0;50,0
-Juan Manuel La Serna;2026-10-12;Santa Cruz de la Sierra 2 Challenger;Clay;C;W;R32;6-3 6-4;Hernan Casanova;2,9;11,59;0,0;6,9;2026-3143-388;2026;False;;2,0;8,0;69,0;10,0;0,0;45,0
+Juan Manuel La Serna;2026-10-12;Santa Cruz de la Sierra 2 Challenger;Clay;C;W;R32;6-3 6-4;Hernan Casanova;2,9;11,59;0,0;6,9;2026-3143-379;2026;False;;2,0;8,0;69,0;10,0;0,0;45,0
 Juan Manuel La Serna;2026-09-07;Tulln CH;Clay;C;L;R16;7-5 6-7(9) 6-1;Lukas Neumayer;1,82;0,0;3,42;7,33;2026-9556-377;2026;False;;2,0;0,0;110,0;15,0;4,0;117,0
 Juan Manuel La Serna;2026-09-07;Tulln CH;Clay;C;W;R32;6-4 3-6 6-3;Filip Cristian Jianu;4,65;3,49;4,65;6,14;2026-9556-368;2026;False;;4,0;3,0;86,0;14,0;4,0;86,0
 Juan Manuel La Serna;2026-08-31;Plovdiv 3 CH;Clay;C;L;QF;6-3 3-6 6-1;Yanaki Milev;3,8;0,0;1,96;6,58;2026-3171-383;2026;False;;3,0;0,0;79,0;12,0;2,0;102,0
@@ -61856,8 +61871,8 @@ Karen Khachanov;2013-10-14;Moscow;Hard;A;W;R16;6-4 6-4;Janko Tipsarevic;22,22;6,
 Karen Khachanov;2013-10-14;Moscow;Hard;A;W;R32;6-2 3-6 6-4;Albert Ramos;8,24;2,35;1,19;6,07;2013-438-004;2013;True;;7,0;2,0;85,0;14,0;1,0;84,0
 Karen Khachanov;2013-09-16;St. Petersburg;Hard;A;L;R16;6-4 6-4;Lukas Rosol;7,25;4,35;3,33;6,9;2013-568-018;2013;True;;5,0;3,0;69,0;10,0;2,0;60,0
 Karen Khachanov;2013-09-16;St. Petersburg;Hard;A;W;R32;7-6(4) 7-6(4);Victor Hanescu;6,1;0,0;2,44;6,83;2013-568-003;2013;True;;5,0;0,0;82,0;12,0;2,0;82,0
-Keegan Smith;2026-10-12;Jinan Challenger;Hard;C;W;R16;6-3 3-6 6-3;Vit Kopriva;9,52;3,57;4,11;6,0;2026-7746-391;2026;False;;8,0;3,0;84,0;14,0;3,0;73,0
-Keegan Smith;2026-10-12;Jinan Challenger;Hard;C;W;R32;7-6(5) 3-6 6-3;Stefanos Sakellaridis;6,67;1,11;6,93;6,0;2026-7746-380;2026;False;;6,0;1,0;90,0;15,0;7,0;101,0
+Keegan Smith;2026-10-12;Jinan Challenger;Hard;C;W;R16;6-3 3-6 6-3;Vit Kopriva;9,52;3,57;4,11;6,0;2026-7746-384;2026;False;;8,0;3,0;84,0;14,0;3,0;73,0
+Keegan Smith;2026-10-12;Jinan Challenger;Hard;C;W;R32;7-6(5) 3-6 6-3;Stefanos Sakellaridis;6,67;1,11;6,93;6,0;2026-7746-371;2026;False;;6,0;1,0;90,0;15,0;7,0;101,0
 Keegan Smith;2026-10-05;Wuning 3 Challenger;Hard;C;L;R32;3-6 7-6(5) 6-3;Hiroki Moriya;15,62;2,08;1,06;6,0;2026-3183-370;2026;False;;15,0;2,0;96,0;16,0;1,0;94,0
 Keegan Smith;2026-09-28;Columbus CH;Hard;C;L;QF;6-4 7-6(4);Mitchell Krueger;17,5;5,0;2,94;7,27;2026-8281-379;2026;False;;14,0;4,0;80,0;11,0;2,0;68,0
 Keegan Smith;2026-09-28;Columbus CH;Hard;C;W;R16;6-4 3-6 7-5;Bryce Nakashima;18,09;1,06;5,88;6,27;2026-8281-371;2026;False;;17,0;1,0;94,0;15,0;7,0;119,0
@@ -62262,7 +62277,7 @@ Kilian Feldbausch;2022-07-25;Zug CH;Clay;C;L;R32;6-0 5-7 6-2;Alexander Ritschard
 Kilian Feldbausch;2022-03-28;Lugano CH;Hard;C;L;R32;6-1 6-2;Otto Virtanen;0,0;5,88;17,95;6,38;2022-9516-279;2022;False;;0,0;3,0;51,0;8,0;7,0;39,0
 Kilian Feldbausch;2022-03-21;Biel CH;Hard;C;L;R16;7-6(6) 7-6(5);Filip Horansky;5,95;3,57;3,66;7,0;2022-9575-292;2022;False;;5,0;3,0;84,0;12,0;3,0;82,0
 Kilian Feldbausch;2022-03-21;Biel CH;Hard;C;W;R32;7-5 6-0;Marc Andrea Huesler;4,08;4,08;9,8;5,44;2022-9575-282;2022;False;;2,0;2,0;49,0;9,0;5,0;51,0
-Kimmer Coppejans;2026-10-12;Maia Challenger;Clay;C;L;R32;6-3 6-4;Vilius Gaubas;1,72;3,45;7,25;6,44;2026-8312-387;2026;False;;1,0;2,0;58,0;9,0;5,0;69,0
+Kimmer Coppejans;2026-10-12;Maia Challenger;Clay;C;L;R32;6-3 6-4;Vilius Gaubas;1,72;3,45;7,25;6,44;2026-8312-379;2026;False;;1,0;2,0;58,0;9,0;5,0;69,0
 Kimmer Coppejans;2026-10-07;ATP Shanghai;Hard;M;L;R128;6-3 7-5;Stefanos Tsitsipas;3,77;3,77;8,77;5,3;2026-5014-298;2026;False;;2,0;2,0;53,0;10,0;5,0;57,0
 Kimmer Coppejans;2026-10-07;ATP Shanghai;Hard;M;W;Q2;6-3 6-2;Dane Sweeny;6,15;3,08;0,0;7,22;2026-5014-281;2026;False;;4,0;2,0;65,0;9,0;0,0;55,0
 Kimmer Coppejans;2026-10-07;ATP Shanghai;Hard;M;W;Q1;7-6(8) 6-3;Nishesh Basavareddy;15,49;0,0;4,48;6,45;2026-5014-257;2026;False;;11,0;0,0;71,0;11,0;3,0;67,0
@@ -63211,7 +63226,7 @@ Kyrian Jacquet;2020-01-20;Rennes CH;Hard;C;L;QF;7-5 3-6 6-3;James Ward;7,89;1,32
 Kyrian Jacquet;2020-01-20;Rennes CH;Hard;C;W;R16;2-6 6-1 6-2;Tristan Lamasine;0,0;4,41;8,64;5,67;2020-3503-287;2020;True;;0,0;3,0;68,0;12,0;7,0;81,0
 Kyrian Jacquet;2020-01-20;Rennes CH;Hard;C;W;R32;6-2 0-2 RET;Alexandre Muller;9,09;3,03;3,12;6,6;2020-3503-272;2020;True;;3,0;1,0;33,0;5,0;1,0;32,0
 Kyrian Jacquet;2020-01-20;Rennes CH;Hard;C;W;R64;3-6 7-5 6-0;Altug Celikbilek;6,1;2,44;11,49;6,31;2020-3503-243;2020;True;;5,0;2,0;82,0;13,0;10,0;87,0
-Laslo Djere;2026-10-12;Olbia Challenger;Hard;C;L;R32;6-4 6-3;Michael Mmoh;5,66;0,0;3,33;5,89;2026-2893-386;2026;False;;3,0;0,0;53,0;9,0;2,0;60,0
+Laslo Djere;2026-10-12;Olbia Challenger;Hard;C;L;R32;6-4 6-3;Michael Mmoh;5,66;0,0;3,33;5,89;2026-2893-380;2026;False;;3,0;0,0;53,0;9,0;2,0;60,0
 Laslo Djere;2026-10-05;Villena Challenger;Hard;C;W;F;6-4 6-4;Daniil Glinka;5,26;0,0;6,56;5,7;2026-7909-385;2026;False;;3,0;0,0;57,0;10,0;4,0;61,0
 Laslo Djere;2026-10-05;Villena Challenger;Hard;C;W;SF;6-4 6-2;Pedro Martinez;8,62;1,72;0,0;6,44;2026-7909-383;2026;False;;5,0;1,0;58,0;9,0;0,0;60,0
 Laslo Djere;2026-10-05;Villena Challenger;Hard;C;W;QF;6-3 7-5;Hynek Barton;7,14;1,79;5,77;5,6;2026-7909-379;2026;False;;4,0;1,0;56,0;10,0;3,0;52,0
@@ -64352,7 +64367,7 @@ Learner Tien;2023-03-20;Miami Masters;Hard;M;L;Q1;3-6 6-3 6-4;Jan Lennard Struff
 Learner Tien;2023-03-06;Indian Wells Masters;Hard;M;L;Q1;7-5 7-6(7);Cristian Garin;0,0;1,27;6,74;6,58;2023-0404-116;2023;True;;0,0;1,0;79,0;12,0;6,0;89,0
 Learner Tien;2022-08-29;US Open;Hard;G;L;R128;3-6 6-1 6-3 6-3;Miomir Kecmanovic;4,5;3,6;9,71;6,53;2022-560-160;2022;True;;5,0;4,0;111,0;17,0;10,0;103,0
 Learner Tien;2022-04-25;Savannah CH;Clay;C;L;R32;6-3 6-1;Oliver Crawford;0,0;4,55;4,26;5,5;2022-5067-271;2022;True;;0,0;2,0;44,0;8,0;2,0;47,0
-Liam Broady;2026-10-12;Roanne Challenger;Hard;C;L;R32;6-4 6-4;Sascha Gueymard Wayenburg;7,35;1,47;22,0;6,8;2026-9625-384;2026;False;;5,0;1,0;68,0;10,0;11,0;50,0
+Liam Broady;2026-10-12;Roanne Challenger;Hard;C;L;R32;6-4 6-4;Sascha Gueymard Wayenburg;7,35;1,47;22,0;6,8;2026-9625-381;2026;False;;5,0;1,0;68,0;10,0;11,0;50,0
 Liam Broady;2026-09-28;Mouilleron le Captif CH;Hard;C;L;R32;6-4 3-6 6-1;Dominic Stricker;1,32;0,0;11,76;5,85;2026-6857-357;2026;False;;1,0;0,0;76,0;13,0;8,0;68,0
 Liam Broady;2026-08-31;US Open;Hard;G;L;Q1;7-6(4) 6-3;Marco Cecchinato;1,22;4,88;5,56;8,2;2026-560-754;2026;False;;1,0;4,0;82,0;10,0;5,0;90,0
 Liam Broady;2026-08-10;Brownsburg CH;Hard;C;L;R32;6-3 7-5;Dhakshineswar Suresh;2,82;4,23;8,77;6,45;2026-3131-360;2026;False;;2,0;3,0;71,0;11,0;5,0;57,0
@@ -64999,8 +65014,9 @@ Liam Broady;2013-06-17;Eastbourne;Grass;A;W;Q1;6-1 6-4;Sean Thornley;12,07;6,9;0
 Liam Broady;2012-06-11;Queen's Club;Grass;A;L;R64;6-2 6-1;Gilles Muller;4,55;11,36;25,0;6,29;2012-311-003;2012;False;;2,0;5,0;44,0;7,0;11,0;44,0
 Liam Broady;2012-03-19;Bath CH;Hard;C;L;R32;3-6 6-3 6-2;Romain Jouan;9,33;5,33;12,16;5,77;2012-6246-006;2012;False;;7,0;4,0;75,0;13,0;9,0;74,0
 Liam Broady;2010-06-13;Eastbourne;Grass;A;L;Q1;6-2 6-4;Brydan Klein;9,26;3,7;13,46;6,0;2010-741-706;2010;False;;5,0;2,0;54,0;9,0;7,0;52,0
-Liam Draxl;2026-10-12;Jinan Challenger;Hard;C;W;R32;6-4 6-4;James Duckworth;10,94;1,56;3,12;6,4;2026-7746-375;2026;False;;7,0;1,0;64,0;10,0;2,0;64,0
-Liam Draxl;2026-10-12;Jinan Challenger;Hard;C;W;Q2;5-7 7-6(4) 6-4;Omar Jasika;8,85;0,88;0,0;6,65;2026-7746-372;2026;False;;10,0;1,0;113,0;17,0;0,0;108,0
+Liam Draxl;2026-10-12;Jinan Challenger;Hard;C;W;R16;6-4 0-6 6-4;Ilya Ivashka;11,69;5,19;10,67;5,92;2026-7746-382;2026;False;;9,0;4,0;77,0;13,0;8,0;75,0
+Liam Draxl;2026-10-12;Jinan Challenger;Hard;C;W;R32;6-4 6-4;James Duckworth;10,94;1,56;3,12;6,4;2026-7746-366;2026;False;;7,0;1,0;64,0;10,0;2,0;64,0
+Liam Draxl;2026-10-12;Jinan Challenger;Hard;C;W;Q2;5-7 7-6(4) 6-4;Omar Jasika;8,85;0,88;0,0;6,65;2026-7746-363;2026;False;;10,0;1,0;113,0;17,0;0,0;108,0
 Liam Draxl;2026-10-07;ATP Shanghai;Hard;M;L;Q2;5-7 7-5 6-4;Nikoloz Basilashvili;11,11;0,93;10,09;6,35;2026-5014-289;2026;False;;12,0;1,0;108,0;17,0;11,0;109,0
 Liam Draxl;2026-10-07;ATP Shanghai;Hard;M;W;Q1;7-5 6-4;Hugo Gaston;15,15;1,52;2,47;6,0;2026-5014-274;2026;False;;10,0;1,0;66,0;11,0;2,0;81,0
 Liam Draxl;2026-09-21;San Diego 2 CH;Hard;C;L;R16;7-6(7) 2-6 6-4;Henry Searle;4,44;2,22;14,61;6,0;2026-3175-375;2026;False;;4,0;2,0;90,0;15,0;13,0;89,0
@@ -65699,7 +65715,8 @@ Lloyd Harris;2016-03-04;Davis Cup G2 R1: RSA vs LUX;Hard;D;W;RR;6-2 6-1;Alex Kna
 Lloyd Harris;2016-02-22;Kyoto CH;Hard;C;L;QF;7-5 6-3;Yuichi Sugita;13,89;4,17;5,17;7,2;2016-0091-297;2016;False;;10,0;3,0;72,0;10,0;3,0;58,0
 Lloyd Harris;2016-02-22;Kyoto CH;Hard;C;W;R16;4-6 6-3 7-6(4);Hiroki Moriya;17,31;1,92;8,64;6,5;2016-0091-292;2016;False;;18,0;2,0;104,0;16,0;7,0;81,0
 Lloyd Harris;2016-02-22;Kyoto CH;Hard;C;W;R32;7-6(7) 6-4;Andreas Beck;19,35;3,23;6,41;5,64;2016-0091-283;2016;False;;12,0;2,0;62,0;11,0;5,0;78,0
-Lorenzo Giustino;2026-10-12;Maia Challenger;Clay;C;W;R32;6-4 2-6 6-1;Andrea Pellegrino;8,54;2,44;8,24;6,31;2026-8312-386;2026;False;;7,0;2,0;82,0;13,0;7,0;85,0
+Lorenzo Giustino;2026-10-12;Maia Challenger;Clay;C;W;R16;7-5 7-5;Michael Vrbensky;3,12;7,81;3,57;5,33;2026-8312-390;2026;False;;2,0;5,0;64,0;12,0;3,0;84,0
+Lorenzo Giustino;2026-10-12;Maia Challenger;Clay;C;W;R32;6-4 2-6 6-1;Andrea Pellegrino;8,54;2,44;8,24;6,31;2026-8312-378;2026;False;;7,0;2,0;82,0;13,0;7,0;85,0
 Lorenzo Giustino;2026-10-05;Palermo Challenger;Clay;C;L;R16;2-6 6-2 6-3;Carlos Sanchez Jover;2,78;2,78;6,02;5,54;2026-3153-371;2026;False;;2,0;2,0;72,0;13,0;5,0;83,0
 Lorenzo Giustino;2026-10-05;Palermo Challenger;Clay;C;W;R32;6-4 6-1;Christian Langmo;1,82;3,64;9,26;6,11;2026-3153-355;2026;False;;1,0;2,0;55,0;9,0;5,0;54,0
 Lorenzo Giustino;2026-09-28;Bari CH;Clay;C;L;R16;6-7(1) 6-3 3-1 RET;Matthew William Donald;7,14;7,14;2,22;8,17;2026-3151-376;2026;False;;7,0;7,0;98,0;12,0;2,0;90,0
@@ -67421,7 +67438,8 @@ Lorenzo Sonego;2015-04-27;Turin CH;Clay;C;L;R16;6-7(5) 6-2 6-4;Kimmer Coppejans;
 Lorenzo Sonego;2015-04-27;Turin CH;Clay;C;W;R32;6-4 6-3;Henri Laaksonen;5,45;12,73;0,0;6,11;2015-7247-011;2015;True;;3,0;7,0;55,0;9,0;0,0;54,0
 Lorenzo Sonego;2014-09-08;Biella CH;Clay;C;L;R16;7-6(5) 6-4;Andrea Arnaboldi;9,33;5,33;0,0;6,82;2014-7085-019;2014;True;;7,0;4,0;75,0;11,0;0,0;73,0
 Lorenzo Sonego;2014-09-08;Biella CH;Clay;C;W;R32;6-2 6-3;Erik Crepaldi;19,57;0,0;0,0;5,75;2014-7085-006;2014;True;;9,0;0,0;46,0;8,0;0,0;56,0
-Luca Nardi;2026-10-12;Olbia Challenger;Hard;C;W;R32;4-6 6-4 6-4;August Holmgren;6,8;4,85;4,6;6,87;2026-2893-384;2026;False;;7,0;5,0;103,0;15,0;4,0;87,0
+Luca Nardi;2026-10-12;Olbia Challenger;Hard;C;W;R16;6-4 6-1;Lorenzo Carboni;2,27;0,0;1,47;5,5;2026-2893-388;2026;False;;1,0;0,0;44,0;8,0;1,0;68,0
+Luca Nardi;2026-10-12;Olbia Challenger;Hard;C;W;R32;4-6 6-4 6-4;August Holmgren;6,8;4,85;4,6;6,87;2026-2893-378;2026;False;;7,0;5,0;103,0;15,0;4,0;87,0
 Luca Nardi;2026-10-05;Villena Challenger;Hard;C;L;R32;6-1 7-6(5);Pablo Llamas Ruiz;4,69;6,25;5,26;7,11;2026-7909-362;2026;False;;3,0;4,0;64,0;9,0;3,0;57,0
 Luca Nardi;2026-08-31;US Open;Hard;G;L;Q1;6-4 3-0 RET;Federico Cina;6,12;6,12;9,52;7,0;2026-560-743;2026;False;;3,0;3,0;49,0;7,0;4,0;42,0
 Luca Nardi;2026-07-13;Umag;Clay;A;L;Q1;6-3 7-6(5);Andrea Guerrieri;2,47;8,64;0,0;7,36;2026-0439-354;2026;False;;2,0;7,0;81,0;11,0;0,0;74,0
@@ -68438,8 +68456,8 @@ Luciano Darderi;2020-11-02;Parma CH;Hard;C;L;Q1;6-3 6-4;Andrea Arnaboldi;11,11;0
 Luciano Darderi;2020-09-14;Rome Masters;Clay;M;L;Q1;3-6 6-3 6-1;Joao Sousa;5,49;1,1;5,95;7,0;2020-M009-179;2020;True;;5,0;1,0;91,0;13,0;5,0;84,0
 Luciano Darderi;2020-08-31;Cordenons CH;Clay;C;L;R16;6-4 6-2;Daniel Altmaier;3,12;1,56;1,85;7,11;2020-2120-286;2020;True;;2,0;1,0;64,0;9,0;1,0;54,0
 Luciano Darderi;2020-08-31;Cordenons CH;Clay;C;W;R32;6-2 6-7(5) 6-4;Antoine Hoang;9,35;4,67;6,98;7,13;2020-2120-270;2020;True;;10,0;5,0;107,0;15,0;6,0;86,0
-Luka Mikrut;2026-10-12;Maia Challenger;Clay;C;W;R16;6-4 6-2;Sumit Nagal;3,64;3,64;0,0;6,11;2026-8312-394;2026;False;;2,0;2,0;55,0;9,0;0,0;48,0
-Luka Mikrut;2026-10-12;Maia Challenger;Clay;C;W;R32;6-0 6-3;Tiago Pereira;6,25;4,17;0,0;6,0;2026-8312-380;2026;False;;3,0;2,0;48,0;8,0;0,0;43,0
+Luka Mikrut;2026-10-12;Maia Challenger;Clay;C;W;R16;6-4 6-2;Sumit Nagal;3,64;3,64;0,0;6,11;2026-8312-387;2026;False;;2,0;2,0;55,0;9,0;0,0;48,0
+Luka Mikrut;2026-10-12;Maia Challenger;Clay;C;W;R32;6-0 6-3;Tiago Pereira;6,25;4,17;0,0;6,0;2026-8312-372;2026;False;;3,0;2,0;48,0;8,0;0,0;43,0
 Luka Mikrut;2026-10-05;Braga Challenger;Clay;C;L;QF;6-2 6-4;Vilius Gaubas;4,69;6,25;4,0;7,11;2026-7913-381;2026;False;;3,0;4,0;64,0;9,0;2,0;50,0
 Luka Mikrut;2026-10-05;Braga Challenger;Clay;C;W;R16;6-7(4) 6-4 6-4;Oleksii Krutykh;9,82;4,46;1,0;7,0;2026-7913-375;2026;False;;11,0;5,0;112,0;16,0;1,0;100,0
 Luka Mikrut;2026-10-05;Braga Challenger;Clay;C;W;R32;6-2 6-4;Sumit Nagal;0,0;2,04;0,0;5,44;2026-7913-363;2026;False;;0,0;1,0;49,0;9,0;0,0;51,0
@@ -68578,8 +68596,9 @@ Luka Mikrut;2023-10-02;Lisbon CH;Clay;C;W;Q2;1-6 6-4 7-6(5);Carlos Sanchez Jover
 Luka Mikrut;2023-10-02;Lisbon CH;Clay;C;W;Q1;7-6(4) 6-3;Giovanni Fonio;8,82;0,0;8,93;6,18;2023-7742-239;2023;False;;6,0;0,0;68,0;11,0;5,0;56,0
 Luka Mikrut;2023-04-10;Split CH;Clay;C;L;Q1;7-5 7-6(5);Benjamin Hassan;1,28;2,56;1,11;6,5;2023-8388-239;2023;False;;1,0;2,0;78,0;12,0;1,0;90,0
 Luka Mikrut;2022-04-18;Split CH;Clay;C;L;R32;6-3 4-6 7-6(6);Blaz Rola;2,91;0,97;4,2;6,87;2022-8388-279;2022;False;;3,0;1,0;103,0;15,0;5,0;119,0
-Luka Pavlovic;2026-10-12;Jinan Challenger;Hard;C;W;R32;7-5 6-4;Tristan Schoolkate;14,29;4,76;4,35;5,73;2026-7746-388;2026;False;;9,0;3,0;63,0;11,0;3,0;69,0
-Luka Pavlovic;2026-10-12;Jinan Challenger;Hard;C;W;Q1;7-5 6-3;Thomas Fancutt;7,55;1,89;8,06;4,82;2026-7746-366;2026;False;;4,0;1,0;53,0;11,0;5,0;62,0
+Luka Pavlovic;2026-10-12;Jinan Challenger;Hard;C;L;R16;6-4 6-4;Mattia Bellucci;10,45;7,46;4,23;6,7;2026-7746-388;2026;False;;7,0;5,0;67,0;10,0;3,0;71,0
+Luka Pavlovic;2026-10-12;Jinan Challenger;Hard;C;W;R32;7-5 6-4;Tristan Schoolkate;14,29;4,76;4,35;5,73;2026-7746-379;2026;False;;9,0;3,0;63,0;11,0;3,0;69,0
+Luka Pavlovic;2026-10-12;Jinan Challenger;Hard;C;W;Q1;7-5 6-3;Thomas Fancutt;7,55;1,89;8,06;4,82;2026-7746-357;2026;False;;4,0;1,0;53,0;11,0;5,0;62,0
 Luka Pavlovic;2026-10-07;ATP Shanghai;Hard;M;L;Q1;4-6 6-4 6-1;Ilia Simakin;12,68;2,82;7,35;5,46;2026-5014-267;2026;False;;9,0;2,0;71,0;13,0;5,0;68,0
 Luka Pavlovic;2026-09-29;Jingshan Challenger;Hard;C;L;R16;6-2 6-3;Lloyd Harris;5,45;9,09;20,0;6,11;2026-3013-389;2026;False;;3,0;5,0;55,0;9,0;8,0;40,0
 Luka Pavlovic;2026-09-29;Jingshan Challenger;Hard;C;W;R32;6-2 6-4;Akira Santillan;20,83;2,08;8,51;5,33;2026-3013-378;2026;False;;10,0;1,0;48,0;9,0;4,0;47,0
@@ -69055,7 +69074,7 @@ Lukas Klein;2016-11-07;Bratislava CH;Hard;C;L;R32;7-6(4) 6-3;Marius Copil;9,09;3
 Lukas Klein;2016-08-08;Trnava CH;Clay;C;L;Q2;7-5 6-1;Geoffrey Blancaneaux;0,0;7,55;0,0;5,89;2016-3628-260;2016;False;;0,0;4,0;53,0;9,0;0,0;66,0
 Lukas Klein;2016-08-08;Trnava CH;Clay;C;W;Q1;5-7 6-2 6-3;Carl Soderlund;5,68;6,82;1,63;6,29;2016-3628-246;2016;False;;5,0;6,0;88,0;14,0;2,0;123,0
 Lukas Klein;2016-06-13;Poprad CH;Clay;C;L;R32;6-3 6-3;Robin Stanek;1,61;1,61;3,92;6,89;2016-9003-283;2016;False;;1,0;1,0;62,0;9,0;2,0;51,0
-Lukas Neumayer;2026-10-12;Maia Challenger;Clay;C;W;R32;6-4 4-6 6-2;Elmer Moller;3,33;1,11;5,0;6,43;2026-8312-389;2026;False;;3,0;1,0;90,0;14,0;4,0;80,0
+Lukas Neumayer;2026-10-12;Maia Challenger;Clay;C;W;R32;6-4 4-6 6-2;Elmer Moller;3,33;1,11;5,0;6,43;2026-8312-381;2026;False;;3,0;1,0;90,0;14,0;4,0;80,0
 Lukas Neumayer;2026-10-05;Braga Challenger;Clay;C;L;SF;6-3 6-1;Matej Dodig;2,0;4,0;10,87;6,25;2026-7913-383;2026;False;;1,0;2,0;50,0;8,0;5,0;46,0
 Lukas Neumayer;2026-10-05;Braga Challenger;Clay;C;W;QF;6-7(6) 6-2 6-2;Max Alcala Gurri;2,86;0,0;1,1;7,5;2026-7913-379;2026;False;;3,0;0,0;105,0;14,0;1,0;91,0
 Lukas Neumayer;2026-10-05;Braga Challenger;Clay;C;W;R16;6-2 6-2;Olle Wallin;3,92;1,96;5,66;6,38;2026-7913-372;2026;False;;2,0;1,0;51,0;8,0;3,0;53,0
@@ -69305,7 +69324,7 @@ Lukas Neumayer;2021-07-26;Kitzbuhel;Clay;A;L;R32;6-7(4) 7-5 6-4;Mario Vilella Ma
 Lukas Neumayer;2021-07-26;Kitzbuhel;Clay;A;W;Q2;6-4 7-6(5);Lukas Rosol;8,57;4,29;7,79;6,36;2021-0319-251;2021;False;;6,0;3,0;70,0;11,0;6,0;77,0
 Lukas Neumayer;2021-07-26;Kitzbuhel;Clay;A;W;Q1;7-6(7) 0-0 RET;Juan Ignacio Londero;2,08;4,17;3,23;8,0;2021-0319-244;2021;False;;1,0;2,0;48,0;6,0;2,0;62,0
 Lukas Neumayer;2021-07-05;Salzburg CH;Clay;C;L;Q1;6-3 6-2;Jiri Lehecka;2,0;2,0;15,52;6,25;2021-9531-248;2021;False;;1,0;1,0;50,0;8,0;9,0;58,0
-Mackenzie Mcdonald;2026-10-12;Olbia Challenger;Hard;C;L;R32;6-7(5) 6-4 1-0 RET;Lorenzo Carboni;2,15;3,23;5,56;7,75;2026-2893-383;2026;False;;2,0;3,0;93,0;12,0;4,0;72,0
+Mackenzie Mcdonald;2026-10-12;Olbia Challenger;Hard;C;L;R32;6-7(5) 6-4 1-0 RET;Lorenzo Carboni;2,15;3,23;5,56;7,75;2026-2893-377;2026;False;;2,0;3,0;93,0;12,0;4,0;72,0
 Mackenzie Mcdonald;2026-10-05;Braga Challenger;Clay;C;L;R32;6-1 4-6 6-3;Ryan Nijboer;6,48;5,56;4,88;8,31;2026-7913-362;2026;False;;7,0;6,0;108,0;13,0;4,0;82,0
 Mackenzie Mcdonald;2026-09-28;Porto Monte Aventino CH;Hard;C;L;R32;7-5 6-1;Toby Samuel;0,0;2,04;6,56;5,44;2026-9526-366;2026;False;;0,0;1,0;49,0;9,0;4,0;61,0
 Mackenzie Mcdonald;2026-08-31;US Open;Hard;G;L;Q3;4-6 6-2 7-5;Dalibor Svrcina;7,78;5,56;6,74;6,0;2026-560-804;2026;False;;7,0;5,0;90,0;15,0;6,0;89,0
@@ -69892,8 +69911,8 @@ Mackenzie Mcdonald;2013-08-26;US Open;Hard;G;L;Q1;6-3 6-4;Ivo Karlovic;10,42;2,0
 Mackenzie Mcdonald;2013-08-11;Cincinnati Masters;Hard;M;L;R64;6-1 6-1;David Goffin;1,82;9,09;2,7;7,86;2013-422-002;2013;False;;1,0;5,0;55,0;7,0;1,0;37,0
 Mackenzie Mcdonald;2013-08-11;Cincinnati Masters;Hard;M;W;Q2;3-6 6-4 6-4;Steve Johnson;8,79;4,4;10,34;6,07;2013-422-719;2013;False;;8,0;4,0;91,0;15,0;9,0;87,0
 Mackenzie Mcdonald;2013-08-11;Cincinnati Masters;Hard;M;W;Q1;3-6 7-6(5) 6-4;Nicolas Mahut;9,89;4,4;11,93;6,07;2013-422-710;2013;False;;9,0;4,0;91,0;15,0;13,0;109,0
-Maks Kasnikowski;2026-10-12;Olbia Challenger;Hard;C;W;R16;6-3 6-4;Andrea Guerrieri;9,43;0,0;1,45;5,3;2026-2893-392;2026;False;;5,0;0,0;53,0;10,0;1,0;69,0
-Maks Kasnikowski;2026-10-12;Olbia Challenger;Hard;C;W;R32;6-2 6-1;Cezar Cretu;2,86;0,0;0,0;5,0;2026-2893-381;2026;False;;1,0;0,0;35,0;7,0;0,0;60,0
+Maks Kasnikowski;2026-10-12;Olbia Challenger;Hard;C;W;R16;6-3 6-4;Andrea Guerrieri;9,43;0,0;1,45;5,3;2026-2893-387;2026;False;;5,0;0,0;53,0;10,0;1,0;69,0
+Maks Kasnikowski;2026-10-12;Olbia Challenger;Hard;C;W;R32;6-2 6-1;Cezar Cretu;2,86;0,0;0,0;5,0;2026-2893-375;2026;False;;1,0;0,0;35,0;7,0;0,0;60,0
 Maks Kasnikowski;2026-10-05;Villena Challenger;Hard;C;L;R32;7-6(3) 6-1;Philip Henning;6,9;3,45;2,99;6,44;2026-7909-368;2026;False;;4,0;2,0;58,0;9,0;2,0;67,0
 Maks Kasnikowski;2026-09-07;Istanbul TED Club CH;Hard;C;L;SF;7-6(4) 6-4;Jay Dylan Hara Friend;1,79;1,79;8,96;5,09;2026-7083-384;2026;False;;1,0;1,0;56,0;11,0;6,0;67,0
 Maks Kasnikowski;2026-09-07;Istanbul TED Club CH;Hard;C;W;QF;6-0 2-6 6-1;Francesco Maestrelli;8,06;0,0;3,33;5,64;2026-7083-382;2026;False;;5,0;0,0;62,0;11,0;2,0;60,0
@@ -70122,8 +70141,8 @@ Maks Kasnikowski;2022-05-30;Poznan CH;Clay;C;W;Q1;7-6(6) 3-0 RET;Henri Squire;0,
 Maks Kasnikowski;2021-09-13;Szczecin CH;Clay;C;L;Q1;6-7(5) 6-1 6-3;Vitaliy Sachko;0,0;4,21;4,95;6,79;2021-0448-248;2021;False;;0,0;4,0;95,0;14,0;5,0;101,0
 Maks Kasnikowski;2021-08-23;Warsaw CH;Clay;C;L;R32;6-2 6-4;Camilo Ugo Carabelli;3,77;1,89;3,51;5,89;2021-9548-284;2021;False;;2,0;1,0;53,0;9,0;2,0;57,0
 Maks Kasnikowski;2021-07-26;Poznan CH;Clay;C;L;Q1;6-3 6-4;Christopher Heyman;2,82;2,82;4,35;7,89;2021-0786-245;2021;False;;2,0;2,0;71,0;9,0;3,0;69,0
-Marat Sharipov;2026-10-12;Jinan Challenger;Hard;C;L;R32;3-4 RET;Ilya Ivashka;12,12;6,06;7,41;8,25;2026-7746-376;2026;False;;4,0;2,0;33,0;4,0;2,0;27,0
-Marat Sharipov;2026-10-12;Jinan Challenger;Hard;C;W;Q2;6-3 6-2;Jake Delaney;15,22;2,17;12,77;5,11;2026-7746-371;2026;False;;7,0;1,0;46,0;9,0;6,0;47,0
+Marat Sharipov;2026-10-12;Jinan Challenger;Hard;C;L;R32;3-4 RET;Ilya Ivashka;12,12;6,06;7,41;8,25;2026-7746-367;2026;False;;4,0;2,0;33,0;4,0;2,0;27,0
+Marat Sharipov;2026-10-12;Jinan Challenger;Hard;C;W;Q2;6-3 6-2;Jake Delaney;15,22;2,17;12,77;5,11;2026-7746-362;2026;False;;7,0;1,0;46,0;9,0;6,0;47,0
 Marat Sharipov;2026-10-05;Wuning 3 Challenger;Hard;C;L;R16;6-3 3-0 RET;Omar Jasika;10,26;7,69;6,67;6,5;2026-3183-371;2026;False;;4,0;3,0;39,0;6,0;2,0;30,0
 Marat Sharipov;2026-10-05;Wuning 3 Challenger;Hard;C;W;R32;7-5 6-4;Semen Pankin;15,62;0,0;9,33;5,82;2026-3183-355;2026;False;;10,0;0,0;64,0;11,0;7,0;75,0
 Marat Sharipov;2026-09-29;Jingshan Challenger;Hard;C;W;R32;3-6 6-3 6-1;Dalibor Svrcina;18,75;5,0;5,43;6,15;2026-3013-376;2026;False;;15,0;4,0;80,0;13,0;5,0;92,0
@@ -70705,7 +70724,7 @@ Marc Andrea Huesler;2017-10-16;Ismaning CH;Hard;C;W;Q2;6-1 6-4;Vit Kopriva;9,8;9
 Marc Andrea Huesler;2017-10-16;Ismaning CH;Hard;C;W;Q1;6-2 7-6(4);David Pel;7,14;0,0;8,7;5,6;2017-7793-237;2017;False;;4,0;0,0;56,0;10,0;6,0;69,0
 Marc Andrea Huesler;2017-07-24;Gstaad;Clay;A;L;Q1;6-3 6-2;Stefano Napolitano;0,0;8,0;8,2;6,25;2017-0314-245;2017;False;;0,0;4,0;50,0;8,0;5,0;61,0
 Marc Andrea Huesler;2017-07-17;Scheveningen CH;Clay;C;L;Q1;6-3 6-3;Marko Tepavac;1,75;7,02;11,36;6,33;2017-0686-248;2017;False;;1,0;4,0;57,0;9,0;5,0;44,0
-Marco Cecchinato;2026-10-12;San Gregorio di Catania Challenger;Clay;C;L;R32;6-4 6-4;Pedro Vives Marcos;2,86;5,71;5,97;7,0;2026-3155-389;2026;False;;2,0;4,0;70,0;10,0;4,0;67,0
+Marco Cecchinato;2026-10-12;San Gregorio di Catania Challenger;Clay;C;L;R32;6-4 6-4;Pedro Vives Marcos;2,86;5,71;5,97;7,0;2026-3155-388;2026;False;;2,0;4,0;70,0;10,0;4,0;67,0
 Marco Cecchinato;2026-10-05;Braga Challenger;Clay;C;L;R32;7-6(4) 6-0;Olle Wallin;7,25;7,25;10,67;7,67;2026-7913-358;2026;False;;5,0;5,0;69,0;9,0;8,0;75,0
 Marco Cecchinato;2026-09-14;Szczecin CH;Clay;C;L;QF;7-6(6) 7-5;Marco Trungelliti;2,74;1,37;2,35;6,08;2026-0448-379;2026;False;;2,0;1,0;73,0;12,0;2,0;85,0
 Marco Cecchinato;2026-09-14;Szczecin CH;Clay;C;W;R16;7-6(5) 6-7(4) 6-2;Marvin Moeller;1,71;0,0;0,0;7,31;2026-0448-372;2026;False;;2,0;0,0;117,0;16,0;0,0;109,0
@@ -71546,7 +71565,8 @@ Marco Cecchinato;2011-10-03;Palermo CH;Clay;C;L;R32;6-2 6-3;Carlos Berlocq;0,0;5
 Marco Cecchinato;2011-07-18;Orbetello CH;Clay;C;L;R32;4-6 6-1 7-5;Matteo Trevisan;3,12;7,29;3,49;6,86;2011-6001-003;2011;False;;3,0;7,0;96,0;14,0;3,0;86,0
 Marco Cecchinato;2010-10-04;Palermo CH;Clay;C;L;R32;6-4 6-3;Francesco Aldi;5,88;1,96;1,75;5,67;2010-6016-015;2010;False;;3,0;1,0;51,0;9,0;1,0;57,0
 Marco Cecchinato;2010-09-06;Genova CH;Clay;C;L;R32;6-2 6-2;Jan Hernych;6,12;6,12;0,0;6,12;2010-1763-002;2010;False;;3,0;3,0;49,0;8,0;0,0;49,0
-Marco Trungelliti;2026-10-12;Maia Challenger;Clay;C;W;R32;4-6 6-1 6-4;Thiago Monteiro;8,14;5,81;4,08;6,14;2026-8312-393;2026;True;;7,0;5,0;86,0;14,0;4,0;98,0
+Marco Trungelliti;2026-10-12;Maia Challenger;Clay;C;W;R16;6-2 6-0;Milos Karol;0,0;0,0;9,26;5,43;2026-8312-391;2026;True;;0,0;0,0;38,0;7,0;5,0;54,0
+Marco Trungelliti;2026-10-12;Maia Challenger;Clay;C;W;R32;4-6 6-1 6-4;Thiago Monteiro;8,14;5,81;4,08;6,14;2026-8312-386;2026;True;;7,0;5,0;86,0;14,0;4,0;98,0
 Marco Trungelliti;2026-10-07;ATP Shanghai;Hard;M;L;R128;6-3 7-5;Rei Sakamoto;7,59;6,33;17,65;7,18;2026-5014-319;2026;True;;6,0;5,0;79,0;11,0;9,0;51,0
 Marco Trungelliti;2026-09-30;Beijing;Hard;A;L;Q2;6-4 7-5;Alex Molcan;4,55;1,52;7,04;6,0;2026-0747-348;2026;True;;3,0;1,0;66,0;11,0;5,0;71,0
 Marco Trungelliti;2026-09-30;Beijing;Hard;A;W;Q1;6-1 6-7(9) 7-6(2);Martin Landaluce;8,11;6,31;3,16;6,94;2026-0747-341;2026;True;;9,0;7,0;111,0;16,0;3,0;95,0
@@ -73126,7 +73146,8 @@ Mariano Navone;2022-01-02;Tigre CH;Clay;C;W;R32;7-5 5-3 RET;Mariano Kestelboim;1
 Mariano Navone;2021-11-08;Montevideo CH;Clay;C;L;Q1;4-6 6-3 7-6(4);Roberto Cid;1,8;6,31;0,94;7,4;2021-0544-250;2021;True;;2,0;7,0;111,0;15,0;1,0;106,0
 Mariano Navone;2021-10-18;Buenos Aires CH;Clay;C;L;R16;7-6(0) 7-5;Martin Cuevas;0,0;3,54;2,6;9,42;2021-7395-290;2021;True;;0,0;4,0;113,0;12,0;2,0;77,0
 Mariano Navone;2021-10-18;Buenos Aires CH;Clay;C;W;R32;3-6 6-1 6-2;Thiago Seyboth Wild;3,23;3,23;2,44;5,17;2021-7395-278;2021;True;;2,0;2,0;62,0;12,0;2,0;82,0
-Marin Cilic;2026-10-12;Jinan Challenger;Hard;C;W;R32;6-3 3-6 6-1;Adam Walton;24,64;0,0;7,46;5,31;2026-7746-383;2026;True;;17,0;0,0;69,0;13,0;5,0;67,0
+Marin Cilic;2026-10-12;Jinan Challenger;Hard;C;L;R16;7-5 6-4;Yosuke Watanuki;10,61;6,06;16,92;6,0;2026-7746-386;2026;True;;7,0;4,0;66,0;11,0;11,0;65,0
+Marin Cilic;2026-10-12;Jinan Challenger;Hard;C;W;R32;6-3 3-6 6-1;Adam Walton;24,64;0,0;7,46;5,31;2026-7746-374;2026;True;;17,0;0,0;69,0;13,0;5,0;67,0
 Marin Cilic;2026-10-07;ATP Shanghai;Hard;M;L;R128;7-6(2) 6-1;Arthur Fery;9,52;4,76;10,0;7,0;2026-5014-318;2026;True;;6,0;3,0;63,0;9,0;6,0;60,0
 Marin Cilic;2026-08-13;Cincinnati Masters;Hard;M;L;R128;3-6 6-1 6-1;Daniel Merida Aguilar;7,58;3,03;11,54;5,5;2026-0422-290;2026;True;;5,0;2,0;66,0;12,0;9,0;78,0
 Marin Cilic;2026-08-02;Canada Masters;Hard;M;L;R64;5-7 6-2 6-2;Frances Tiafoe;8,82;3,92;11,69;7,29;2026-0421-310;2026;True;;9,0;4,0;102,0;14,0;9,0;77,0
@@ -74805,8 +74826,8 @@ Martin Krumich;2021-08-09;Prague 2 CH;Clay;C;L;R32;4-6 6-4 6-3;Evan Furness;2,88
 Martin Krumich;2021-08-02;Liberec  CH;Clay;C;L;Q1;6-3 6-2;Evan Furness;8,0;10,0;1,69;6,25;2021-6795-248;2021;False;;4,0;5,0;50,0;8,0;1,0;59,0
 Martin Krumich;2021-04-26;Ostrava CH;Clay;C;L;R32;6-2 6-2;Sebastian Baez;1,69;10,17;2,0;7,38;2021-1797-271;2021;False;;1,0;6,0;59,0;8,0;1,0;50,0
 Martin Krumich;2020-08-24;Prague CH;Clay;C;L;Q1;6-7(2) 6-1 7-6(2);Marek Gengel;5,83;6,67;4,9;7,5;2020-7077-221;2020;False;;7,0;8,0;120,0;16,0;5,0;102,0
-Martin Landaluce;2026-10-12;Jinan Challenger;Hard;C;W;R16;6-4 7-5;Jie Cui;8,57;5,71;1,39;6,36;2026-7746-392;2026;True;;6,0;4,0;70,0;11,0;1,0;72,0
-Martin Landaluce;2026-10-12;Jinan Challenger;Hard;C;W;R32;6-3 6-3;Ilia Simakin;4,48;2,99;3,51;7,44;2026-7746-382;2026;True;;3,0;2,0;67,0;9,0;2,0;57,0
+Martin Landaluce;2026-10-12;Jinan Challenger;Hard;C;W;R16;6-4 7-5;Jie Cui;8,57;5,71;1,39;6,36;2026-7746-385;2026;True;;6,0;4,0;70,0;11,0;1,0;72,0
+Martin Landaluce;2026-10-12;Jinan Challenger;Hard;C;W;R32;6-3 6-3;Ilia Simakin;4,48;2,99;3,51;7,44;2026-7746-373;2026;True;;3,0;2,0;67,0;9,0;2,0;57,0
 Martin Landaluce;2026-10-07;ATP Shanghai;Hard;M;L;R128;6-4 6-4;Jan Lennard Struff;9,68;0,0;14,77;6,2;2026-5014-300;2026;True;;6,0;0,0;62,0;10,0;13,0;88,0
 Martin Landaluce;2026-09-30;Beijing;Hard;A;L;Q1;6-1 6-7(9) 7-6(2);Marco Trungelliti;3,16;6,32;8,11;6,33;2026-0747-341;2026;True;;3,0;6,0;95,0;15,0;9,0;111,0
 Martin Landaluce;2026-09-07;Seville CH;Clay;C;L;R32;6-0 6-4;Dusan Lajovic;4,08;10,2;11,76;6,12;2026-0784-355;2026;True;;2,0;5,0;49,0;8,0;6,0;51,0
@@ -75719,7 +75740,7 @@ Marton Fucsovics;2010-09-20;Metz;Hard;A;L;Q2;6-2 6-3;Edouard Roger Vasselin;9,8;
 Marton Fucsovics;2010-09-20;Metz;Hard;A;W;Q1;3-6 6-2 6-3;Nicolas Renavand;5,71;2,86;0,0;5,38;2010-341-701;2010;False;;4,0;2,0;70,0;13,0;0,0;77,0
 Marton Fucsovics;2010-06-13;s Hertogenbosch;Grass;A;L;Q1;6-3 6-1;Justin Eleveld;3,64;18,18;0,0;6,88;2010-440-707;2010;False;;2,0;10,0;55,0;8,0;0,0;57,0
 Marton Fucsovics;2010-06-07;Halle;Grass;A;L;Q1;6-2 6-4;Jan Hernych;3,33;6,67;1,92;6,67;2010-500-705;2010;False;;2,0;4,0;60,0;9,0;1,0;52,0
-Marvin Moeller;2026-10-12;San Gregorio di Catania Challenger;Clay;C;W;R32;7-6(5) 6-3;Carlos Sanchez Jover;5,63;4,23;1,52;6,45;2026-3155-382;2026;False;;4,0;3,0;71,0;11,0;1,0;66,0
+Marvin Moeller;2026-10-12;San Gregorio di Catania Challenger;Clay;C;W;R32;7-6(5) 6-3;Carlos Sanchez Jover;5,63;4,23;1,52;6,45;2026-3155-381;2026;False;;4,0;3,0;71,0;11,0;1,0;66,0
 Marvin Moeller;2026-10-05;Braga Challenger;Clay;C;L;QF;6-2 6-3;Matej Dodig;1,69;5,08;7,84;6,56;2026-7913-380;2026;False;;1,0;3,0;59,0;9,0;4,0;51,0
 Marvin Moeller;2026-10-05;Braga Challenger;Clay;C;W;R16;6-3 6-3;Ryan Nijboer;5,88;2,94;6,9;7,56;2026-7913-374;2026;False;;4,0;2,0;68,0;9,0;4,0;58,0
 Marvin Moeller;2026-10-05;Braga Challenger;Clay;C;W;R32;6-4 6-4;Tiago Torres;1,37;8,22;8,93;7,3;2026-7913-361;2026;False;;1,0;6,0;73,0;10,0;5,0;56,0
@@ -75948,7 +75969,7 @@ Marvin Moeller;2018-01-15;Koblenz CH;Hard;C;L;R32;6-3 6-1;Yasutaka Uchiyama;0,0;
 Marvin Moeller;2017-01-09;Bangkok CH;Hard;C;W;Q1;6-2 6-3;Jirat Navasirisomboon;4,44;4,44;1,96;5,62;2017-7438-237;2017;False;;2,0;2,0;45,0;8,0;1,0;51,0
 Marvin Moeller;2017-01-02;Bangkok  CH;Hard;C;L;Q1;7-6(6) 6-4;Daniel Altmaier;2,74;1,37;7,78;6,64;2017-5047-229;2017;False;;2,0;1,0;73,0;11,0;7,0;90,0
 Marvin Moeller;2016-07-11;Hamburg;Clay;A;L;R32;6-1 6-2;Grega Zemlja;4,08;4,08;5,88;7,0;2016-0414-276;2016;False;;2,0;2,0;49,0;7,0;3,0;51,0
-Matej Dodig;2026-10-12;Maia Challenger;Clay;C;W;R32;6-2 6-1;Pedro Martinez;9,3;4,65;0,0;5,38;2026-8312-390;2026;False;;4,0;2,0;43,0;8,0;0,0;53,0
+Matej Dodig;2026-10-12;Maia Challenger;Clay;C;W;R32;6-2 6-1;Pedro Martinez;9,3;4,65;0,0;5,38;2026-8312-382;2026;False;;4,0;2,0;43,0;8,0;0,0;53,0
 Matej Dodig;2026-10-05;Braga Challenger;Clay;C;W;F;3-6 6-3 6-2;Elmer Moller;5,26;1,32;0,0;5,85;2026-7913-385;2026;False;;4,0;1,0;76,0;13,0;0,0;96,0
 Matej Dodig;2026-10-05;Braga Challenger;Clay;C;W;SF;6-3 6-1;Lukas Neumayer;10,87;2,17;2,0;5,75;2026-7913-383;2026;False;;5,0;1,0;46,0;8,0;1,0;50,0
 Matej Dodig;2026-10-05;Braga Challenger;Clay;C;W;QF;6-2 6-3;Marvin Moeller;7,84;0,0;1,69;6,38;2026-7913-380;2026;False;;4,0;0,0;51,0;8,0;1,0;59,0
@@ -77386,7 +77407,7 @@ Matteo Berrettini;2015-05-04;Rome CH;Clay;C;L;R16;6-3 6-3;Kyle Edmund;3,45;1,72;
 Matteo Berrettini;2015-05-04;Rome CH;Clay;C;W;R32;6-4 6-2;Jan Mertl;1,92;1,92;1,52;5,78;2015-2151-006;2015;True;;1,0;1,0;52,0;9,0;1,0;66,0
 Matteo Berrettini;2014-11-17;Andria CH;Hard;C;L;R32;7-5 7-6(4);Nikoloz Basilashvili;14,29;3,9;11,84;6,42;2014-6911-002;2014;True;;11,0;3,0;77,0;12,0;9,0;76,0
 Matteo Berrettini;2014-11-03;Ortisei CH;Hard;C;L;R32;6-3 6-4;Dustin Brown;6,98;0,0;14,29;4,78;2014-6204-012;2014;True;;3,0;0,0;43,0;9,0;8,0;56,0
-Matteo Martineau;2026-10-12;Roanne Challenger;Hard;C;W;R32;6-2 7-6(5);Max Schoenhaus;17,14;7,14;3,95;7,0;2026-9625-385;2026;False;;12,0;5,0;70,0;10,0;3,0;76,0
+Matteo Martineau;2026-10-12;Roanne Challenger;Hard;C;W;R32;6-2 7-6(5);Max Schoenhaus;17,14;7,14;3,95;7,0;2026-9625-382;2026;False;;12,0;5,0;70,0;10,0;3,0;76,0
 Matteo Martineau;2026-09-28;Mouilleron le Captif CH;Hard;C;L;R32;7-6(4) 6-7(5) 6-3;Clement Tabur;8,4;1,53;4,95;7,71;2026-6857-366;2026;False;;11,0;2,0;131,0;17,0;5,0;101,0
 Matteo Martineau;2026-09-21;Saint-Tropez CH;Hard;C;L;R16;6-3 5-7 6-3;Daniel Masur;5,56;6,67;4,4;6,0;2026-9552-371;2026;False;;5,0;6,0;90,0;15,0;4,0;91,0
 Matteo Martineau;2026-09-21;Saint-Tropez CH;Hard;C;W;R32;7-6(4) 6-7(6) 7-6(6);Tristan Schoolkate;12,5;7,03;8,62;7,11;2026-9552-356;2026;False;;16,0;9,0;128,0;18,0;10,0;116,0
@@ -78000,7 +78021,8 @@ Matthew Dellavedova;2017-02-06;Launceston CH;Hard;C;L;Q3;6-2 3-6 6-1;James Frawl
 Matthew Dellavedova;2017-02-06;Launceston CH;Hard;C;W;Q2;6-4 3-4 RET;Greg Jones;7,14;7,14;3,33;5,25;2017-7203-246;2017;False;;3,0;3,0;42,0;8,0;2,0;60,0
 Matthew Dellavedova;2017-02-06;Launceston CH;Hard;C;W;Q1;6-3 6-3;Mario Matejcek;3,77;1,89;0,0;5,89;2017-7203-233;2017;False;;2,0;1,0;53,0;9,0;0,0;39,0
 Matthew Dellavedova;2017-01-09;Canberra CH;Hard;C;L;Q2;6-4 6-2;Tomislav Edward Papac;1,69;5,08;2,99;6,56;2017-7393-245;2017;False;;1,0;3,0;59,0;9,0;2,0;67,0
-Mattia Bellucci;2026-10-12;Jinan Challenger;Hard;C;W;R32;6-2 6-1;Elias Ymer;11,11;1,85;3,85;7,71;2026-7746-387;2026;True;;6,0;1,0;54,0;7,0;2,0;52,0
+Mattia Bellucci;2026-10-12;Jinan Challenger;Hard;C;W;R16;6-4 6-4;Luka Pavlovic;4,23;5,63;10,45;7,1;2026-7746-388;2026;True;;3,0;4,0;71,0;10,0;7,0;67,0
+Mattia Bellucci;2026-10-12;Jinan Challenger;Hard;C;W;R32;6-2 6-1;Elias Ymer;11,11;1,85;3,85;7,71;2026-7746-378;2026;True;;6,0;1,0;54,0;7,0;2,0;52,0
 Mattia Bellucci;2026-10-07;ATP Shanghai;Hard;M;L;R128;6-4 3-6 7-6(4);Yi Zhou;6,25;2,08;10,34;6,4;2026-5014-311;2026;True;;6,0;2,0;96,0;15,0;12,0;116,0
 Mattia Bellucci;2026-10-07;ATP Shanghai;Hard;M;W;Q2;6-4 6-2;Alexandre Muller;19,23;1,92;6,0;5,78;2026-5014-288;2026;True;;10,0;1,0;52,0;9,0;3,0;50,0
 Mattia Bellucci;2026-10-07;ATP Shanghai;Hard;M;W;Q1;4-6 7-5 7-6(3);Elias Ymer;7,27;1,82;5,0;6,47;2026-5014-272;2026;True;;8,0;2,0;110,0;17,0;6,0;120,0
@@ -78302,7 +78324,7 @@ Mattia Bellucci;2022-07-11;Verona CH;Clay;C;W;Q1;6-2 7-6(5);Gian Matias Di Natal
 Mattia Bellucci;2022-07-04;Todi CH;Clay;C;L;R32;6-3 6-7(5) 6-2;Daniel Masur;7,87;5,62;3,06;6,36;2022-8392-276;2022;True;;7,0;5,0;89,0;14,0;3,0;98,0
 Mattia Bellucci;2022-01-03;Forli 1 CH;Hard;C;L;Q1;6-3 6-4;Elliot Benchetrit;4,76;6,35;9,52;7,0;2022-9680-248;2022;True;;3,0;4,0;63,0;9,0;6,0;63,0
 Mattia Bellucci;2021-11-01;Bergamo CH;Hard;C;L;Q1;7-6(5) 6-4;Nerman Fatic;4,69;1,56;11,11;5,82;2021-0854-249;2021;True;;3,0;1,0;64,0;11,0;7,0;63,0
-Max Alcala Gurri;2026-10-12;Maia Challenger;Clay;C;L;R32;6-3 6-4;Alejo Sanchez Quilez;2,99;5,97;1,72;7,44;2026-8312-382;2026;False;;2,0;4,0;67,0;9,0;1,0;58,0
+Max Alcala Gurri;2026-10-12;Maia Challenger;Clay;C;L;R32;6-3 6-4;Alejo Sanchez Quilez;2,99;5,97;1,72;7,44;2026-8312-374;2026;False;;2,0;4,0;67,0;9,0;1,0;58,0
 Max Alcala Gurri;2026-10-05;Braga Challenger;Clay;C;L;QF;6-7(6) 6-2 6-2;Lukas Neumayer;1,1;6,59;2,86;6,5;2026-7913-379;2026;False;;1,0;6,0;91,0;14,0;3,0;105,0
 Max Alcala Gurri;2026-10-05;Braga Challenger;Clay;C;W;R16;6-1 6-0;Patrick Schoen;1,92;3,85;0,0;7,43;2026-7913-371;2026;False;;1,0;2,0;52,0;7,0;0,0;34,0
 Max Alcala Gurri;2026-10-05;Braga Challenger;Clay;C;W;R32;6-1 6-2;Dali Blanch;0,0;2,33;0,0;6,14;2026-7913-355;2026;False;;0,0;1,0;43,0;7,0;0,0;55,0
@@ -78971,7 +78993,7 @@ Max Houkes;2022-10-24;Lima CH;Clay;C;W;Q1;6-1 6-1;Tomas Lipovsek Puches;2,27;9,0
 Max Houkes;2022-07-11;Amersfoort CH;Clay;C;L;QF;6-2 6-7(4) 7-6(5);Ivan Gakhov;2,68;5,36;6,14;7,0;2022-9198-296;2022;False;;3,0;6,0;112,0;16,0;7,0;114,0
 Max Houkes;2022-07-11;Amersfoort CH;Clay;C;W;R16;6-3 6-3;Carlos Taberner;5,08;6,78;1,54;6,56;2022-9198-291;2022;False;;3,0;4,0;59,0;9,0;1,0;65,0
 Max Houkes;2022-07-11;Amersfoort CH;Clay;C;W;R32;7-6(1) 7-6(4);Timofey Skatov;12,5;5,68;0,0;7,33;2022-9198-280;2022;False;;11,0;5,0;88,0;12,0;0,0;96,0
-Max Schoenhaus;2026-10-12;Roanne Challenger;Hard;C;L;R32;6-2 7-6(5);Matteo Martineau;3,95;3,95;17,14;7,6;2026-9625-385;2026;False;;3,0;3,0;76,0;10,0;12,0;70,0
+Max Schoenhaus;2026-10-12;Roanne Challenger;Hard;C;L;R32;6-2 7-6(5);Matteo Martineau;3,95;3,95;17,14;7,6;2026-9625-382;2026;False;;3,0;3,0;76,0;10,0;12,0;70,0
 Max Schoenhaus;2026-09-14;Rennes CH;Hard;C;L;R32;7-6(2) 6-4;Matteo Martineau;4,55;3,03;23,73;6,0;2026-3503-357;2026;False;;3,0;2,0;66,0;11,0;14,0;59,0
 Max Schoenhaus;2026-09-14;Rennes CH;Hard;C;W;Q2;4-6 6-3 6-1;Patrick Brady;15,38;3,85;5,06;6,0;2026-3503-354;2026;False;;12,0;3,0;78,0;13,0;4,0;79,0
 Max Schoenhaus;2026-09-14;Rennes CH;Hard;C;W;Q1;7-6(12) 6-4;Adhithya Ganesan;9,09;3,03;5,61;6,0;2026-3503-348;2026;False;;6,0;2,0;66,0;11,0;6,0;107,0
@@ -79053,7 +79075,7 @@ Max Schoenhaus;2025-02-24;M15 Antalya;Clay;15;L;R32;6-0 1-0 RET;Svyatoslav Gulin
 Max Schoenhaus;2025-01-27;Koblenz CH;Hard;C;L;R32;6-2 3-6 6-3;Ivan Gakhov;4,23;4,23;5,95;5,46;2025-7652-357;2025;False;;3,0;3,0;71,0;13,0;5,0;84,0
 Max Schoenhaus;2024-08-05;Bonn CH;Clay;C;L;Q1;6-4 7-6(6);Daniel Dutra Da Silva;3,12;5,21;8,45;8,73;2024-2935-238;2024;False;;3,0;5,0;96,0;11,0;6,0;71,0
 Max Schoenhaus;2024-07-29;Luedenscheid CH;Clay;C;L;R32;6-7(5) 6-0 6-4;Clement Tabur;2,97;5,94;6,74;7,21;2024-9542-272;2024;False;;3,0;6,0;101,0;14,0;6,0;89,0
-Maxim Mrva;2026-10-12;Olbia Challenger;Hard;C;W;R32;6-2 2-1 RET;Hynek Barton;5,0;0,0;12,5;8,0;2026-2893-388;2026;False;;2,0;0,0;40,0;5,0;4,0;32,0
+Maxim Mrva;2026-10-12;Olbia Challenger;Hard;C;W;R32;6-2 2-1 RET;Hynek Barton;5,0;0,0;12,5;8,0;2026-2893-382;2026;False;;2,0;0,0;40,0;5,0;4,0;32,0
 Maxim Mrva;2026-09-21;Plovdiv 4 CH;Clay;C;L;R16;7-5 0-6 6-2;Izan Almazan Valiente;0,0;3,95;1,28;5,85;2026-3173-373;2026;False;;0,0;3,0;76,0;13,0;1,0;78,0
 Maxim Mrva;2026-09-21;Plovdiv 4 CH;Clay;C;W;R32;6-4 4-6 6-2;Mykyta Mashtakov;0,0;4,0;1,92;7,14;2026-3173-359;2026;False;;0,0;4,0;100,0;14,0;2,0;104,0
 Maxim Mrva;2026-09-07;Tulln CH;Clay;C;L;R32;5-2 RET;Marvin Moeller;3,85;3,85;0,0;8,67;2026-9556-362;2026;False;;1,0;1,0;26,0;3,0;0,0;19,0
@@ -79299,7 +79321,8 @@ Mert Alkaya;2025-02-03;M15 Zahra ;Hard;15;W;R32;6-4 6-1;Samir Hamza Reguig;6,52;
 Mert Alkaya;2025-01-13;M15 Doha;Hard;15;L;R16;6-3 6-3;Tibo Colson;1,49;1,49;9,62;7,44;2025-M-ITF-QAT-2025-001-204;2025;False;;1,0;1,0;67,0;9,0;5,0;52,0
 Mert Alkaya;2025-01-13;M15 Doha;Hard;15;W;R32;6-3 6-3;Ivan Nedelko;3,33;0,0;1,59;6,67;2025-M-ITF-QAT-2025-001-107;2025;False;;2,0;0,0;60,0;9,0;1,0;63,0
 Mert Alkaya;2018-04-30;Istanbul;Clay;A;L;Q1;6-3 6-1;Thiago Monteiro;0,0;3,7;5,56;6,75;2018-7163-246;2018;False;;0,0;2,0;54,0;8,0;3,0;54,0
-Michael Mmoh;2026-10-12;Olbia Challenger;Hard;C;W;R32;6-4 6-3;Laslo Djere;3,33;1,67;5,66;6,0;2026-2893-386;2026;False;;2,0;1,0;60,0;10,0;3,0;53,0
+Michael Mmoh;2026-10-12;Olbia Challenger;Hard;C;W;R16;7-5 6-2;Daniel Rincon;1,69;1,69;6,49;5,9;2026-2893-389;2026;False;;1,0;1,0;59,0;10,0;5,0;77,0
+Michael Mmoh;2026-10-12;Olbia Challenger;Hard;C;W;R32;6-4 6-3;Laslo Djere;3,33;1,67;5,66;6,0;2026-2893-380;2026;False;;2,0;1,0;60,0;10,0;3,0;53,0
 Michael Mmoh;2026-09-28;Porto Monte Aventino CH;Hard;C;L;R32;6-4 6-4;Laslo Djere;4,76;1,59;2,99;6,3;2026-9526-361;2026;False;;3,0;1,0;63,0;10,0;2,0;67,0
 Michael Mmoh;2026-09-14;Tiburon CH;Hard;C;L;F;3-6 6-4 6-2;Darwin Blanch;6,9;6,9;7,59;6,69;2026-1768-385;2026;False;;6,0;6,0;87,0;13,0;6,0;79,0
 Michael Mmoh;2026-09-14;Tiburon CH;Hard;C;W;SF;6-2 6-2;J J Wolf;10,0;10,0;4,65;6,25;2026-1768-383;2026;False;;5,0;5,0;50,0;8,0;2,0;43,0
@@ -79894,7 +79917,7 @@ Michael Zheng;2023-06-05;Tyler CH;Hard;C;L;Q1;6-3 6-2;Sasi Kumar Mukund;5,0;6,67
 Michael Zheng;2023-05-29;Little Rock CH;Hard;C;L;R32;7-6(5) 6-3;Mikhail Kukushkin;8,57;1,43;2,94;7,0;2023-9188-272;2023;True;;6,0;1,0;70,0;10,0;2,0;68,0
 Michael Zheng;2023-05-29;Little Rock CH;Hard;C;W;Q2;6-4 6-7(3) 6-3;Duarte Vale;10,2;2,04;0,85;6,12;2023-9188-249;2023;True;;10,0;2,0;98,0;16,0;1,0;117,0
 Michael Zheng;2023-05-29;Little Rock CH;Hard;C;W;Q1;6-3 6-4;Marius Copil;8,0;0,0;3,33;5,0;2023-9188-238;2023;True;;4,0;0,0;50,0;10,0;2,0;60,0
-Michele Ribecai;2026-10-12;San Gregorio di Catania Challenger;Clay;C;L;R32;6-3 6-4;Radu Mihai Papoe;5,63;0,0;0,0;7,89;2026-3155-377;2026;False;;4,0;0,0;71,0;9,0;0,0;52,0
+Michele Ribecai;2026-10-12;San Gregorio di Catania Challenger;Clay;C;L;R32;6-3 6-4;Radu Mihai Papoe;5,63;0,0;0,0;7,89;2026-3155-376;2026;False;;4,0;0,0;71,0;9,0;0,0;52,0
 Michele Ribecai;2026-10-05;Palermo Challenger;Clay;C;L;QF;6-1 1-6 7-6(5);Jonas Forejtek;2,02;1,01;3,53;7,62;2026-3153-382;2026;False;;2,0;1,0;99,0;13,0;3,0;85,0
 Michele Ribecai;2026-10-05;Palermo Challenger;Clay;C;W;R16;6-1 6-1;Zdenek Kolar;0,0;0,0;2,13;6,86;2026-3153-378;2026;False;;0,0;0,0;48,0;7,0;1,0;47,0
 Michele Ribecai;2026-10-05;Palermo Challenger;Clay;C;W;R32;5-7 7-5 6-0;Benito Sanchez Martinez;3,53;1,18;2,22;5,67;2026-3153-369;2026;False;;3,0;1,0;85,0;15,0;2,0;90,0
@@ -80238,8 +80261,8 @@ Miguel Damas;2021-11-22;Puerto Vallarta CH;Hard;C;L;Q1;6-1 6-1;Christian Langmo;
 Miguel Damas;2021-11-01;Tenerife CH;Hard;C;L;Q2;6-1 7-5;Alexander Shevchenko;0,0;6,38;3,23;5,22;2021-9623-254;2021;False;;0,0;3,0;47,0;9,0;2,0;62,0
 Miguel Damas;2021-11-01;Tenerife CH;Hard;C;W;Q1;6-2 2-6 6-2;Jakub Paul;0,0;6,02;3,61;6,92;2021-9623-250;2021;False;;0,0;5,0;83,0;12,0;3,0;83,0
 Miguel Damas;2019-07-29;Segovia CH;Hard;C;L;R64;6-7(6) 7-6(8) 6-2;Illya Marchenko;3,54;5,31;6,03;7,06;2019-0783-251;2019;False;;4,0;6,0;113,0;16,0;7,0;116,0
-Mika Brunold;2026-10-12;Roanne Challenger;Hard;C;W;R16;6-2 2-6 6-4;Benjamin Bonzi;5,33;4,0;12,82;5,77;2026-9625-391;2026;False;;4,0;3,0;75,0;13,0;10,0;78,0
-Mika Brunold;2026-10-12;Roanne Challenger;Hard;C;W;R32;7-6(2) 6-3;Mathys Domenc;2,78;4,17;3,75;6,55;2026-9625-376;2026;False;;2,0;3,0;72,0;11,0;3,0;80,0
+Mika Brunold;2026-10-12;Roanne Challenger;Hard;C;W;R16;6-2 2-6 6-4;Benjamin Bonzi;5,33;4,0;12,82;5,77;2026-9625-388;2026;False;;4,0;3,0;75,0;13,0;10,0;78,0
+Mika Brunold;2026-10-12;Roanne Challenger;Hard;C;W;R32;7-6(2) 6-3;Mathys Domenc;2,78;4,17;3,75;6,55;2026-9625-373;2026;False;;2,0;3,0;72,0;11,0;3,0;80,0
 Mika Brunold;2026-09-14;Biella CH;Clay;C;L;QF;6-0 3-6 6-4;Carlo Alberto Caniato;2,44;1,22;6,94;6,31;2026-7085-383;2026;False;;2,0;1,0;82,0;13,0;5,0;72,0
 Mika Brunold;2026-09-14;Biella CH;Clay;C;W;R16;6-2 6-2;Francesco Forti;9,76;0,0;0,0;5,12;2026-7085-379;2026;False;;4,0;0,0;41,0;8,0;0,0;49,0
 Mika Brunold;2026-09-14;Biella CH;Clay;C;W;R32;6-3 1-6 7-5;Massimo Giunta;3,75;3,75;1,01;5,71;2026-7085-370;2026;False;;3,0;3,0;80,0;14,0;1,0;99,0
@@ -80381,7 +80404,7 @@ Mika Brunold;2023-03-06;Lugano CH;Hard;C;L;QF;6-0 6-3;Antoine Escoffier;4,44;4,4
 Mika Brunold;2023-03-06;Lugano CH;Hard;C;W;R16;7-5 6-3;Raul Brancaccio;4,29;2,86;4,11;7,0;2023-9516-291;2023;False;;3,0;2,0;70,0;10,0;3,0;73,0
 Mika Brunold;2023-03-06;Lugano CH;Hard;C;W;R32;4-6 6-2 6-2;Manuel Guinard;7,29;6,25;4,0;7,38;2023-9516-280;2023;False;;7,0;6,0;96,0;13,0;4,0;100,0
 Mika Brunold;2022-03-28;Lugano CH;Hard;C;L;Q1;6-1 7-5;Lucas Miedler;0,0;5,97;7,14;7,44;2022-9516-244;2022;False;;0,0;4,0;67,0;9,0;4,0;56,0
-Mili Poljicak;2026-10-12;Olbia Challenger;Hard;C;L;R32;6-2 6-3;Francesco Maestrelli;8,7;0,0;10,0;5,75;2026-2893-387;2026;False;;4,0;0,0;46,0;8,0;5,0;50,0
+Mili Poljicak;2026-10-12;Olbia Challenger;Hard;C;L;R32;6-2 6-3;Francesco Maestrelli;8,7;0,0;10,0;5,75;2026-2893-381;2026;False;;4,0;0,0;46,0;8,0;5,0;50,0
 Mili Poljicak;2026-10-05;Villena Challenger;Hard;C;L;Q2;5-7 6-3 6-3;Max Hans Rehberg;13,48;3,37;9,88;5,93;2026-7909-351;2026;False;;12,0;3,0;89,0;15,0;8,0;81,0
 Mili Poljicak;2026-10-05;Villena Challenger;Hard;C;W;Q1;6-4 3-6 7-5;Patrick Brady;13,4;2,06;4,26;6,47;2026-7909-341;2026;False;;13,0;2,0;97,0;15,0;4,0;94,0
 Mili Poljicak;2026-09-28;Porto Monte Aventino CH;Hard;C;L;R16;6-2 6-0;Henrique Rocha;1,89;13,21;10,64;7,57;2026-9526-377;2026;False;;1,0;7,0;53,0;7,0;5,0;47,0
@@ -80533,7 +80556,7 @@ Mili Poljicak;2021-10-18;Losinj CH;Clay;C;L;R32;7-6(2) 6-3;Andrej Martin;3,53;3,
 Mili Poljicak;2021-04-12;Split 2 CH;Clay;C;L;Q1;6-3 6-2;Kacper Zuk;3,28;1,64;5,56;6,78;2021-9477-248;2021;False;;2,0;1,0;61,0;9,0;3,0;54,0
 Mili Poljicak;2021-04-05;Split 1 CH;Clay;C;L;R32;6-1 6-1;Aleksandar Vukic;0,0;4,88;5,0;5,86;2021-8388-279;2021;False;;0,0;2,0;41,0;7,0;2,0;40,0
 Mili Poljicak;2021-03-22;Zadar CH;Clay;C;L;R32;4-6 6-4 6-3;Frane Nincevic;0,0;4,49;0,0;6,36;2021-9472-271;2021;False;;0,0;4,0;89,0;14,0;0,0;97,0
-Miomir Kecmanovic;2026-10-12;Jinan Challenger;Hard;C;L;R32;6-3 6-4;Alexander Shevchenko;2,13;0,0;9,09;5,22;2026-7746-390;2026;True;;1,0;0,0;47,0;9,0;5,0;55,0
+Miomir Kecmanovic;2026-10-12;Jinan Challenger;Hard;C;L;R32;6-3 6-4;Alexander Shevchenko;2,13;0,0;9,09;5,22;2026-7746-381;2026;True;;1,0;0,0;47,0;9,0;5,0;55,0
 Miomir Kecmanovic;2026-10-07;ATP Shanghai;Hard;M;L;R64;6-3 6-3;Jakub Mensik;7,69;0,0;29,79;5,78;2026-5014-345;2026;True;;4,0;0,0;52,0;9,0;14,0;47,0
 Miomir Kecmanovic;2026-10-07;ATP Shanghai;Hard;M;W;R128;6-2 6-4;Sho Shimabukuro;7,27;0,0;9,38;6,11;2026-5014-313;2026;True;;4,0;0,0;55,0;9,0;6,0;64,0
 Miomir Kecmanovic;2026-09-30;Beijing;Hard;A;L;Q1;7-6(6) 3-6 7-6(5);Adrian Mannarino;5,88;2,52;7,84;7,0;2026-0747-343;2026;True;;7,0;3,0;119,0;17,0;8,0;102,0
@@ -81322,7 +81345,7 @@ Moez Echargui;2017-07-10;Perugia CH;Clay;C;L;R32;6-3 6-4;Marc Polmans;7,69;3,85;
 Moez Echargui;2017-07-10;Perugia CH;Clay;C;W;Q3;4-6 6-4 6-2;Jonathan Eysseric;2,15;0,0;2,17;6,64;2017-9001-254;2017;False;;2,0;0,0;93,0;14,0;2,0;92,0
 Moez Echargui;2017-07-10;Perugia CH;Clay;C;W;Q2;4-6 7-5 6-1;Christian Lindell;2,25;3,37;0,87;5,93;2017-9001-249;2017;False;;2,0;3,0;89,0;15,0;1,0;115,0
 Moez Echargui;2017-07-10;Perugia CH;Clay;C;W;Q1;4-6 7-6(3) 6-2;Riccardo Ghedin;9,78;4,35;3,88;6,13;2017-9001-240;2017;False;;9,0;4,0;92,0;15,0;4,0;103,0
-Moise Kouame;2026-10-12;Roanne Challenger;Hard;C;W;R32;6-1 6-4;Diego Dedura Palomero;2,9;2,9;0,0;7,67;2026-9625-388;2026;False;;2,0;2,0;69,0;9,0;0,0;44,0
+Moise Kouame;2026-10-12;Roanne Challenger;Hard;C;W;R32;6-1 6-4;Diego Dedura Palomero;2,9;2,9;0,0;7,67;2026-9625-385;2026;False;;2,0;2,0;69,0;9,0;0,0;44,0
 Moise Kouame;2026-09-29;Jingshan Challenger;Hard;C;L;R32;6-1 6-4;Adam Walton;1,79;16,07;17,78;6,22;2026-3013-381;2026;False;;1,0;9,0;56,0;9,0;8,0;45,0
 Moise Kouame;2026-09-23;Chengdu;Hard;A;L;R32;6-4 6-0;Alexandre Muller;7,69;11,54;5,88;6,5;2026-7581-360;2026;False;;4,0;6,0;52,0;8,0;3,0;51,0
 Moise Kouame;2026-09-14;Phan Thiet 4 CH;Hard;C;L;SF;2-6 6-3 6-4;Rodrigo Pacheco Mendez;10,99;9,89;8,14;7,0;2026-3139-384;2026;False;;10,0;9,0;91,0;13,0;7,0;86,0
@@ -81562,7 +81585,7 @@ Murphy Cassone;2022-05-30;Little Rock CH;Hard;C;W;R32;2-6 6-3 6-2;Michael Mmoh;1
 Murphy Cassone;2022-05-30;Little Rock CH;Hard;C;W;Q2;3-6 6-1 6-2;Evan Zhu;6,9;6,9;5,32;7,25;2022-9188-253;2022;False;;6,0;6,0;87,0;12,0;5,0;94,0
 Murphy Cassone;2022-05-30;Little Rock CH;Hard;C;W;Q1;6-4 3-6 6-3;Adrian Andreev;17,05;4,55;9,38;6,29;2022-9188-246;2022;False;;15,0;4,0;88,0;14,0;9,0;96,0
 Murphy Cassone;2022-03-14;Phoenix CH;Hard;C;L;Q1;6-3 6-1;Gilles Simon;5,36;7,14;2,22;7,0;2022-9167-246;2022;False;;3,0;4,0;56,0;8,0;1,0;45,0
-Nick Hardt;2026-10-12;Santa Cruz de la Sierra 2 Challenger;Clay;C;L;R32;6-3 4-6 6-2;Francisco Comesana;0,0;10,34;6,67;6,69;2026-3143-397;2026;False;;0,0;9,0;87,0;13,0;6,0;90,0
+Nick Hardt;2026-10-12;Santa Cruz de la Sierra 2 Challenger;Clay;C;L;R32;6-3 4-6 6-2;Francisco Comesana;0,0;10,34;6,67;6,69;2026-3143-388;2026;False;;0,0;9,0;87,0;13,0;6,0;90,0
 Nick Hardt;2026-10-05;Antofagasta Challenger;Clay;C;L;R16;6-3 6-3;Felipe Meligeni Alves;3,45;8,62;3,39;6,44;2026-2889-375;2026;False;;2,0;5,0;58,0;9,0;2,0;59,0
 Nick Hardt;2026-10-05;Antofagasta Challenger;Clay;C;W;R32;7-5 3-6 7-5;Gonzalo Villanueva;1,64;9,84;4,67;7,62;2026-2889-364;2026;False;;2,0;12,0;122,0;16,0;5,0;107,0
 Nick Hardt;2026-08-31;Porto CTP CH;Clay;C;L;R32;4-6 6-0 6-3;Marco Cecchinato;0,0;7,78;1,33;6,92;2026-2933-359;2026;False;;0,0;7,0;90,0;13,0;1,0;75,0
@@ -81811,7 +81834,7 @@ Nick Hardt;2019-04-15;Sarasota CH;Clay;C;W;R64;3-6 6-3 6-3;Michael Redlicki;6,49
 Nick Hardt;2017-08-14;Santo Domingo CH;Clay;C;L;R32;6-1 6-0;Santiago Giraldo;0,0;3,12;10,0;5,33;2017-7201-282;2017;False;;0,0;1,0;32,0;6,0;4,0;40,0
 Nick Hardt;2017-02-03;Davis Cup G1 R1: DOM vs CHI;Hard;D;L;RR;6-3 6-3;Nicolas Jarry;5,26;5,26;16,67;6,33;2017-M-DC-2017-G1-AM-M-DOM-CHI-01-005;2017;False;;3,0;3,0;57,0;9,0;8,0;48,0
 Nick Hardt;2016-02-08;Santo Domingo CH;Clay;C;L;R32;6-1 6-0;Roberto Carballes Baena;2,33;4,65;6,06;7,17;2016-7201-274;2016;False;;1,0;2,0;43,0;6,0;2,0;33,0
-Nicolai Budkov Kjaer;2026-10-12;Roanne Challenger;Hard;C;W;R32;6-4 7-5;Jakub Paul;10,81;4,05;2,67;6,73;2026-9625-387;2026;False;;8,0;3,0;74,0;11,0;2,0;75,0
+Nicolai Budkov Kjaer;2026-10-12;Roanne Challenger;Hard;C;W;R32;6-4 7-5;Jakub Paul;10,81;4,05;2,67;6,73;2026-9625-384;2026;False;;8,0;3,0;74,0;11,0;2,0;75,0
 Nicolai Budkov Kjaer;2026-09-28;Mouilleron le Captif CH;Hard;C;L;R16;7-5 4-6 7-6(5);Felix Balshaw;0,88;0,0;12,61;6,65;2026-6857-371;2026;False;;1,0;0,0;113,0;17,0;14,0;111,0
 Nicolai Budkov Kjaer;2026-09-28;Mouilleron le Captif CH;Hard;C;W;R32;6-3 6-2;Yanis Ghazouani Durand;8,93;3,57;1,69;7,0;2026-6857-355;2026;False;;5,0;2,0;56,0;8,0;1,0;59,0
 Nicolai Budkov Kjaer;2026-09-21;Saint-Tropez CH;Hard;C;L;R32;3-6 6-3 7-5;Billy Harris;8,05;5,75;10,68;5,8;2026-9552-358;2026;False;;7,0;5,0;87,0;15,0;11,0;103,0
@@ -82867,7 +82890,7 @@ Nicolas Mejia;2018-04-09;Mexico City CH;Clay;C;L;Q1;6-2 6-4;Alejandro Gomez Gb42
 Nicolas Mejia;2018-04-02;Panama City CH;Clay;C;L;Q2;2-6 6-4 6-2;Felipe Mantilla;3,85;3,85;2,6;6,0;2018-7705-249;2018;False;;3,0;3,0;78,0;13,0;2,0;77,0
 Nicolas Mejia;2018-04-02;Panama City CH;Clay;C;W;Q1;7-5 6-1;Sergio Galdos;10,13;2,53;0,0;7,9;2018-7705-240;2018;False;;8,0;2,0;79,0;10,0;0,0;67,0
 Nicolas Mejia;2016-04-11;Sarasota CH;Clay;C;L;Q1;6-1 6-2;Emilio Gomez;4,17;12,5;5,41;6,0;2016-5069-242;2016;False;;2,0;6,0;48,0;8,0;2,0;37,0
-Nikolas Sanchez Izquierdo;2026-10-12;Maia Challenger;Clay;C;W;R32;6-4 6-4;Andrej Martin;1,59;1,59;4,48;6,3;2026-8312-391;2026;False;;1,0;1,0;63,0;10,0;3,0;67,0
+Nikolas Sanchez Izquierdo;2026-10-12;Maia Challenger;Clay;C;W;R32;6-4 6-4;Andrej Martin;1,59;1,59;4,48;6,3;2026-8312-383;2026;False;;1,0;1,0;63,0;10,0;3,0;67,0
 Nikolas Sanchez Izquierdo;2026-10-05;Braga Challenger;Clay;C;L;R16;7-5 6-3;Tiago Pereira;0,0;4,08;7,58;4,9;2026-7913-377;2026;False;;0,0;2,0;49,0;10,0;5,0;66,0
 Nikolas Sanchez Izquierdo;2026-10-05;Braga Challenger;Clay;C;W;R32;6-3 6-4;Goncalo Marques;3,51;3,51;2,99;6,33;2026-7913-367;2026;False;;2,0;2,0;57,0;9,0;2,0;67,0
 Nikolas Sanchez Izquierdo;2026-09-14;Szczecin CH;Clay;C;W;F;4-6 6-3 7-6(6);Thiago Monteiro;9,17;2,75;4,04;6,81;2026-0448-385;2026;False;;10,0;3,0;109,0;16,0;4,0;99,0
@@ -86012,7 +86035,8 @@ Oliver Crawford;2018-07-23;Binghamton CH;Hard;C;L;Q2;7-6(6) 6-3;Karue Sell;8,06;
 Oliver Crawford;2018-07-23;Binghamton CH;Hard;C;W;Q1;6-3 6-3;Yshai Oliel;5,45;3,64;2,86;6,11;2018-0670-237;2018;False;;3,0;2,0;55,0;9,0;2,0;70,0
 Oliver Crawford;2018-07-09;Winnetka CH;Hard;C;L;Q2;6-4 6-2;Alexander Ritschard;3,08;3,08;8,89;7,22;2018-0228-247;2018;False;;2,0;2,0;65,0;9,0;4,0;45,0
 Oliver Crawford;2018-07-09;Winnetka CH;Hard;C;W;Q1;4-6 6-1 6-3;Aron Hiltzik;3,33;1,67;4,3;4,62;2018-0228-236;2018;False;;2,0;1,0;60,0;13,0;4,0;93,0
-Otto Virtanen;2026-10-12;Roanne Challenger;Hard;C;W;R32;7-5 7-5;Remy Bertola;25,0;5,88;4,23;5,67;2026-9625-379;2026;False;;17,0;4,0;68,0;12,0;3,0;71,0
+Otto Virtanen;2026-10-12;Roanne Challenger;Hard;C;L;R16;7-5 5-7 6-3;Dominic Stricker;19,32;2,27;10,23;5,5;2026-9625-390;2026;False;;17,0;2,0;88,0;16,0;9,0;88,0
+Otto Virtanen;2026-10-12;Roanne Challenger;Hard;C;W;R32;7-5 7-5;Remy Bertola;25,0;5,88;4,23;5,67;2026-9625-376;2026;False;;17,0;4,0;68,0;12,0;3,0;71,0
 Otto Virtanen;2026-09-28;Porto Monte Aventino CH;Hard;C;L;R32;6-4 2-6 6-3;Tiago Pereira;3,7;9,88;2,06;6,23;2026-9526-358;2026;False;;3,0;8,0;81,0;13,0;2,0;97,0
 Otto Virtanen;2026-08-31;US Open;Hard;G;L;R128;6-7(5) 6-7(0) 6-0 6-2 7-6(5);Andrey Rublev;10,27;3,78;13,42;7,4;2026-560-143;2026;False;;19,0;7,0;185,0;25,0;20,0;149,0
 Otto Virtanen;2026-08-31;US Open;Hard;G;W;Q2;2-6 7-6(6) 6-3;Jack Pinnington Jones;7,22;8,25;4,35;6,47;2026-560-781;2026;False;;7,0;8,0;97,0;15,0;4,0;92,0
@@ -87571,7 +87595,7 @@ Patrick Kypson;2017-09-11;Cary CH;Hard;C;L;R32;6-1 7-6(0);Ernesto Escobedo;7,14;
 Patrick Kypson;2017-08-28;US Open;Hard;G;L;R128;6-4 7-6(9) 6-1;Adrian Menendez Maceiras;3,96;2,97;11,34;7,21;2017-560-126;2017;False;;4,0;3,0;101,0;14,0;11,0;97,0
 Patrick Kypson;2017-07-31;Washington;Hard;A;L;Q1;6-1 6-1;Marinko Matosevic;6,52;4,35;6,67;6,57;2017-M035-215;2017;False;;3,0;2,0;46,0;7,0;3,0;45,0
 Patrick Kypson;2017-04-17;Bradenton CH;Clay;C;L;Q1;7-5 2-6 7-6(5);Nick Chappell;3,6;2,88;5,0;8,69;2017-5069-236;2017;False;;5,0;4,0;139,0;16,0;5,0;100,0
-Pavel Kotov;2026-10-12;Jinan Challenger;Hard;C;L;R32;6-1 4-1 RET;Vit Kopriva;0,0;3,12;12,9;5,33;2026-7746-379;2026;False;;0,0;1,0;32,0;6,0;4,0;31,0
+Pavel Kotov;2026-10-12;Jinan Challenger;Hard;C;L;R32;6-1 4-1 RET;Vit Kopriva;0,0;3,12;12,9;5,33;2026-7746-370;2026;False;;0,0;1,0;32,0;6,0;4,0;31,0
 Pavel Kotov;2026-10-07;ATP Shanghai;Hard;M;L;R64;6-3 6-4;Arthur Fils;6,9;1,72;13,33;6,44;2026-5014-340;2026;False;;4,0;1,0;58,0;9,0;8,0;60,0
 Pavel Kotov;2026-10-07;ATP Shanghai;Hard;M;W;R128;6-4 7-6(4);Tallon Griekspoor;9,84;0,0;9,72;5,55;2026-5014-308;2026;False;;6,0;0,0;61,0;11,0;7,0;72,0
 Pavel Kotov;2026-10-07;ATP Shanghai;Hard;M;W;Q2;6-3 6-3;Aleksandar Vukic;8,77;0,0;5,88;6,33;2026-5014-283;2026;False;;5,0;0,0;57,0;9,0;3,0;51,0
@@ -87982,7 +88006,7 @@ Pavel Kotov;2018-06-11;Almaty CH;Clay;C;W;Q1;6-4 7-6(4);Djurabek Karimov;2,82;1,
 Pavel Kotov;2018-06-04;Shymkent CH;Clay;C;L;Q1;4-6 6-4 6-2;Kevin Krawietz;2,08;10,42;2,38;6,86;2018-7736-236;2018;False;;2,0;10,0;96,0;14,0;2,0;84,0
 Pavel Kotov;2018-05-07;Rome CH;Clay;C;L;Q1;6-4 2-6 7-5;Enrico Dalla Valle;3,41;0,0;1,75;5,87;2018-2151-232;2018;False;;3,0;0,0;88,0;15,0;2,0;114,0
 Pavel Kotov;2018-04-30;Ostrava CH;Clay;C;L;Q1;6-1 6-4;Elliot Benchetrit;1,85;3,7;0,0;6,75;2018-1797-227;2018;False;;1,0;2,0;54,0;8,0;0,0;59,0
-Pedro Boscardin Dias;2026-10-12;Santa Cruz de la Sierra 2 Challenger;Clay;C;L;R32;7-5 6-4;Facundo Mena;1,39;5,56;7,46;6,55;2026-3143-390;2026;False;;1,0;4,0;72,0;11,0;5,0;67,0
+Pedro Boscardin Dias;2026-10-12;Santa Cruz de la Sierra 2 Challenger;Clay;C;L;R32;7-5 6-4;Facundo Mena;1,39;5,56;7,46;6,55;2026-3143-381;2026;False;;1,0;4,0;72,0;11,0;5,0;67,0
 Pedro Boscardin Dias;2026-10-05;Antofagasta Challenger;Clay;C;L;R16;6-2 6-3;Juan Carlos Prado Angelo;2,17;6,52;1,75;5,75;2026-2889-374;2026;False;;1,0;3,0;46,0;8,0;1,0;57,0
 Pedro Boscardin Dias;2026-10-05;Antofagasta Challenger;Clay;C;W;R32;6-2 7-6(2);Juan Bautista Torres;2,74;1,37;1,52;7,3;2026-2889-361;2026;False;;2,0;1,0;73,0;10,0;1,0;66,0
 Pedro Boscardin Dias;2026-09-28;Curitiba CH;Clay;C;L;SF;6-2 6-3;Gustavo Heide;2,0;2,0;4,26;6,25;2026-2895-384;2026;False;;1,0;1,0;50,0;8,0;2,0;47,0
@@ -88232,7 +88256,7 @@ Pedro Boscardin Dias;2021-12-06;Florianopolis CH;Clay;C;L;R32;4-6 7-5 6-2;Gonzal
 Pedro Boscardin Dias;2020-11-23;Sao Paulo CH;Clay;C;L;Q1;6-3 6-4;Alejandro Gonzalez;9,8;3,92;1,64;5,67;2020-8382-245;2020;False;;5,0;2,0;51,0;9,0;1,0;61,0
 Pedro Boscardin Dias;2020-02-17;Rio De Janeiro;Clay;A;L;Q1;6-3 6-1;Jozef Kovalik;1,75;10,53;4,17;7,12;2020-6932-245;2020;False;;1,0;6,0;57,0;8,0;2,0;48,0
 Pedro Boscardin Dias;2019-09-30;Campinas CH;Clay;C;L;R64;6-0 7-5;Orlando Luz;3,95;7,89;17,65;8,44;2019-6307-264;2019;False;;3,0;6,0;76,0;9,0;9,0;51,0
-Pedro Martinez;2026-10-12;Maia Challenger;Clay;C;L;R32;6-2 6-1;Matej Dodig;0,0;9,43;9,3;7,57;2026-8312-390;2026;False;;0,0;5,0;53,0;7,0;4,0;43,0
+Pedro Martinez;2026-10-12;Maia Challenger;Clay;C;L;R32;6-2 6-1;Matej Dodig;0,0;9,43;9,3;7,57;2026-8312-382;2026;False;;0,0;5,0;53,0;7,0;4,0;43,0
 Pedro Martinez;2026-10-05;Villena Challenger;Hard;C;L;SF;6-4 6-2;Laslo Djere;0,0;1,67;8,62;6,67;2026-7909-383;2026;False;;0,0;1,0;60,0;9,0;5,0;58,0
 Pedro Martinez;2026-10-05;Villena Challenger;Hard;C;W;QF;6-4 4-2 RET;Pablo Llamas Ruiz;2,22;2,22;5,45;5,62;2026-7909-380;2026;False;;1,0;1,0;45,0;8,0;3,0;55,0
 Pedro Martinez;2026-10-05;Villena Challenger;Hard;C;W;R16;7-5 6-4;Daniel Rincon;3,33;0,0;12,12;5,45;2026-7909-373;2026;False;;2,0;0,0;60,0;11,0;8,0;66,0
@@ -88798,7 +88822,7 @@ Pedro Martinez;2016-08-15;Cordenons CH;Clay;C;W;Q1;6-2 6-0;Omar Fiorenzato;12,5;
 Pedro Martinez;2016-08-08;Trnava CH;Clay;C;L;Q2;5-7 6-4 6-3;Roman Jebavy;1,1;6,59;1,8;6,07;2016-3628-259;2016;False;;1,0;6,0;91,0;15,0;2,0;111,0
 Pedro Martinez;2016-08-08;Trnava CH;Clay;C;W;Q1;6-3 4-6 6-3;David Damian Brna;1,2;9,64;0,99;5,93;2016-3628-245;2016;False;;1,0;8,0;83,0;14,0;1,0;101,0
 Pedro Martinez;2016-04-18;Barcelona;Clay;A;L;Q1;6-3 7-6(4);Jan Lennard Struff;1,33;5,33;4,48;7,5;2016-0425-231;2016;False;;1,0;4,0;75,0;10,0;3,0;67,0
-Petr Bar Biryukov;2026-10-12;Jinan Challenger;Hard;C;L;Q1;6-1 6-2;Omar Jasika;10,53;10,53;2,13;5,43;2026-7746-363;2026;False;;4,0;4,0;38,0;7,0;1,0;47,0
+Petr Bar Biryukov;2026-10-12;Jinan Challenger;Hard;C;L;Q1;6-1 6-2;Omar Jasika;10,53;10,53;2,13;5,43;2026-7746-354;2026;False;;4,0;4,0;38,0;7,0;1,0;47,0
 Petr Bar Biryukov;2026-09-29;Jingshan Challenger;Hard;C;L;R16;6-4 6-1;Dane Sweeny;15,0;8,33;5,41;6,67;2026-3013-388;2026;False;;9,0;5,0;60,0;9,0;2,0;37,0
 Petr Bar Biryukov;2026-09-29;Jingshan Challenger;Hard;C;W;R32;7-5 6-4;Masamichi Imamura;23,21;3,57;6,56;5,09;2026-3013-373;2026;False;;13,0;2,0;56,0;11,0;4,0;61,0
 Petr Bar Biryukov;2026-09-23;Chengdu;Hard;A;L;Q2;6-4 6-4;Alexandre Muller;13,16;3,95;1,61;7,6;2026-7581-357;2026;False;;10,0;3,0;76,0;10,0;1,0;62,0
@@ -88954,7 +88978,7 @@ Petr Bar Biryukov;2024-05-20;Kachreti CH;Hard;C;L;Q2;6-1 6-1;Hamish Stewart;10,0
 Petr Bar Biryukov;2024-05-20;Kachreti CH;Hard;C;W;Q1;6-1 7-6(5);Ilia Simakin;6,94;4,17;3,08;8,0;2024-2925-245;2024;False;;5,0;3,0;72,0;9,0;2,0;65,0
 Petr Bar Biryukov;2024-02-12;Manama CH;Hard;C;L;Q1;6-4 6-1;Yanki Erel;10,0;13,33;3,45;7,5;2024-9635-239;2024;False;;6,0;8,0;60,0;8,0;2,0;58,0
 Petr Bar Biryukov;2024-01-22;Quimper CH;Hard;C;L;Q1;7-6(5) 6-4;Mathias Bourgue;15,49;16,9;5,13;6,45;2024-6239-242;2024;False;;11,0;12,0;71,0;11,0;4,0;78,0
-Petr Nesterov;2026-10-12;Olbia Challenger;Hard;C;L;Q1;6-2 6-1;Christian Langmo;6,15;3,08;15,22;8,12;2026-2893-368;2026;False;;4,0;2,0;65,0;8,0;7,0;46,0
+Petr Nesterov;2026-10-12;Olbia Challenger;Hard;C;L;Q1;6-2 6-1;Christian Langmo;6,15;3,08;15,22;8,12;2026-2893-362;2026;False;;4,0;2,0;65,0;8,0;7,0;46,0
 Petr Nesterov;2026-10-05;Villena Challenger;Hard;C;L;R16;3-6 7-6(5) 6-3;Pablo Llamas Ruiz;6,42;1,83;3,85;6,81;2026-7909-374;2026;False;;7,0;2,0;109,0;16,0;4,0;104,0
 Petr Nesterov;2026-10-05;Villena Challenger;Hard;C;W;R32;6-3 7-6(4);Carles Hernandez;12,12;3,03;1,19;6,6;2026-7909-361;2026;False;;8,0;2,0;66,0;10,0;1,0;84,0
 Petr Nesterov;2026-10-05;Villena Challenger;Hard;C;W;Q2;3-6 6-4 6-1;Hynek Barton;2,56;3,85;8,51;6,0;2026-7909-350;2026;False;;2,0;3,0;78,0;13,0;8,0;94,0
@@ -89101,7 +89125,7 @@ Petr Nesterov;2024-02-12;Manama CH;Hard;C;L;Q1;6-2 6-3;Ergi Kirkin;5,48;4,11;0,0
 Petr Nesterov;2024-02-03;Davis Cup WG1 PO: BUL vs BIH;Hard;D;W;RR;4-6 6-2 [10-8];Andrej Nedic;4,23;7,04;2,04;7,89;2024-M-DC-2024-WG1-PO-BUL-BIH-01-004;2024;False;;3,0;5,0;71,0;9,0;2,0;98,0
 Petr Nesterov;2022-09-26;Sofia;Hard;A;L;Q2;6-4 6-2;Dragos Nicolae Madaras;3,8;2,53;5,17;8,78;2022-7434-251;2022;False;;3,0;2,0;79,0;9,0;3,0;58,0
 Petr Nesterov;2022-09-26;Sofia;Hard;A;W;Q1;7-6(4) 6-4;Salvatore Caruso;5,0;0,0;0,0;9,09;2022-7434-243;2022;False;;5,0;0,0;100,0;11,0;0,0;80,0
-Philip Henning;2026-10-12;Roanne Challenger;Hard;C;L;R32;6-2 6-3;Dominic Stricker;1,56;3,12;13,95;7,11;2026-9625-380;2026;False;;1,0;2,0;64,0;9,0;6,0;43,0
+Philip Henning;2026-10-12;Roanne Challenger;Hard;C;L;R32;6-2 6-3;Dominic Stricker;1,56;3,12;13,95;7,11;2026-9625-377;2026;False;;1,0;2,0;64,0;9,0;6,0;43,0
 Philip Henning;2026-10-05;Villena Challenger;Hard;C;L;R16;7-6(4) 7-6(0);Borna Gojo;2,3;1,15;27,16;7,25;2026-7909-377;2026;False;;2,0;1,0;87,0;12,0;22,0;81,0
 Philip Henning;2026-10-05;Villena Challenger;Hard;C;W;R32;7-6(3) 6-1;Maks Kasnikowski;2,99;4,48;6,9;6,7;2026-7909-368;2026;False;;2,0;3,0;67,0;10,0;4,0;58,0
 Philip Henning;2026-10-05;Villena Challenger;Hard;C;W;Q2;7-5 6-0;Ivan Marrero Curbelo;9,43;0,0;0,0;5,89;2026-7909-352;2026;False;;5,0;0,0;53,0;9,0;0,0;62,0
@@ -89235,7 +89259,8 @@ Philip Henning;2024-08-19;Jinan CH;Hard;C;W;R32;6-0 6-4;Hiroki Moriya;9,8;0,0;3,
 Philip Henning;2024-02-02;Davis Cup WG2 PO: VIE vs RSA;Hard;D;L;RR;6-3 6-4;Nam Hoang Ly;3,57;1,79;1,16;6,22;2024-M-DC-2024-WG2-PO-VIE-RSA-01-001;2024;False;;2,0;1,0;56,0;9,0;1,0;86,0
 Philip Henning;2024-02-02;Davis Cup WG2 PO: VIE vs RSA;Hard;D;W;RR;6-2 6-2;Linh Giang Trinh;2,13;0,0;0,0;5,88;2024-M-DC-2024-WG2-PO-VIE-RSA-01-005;2024;False;;1,0;0,0;47,0;8,0;0,0;71,0
 Philip Henning;2021-09-18;Davis Cup WG2 R1: RSA vs VEN;Hard;D;W;RR;6-4 6-4;Ricardo Rodriguez;6,45;4,84;9,68;6,2;2021-M-DC-2021-WG2-M-RSA-VEN-01-002;2021;False;;4,0;3,0;62,0;10,0;6,0;62,0
-Pierre Hugues Herbert;2026-10-12;Roanne Challenger;Hard;C;W;R32;6-3 6-2;Norbert Gombos;12,24;2,04;9,8;5,44;2026-9625-389;2026;False;;6,0;1,0;49,0;9,0;5,0;51,0
+Pierre Hugues Herbert;2026-10-12;Roanne Challenger;Hard;C;L;R16;3-6 6-3 6-4;Hugo Gaston;8,86;5,06;4,6;5,64;2026-9625-392;2026;False;;7,0;4,0;79,0;14,0;4,0;87,0
+Pierre Hugues Herbert;2026-10-12;Roanne Challenger;Hard;C;W;R32;6-3 6-2;Norbert Gombos;12,24;2,04;9,8;5,44;2026-9625-386;2026;False;;6,0;1,0;49,0;9,0;5,0;51,0
 Pierre Hugues Herbert;2026-09-28;Mouilleron le Captif CH;Hard;C;L;R32;6-4 7-5;Sascha Gueymard Wayenburg;8,0;0,0;14,49;6,82;2026-6857-364;2026;False;;6,0;0,0;75,0;11,0;10,0;69,0
 Pierre Hugues Herbert;2026-08-23;Winston-Salem;Hard;A;L;R64;7-6(4) 4-6 6-3;Lorenzo Sonego;0,0;8,7;10,42;6,13;2026-6242-352;2026;False;;0,0;8,0;92,0;15,0;10,0;96,0
 Pierre Hugues Herbert;2026-08-23;Winston-Salem;Hard;A;L;Q2;3-6 7-6(4) 7-5;Quinn Vandecasteele;0,87;13,04;4,76;7,19;2026-6242-335;2026;False;;1,0;15,0;115,0;16,0;5,0;105,0
@@ -89944,8 +89969,8 @@ Pierre Hugues Herbert;2010-10-11;Rennes CH;Hard;C;L;R32;3-6 6-0 6-3;Josselin Oua
 Pierre Hugues Herbert;2010-09-20;Metz;Hard;A;L;Q2;7-6(4) 6-2;Federico Delbonis;8,7;7,25;7,81;6,9;2010-341-712;2010;False;;6,0;5,0;69,0;10,0;5,0;64,0
 Pierre Hugues Herbert;2010-09-20;Metz;Hard;A;W;Q1;6-1 6-3;Marius Zay;20,0;0,0;3,03;5,0;2010-341-703;2010;False;;8,0;0,0;40,0;8,0;2,0;66,0
 Pierre Hugues Herbert;2010-09-06;St. Remy CH;Hard;C;L;R32;3-6 6-4 6-3;Deniss Pavlovs;5,05;5,05;2,6;7,07;2010-6014-011;2010;False;;5,0;5,0;99,0;14,0;2,0;77,0
-Pol Martin Tiffon;2026-10-12;Maia Challenger;Clay;C;L;R16;6-3 6-2;Zsombor Piros;4,35;6,52;1,52;5,75;2026-8312-395;2026;False;;2,0;3,0;46,0;8,0;1,0;66,0
-Pol Martin Tiffon;2026-10-12;Maia Challenger;Clay;C;W;R32;6-4 6-2;Francisco Rocha;8,2;8,2;0,0;6,78;2026-8312-384;2026;False;;5,0;5,0;61,0;9,0;0,0;46,0
+Pol Martin Tiffon;2026-10-12;Maia Challenger;Clay;C;L;R16;6-3 6-2;Zsombor Piros;4,35;6,52;1,52;5,75;2026-8312-389;2026;False;;2,0;3,0;46,0;8,0;1,0;66,0
+Pol Martin Tiffon;2026-10-12;Maia Challenger;Clay;C;W;R32;6-4 6-2;Francisco Rocha;8,2;8,2;0,0;6,78;2026-8312-376;2026;False;;5,0;5,0;61,0;9,0;0,0;46,0
 Pol Martin Tiffon;2026-10-05;Braga Challenger;Clay;C;L;R32;6-3 6-4;Tiago Pereira;1,49;8,96;1,69;6,7;2026-7913-368;2026;False;;1,0;6,0;67,0;10,0;1,0;59,0
 Pol Martin Tiffon;2026-09-28;Bari CH;Clay;C;L;R32;6-7(5) 6-3 7-5;Laurent Lokoli;7,63;6,87;5,08;7,71;2026-3151-358;2026;False;;10,0;9,0;131,0;17,0;6,0;118,0
 Pol Martin Tiffon;2026-09-21;Plovdiv 4 CH;Clay;C;L;QF;5-2 RET;Max Alcala Gurri;0,0;4,35;0,0;5,75;2026-3173-382;2026;False;;0,0;1,0;23,0;4,0;0,0;15,0
@@ -91319,7 +91344,7 @@ Raphael Perot;2025-03-10;M25 Creteil;Hard;25;W;QF;7-5 6-3;Marvin Moeller;1,3;3,9
 Raphael Perot;2025-03-10;M25 Creteil;Hard;25;W;R16;6-4 0-0 RET;Daniil Glinka;3,7;7,41;16,0;5,4;2025-M-ITF-FRA-2025-005-203;2025;False;;1,0;2,0;27,0;5,0;4,0;25,0
 Raphael Perot;2025-03-10;M25 Creteil;Hard;25;W;R32;6-1 6-2;Constantin Bittoun Kouzmine;1,96;0,0;0,0;6,38;2025-M-ITF-FRA-2025-005-106;2025;False;;1,0;0,0;51,0;8,0;0,0;41,0
 Raphael Perot;2025-01-27;M15 Palm Coast FL;Clay;15;L;R32;6-4 6-3;Sebastian Gima;0,0;1,75;5,45;6,33;2025-M-ITF-USA-2025-002-108;2025;False;;0,0;1,0;57,0;9,0;3,0;55,0
-Raul Brancaccio;2026-10-12;Maia Challenger;Clay;C;L;R32;6-3 6-1;Michael Vrbensky;0,0;4,17;4,69;6,0;2026-8312-385;2026;False;;0,0;2,0;48,0;8,0;3,0;64,0
+Raul Brancaccio;2026-10-12;Maia Challenger;Clay;C;L;R32;6-3 6-1;Michael Vrbensky;0,0;4,17;4,69;6,0;2026-8312-377;2026;False;;0,0;2,0;48,0;8,0;3,0;64,0
 Raul Brancaccio;2026-10-05;Villena Challenger;Hard;C;L;R32;7-5 6-4;Moez Echargui;9,52;1,59;10,29;5,73;2026-7909-364;2026;False;;6,0;1,0;63,0;11,0;7,0;68,0
 Raul Brancaccio;2026-09-21;Genoa 2 CH;Clay;C;L;R16;6-4 7-6(1);Mika Petkovic;3,16;3,16;2,6;8,64;2026-3127-374;2026;False;;3,0;3,0;95,0;11,0;2,0;77,0
 Raul Brancaccio;2026-09-21;Genoa 2 CH;Clay;C;W;R32;7-6(4) 6-2;Filippo Romano;0,0;5,97;1,49;6,7;2026-3127-362;2026;False;;0,0;4,0;67,0;10,0;1,0;67,0
@@ -92228,7 +92253,7 @@ Reilly Opelka;2016-04-04;Houston;Clay;A;W;Q1;6-4 6-3;Dennis Novikov;25,37;2,99;1
 Reilly Opelka;2016-03-21;San Luis Potosi CH;Clay;C;L;Q2;6-3 2-6 7-6(2);Robin Stanek;13,79;5,75;3,53;6,21;2016-0213-263;2016;False;;12,0;5,0;87,0;14,0;3,0;85,0
 Reilly Opelka;2016-03-21;San Luis Potosi CH;Clay;C;W;Q1;6-3 7-6(6);Laurynas Grigelis;35,71;1,43;5,36;6,36;2016-0213-252;2016;False;;25,0;1,0;70,0;11,0;3,0;56,0
 Reilly Opelka;2015-07-20;Binghamton CH;Hard;C;L;R32;4-6 6-3 6-4;Sekou Bangoura;5,95;7,14;7,23;5,6;2015-670-007;2015;False;;5,0;6,0;84,0;15,0;6,0;83,0
-Remy Bertola;2026-10-12;Roanne Challenger;Hard;C;L;R32;7-5 7-5;Otto Virtanen;4,23;4,23;25,0;5,92;2026-9625-379;2026;False;;3,0;3,0;71,0;12,0;17,0;68,0
+Remy Bertola;2026-10-12;Roanne Challenger;Hard;C;L;R32;7-5 7-5;Otto Virtanen;4,23;4,23;25,0;5,92;2026-9625-376;2026;False;;3,0;3,0;71,0;12,0;17,0;68,0
 Remy Bertola;2026-09-28;Mouilleron le Captif CH;Hard;C;L;R16;3-6 7-5 6-3;Lucas Poullain;7,32;2,44;3,96;5,47;2026-6857-378;2026;False;;6,0;2,0;82,0;15,0;4,0;101,0
 Remy Bertola;2026-09-28;Mouilleron le Captif CH;Hard;C;W;R32;6-4 6-3;Alexandre Reco;5,66;3,77;8,33;5,89;2026-6857-369;2026;False;;3,0;2,0;53,0;9,0;6,0;72,0
 Remy Bertola;2026-09-21;Saint-Tropez CH;Hard;C;L;R32;7-6(5) 7-6(5);Jesper De Jong;8,33;6,25;7,89;8,0;2026-9552-359;2026;False;;8,0;6,0;96,0;12,0;6,0;76,0
@@ -94870,7 +94895,8 @@ Roberto Carballes Baena;2012-11-12;Marbella CH;Clay;C;W;R32;6-2 6-3;Arnau Brugue
 Roberto Carballes Baena;2012-08-06;Pozoblanco CH;Hard;C;L;R32;6-1 6-2;Thomas Fabbiano;6,38;4,26;4,44;6,71;2012-472-011;2012;False;;3,0;2,0;47,0;7,0;2,0;45,0
 Roberto Carballes Baena;2012-04-23;Barcelona;Clay;A;L;Q1;4-6 7-5 6-0;Eduardo Schwank;0,94;4,72;4,04;7,57;2012-425-710;2012;False;;1,0;5,0;106,0;14,0;4,0;99,0
 Roberto Carballes Baena;2011-09-05;Seville CH;Clay;C;L;R32;6-3 6-2;Ruben Ramirez Hidalgo;3,03;4,55;8,33;8,25;2011-784-005;2011;False;;2,0;3,0;66,0;8,0;4,0;48,0
-Rodrigo Pacheco Mendez;2026-10-12;Santa Cruz de la Sierra 2 Challenger;Clay;C;W;R32;6-3 4-6 6-3;Juan Estevez;8,33;5,95;1,05;6,0;2026-3143-383;2026;False;;7,0;5,0;84,0;14,0;1,0;95,0
+Rodrigo Pacheco Mendez;2026-10-12;Santa Cruz de la Sierra 2 Challenger;Clay;C;L;R16;6-3 7-5;Hugo Dellien;2,99;0,0;3,57;6,09;2026-3143-389;2026;False;;2,0;0,0;67,0;11,0;2,0;56,0
+Rodrigo Pacheco Mendez;2026-10-12;Santa Cruz de la Sierra 2 Challenger;Clay;C;W;R32;6-3 4-6 6-3;Juan Estevez;8,33;5,95;1,05;6,0;2026-3143-374;2026;False;;7,0;5,0;84,0;14,0;1,0;95,0
 Rodrigo Pacheco Mendez;2026-09-14;Phan Thiet 4 CH;Hard;C;L;F;6-7(4) 6-4 6-3;Ilia Simakin;11,58;3,16;12,12;5,94;2026-3139-385;2026;False;;11,0;3,0;95,0;16,0;12,0;99,0
 Rodrigo Pacheco Mendez;2026-09-14;Phan Thiet 4 CH;Hard;C;W;SF;2-6 6-3 6-4;Moise Kouame;8,14;2,33;10,99;6,14;2026-3139-384;2026;False;;7,0;2,0;86,0;14,0;10,0;91,0
 Rodrigo Pacheco Mendez;2026-09-14;Phan Thiet 4 CH;Hard;C;W;QF;6-4 6-4;Philip Sekulic;14,93;1,49;8,47;6,7;2026-3139-381;2026;False;;10,0;1,0;67,0;10,0;5,0;59,0
@@ -96023,8 +96049,8 @@ Sandro Kopp;2022-05-02;Mauthausen CH;Clay;C;W;Q1;6-7(5) 6-1 6-2;Dragos Nicolae M
 Sandro Kopp;2020-09-07;Kitzbuhel;Clay;A;L;Q1;6-4 1-6 6-4;Prajnesh Gunneswaran;6,67;6,67;6,94;5,36;2020-0319-243;2020;False;;5,0;5,0;75,0;14,0;5,0;72,0
 Sandro Kopp;2019-07-29;Kitzbuhel;Clay;A;L;Q2;4-6 6-1 6-2;Hugo Dellien;0,93;5,61;4,23;8,92;2019-0319-254;2019;False;;1,0;6,0;107,0;12,0;3,0;71,0
 Sandro Kopp;2019-07-29;Kitzbuhel;Clay;A;W;Q1;7-6(9) 4-6 7-6(4);Viktor Galovic;2,27;4,55;8,82;7,76;2019-0319-249;2019;False;;3,0;6,0;132,0;17,0;12,0;136,0
-Sascha Gueymard Wayenburg;2026-10-12;Roanne Challenger;Hard;C;W;R16;7-6(10) 6-3;Clement Tabur;12,2;8,54;7,81;7,45;2026-9625-392;2026;False;;10,0;7,0;82,0;11,0;5,0;64,0
-Sascha Gueymard Wayenburg;2026-10-12;Roanne Challenger;Hard;C;W;R32;6-4 6-4;Liam Broady;22,0;0,0;7,35;5,0;2026-9625-384;2026;False;;11,0;0,0;50,0;10,0;5,0;68,0
+Sascha Gueymard Wayenburg;2026-10-12;Roanne Challenger;Hard;C;W;R16;7-6(10) 6-3;Clement Tabur;12,2;8,54;7,81;7,45;2026-9625-391;2026;False;;10,0;7,0;82,0;11,0;5,0;64,0
+Sascha Gueymard Wayenburg;2026-10-12;Roanne Challenger;Hard;C;W;R32;6-4 6-4;Liam Broady;22,0;0,0;7,35;5,0;2026-9625-381;2026;False;;11,0;0,0;50,0;10,0;5,0;68,0
 Sascha Gueymard Wayenburg;2026-09-28;Mouilleron le Captif CH;Hard;C;L;F;6-2 6-0;Clement Chidekh;12,24;4,08;2,78;7,0;2026-6857-385;2026;False;;6,0;2,0;49,0;7,0;1,0;36,0
 Sascha Gueymard Wayenburg;2026-09-28;Mouilleron le Captif CH;Hard;C;W;SF;6-4 6-2;Joel Schwaerzler;27,91;0,0;9,62;4,78;2026-6857-384;2026;False;;12,0;0,0;43,0;9,0;5,0;52,0
 Sascha Gueymard Wayenburg;2026-09-28;Mouilleron le Captif CH;Hard;C;W;QF;2-6 6-3 6-4;Clement Tabur;11,39;5,06;7,59;5,64;2026-6857-381;2026;False;;9,0;4,0;79,0;14,0;6,0;79,0
@@ -97754,7 +97780,8 @@ Sergey Fomin;2017-06-19;Fergana CH;Hard;C;W;R32;6-3 6-1;Andrey Yakovlev;22,45;4,
 Sergey Fomin;2017-05-08;Karshi CH;Hard;C;L;Q1;6-3 6-1;Denys Molchanov;3,7;12,96;21,57;6,75;2017-3967-236;2017;False;;2,0;7,0;54,0;8,0;11,0;51,0
 Sergey Fomin;2016-05-09;Samarkand CH;Clay;C;L;Q1;6-4 6-3;Adrien Bossel;6,06;4,55;18,03;7,33;2016-0447-257;2016;False;;4,0;3,0;66,0;9,0;11,0;61,0
 Sergey Fomin;2016-05-02;Karshi CH;Hard;C;L;Q1;3-6 6-2 6-4;Abror Isakov;2,56;10,26;1,16;6,0;2016-3967-244;2016;False;;2,0;8,0;78,0;13,0;1,0;86,0
-Shintaro Mochizuki;2026-10-12;Jinan Challenger;Hard;C;W;R32;6-2 7-6(6);Facundo Diaz Acosta;5,71;8,57;4,48;7,0;2026-7746-386;2026;False;;4,0;6,0;70,0;10,0;3,0;67,0
+Shintaro Mochizuki;2026-10-12;Jinan Challenger;Hard;C;W;R16;6-3 7-6(5);Dane Sweeny;5,13;6,41;1,43;7,09;2026-7746-387;2026;False;;4,0;5,0;78,0;11,0;1,0;70,0
+Shintaro Mochizuki;2026-10-12;Jinan Challenger;Hard;C;W;R32;6-2 7-6(6);Facundo Diaz Acosta;5,71;8,57;4,48;7,0;2026-7746-377;2026;False;;4,0;6,0;70,0;10,0;3,0;67,0
 Shintaro Mochizuki;2026-10-07;ATP Shanghai;Hard;M;L;Q2;6-2 6-3;Roman Safiullin;3,51;5,26;10,34;7,12;2026-5014-291;2026;False;;2,0;3,0;57,0;8,0;6,0;58,0
 Shintaro Mochizuki;2026-10-07;ATP Shanghai;Hard;M;W;Q1;2-6 6-2 6-2;Taro Daniel;5,75;4,6;4,0;7,25;2026-5014-277;2026;False;;5,0;4,0;87,0;12,0;3,0;75,0
 Shintaro Mochizuki;2026-09-30;Tokyo;Hard;A;L;Q1;6-2 6-4;Jaime Faria;1,69;6,78;20,31;6,56;2026-0329-342;2026;False;;1,0;4,0;59,0;9,0;13,0;64,0
@@ -100856,8 +100883,8 @@ Stefano Napolitano;2013-04-15;Rome CH;Clay;C;L;R32;6-3 7-5;Dominik Meffert;4,92;
 Stefano Napolitano;2012-07-09;San Benedetto CH;Clay;C;L;R32;6-2 6-4;Alessio Di Mauro;1,82;1,82;3,39;6,11;2012-3945-011;2012;False;;1,0;1,0;55,0;9,0;2,0;59,0
 Stefano Napolitano;2012-04-23;Napoli CH;Clay;C;L;R32;1-6 6-2 6-4;Roman Jebavy;8,57;0,0;4,82;5,83;2012-443-006;2012;False;;6,0;0,0;70,0;12,0;4,0;83,0
 Stefano Napolitano;2010-05-10;Biella CH;Clay;C;L;R32;6-0 6-1;Pablo Andujar;6,9;10,34;9,3;4,83;2010-6125-013;2010;False;;2,0;3,0;29,0;6,0;4,0;43,0
-Stefano Travaglia;2026-10-12;Olbia Challenger;Hard;C;W;R16;6-2 7-5;Valentin Royer;21,15;0,0;4,76;5,2;2026-2893-391;2026;False;;11,0;0,0;52,0;10,0;3,0;63,0
-Stefano Travaglia;2026-10-12;Olbia Challenger;Hard;C;W;R32;3-6 7-5 6-3;Viktor Durasovic;12,64;1,15;11,36;5,8;2026-2893-380;2026;False;;11,0;1,0;87,0;15,0;10,0;88,0
+Stefano Travaglia;2026-10-12;Olbia Challenger;Hard;C;W;R16;6-2 7-5;Valentin Royer;21,15;0,0;4,76;5,2;2026-2893-386;2026;False;;11,0;0,0;52,0;10,0;3,0;63,0
+Stefano Travaglia;2026-10-12;Olbia Challenger;Hard;C;W;R32;3-6 7-5 6-3;Viktor Durasovic;12,64;1,15;11,36;5,8;2026-2893-374;2026;False;;11,0;1,0;87,0;15,0;10,0;88,0
 Stefano Travaglia;2026-09-21;Genoa 2 CH;Clay;C;L;R32;6-4 4-6 6-2;Marvin Moeller;6,59;4,4;2,15;6,5;2026-3127-370;2026;False;;6,0;4,0;91,0;14,0;2,0;93,0
 Stefano Travaglia;2026-09-14;Szczecin CH;Clay;C;L;R32;6-3 7-6(3);Thiago Monteiro;9,72;4,17;6,76;7,2;2026-0448-359;2026;False;;7,0;3,0;72,0;10,0;5,0;74,0
 Stefano Travaglia;2026-09-07;Genoa Nuova Valletta CH;Clay;C;L;R16;6-7(3) 6-1 6-4;Enrico Dalla Valle;7,78;2,22;3,03;6,43;2026-1763-375;2026;False;;7,0;2,0;90,0;14,0;3,0;99,0
@@ -101485,7 +101512,7 @@ Stefano Travaglia;2011-03-07;Santiago CH;Clay;C;L;R16;4-6 7-6(6) 6-2;Diego Junqu
 Stefano Travaglia;2011-03-07;Santiago CH;Clay;C;W;R32;6-3 6-1;Julio Silva;16,28;2,33;0,0;5,38;2011-3406-014;2011;False;;7,0;1,0;43,0;8,0;0,0;42,0
 Stefano Travaglia;2011-02-28;Salinas CH;Clay;C;L;R16;7-6(3) 6-1;Federico Delbonis;4,11;2,74;2,6;8,11;2011-59-018;2011;False;;3,0;2,0;73,0;9,0;2,0;77,0
 Stefano Travaglia;2011-02-28;Salinas CH;Clay;C;W;R32;6-0 6-0;Arturo Altamirano;26,67;6,67;0,0;5,0;2011-59-003;2011;False;;8,0;2,0;30,0;6,0;0,0;37,0
-Stefanos Sakellaridis;2026-10-12;Jinan Challenger;Hard;C;L;R32;7-6(5) 3-6 6-3;Keegan Smith;6,93;0,99;6,67;6,73;2026-7746-380;2026;False;;7,0;1,0;101,0;15,0;6,0;90,0
+Stefanos Sakellaridis;2026-10-12;Jinan Challenger;Hard;C;L;R32;7-6(5) 3-6 6-3;Keegan Smith;6,93;0,99;6,67;6,73;2026-7746-371;2026;False;;7,0;1,0;101,0;15,0;6,0;90,0
 Stefanos Sakellaridis;2026-10-07;ATP Shanghai;Hard;M;L;Q1;6-3 6-2;Timofey Skatov;7,35;4,41;1,75;8,5;2026-5014-265;2026;False;;5,0;3,0;68,0;8,0;1,0;57,0
 Stefanos Sakellaridis;2026-09-29;Jingshan Challenger;Hard;C;L;R32;7-6(11) 6-2;Yuta Shimizu;17,91;5,97;7,58;6,7;2026-3013-383;2026;False;;12,0;4,0;67,0;10,0;5,0;66,0
 Stefanos Sakellaridis;2026-09-07;Genoa Nuova Valletta CH;Clay;C;L;QF;6-1 5-7 7-5;Laslo Djere;2,65;3,54;6,82;7,53;2026-1763-380;2026;False;;3,0;4,0;113,0;15,0;6,0;88,0
@@ -102343,8 +102370,8 @@ Stefanos Tsitsipas;2015-10-05;Mohammedia CH;Clay;C;L;R16;3-6 7-6(9) 7-6(6);Ruben
 Stefanos Tsitsipas;2015-10-05;Mohammedia CH;Clay;C;W;R32;6-0 6-1;Taha Tifnouti;8,11;10,81;0,0;5,29;2015-7025-011;2015;True;;3,0;4,0;37,0;7,0;0,0;38,0
 Stefanos Tsitsipas;2015-09-28;Rome CH;Clay;C;L;R32;6-4 6-4;Giulio Di Meo;1,67;5,0;3,33;6,0;2015-5057-002;2015;True;;1,0;3,0;60,0;10,0;2,0;60,0
 Stefanos Tsitsipas;2015-02-02;Burnie CH;Hard;C;L;R32;6-2 6-2;Benjamin Mitchell;1,96;7,84;4,55;6,38;2015-5018-002;2015;True;;1,0;4,0;51,0;8,0;2,0;44,0
-Sumit Nagal;2026-10-12;Maia Challenger;Clay;C;L;R16;6-4 6-2;Luka Mikrut;0,0;0,0;3,64;5,33;2026-8312-394;2026;False;;0,0;0,0;48,0;9,0;2,0;55,0
-Sumit Nagal;2026-10-12;Maia Challenger;Clay;C;W;R32;3-6 7-5 7-6(5);Henrique Rocha;2,86;1,9;2,94;6,56;2026-8312-379;2026;False;;3,0;2,0;105,0;16,0;3,0;102,0
+Sumit Nagal;2026-10-12;Maia Challenger;Clay;C;L;R16;6-4 6-2;Luka Mikrut;0,0;0,0;3,64;5,33;2026-8312-387;2026;False;;0,0;0,0;48,0;9,0;2,0;55,0
+Sumit Nagal;2026-10-12;Maia Challenger;Clay;C;W;R32;3-6 7-5 7-6(5);Henrique Rocha;2,86;1,9;2,94;6,56;2026-8312-371;2026;False;;3,0;2,0;105,0;16,0;3,0;102,0
 Sumit Nagal;2026-10-05;Braga Challenger;Clay;C;L;R32;6-2 6-4;Luka Mikrut;0,0;5,88;0,0;5,67;2026-7913-363;2026;False;;0,0;3,0;51,0;9,0;0,0;49,0
 Sumit Nagal;2026-08-31;US Open;Hard;G;L;Q1;6-3 7-6(4);Arthur Gea;1,54;3,08;7,32;6,5;2026-560-701;2026;False;;1,0;2,0;65,0;10,0;6,0;82,0
 Sumit Nagal;2026-08-17;Prague CH;Clay;C;L;R16;7-5 6-3;Jan Kumstat;1,61;4,84;8,45;5,64;2026-0600-373;2026;False;;1,0;3,0;62,0;11,0;6,0;71,0
@@ -105513,7 +105540,7 @@ Thiago Agustin Tirante;2019-09-23;Buenos Aires CH;Clay;C;L;R32;6-1 6-2;Thiago Mo
 Thiago Agustin Tirante;2019-09-23;Buenos Aires CH;Clay;C;W;R64;6-4 7-5;Rafael Matos;0,0;4,69;1,61;5,82;2019-7395-247;2019;True;;0,0;3,0;64,0;11,0;1,0;62,0
 Thiago Agustin Tirante;2017-10-09;Buenos Aires CH;Clay;C;L;Q1;7-6(10) 6-3;Juan Bautista Otegui;1,27;5,06;1,32;7,9;2017-7395-240;2017;True;;1,0;4,0;79,0;10,0;1,0;76,0
 Thiago Agustin Tirante;2017-03-13;Tigre CH;Hard;C;L;Q1;6-2 6-4;Christian Lindell;0,0;11,29;8,0;6,89;2017-7440-242;2017;True;;0,0;7,0;62,0;9,0;4,0;50,0
-Thiago Monteiro;2026-10-12;Maia Challenger;Clay;C;L;R32;4-6 6-1 6-4;Marco Trungelliti;4,08;1,02;8,14;7,54;2026-8312-393;2026;False;;4,0;1,0;98,0;13,0;7,0;86,0
+Thiago Monteiro;2026-10-12;Maia Challenger;Clay;C;L;R32;4-6 6-1 6-4;Marco Trungelliti;4,08;1,02;8,14;7,54;2026-8312-386;2026;False;;4,0;1,0;98,0;13,0;7,0;86,0
 Thiago Monteiro;2026-10-05;Braga Challenger;Clay;C;L;R32;7-6(0) 5-7 6-4;Elmer Moller;3,57;6,43;3,85;8,24;2026-7913-369;2026;False;;5,0;9,0;140,0;17,0;4,0;104,0
 Thiago Monteiro;2026-09-21;Genoa 2 CH;Clay;C;L;R32;4-6 6-4 6-1;Mika Petkovic;4,76;2,38;5,95;6,46;2026-3127-361;2026;False;;4,0;2,0;84,0;13,0;5,0;84,0
 Thiago Monteiro;2026-09-14;Szczecin CH;Clay;C;L;F;4-6 6-3 7-6(6);Nikolas Sanchez Izquierdo;4,04;0,0;9,17;6,6;2026-0448-385;2026;False;;4,0;0,0;99,0;15,0;10,0;109,0
@@ -106285,7 +106312,7 @@ Thiago Monteiro;2011-09-12;Belo Horizonte CH;Clay;C;L;R32;6-2 6-3;Brian Dabul;1,
 Thiago Monteiro;2011-08-01;Campos Do Jordao CH;Hard;C;L;R32;6-4 6-3;Horacio Zeballos;1,75;1,75;7,84;5,7;2011-849-016;2011;False;;1,0;1,0;57,0;10,0;4,0;51,0
 Thiago Monteiro;2011-04-11;Blumenau CH;Clay;C;L;R32;6-4 6-1;Javier Marti;3,51;8,77;1,96;7,12;2011-3407-015;2011;False;;2,0;5,0;57,0;8,0;1,0;51,0
 Thiago Monteiro;2011-02-07;Costa Do Sauipe;Clay;A;L;Q1;6-3 6-1;Juan Pablo Brzezicki;2,22;4,44;8,89;5,62;2011-533-705;2011;False;;1,0;2,0;45,0;8,0;4,0;45,0
-Thiago Seyboth Wild;2026-10-12;Santa Cruz de la Sierra 2 Challenger;Clay;C;W;R32;6-3 7-6(3);Mateus Alves;19,44;8,33;7,14;6,55;2026-3143-393;2026;False;;14,0;6,0;72,0;11,0;5,0;70,0
+Thiago Seyboth Wild;2026-10-12;Santa Cruz de la Sierra 2 Challenger;Clay;C;W;R32;6-3 7-6(3);Mateus Alves;19,44;8,33;7,14;6,55;2026-3143-384;2026;False;;14,0;6,0;72,0;11,0;5,0;70,0
 Thiago Seyboth Wild;2026-10-05;Antofagasta Challenger;Clay;C;L;F;7-6(2) 1-6 6-2;Joao Lucas Reis Da Silva;15,29;8,24;3,66;6,54;2026-2889-385;2026;False;;13,0;7,0;85,0;13,0;3,0;82,0
 Thiago Seyboth Wild;2026-10-05;Antofagasta Challenger;Clay;C;W;SF;6-4 6-1;Lautaro Midon;3,7;1,85;0,0;6,0;2026-2889-384;2026;False;;2,0;1,0;54,0;9,0;0,0;49,0
 Thiago Seyboth Wild;2026-10-05;Antofagasta Challenger;Clay;C;W;QF;6-1 6-4;Felipe Meligeni Alves;6,25;4,17;4,0;5,33;2026-2889-381;2026;False;;3,0;2,0;48,0;9,0;2,0;50,0
@@ -107485,7 +107512,8 @@ Toby Samuel;2023-06-19;Ilkley CH;Grass;C;L;R32;2-6 7-6(6) 7-5;Alex Bolt;5,98;4,2
 Toby Samuel;2023-06-12;Nottingham CH;Grass;C;L;Q1;6-4 7-6(3);Arthur Cazaux;4,62;6,15;8,33;5,91;2023-7740-246;2023;True;;3,0;4,0;65,0;11,0;6,0;72,0
 Toby Samuel;2023-06-05;Surbiton CH;Grass;C;L;Q1;7-5 6-0;Zachary Svajda;10,42;4,17;2,22;5,33;2023-7297-241;2023;True;;5,0;2,0;48,0;9,0;1,0;45,0
 Toby Samuel;2022-05-30;Surbiton CH;Grass;C;L;Q1;6-4 7-5;Max Purcell;7,89;1,32;4,76;6,91;2022-7297-248;2022;True;;6,0;1,0;76,0;11,0;3,0;63,0
-Tom Gentzsch;2026-10-12;Olbia Challenger;Hard;C;W;R32;4-6 6-3 6-4;Niels Visker;8,6;1,08;12,33;6,2;2026-2893-378;2026;False;;8,0;1,0;93,0;15,0;9,0;73,0
+Tom Gentzsch;2026-10-12;Olbia Challenger;Hard;C;W;R16;6-3 3-6 6-4;Georgii Kravchenko;14,1;3,85;4,26;5,57;2026-2893-385;2026;False;;11,0;3,0;78,0;14,0;4,0;94,0
+Tom Gentzsch;2026-10-12;Olbia Challenger;Hard;C;W;R32;4-6 6-3 6-4;Niels Visker;8,6;1,08;12,33;6,2;2026-2893-372;2026;False;;8,0;1,0;93,0;15,0;9,0;73,0
 Tom Gentzsch;2026-09-21;Genoa 2 CH;Clay;C;L;R16;6-3 5-7 7-5;Carlo Alberto Caniato;12,75;1,96;7,62;6,38;2026-3127-371;2026;False;;13,0;2,0;102,0;16,0;8,0;105,0
 Tom Gentzsch;2026-09-21;Genoa 2 CH;Clay;C;W;R32;6-4 7-6(5);Enrico Dalla Valle;8,64;4,94;3,23;7,36;2026-3127-355;2026;False;;7,0;4,0;81,0;11,0;2,0;62,0
 Tom Gentzsch;2026-09-14;Szczecin CH;Clay;C;L;QF;6-3 4-6 6-3;Luka Mikrut;3,66;4,88;5,81;5,86;2026-0448-381;2026;False;;3,0;4,0;82,0;14,0;5,0;86,0
@@ -108162,7 +108190,8 @@ Tomas Barrios Vera;2016-07-04;Cali CH;Clay;C;W;Q1;6-2 6-1;Mateo Andres Ruiz Nara
 Tomas Barrios Vera;2016-04-18;Savannah CH;Clay;C;L;Q2;7-5 7-5;Nicolas Jarry;2,0;1,0;8,05;8,33;2016-5067-262;2016;False;;2,0;1,0;100,0;12,0;7,0;87,0
 Tomas Barrios Vera;2016-03-07;Santiago CH;Clay;C;L;R32;6-2 6-4;Facundo Bagnis;0,0;0,0;3,17;5,56;2016-3406-285;2016;False;;0,0;0,0;50,0;9,0;2,0;63,0
 Tomas Barrios Vera;2015-10-19;Santiago CH;Clay;C;L;R32;6-7(5) 6-4 6-1;Gastao Elias;2,22;2,22;8,33;6,43;2015-7347-013;2015;False;;2,0;2,0;90,0;14,0;8,0;96,0
-Tomas Machac;2026-10-12;Jinan Challenger;Hard;C;W;R32;6-3 6-4;Alexandre Muller;7,69;0,0;2,99;5,78;2026-7746-378;2026;True;;4,0;0,0;52,0;9,0;2,0;67,0
+Tomas Machac;2026-10-12;Jinan Challenger;Hard;C;W;R16;6-2 6-1;Aleksandar Vukic;10,87;0,0;4,26;5,75;2026-7746-383;2026;True;;5,0;0,0;46,0;8,0;2,0;47,0
+Tomas Machac;2026-10-12;Jinan Challenger;Hard;C;W;R32;6-3 6-4;Alexandre Muller;7,69;0,0;2,99;5,78;2026-7746-369;2026;True;;4,0;0,0;52,0;9,0;2,0;67,0
 Tomas Machac;2026-10-07;ATP Shanghai;Hard;M;L;R64;6-4 7-6(4);Alexander Bublik;4,82;2,41;28,12;7,55;2026-5014-354;2026;True;;4,0;2,0;83,0;11,0;18,0;64,0
 Tomas Machac;2026-10-07;ATP Shanghai;Hard;M;W;R128;1-6 7-6(3) 6-2;Zhizhen Zhang;5,56;1,11;9,52;6,92;2026-5014-322;2026;True;;5,0;1,0;90,0;13,0;10,0;105,0
 Tomas Machac;2026-09-30;Beijing;Hard;A;L;R32;6-3 6-2;Alex Molcan;4,35;4,35;11,36;5,75;2026-0747-356;2026;True;;2,0;2,0;46,0;8,0;5,0;44,0
@@ -109589,7 +109618,7 @@ Tommy Paul;2015-04-27;Tallahassee CH;Clay;C;L;R16;0-6 6-3 6-2;Facundo Arguello;1
 Tommy Paul;2015-04-27;Tallahassee CH;Clay;C;W;R32;2-6 6-3 6-0;Giovanni Lapentti;12,5;1,79;5,75;5,09;2015-692-014;2015;True;;7,0;1,0;56,0;11,0;5,0;87,0
 Tommy Paul;2015-04-20;Savannah CH;Clay;C;L;R16;6-2 6-1;Bjorn Fratangelo;0,0;3,64;0,0;7,86;2015-5067-024;2015;True;;0,0;2,0;55,0;7,0;0,0;42,0
 Tommy Paul;2015-04-20;Savannah CH;Clay;C;W;R32;7-6(6) 6-7(5) 6-3;Ruben Bemelmans;5,31;1,77;4,39;6,65;2015-5067-016;2015;True;;6,0;2,0;113,0;17,0;5,0;114,0
-Tristan Boyer;2026-10-12;Maia Challenger;Clay;C;W;R32;6-4 6-2;Alejandro Moro Canas;6,9;1,72;1,59;6,44;2026-8312-388;2026;False;;4,0;1,0;58,0;9,0;1,0;63,0
+Tristan Boyer;2026-10-12;Maia Challenger;Clay;C;W;R32;6-4 6-2;Alejandro Moro Canas;6,9;1,72;1,59;6,44;2026-8312-380;2026;False;;4,0;1,0;58,0;9,0;1,0;63,0
 Tristan Boyer;2026-10-05;Braga Challenger;Clay;C;L;R32;6-2 5-7 6-4;Zsombor Piros;4,04;4,04;0,0;6,6;2026-7913-370;2026;False;;4,0;4,0;99,0;15,0;0,0;98,0
 Tristan Boyer;2026-09-21;San Diego 2 CH;Hard;C;L;QF;2-6 7-5 7-5;Timo Legout;1,98;4,95;0,0;6,31;2026-3175-380;2026;False;;2,0;5,0;101,0;16,0;0,0;108,0
 Tristan Boyer;2026-09-21;San Diego 2 CH;Hard;C;W;R16;6-4 7-6(7);Sebastian Gorzny;4,29;0,0;7,95;6,36;2026-3175-374;2026;False;;3,0;0,0;70,0;11,0;7,0;88,0
@@ -109801,7 +109830,7 @@ Tristan Boyer;2022-04-25;Buenos Aires CH;Clay;C;L;Q1;5-7 6-1 6-4;Daniel Cukierma
 Tristan Boyer;2021-11-15;Champaign CH;Hard;C;L;Q2;7-6(4) 6-3;Keegan Smith;5,63;8,45;11,27;7,1;2021-0637-252;2021;False;;4,0;6,0;71,0;10,0;8,0;71,0
 Tristan Boyer;2021-11-15;Champaign CH;Hard;C;W;Q1;7-6(1) 7-6(3);Felix Corwin;3,92;4,9;9,88;8,5;2021-0637-245;2021;False;;4,0;5,0;102,0;12,0;8,0;81,0
 Tristan Boyer;2018-03-05;Indian Wells Masters;Hard;M;L;Q1;6-1 7-6(3);Ruben Bemelmans;0,0;2,6;4,0;7,7;2018-M006-108;2018;False;;0,0;2,0;77,0;10,0;2,0;50,0
-Tristan Schoolkate;2026-10-12;Jinan Challenger;Hard;C;L;R32;7-5 6-4;Luka Pavlovic;4,35;0,0;14,29;6,27;2026-7746-388;2026;False;;3,0;0,0;69,0;11,0;9,0;63,0
+Tristan Schoolkate;2026-10-12;Jinan Challenger;Hard;C;L;R32;7-5 6-4;Luka Pavlovic;4,35;0,0;14,29;6,27;2026-7746-379;2026;False;;3,0;0,0;69,0;11,0;9,0;63,0
 Tristan Schoolkate;2026-10-07;ATP Shanghai;Hard;M;L;Q1;3-6 6-3 6-2;Dane Sweeny;12,33;2,74;7,41;5,62;2026-5014-258;2026;False;;9,0;2,0;73,0;13,0;6,0;81,0
 Tristan Schoolkate;2026-09-28;Mouilleron le Captif CH;Hard;C;L;R16;6-4 2-6 6-4;Harold Mayot;7,5;1,25;13,51;5,71;2026-6857-373;2026;False;;6,0;1,0;80,0;14,0;10,0;74,0
 Tristan Schoolkate;2026-09-28;Mouilleron le Captif CH;Hard;C;W;R32;6-3 6-4;Philip Henning;21,57;1,96;4,48;5,1;2026-6857-359;2026;False;;11,0;1,0;51,0;10,0;3,0;67,0
@@ -110800,8 +110829,8 @@ Ugo Humbert;2017-05-08;Aix En Provence CH;Clay;C;L;Q1;4-6 6-3 7-5;Antoine Hoang;
 Ugo Humbert;2017-01-30;Quimper CH;Hard;C;L;Q1;6-2 6-4;Yannick Mertens;7,02;3,51;3,92;6,33;2017-6239-242;2017;True;;4,0;2,0;57,0;9,0;2,0;51,0
 Ugo Humbert;2016-11-07;Mouilleron-Le-Captif CH;Hard;C;L;Q1;6-0 6-3;Joffrey De Schepper;4,35;6,52;3,57;6,57;2016-6857-229;2016;True;;2,0;3,0;46,0;7,0;2,0;56,0
 Ugo Humbert;2016-02-22;Cherbourg CH;Hard;C;L;Q1;6-2 6-1;Jeremy Jahn;4,84;9,68;8,33;7,75;2016-0398-251;2016;True;;3,0;6,0;62,0;8,0;4,0;48,0
-Valentin Royer;2026-10-12;Olbia Challenger;Hard;C;L;R16;6-2 7-5;Stefano Travaglia;4,76;3,17;21,15;6,3;2026-2893-391;2026;False;;3,0;2,0;63,0;10,0;11,0;52,0
-Valentin Royer;2026-10-12;Olbia Challenger;Hard;C;W;R32;7-6(2) 6-0;Mathys Erhard;50,0;0,0;0,0;4,0;2026-2893-379;2026;False;;2,0;0,0;4,0;1,0;0,0;4,0
+Valentin Royer;2026-10-12;Olbia Challenger;Hard;C;L;R16;6-2 7-5;Stefano Travaglia;4,76;3,17;21,15;6,3;2026-2893-386;2026;False;;3,0;2,0;63,0;10,0;11,0;52,0
+Valentin Royer;2026-10-12;Olbia Challenger;Hard;C;W;R32;7-6(2) 6-0;Mathys Erhard;50,0;0,0;0,0;4,0;2026-2893-373;2026;False;;2,0;0,0;4,0;1,0;0,0;4,0
 Valentin Royer;2026-10-07;ATP Shanghai;Hard;M;L;R128;6-3 6-1;Adolfo Daniel Vallejo;6,52;2,17;17,39;5,75;2026-5014-296;2026;False;;3,0;1,0;46,0;8,0;8,0;46,0
 Valentin Royer;2026-09-30;Beijing;Hard;A;L;Q1;4-6 6-2 6-4;Botic Van De Zandschulp;3,7;3,7;1,18;5,79;2026-0747-347;2026;False;;3,0;3,0;81,0;14,0;1,0;85,0
 Valentin Royer;2026-09-23;Hangzhou;Hard;A;L;R16;7-6(6) 6-3;Daniil Medvedev;3,95;1,32;22,22;7,6;2026-4713-378;2026;False;;3,0;1,0;76,0;10,0;16,0;72,0
@@ -111282,7 +111311,7 @@ Valentin Vacherot;2022-04-04;Sanremo CH;Clay;C;W;Q1;6-3 6-7(3) 6-1;Lucas Catarin
 Valentin Vacherot;2021-12-06;Forli 3 CH;Hard;C;L;R32;7-5 6-4;Keegan Smith;10,29;0,0;15,09;6,18;2021-9647-280;2021;True;;7,0;0,0;68,0;11,0;8,0;53,0
 Valentin Vacherot;2021-11-29;Forli 2 CH;Hard;C;L;Q2;3-6 6-3 6-3;Jelle Sels;14,29;0,0;8,2;5,0;2021-9637-251;2021;True;;10,0;0,0;70,0;14,0;5,0;61,0
 Valentin Vacherot;2021-11-29;Forli 2 CH;Hard;C;W;Q1;6-3 6-2;Alexander Erler;18,75;2,08;8,89;5,33;2021-9637-244;2021;True;;9,0;1,0;48,0;9,0;4,0;45,0
-Vilius Gaubas;2026-10-12;Maia Challenger;Clay;C;W;R32;6-3 6-4;Kimmer Coppejans;7,25;1,45;1,72;6,9;2026-8312-387;2026;False;;5,0;1,0;69,0;10,0;1,0;58,0
+Vilius Gaubas;2026-10-12;Maia Challenger;Clay;C;W;R32;6-3 6-4;Kimmer Coppejans;7,25;1,45;1,72;6,9;2026-8312-379;2026;False;;5,0;1,0;69,0;10,0;1,0;58,0
 Vilius Gaubas;2026-10-05;Braga Challenger;Clay;C;L;SF;6-2 4-6 6-4;Elmer Moller;0,97;1,94;0,0;7,36;2026-7913-384;2026;False;;1,0;2,0;103,0;14,0;0,0;92,0
 Vilius Gaubas;2026-10-05;Braga Challenger;Clay;C;W;QF;6-2 6-4;Luka Mikrut;4,0;2,0;4,69;5,56;2026-7913-381;2026;False;;2,0;1,0;50,0;9,0;3,0;64,0
 Vilius Gaubas;2026-10-05;Braga Challenger;Clay;C;W;R16;5-7 7-6(4) 6-2;Duje Ajdukovic;5,0;1,0;3,09;6,25;2026-7913-376;2026;False;;5,0;1,0;100,0;16,0;3,0;97,0
@@ -111472,8 +111501,8 @@ Vilius Gaubas;2023-03-06;Antalya CH;Clay;C;L;R32;7-5 6-3;Steven Diez;1,47;0,0;0,
 Vilius Gaubas;2023-02-06;Vilnius CH;Hard;C;L;R32;4-6 7-6(5) 6-4;Elias Ymer;0,0;2,73;1,94;6,88;2023-2845-270;2023;False;;0,0;3,0;110,0;16,0;2,0;103,0
 Vilius Gaubas;2022-10-17;Vilnius CH;Hard;C;L;R32;6-1 6-3;Antoine Escoffier;0,0;2,17;8,77;5,75;2022-2815-282;2022;False;;0,0;1,0;46,0;8,0;5,0;57,0
 Vilius Gaubas;2021-09-18;Davis Cup WG2 R1: LTU vs GRE;Hard;D;L;RR;6-4 6-4;Alexandros Skorilas;2,7;6,76;4,55;7,4;2021-M-DC-2021-WG2-M-LTU-GRE-01-004;2021;False;;2,0;5,0;74,0;10,0;3,0;66,0
-Vit Kopriva;2026-10-12;Jinan Challenger;Hard;C;L;R16;6-3 3-6 6-3;Keegan Smith;4,11;1,37;9,52;5,62;2026-7746-391;2026;True;;3,0;1,0;73,0;13,0;8,0;84,0
-Vit Kopriva;2026-10-12;Jinan Challenger;Hard;C;W;R32;6-1 4-1 RET;Pavel Kotov;12,9;0,0;0,0;5,17;2026-7746-379;2026;True;;4,0;0,0;31,0;6,0;0,0;32,0
+Vit Kopriva;2026-10-12;Jinan Challenger;Hard;C;L;R16;6-3 3-6 6-3;Keegan Smith;4,11;1,37;9,52;5,62;2026-7746-384;2026;True;;3,0;1,0;73,0;13,0;8,0;84,0
+Vit Kopriva;2026-10-12;Jinan Challenger;Hard;C;W;R32;6-1 4-1 RET;Pavel Kotov;12,9;0,0;0,0;5,17;2026-7746-370;2026;True;;4,0;0,0;31,0;6,0;0,0;32,0
 Vit Kopriva;2026-10-07;ATP Shanghai;Hard;M;L;R128;6-3 6-1;Zizou Bergs;3,12;4,69;16,28;8,0;2026-5014-294;2026;True;;2,0;3,0;64,0;8,0;7,0;43,0
 Vit Kopriva;2026-09-30;Beijing;Hard;A;L;Q1;7-6(3) 2-6 7-6(8);Alex Molcan;9,65;5,26;3,77;7,12;2026-0747-340;2026;True;;11,0;6,0;114,0;16,0;4,0;106,0
 Vit Kopriva;2026-09-23;Chengdu;Hard;A;L;R16;6-2 6-3;Denis Shapovalov;0,0;0,0;9,3;5,88;2026-7581-375;2026;True;;0,0;0,0;47,0;8,0;4,0;43,0
@@ -114513,8 +114542,8 @@ Zachary Svajda;2019-11-04;Knoxville CH;Hard;C;L;R64;4-6 7-6(4) 6-3;Alexander Rit
 Zachary Svajda;2019-10-07;Fairfield CH;Hard;C;L;R32;6-1 3-6 6-4;Denis Kudla;1,12;4,49;7,69;6,85;2019-7339-270;2019;True;;1,0;4,0;89,0;13,0;6,0;78,0
 Zachary Svajda;2019-10-07;Fairfield CH;Hard;C;W;R64;7-6(5) 6-2;Michael Redlicki;3,17;6,35;3,57;6,3;2019-7339-239;2019;True;;2,0;4,0;63,0;10,0;3,0;84,0
 Zachary Svajda;2019-08-26;US Open;Hard;G;L;R128;3-6 6-7(5) 6-4 7-6(4) 6-2;Paolo Lorenzi;1,09;1,64;3,66;7,04;2019-560-107;2019;True;;2,0;3,0;183,0;26,0;6,0;164,0
-Zdenek Kolar;2026-10-12;San Gregorio di Catania Challenger;Clay;C;W;R16;6-4 6-2;Filip Cristian Jianu;1,79;8,93;2,13;6,22;2026-3155-390;2026;False;;1,0;5,0;56,0;9,0;1,0;47,0
-Zdenek Kolar;2026-10-12;San Gregorio di Catania Challenger;Clay;C;W;R32;7-6(5) 2-6 7-6(5);Francesco Forti;1,63;7,32;5,13;7,69;2026-3155-374;2026;False;;2,0;9,0;123,0;16,0;6,0;117,0
+Zdenek Kolar;2026-10-12;San Gregorio di Catania Challenger;Clay;C;W;R16;6-4 6-2;Filip Cristian Jianu;1,79;8,93;2,13;6,22;2026-3155-389;2026;False;;1,0;5,0;56,0;9,0;1,0;47,0
+Zdenek Kolar;2026-10-12;San Gregorio di Catania Challenger;Clay;C;W;R32;7-6(5) 2-6 7-6(5);Francesco Forti;1,63;7,32;5,13;7,69;2026-3155-373;2026;False;;2,0;9,0;123,0;16,0;6,0;117,0
 Zdenek Kolar;2026-10-05;Palermo Challenger;Clay;C;L;R16;6-1 6-1;Michele Ribecai;2,13;8,51;0,0;6,71;2026-3153-378;2026;False;;1,0;4,0;47,0;7,0;0,0;48,0
 Zdenek Kolar;2026-10-05;Palermo Challenger;Clay;C;W;R32;6-4 6-4;Dimitris Sakellaridis;1,89;7,55;4,48;5,3;2026-3153-370;2026;False;;1,0;4,0;53,0;10,0;3,0;67,0
 Zdenek Kolar;2026-09-14;Szczecin CH;Clay;C;L;QF;6-1 6-3;Nikolas Sanchez Izquierdo;0,0;13,33;1,79;5,62;2026-0448-382;2026;False;;0,0;6,0;45,0;8,0;1,0;56,0
@@ -115918,8 +115947,8 @@ Zizou Bergs;2017-10-16;Antwerp;Hard;A;L;Q1;6-0 6-3;Stefanos Tsitsipas;0,0;3,77;8
 Zizou Bergs;2016-10-17;Antwerp;Hard;A;L;Q1;4-6 6-1 7-6(4);Pierre Hugues Herbert;6,74;3,37;13,25;6,36;2016-7485-250;2016;True;;6,0;3,0;89,0;14,0;11,0;83,0
 Zizou Bergs;2016-10-03;Mons CH;Hard;C;L;Q2;6-0 6-2;Michal Przysiezny;6,38;8,51;21,62;6,71;2016-3350-247;2016;True;;3,0;4,0;47,0;7,0;8,0;37,0
 Zizou Bergs;2016-10-03;Mons CH;Hard;C;W;Q1;6-4 7-5;Tristan Samuel Weissborn;6,82;5,68;4,55;8,0;2016-3350-236;2016;True;;6,0;5,0;88,0;11,0;3,0;66,0
-Zsombor Piros;2026-10-12;Maia Challenger;Clay;C;W;R16;6-3 6-2;Pol Martin Tiffon;1,52;0,0;4,35;7,33;2026-8312-395;2026;False;;1,0;0,0;66,0;9,0;2,0;46,0
-Zsombor Piros;2026-10-12;Maia Challenger;Clay;C;W;R32;6-3 6-2;Benjamin Hassan;6,45;0,0;1,72;6,89;2026-8312-383;2026;False;;4,0;0,0;62,0;9,0;1,0;58,0
+Zsombor Piros;2026-10-12;Maia Challenger;Clay;C;W;R16;6-3 6-2;Pol Martin Tiffon;1,52;0,0;4,35;7,33;2026-8312-389;2026;False;;1,0;0,0;66,0;9,0;2,0;46,0
+Zsombor Piros;2026-10-12;Maia Challenger;Clay;C;W;R32;6-3 6-2;Benjamin Hassan;6,45;0,0;1,72;6,89;2026-8312-375;2026;False;;4,0;0,0;62,0;9,0;1,0;58,0
 Zsombor Piros;2026-10-05;Braga Challenger;Clay;C;L;R16;1-6 6-1 7-5;Elmer Moller;2,17;5,43;3,8;7,08;2026-7913-378;2026;False;;2,0;5,0;92,0;13,0;3,0;79,0
 Zsombor Piros;2026-10-05;Braga Challenger;Clay;C;W;R32;6-2 5-7 6-4;Tristan Boyer;0,0;5,1;4,04;6,53;2026-7913-370;2026;False;;0,0;5,0;98,0;15,0;4,0;99,0
 Zsombor Piros;2026-09-28;Bari CH;Clay;C;L;R16;6-4 6-2;Enrico Dalla Valle;0,0;1,72;8,51;6,44;2026-3151-378;2026;False;;0,0;1,0;58,0;9,0;4,0;47,0
